@@ -20,6 +20,29 @@ evidence it was given.
 - 105 drug-treatment edges, 241 non-pharmacological treatment edges
 - 191,252 drug-drug interaction edges, 3,543 symptom co-occurrence edges
 
+## Data sources & licenses
+
+| Source | Used for | License | Notes |
+|---|---|---|---|
+| [MedQuAD](https://github.com/abachaa/MedQuAD) | QA retrieval corpus | CC BY 4.0 | Cite Abacha & Demner-Fushman, 2019 |
+| [MedlinePlus](https://medlineplus.gov/) (NLM) | Disease/symptom/treatment/drug extracts | Mostly public domain (US govt work); some pages embed licensed third-party content (A.D.A.M. Encyclopedia, ASHP monographs) | See [Using MedlinePlus Content](https://medlineplus.gov/about/using/usingcontent/) |
+| [Kaggle disease-symptom dataset](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset) | Disease-symptom graph seed | Not explicitly stated by uploader | Verify on the Kaggle dataset page before commercial use |
+| [SIDER](http://sideeffects.embl.de/) | Drug-side-effect associations | CC BY-NC-SA 4.0 | Non-commercial, share-alike, attribution required |
+| PubMed / NCBI | Citation enrichment | Public domain | Subject to NCBI E-utilities rate-limit terms |
+
+**Not committed — license restricts redistribution, not just commercial use:**
+- `data/raw/drugs/db_drug_interactions.csv` (DrugBank-derived, CC BY-NC 4.0 — DrugBank's terms forbid redistribution without written consent)
+- `data/raw/drugs/meddra_all_indications.tsv` (contains MedDRA terminology, proprietary to ICH/MSSO — sharing with non-subscribers violates the MedDRA license even though SIDER publishes the file)
+
+Both are gitignored, with no fetch script (neither source offers a stable
+programmatic download). To rebuild the edges that depend on them locally:
+- `data/raw/drugs/db_drug_interactions.csv` — obtain a DrugBank drug-interaction
+  export yourself (subject to DrugBank's non-commercial license), place it at
+  that path, then run `scripts/build_interactions.py`.
+- `data/raw/drugs/meddra_all_indications.tsv` — download from the
+  [SIDER downloads page](http://sideeffects.embl.de/download/), place it at
+  that path, then run `scripts/process_sider.py`.
+
 ## Architecture
 
 ```
