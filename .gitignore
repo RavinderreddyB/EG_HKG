@@ -21,7 +21,6 @@ data/backups/
 # (data/processed/ is now committed on purpose -- see project README)
 data/raw/medlineplus/
 data/raw/medquad/
-data/raw/pubmed/
 
 # license-restricted, no-redistribution third-party data (DrugBank CC BY-NC,
 # MedDRA proprietary terms embedded in SIDER export) -- keep local only

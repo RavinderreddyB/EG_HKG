@@ -92,7 +92,7 @@ EG_HKG/
 ├── models/          # trained evidence-trust classifier (trust_rank_model.joblib)
 ├── baselines/       # frozen pre-PubMedBERT snapshot, kept for the embedding-model ablation
 ├── logs/            # evaluation reports (each one backs a specific result)
-└── Figures/         # generated result figures, one script per figure in scripts/
+└── figures/         # generated result figures, one script per figure in scripts/
 ```
 
 ## Setup
