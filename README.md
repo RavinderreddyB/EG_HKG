@@ -13,6 +13,40 @@ generates a grounded answer covering the condition, its treatments, and any
 drug-drug interaction warnings — using an LLM constrained to only the
 evidence it was given.
 
+## Key contributions
+
+- **Real provenance, not a hardcoded score.** Every disease-symptom edge is
+  either backed by a live-fetched, retrievable PubMed citation (PMID, title,
+  year) or explicitly marked unbacked — never silently defaulted to a
+  placeholder confidence.
+- **Three independent confidence signals, reported separately.** Semantic
+  relevance (domain-specific transformer), source credibility (citation-graph
+  PageRank), and structural plausibility (TransE) are computed by
+  mechanistically unrelated methods and never collapsed into one score.
+  Their independence is verified empirically (near-zero pairwise
+  correlations across 770 enriched edges), not assumed.
+- **An LLM is doing the actual answer generation** — Gemini
+  (`gemini-3.5-flash-lite`, with `gemini-3.5-flash` as an automatic fallback)
+  writes every generated explanation, treatment summary, and safety note in
+  `pipeline/generator.py`. The prompt constrains the model to only the
+  evidence retrieved from the graph; nothing in the final answer is
+  templated or hand-written.
+- **A controlled ablation isolates what the KG actually contributes.** The
+  same generator, same questions, and same scoring model are run with and
+  without graph grounding. Faithfulness rises from 0.2107 to 0.6426 and the
+  hallucination rate drops from 83.28% to 32.93% — the only variable changed
+  is whether the model was given the graph's evidence.
+- **Faithfulness is scored by a separate model, not self-assessed.**
+  `evaluation/faithfulness_nli.py` uses Vectara's HHEM to check each
+  generated sentence against the supplied evidence — the generator plays no
+  role in judging its own output.
+- **Scaled from 41 to 125 diseases** (MedlinePlus expansion) with the full
+  citation-enrichment and confidence-scoring pipeline re-run and
+  independently re-verified at the larger scale, not just extrapolated.
+- **Weak signals are reported, not hidden.** Source-credibility PageRank and
+  TransE link-prediction are both genuinely weak at this graph's scale —
+  documented in full in the evaluation logs rather than omitted.
+
 ## What's in the graph
 
 - 125 diseases, 439 symptoms (Kaggle disease-symptom dataset + MedlinePlus)
@@ -186,3 +220,26 @@ Figures in `figures/` are each produced by a dedicated script in
 - All ranking evaluation is internal (the graph tested against its own
   associations) — it does not establish clinical correctness against an
   external ground truth.
+
+## Future improvements
+
+- **Terminology normalization.** Map colloquial symptom strings (e.g.
+  `belly_pain`) to a standardized vocabulary like UMLS before query
+  construction, to close the citation-coverage gap between the two disease
+  subsets without changing the enrichment procedure itself.
+- **Extend evidence-trust classification to both retrieval paths.** The
+  trust classifier (`pipeline/trust_rank.py`) currently only scores the
+  original disease set's MedQuAD retrieval; the MedlinePlus set uses a fixed
+  trust value and could use the same held-out evaluation treatment.
+- **Multi-hop, graph-based retrieval.** The current query engine does a
+  single-hop symptom match; traversing relational paths (disease → treatment
+  → interaction) would let drug-interaction warnings surface as part of
+  retrieval rather than a separate lookup tacked on afterward.
+- **External validation.** Every evaluation here is internal (the graph
+  checked against its own associations). Comparing against a
+  physician-labeled external reference would establish clinical accuracy,
+  not just internal consistency.
+- **Graph scale.** Source-credibility and structural-confidence signals are
+  both constrained by corpus size at the current scale; growing the graph is
+  a prerequisite for those two signals to become more discriminative, not
+  just a coverage improvement.
