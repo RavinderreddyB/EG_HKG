@@ -1,0 +1,29 @@
+.env
+neo4j_import/
+neo4j_medical_data/
+venv/
+.venv/
+__pycache__/
+__pycache__
+.idea/
+
+# large regenerable vector index files (GitHub 100MB limit)
+data/vector_store/*.faiss
+data/vector_store/medquad_map.json
+baselines/**/*.faiss
+baselines/**/medquad_map.json
+
+# raw Neo4j backup dumps (~50MB each, kept locally -- possibly the only
+# record of the MedlinePlus graph expansion, not needed to run the code)
+data/backups/
+
+# third-party raw datasets: regenerable via scripts/download_*.py
+# (data/processed/ is now committed on purpose -- see project README)
+data/raw/medlineplus/
+data/raw/medquad/
+data/raw/pubmed/
+
+# license-restricted, no-redistribution third-party data (DrugBank CC BY-NC,
+# MedDRA proprietary terms embedded in SIDER export) -- keep local only
+data/raw/drugs/db_drug_interactions.csv
+data/raw/drugs/meddra_all_indications.tsv

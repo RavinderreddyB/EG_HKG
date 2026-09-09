@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+
+  neo4j:
+    image: neo4j:5.18
+    container_name: neo4j-health
+
+    ports:
+      - "7474:7474"   # Browser
+      - "7687:7687"   # Bolt -- must match NEO4J_URI in .env
+
+    environment:
+      - NEO4J_AUTH=neo4j/password
+      - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
+
+    volumes:
+      - ./neo4j_medical_data:/data
+      - ./neo4j_import:/import
+
+    restart: unless-stopped

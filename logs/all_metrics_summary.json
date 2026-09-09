@@ -1,0 +1,1718 @@
+{
+  "graph_stats": {
+    "totals": {
+      "n_diseases": 125,
+      "n_symptoms": 439,
+      "n_has_symptom": 928,
+      "n_treats": 105,
+      "n_has_treatment": 241,
+      "n_interacts": 191252
+    },
+    "diseases_by_source": {
+      "DiseaseAndSymptoms": 41,
+      "MedlinePlus": 84
+    }
+  },
+  "provenance_coverage": {
+    "overall": {
+      "total": 928,
+      "pubmed": 770,
+      "coverage": 0.8297413793103449
+    },
+    "by_source": {
+      "DiseaseAndSymptoms": {
+        "total": 321,
+        "pubmed": 224,
+        "coverage": 0.6978193146417445
+      },
+      "MedlinePlus": {
+        "total": 607,
+        "pubmed": 546,
+        "coverage": 0.899505766062603
+      }
+    }
+  },
+  "confidence_signals": {
+    "semantic": {
+      "n": 770,
+      "mean": 0.8820990909090909,
+      "min": 0.5,
+      "max": 0.961,
+      "stdev": 0.08918917898783575
+    },
+    "source_credibility": {
+      "n": 770,
+      "mean": 0.0014799801355225338,
+      "min": 0.0014175762585389349,
+      "max": 0.005881231375763507,
+      "stdev": 0.0003277412998977429
+    },
+    "structural": {
+      "n": 770,
+      "mean": 0.6911473525608626,
+      "min": 0.0,
+      "max": 0.9792495414304506,
+      "stdev": 0.16009381725954772
+    }
+  },
+  "cci": {
+    "n_edges": 770,
+    "cci": 0.6227571310990189,
+    "pairwise_correlations": {
+      "semantic_credibility": -0.03161309780470853,
+      "semantic_structural": 0.008482031832895469,
+      "credibility_structural": 0.008824536832288048
+    },
+    "by_source": {
+      "DiseaseAndSymptoms": {
+        "n": 224,
+        "cci": 0.6263317731753342
+      },
+      "MedlinePlus": {
+        "n": 546,
+        "cci": 0.6212906112728382
+      }
+    }
+  },
+  "transe_embeddings": {
+    "metrics": {
+      "hits@1": 0.02912621359223301,
+      "hits@3": 0.03398058252427184,
+      "hits@10": 0.13592233009708737,
+      "mean_reciprocal_rank": 0.0627153292298317
+    },
+    "num_triples": 1033,
+    "num_scored_edges": 928
+  },
+  "holdout_eval": {
+    "n_seeds": 20,
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "per_seed": [
+      {
+        "seed": 1,
+        "n": 125,
+        "hit1": 0.952,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.976,
+        "ndcg10": 0.9822846281714298,
+        "mean_rank": 1.048,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.144,
+        "confusion_matrix": {
+          "tp": 6,
+          "fp": 12,
+          "tn": 107,
+          "fn": 0
+        },
+        "arda_accuracy": 0.904,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5
+      },
+      {
+        "seed": 2,
+        "n": 125,
+        "hit1": 0.936,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.9653333333333333,
+        "ndcg10": 0.9742846281714296,
+        "mean_rank": 1.08,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.144,
+        "confusion_matrix": {
+          "tp": 8,
+          "fp": 10,
+          "tn": 107,
+          "fn": 0
+        },
+        "arda_accuracy": 0.92,
+        "precision": 0.4444444444444444,
+        "recall": 1.0,
+        "f1": 0.6153846153846153
+      },
+      {
+        "seed": 3,
+        "n": 125,
+        "hit1": 0.96,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.98,
+        "ndcg10": 0.985237190142858,
+        "mean_rank": 1.04,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.072,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 6,
+          "tn": 114,
+          "fn": 2
+        },
+        "arda_accuracy": 0.936,
+        "precision": 0.3333333333333333,
+        "recall": 0.6,
+        "f1": 0.42857142857142855
+      },
+      {
+        "seed": 4,
+        "n": 125,
+        "hit1": 0.968,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.984,
+        "ndcg10": 0.9881897521142864,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.088,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 8,
+          "tn": 113,
+          "fn": 1
+        },
+        "arda_accuracy": 0.928,
+        "precision": 0.2727272727272727,
+        "recall": 0.75,
+        "f1": 0.39999999999999997
+      },
+      {
+        "seed": 5,
+        "n": 125,
+        "hit1": 0.976,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.988,
+        "ndcg10": 0.9911423140857148,
+        "mean_rank": 1.024,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.112,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 11,
+          "tn": 111,
+          "fn": 0
+        },
+        "arda_accuracy": 0.912,
+        "precision": 0.21428571428571427,
+        "recall": 1.0,
+        "f1": 0.35294117647058826
+      },
+      {
+        "seed": 6,
+        "n": 125,
+        "hit1": 0.96,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.9786666666666666,
+        "ndcg10": 0.9841897521142864,
+        "mean_rank": 1.048,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.128,
+        "confusion_matrix": {
+          "tp": 4,
+          "fp": 12,
+          "tn": 108,
+          "fn": 1
+        },
+        "arda_accuracy": 0.896,
+        "precision": 0.25,
+        "recall": 0.8,
+        "f1": 0.38095238095238093
+      },
+      {
+        "seed": 7,
+        "n": 125,
+        "hit1": 0.952,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.9733333333333334,
+        "ndcg10": 0.9801897521142864,
+        "mean_rank": 1.064,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.136,
+        "confusion_matrix": {
+          "tp": 5,
+          "fp": 12,
+          "tn": 107,
+          "fn": 1
+        },
+        "arda_accuracy": 0.896,
+        "precision": 0.29411764705882354,
+        "recall": 0.8333333333333334,
+        "f1": 0.4347826086956522
+      },
+      {
+        "seed": 8,
+        "n": 125,
+        "hit1": 0.976,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.988,
+        "ndcg10": 0.9911423140857148,
+        "mean_rank": 1.024,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.096,
+        "confusion_matrix": {
+          "tp": 2,
+          "fp": 10,
+          "tn": 112,
+          "fn": 1
+        },
+        "arda_accuracy": 0.912,
+        "precision": 0.16666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.26666666666666666
+      },
+      {
+        "seed": 9,
+        "n": 125,
+        "hit1": 0.968,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.984,
+        "ndcg10": 0.9881897521142864,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.096,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 9,
+          "tn": 112,
+          "fn": 1
+        },
+        "arda_accuracy": 0.92,
+        "precision": 0.25,
+        "recall": 0.75,
+        "f1": 0.375
+      },
+      {
+        "seed": 10,
+        "n": 125,
+        "hit1": 0.968,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.984,
+        "ndcg10": 0.9881897521142864,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.112,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 11,
+          "tn": 110,
+          "fn": 1
+        },
+        "arda_accuracy": 0.904,
+        "precision": 0.21428571428571427,
+        "recall": 0.75,
+        "f1": 0.3333333333333333
+      },
+      {
+        "seed": 11,
+        "n": 125,
+        "hit1": 0.952,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.976,
+        "ndcg10": 0.9822846281714297,
+        "mean_rank": 1.048,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.096,
+        "confusion_matrix": {
+          "tp": 6,
+          "fp": 6,
+          "tn": 113,
+          "fn": 0
+        },
+        "arda_accuracy": 0.952,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "seed": 12,
+        "n": 125,
+        "hit1": 0.968,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.984,
+        "ndcg10": 0.9881897521142864,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.072,
+        "confusion_matrix": {
+          "tp": 2,
+          "fp": 7,
+          "tn": 114,
+          "fn": 2
+        },
+        "arda_accuracy": 0.928,
+        "precision": 0.2222222222222222,
+        "recall": 0.5,
+        "f1": 0.30769230769230765
+      },
+      {
+        "seed": 13,
+        "n": 125,
+        "hit1": 0.976,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.9866666666666666,
+        "ndcg10": 0.9900948760571432,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.088,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 8,
+          "tn": 114,
+          "fn": 0
+        },
+        "arda_accuracy": 0.936,
+        "precision": 0.2727272727272727,
+        "recall": 1.0,
+        "f1": 0.42857142857142855
+      },
+      {
+        "seed": 14,
+        "n": 125,
+        "hit1": 0.96,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.98,
+        "ndcg10": 0.985237190142858,
+        "mean_rank": 1.04,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.112,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 11,
+          "tn": 109,
+          "fn": 2
+        },
+        "arda_accuracy": 0.896,
+        "precision": 0.21428571428571427,
+        "recall": 0.6,
+        "f1": 0.3157894736842105
+      },
+      {
+        "seed": 15,
+        "n": 125,
+        "hit1": 0.952,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.9746666666666667,
+        "ndcg10": 0.981237190142858,
+        "mean_rank": 1.056,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.104,
+        "confusion_matrix": {
+          "tp": 6,
+          "fp": 7,
+          "tn": 112,
+          "fn": 0
+        },
+        "arda_accuracy": 0.944,
+        "precision": 0.46153846153846156,
+        "recall": 1.0,
+        "f1": 0.631578947368421
+      },
+      {
+        "seed": 16,
+        "n": 125,
+        "hit1": 0.976,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.9866666666666666,
+        "ndcg10": 0.9900948760571432,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.128,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 13,
+          "tn": 109,
+          "fn": 0
+        },
+        "arda_accuracy": 0.896,
+        "precision": 0.1875,
+        "recall": 1.0,
+        "f1": 0.3157894736842105
+      },
+      {
+        "seed": 17,
+        "n": 125,
+        "hit1": 0.968,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.984,
+        "ndcg10": 0.9881897521142864,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.072,
+        "confusion_matrix": {
+          "tp": 2,
+          "fp": 7,
+          "tn": 114,
+          "fn": 2
+        },
+        "arda_accuracy": 0.928,
+        "precision": 0.2222222222222222,
+        "recall": 0.5,
+        "f1": 0.30769230769230765
+      },
+      {
+        "seed": 18,
+        "n": 125,
+        "hit1": 0.952,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.976,
+        "ndcg10": 0.9822846281714296,
+        "mean_rank": 1.048,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.128,
+        "confusion_matrix": {
+          "tp": 6,
+          "fp": 10,
+          "tn": 109,
+          "fn": 0
+        },
+        "arda_accuracy": 0.92,
+        "precision": 0.375,
+        "recall": 1.0,
+        "f1": 0.5454545454545454
+      },
+      {
+        "seed": 19,
+        "n": 125,
+        "hit1": 0.968,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.984,
+        "ndcg10": 0.9881897521142864,
+        "mean_rank": 1.032,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.104,
+        "confusion_matrix": {
+          "tp": 3,
+          "fp": 10,
+          "tn": 111,
+          "fn": 1
+        },
+        "arda_accuracy": 0.912,
+        "precision": 0.23076923076923078,
+        "recall": 0.75,
+        "f1": 0.3529411764705882
+      },
+      {
+        "seed": 20,
+        "n": 125,
+        "hit1": 0.976,
+        "hit3": 1.0,
+        "hit5": 1.0,
+        "hit10": 1.0,
+        "mrr": 0.988,
+        "ndcg10": 0.9911423140857148,
+        "mean_rank": 1.024,
+        "median_rank": 1,
+        "not_recovered_top10": 0,
+        "flag_rate": 0.112,
+        "confusion_matrix": {
+          "tp": 2,
+          "fp": 12,
+          "tn": 110,
+          "fn": 1
+        },
+        "arda_accuracy": 0.896,
+        "precision": 0.14285714285714285,
+        "recall": 0.6666666666666666,
+        "f1": 0.23529411764705882
+      }
+    ],
+    "summary_mean_sd": {
+      "hit1": {
+        "mean": 0.9632,
+        "sd": 0.010851727973000425
+      },
+      "hit3": {
+        "mean": 1.0,
+        "sd": 0.0
+      },
+      "hit5": {
+        "mean": 1.0,
+        "sd": 0.0
+      },
+      "hit10": {
+        "mean": 1.0,
+        "sd": 0.0
+      },
+      "mrr": {
+        "mean": 0.9810666666666666,
+        "sd": 0.005881798666696738
+      },
+      "ndcg10": {
+        "mean": 0.9859992397200007,
+        "sd": 0.004365674464700715
+      },
+      "mean_rank": {
+        "mean": 1.04,
+        "sd": 0.01408545348932722
+      },
+      "median_rank": {
+        "mean": 1,
+        "sd": 0.0
+      },
+      "flag_rate": {
+        "mean": 0.1072,
+        "sd": 0.022112439937736407
+      },
+      "arda_accuracy": {
+        "mean": 0.9168000000000001,
+        "sd": 0.016857046004564377
+      },
+      "precision": {
+        "mean": 0.28011581963787846,
+        "sd": 0.09681969675986729
+      },
+      "recall": {
+        "mean": 0.8083333333333333,
+        "sd": 0.17681597464281584
+      },
+      "f1": {
+        "mean": 0.4097551327503205,
+        "sd": 0.12025349911433651
+      }
+    },
+    "pooled_confusion_matrix": {
+      "tp": 76,
+      "fp": 192,
+      "tn": 2216,
+      "fn": 16
+    },
+    "by_source_hit1": {
+      "DiseaseAndSymptoms": {
+        "mean_hit1": 0.9853658536585366,
+        "sd_hit1": 0.0179230956789013,
+        "n_seeds": 20
+      },
+      "MedlinePlus": {
+        "mean_hit1": 0.9523809523809523,
+        "sd_hit1": 0.015058465048420858,
+        "n_seeds": 20
+      }
+    }
+  },
+  "faithfulness": {
+    "per_disease": [
+      {
+        "avg_consistency": 0.803929786064795,
+        "min_consistency": 0.051335375756025314,
+        "low_consistency_rate": 0.14285714285714285,
+        "num_claims": 7,
+        "run": "run_20260826_123116.json",
+        "disease": "(vertigo) paroymsal  positional vertigo",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7291377067565918,
+        "min_consistency": 0.05951383709907532,
+        "low_consistency_rate": 0.3,
+        "num_claims": 10,
+        "run": "run_20260826_123116.json",
+        "disease": "dislocated shoulder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.777164586716228,
+        "min_consistency": 0.1747087985277176,
+        "low_consistency_rate": 0.1111111111111111,
+        "num_claims": 9,
+        "run": "run_20260826_123116.json",
+        "disease": "cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.5988592377730778,
+        "min_consistency": 0.12938432395458221,
+        "low_consistency_rate": 0.42857142857142855,
+        "num_claims": 7,
+        "run": "run_20260826_123122.json",
+        "disease": "infectious mononucleosis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6225200658664107,
+        "min_consistency": 0.11634600907564163,
+        "low_consistency_rate": 0.375,
+        "num_claims": 8,
+        "run": "run_20260826_123122.json",
+        "disease": "thyroid cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6786796599044465,
+        "min_consistency": 0.004881888162344694,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123122.json",
+        "disease": "chronic myeloid leukemia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7824953367764299,
+        "min_consistency": 0.10084260255098343,
+        "low_consistency_rate": 0.2727272727272727,
+        "num_claims": 11,
+        "run": "run_20260826_123128.json",
+        "disease": "hemophilia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6378864993651708,
+        "min_consistency": 0.08553093671798706,
+        "low_consistency_rate": 0.3333333333333333,
+        "num_claims": 6,
+        "run": "run_20260826_123128.json",
+        "disease": "reflux in infants",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7966033766667048,
+        "min_consistency": 0.16189353168010712,
+        "low_consistency_rate": 0.2222222222222222,
+        "num_claims": 9,
+        "run": "run_20260826_123128.json",
+        "disease": "blood clots",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.595502726056359,
+        "min_consistency": 0.0678982138633728,
+        "low_consistency_rate": 0.36363636363636365,
+        "num_claims": 11,
+        "run": "run_20260826_123140.json",
+        "disease": "obsessive-compulsive disorder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7589881122112274,
+        "min_consistency": 0.15500140190124512,
+        "low_consistency_rate": 0.3,
+        "num_claims": 10,
+        "run": "run_20260826_123140.json",
+        "disease": "dislocated shoulder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7263042123189994,
+        "min_consistency": 0.09487646073102951,
+        "low_consistency_rate": 0.2857142857142857,
+        "num_claims": 14,
+        "run": "run_20260826_123140.json",
+        "disease": "urinary tract infection",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8172357901930809,
+        "min_consistency": 0.3011924922466278,
+        "low_consistency_rate": 0.16666666666666666,
+        "num_claims": 12,
+        "run": "run_20260826_123146.json",
+        "disease": "lewy body dementia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7843452363528989,
+        "min_consistency": 0.015681501477956772,
+        "low_consistency_rate": 0.09090909090909091,
+        "num_claims": 11,
+        "run": "run_20260826_123146.json",
+        "disease": "chronic bronchitis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.4705725458140175,
+        "min_consistency": 0.01707330159842968,
+        "low_consistency_rate": 0.5,
+        "num_claims": 6,
+        "run": "run_20260826_123146.json",
+        "disease": "ischemic stroke",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.4844167319436868,
+        "min_consistency": 0.06359940022230148,
+        "low_consistency_rate": 0.5,
+        "num_claims": 6,
+        "run": "run_20260826_123213.json",
+        "disease": "anal cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7663871212439104,
+        "min_consistency": 0.12544485926628113,
+        "low_consistency_rate": 0.18181818181818182,
+        "num_claims": 11,
+        "run": "run_20260826_123213.json",
+        "disease": "kawasaki disease",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash"
+      },
+      {
+        "avg_consistency": 0.7311459127813578,
+        "min_consistency": 0.21698503196239471,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123213.json",
+        "disease": "chicken pox",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7142629470676184,
+        "min_consistency": 0.0414499007165432,
+        "low_consistency_rate": 0.3,
+        "num_claims": 10,
+        "run": "run_20260826_123221.json",
+        "disease": "ovarian disorders",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8523868391147027,
+        "min_consistency": 0.3380737602710724,
+        "low_consistency_rate": 0.07692307692307693,
+        "num_claims": 13,
+        "run": "run_20260826_123221.json",
+        "disease": "gastroenteritis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6475644990801811,
+        "min_consistency": 0.021787330508232117,
+        "low_consistency_rate": 0.4,
+        "num_claims": 10,
+        "run": "run_20260826_123221.json",
+        "disease": "cryptosporidiosis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.5312152405579885,
+        "min_consistency": 0.09304629266262054,
+        "low_consistency_rate": 0.3333333333333333,
+        "num_claims": 6,
+        "run": "run_20260826_123227.json",
+        "disease": "vaginal cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.5805976107716561,
+        "min_consistency": 0.025890734046697617,
+        "low_consistency_rate": 0.4,
+        "num_claims": 15,
+        "run": "run_20260826_123227.json",
+        "disease": "leukodystrophies",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8038313140471777,
+        "min_consistency": 0.3533819019794464,
+        "low_consistency_rate": 0.16666666666666666,
+        "num_claims": 6,
+        "run": "run_20260826_123227.json",
+        "disease": "blood clots",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6003675971712384,
+        "min_consistency": 0.07203647494316101,
+        "low_consistency_rate": 0.2857142857142857,
+        "num_claims": 7,
+        "run": "run_20260826_123233.json",
+        "disease": "fungal infection",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7946102917194366,
+        "min_consistency": 0.44141650199890137,
+        "low_consistency_rate": 0.125,
+        "num_claims": 8,
+        "run": "run_20260826_123233.json",
+        "disease": "tonsillitis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7814270000566136,
+        "min_consistency": 0.22586733102798462,
+        "low_consistency_rate": 0.18181818181818182,
+        "num_claims": 11,
+        "run": "run_20260826_123233.json",
+        "disease": "progressive supranuclear palsy",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6612787118979863,
+        "min_consistency": 0.17011505365371704,
+        "low_consistency_rate": 0.2857142857142857,
+        "num_claims": 7,
+        "run": "run_20260826_123239.json",
+        "disease": "infectious mononucleosis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.35287501835929497,
+        "min_consistency": 0.013058261014521122,
+        "low_consistency_rate": 0.7142857142857143,
+        "num_claims": 7,
+        "run": "run_20260826_123239.json",
+        "disease": "mpox",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6152869998477399,
+        "min_consistency": 0.042576778680086136,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123239.json",
+        "disease": "ischemic stroke",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6165929364506155,
+        "min_consistency": 0.01325768418610096,
+        "low_consistency_rate": 0.375,
+        "num_claims": 8,
+        "run": "run_20260826_123244.json",
+        "disease": "insomnia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.409070481856664,
+        "min_consistency": 0.06848633289337158,
+        "low_consistency_rate": 0.6666666666666666,
+        "num_claims": 6,
+        "run": "run_20260826_123244.json",
+        "disease": "anal cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6141545705031604,
+        "min_consistency": 0.017402926459908485,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123244.json",
+        "disease": "acute lymphocytic leukemia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6810898134484887,
+        "min_consistency": 0.027136439457535744,
+        "low_consistency_rate": 0.3,
+        "num_claims": 10,
+        "run": "run_20260826_123306.json",
+        "disease": "menopause",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.06874326409565078,
+        "min_consistency": 0.018415048718452454,
+        "low_consistency_rate": 1.0,
+        "num_claims": 9,
+        "run": "run_20260826_123306.json",
+        "disease": "cervical spondylosis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash"
+      },
+      {
+        "avg_consistency": 0.5048320919952609,
+        "min_consistency": 0.037429023534059525,
+        "low_consistency_rate": 0.45454545454545453,
+        "num_claims": 11,
+        "run": "run_20260826_123306.json",
+        "disease": "obsessive-compulsive disorder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash"
+      },
+      {
+        "avg_consistency": 0.525968949827883,
+        "min_consistency": 0.034318260848522186,
+        "low_consistency_rate": 0.4444444444444444,
+        "num_claims": 9,
+        "run": "run_20260826_123322.json",
+        "disease": "bipolar disorder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash"
+      },
+      {
+        "avg_consistency": 0.5779775725677609,
+        "min_consistency": 0.06514532119035721,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123322.json",
+        "disease": "flu",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.4517826395375388,
+        "min_consistency": 0.0783843845129013,
+        "low_consistency_rate": 0.5714285714285714,
+        "num_claims": 7,
+        "run": "run_20260826_123322.json",
+        "disease": "post-covid conditions (long covid)",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6050040237605572,
+        "min_consistency": 0.06025504693388939,
+        "low_consistency_rate": 0.2,
+        "num_claims": 5,
+        "run": "run_20260826_123336.json",
+        "disease": "teen depression",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.675108078867197,
+        "min_consistency": 0.133881613612175,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123336.json",
+        "disease": "osteoarthristis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8427708268165588,
+        "min_consistency": 0.5920655131340027,
+        "low_consistency_rate": 0.0,
+        "num_claims": 10,
+        "run": "run_20260826_123336.json",
+        "disease": "psoriasis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6867525519596206,
+        "min_consistency": 0.08201680332422256,
+        "low_consistency_rate": 0.3333333333333333,
+        "num_claims": 9,
+        "run": "run_20260826_123341.json",
+        "disease": "insomnia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7107771877199411,
+        "min_consistency": 0.11921589076519012,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123341.json",
+        "disease": "testicular cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6173645593225956,
+        "min_consistency": 0.2084035873413086,
+        "low_consistency_rate": 0.5,
+        "num_claims": 8,
+        "run": "run_20260826_123341.json",
+        "disease": "delirium",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.48770517276393044,
+        "min_consistency": 0.11639809608459473,
+        "low_consistency_rate": 0.5555555555555556,
+        "num_claims": 9,
+        "run": "run_20260826_123351.json",
+        "disease": "sleep disorders",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.44143875342394623,
+        "min_consistency": 0.015803445130586624,
+        "low_consistency_rate": 0.5714285714285714,
+        "num_claims": 7,
+        "run": "run_20260826_123351.json",
+        "disease": "breast cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.680199619715235,
+        "min_consistency": 0.01543541718274355,
+        "low_consistency_rate": 0.2857142857142857,
+        "num_claims": 14,
+        "run": "run_20260826_123351.json",
+        "disease": "hepatitis c",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.4383158540974061,
+        "min_consistency": 0.04887114092707634,
+        "low_consistency_rate": 0.5,
+        "num_claims": 6,
+        "run": "run_20260826_123359.json",
+        "disease": "alcoholic hepatitis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6463472938963345,
+        "min_consistency": 0.10967973619699478,
+        "low_consistency_rate": 0.42857142857142855,
+        "num_claims": 7,
+        "run": "run_20260826_123359.json",
+        "disease": "infectious mononucleosis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6270152283116028,
+        "min_consistency": 0.021944241598248482,
+        "low_consistency_rate": 0.38461538461538464,
+        "num_claims": 13,
+        "run": "run_20260826_123359.json",
+        "disease": "leukodystrophies",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6264797283167188,
+        "min_consistency": 0.04799242690205574,
+        "low_consistency_rate": 0.2727272727272727,
+        "num_claims": 11,
+        "run": "run_20260826_123407.json",
+        "disease": "heart valve diseases",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7041584175418724,
+        "min_consistency": 0.045667607337236404,
+        "low_consistency_rate": 0.2727272727272727,
+        "num_claims": 11,
+        "run": "run_20260826_123407.json",
+        "disease": "hemophilia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8280198901891709,
+        "min_consistency": 0.3380737602710724,
+        "low_consistency_rate": 0.1,
+        "num_claims": 10,
+        "run": "run_20260826_123407.json",
+        "disease": "gastroenteritis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.35057977586984634,
+        "min_consistency": 0.015731194987893105,
+        "low_consistency_rate": 0.6923076923076923,
+        "num_claims": 13,
+        "run": "run_20260826_123421.json",
+        "disease": "myasthenia gravis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash"
+      },
+      {
+        "avg_consistency": 0.6936170231137011,
+        "min_consistency": 0.04180217161774635,
+        "low_consistency_rate": 0.3333333333333333,
+        "num_claims": 9,
+        "run": "run_20260826_123421.json",
+        "disease": "hemophilia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.5735661855765751,
+        "min_consistency": 0.13161611557006836,
+        "low_consistency_rate": 0.42857142857142855,
+        "num_claims": 7,
+        "run": "run_20260826_123421.json",
+        "disease": "aplastic anemia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6387830032035708,
+        "min_consistency": 0.05278351902961731,
+        "low_consistency_rate": 0.375,
+        "num_claims": 8,
+        "run": "run_20260826_123426.json",
+        "disease": "rotator cuff injuries",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7817150466144085,
+        "min_consistency": 0.026520293205976486,
+        "low_consistency_rate": 0.1111111111111111,
+        "num_claims": 9,
+        "run": "run_20260826_123426.json",
+        "disease": "ovarian disorders",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7355107441544533,
+        "min_consistency": 0.41816413402557373,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123426.json",
+        "disease": "fibromyalgia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7474888294935227,
+        "min_consistency": 0.18970739841461182,
+        "low_consistency_rate": 0.3,
+        "num_claims": 10,
+        "run": "run_20260826_123439.json",
+        "disease": "dislocated shoulder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.861987179517746,
+        "min_consistency": 0.62957763671875,
+        "low_consistency_rate": 0.0,
+        "num_claims": 10,
+        "run": "run_20260826_123439.json",
+        "disease": "migraine",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.40438940344999236,
+        "min_consistency": 0.01828889362514019,
+        "low_consistency_rate": 0.6666666666666666,
+        "num_claims": 6,
+        "run": "run_20260826_123439.json",
+        "disease": "ischemic stroke",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7603593654930592,
+        "min_consistency": 0.07792259007692337,
+        "low_consistency_rate": 0.2,
+        "num_claims": 10,
+        "run": "run_20260826_123446.json",
+        "disease": "common cold",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7117569648793766,
+        "min_consistency": 0.10481425374746323,
+        "low_consistency_rate": 0.14285714285714285,
+        "num_claims": 7,
+        "run": "run_20260826_123446.json",
+        "disease": "allergy",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.37516465069105226,
+        "min_consistency": 0.008804602548480034,
+        "low_consistency_rate": 0.6666666666666666,
+        "num_claims": 6,
+        "run": "run_20260826_123446.json",
+        "disease": "diabetic heart disease",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.654321912676096,
+        "min_consistency": 0.1514805555343628,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123452.json",
+        "disease": "acute flaccid myelitis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.744736056153973,
+        "min_consistency": 0.08320717513561249,
+        "low_consistency_rate": 0.16666666666666666,
+        "num_claims": 12,
+        "run": "run_20260826_123452.json",
+        "disease": "osteoarthristis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.35658459551632404,
+        "min_consistency": 0.034079283475875854,
+        "low_consistency_rate": 0.6666666666666666,
+        "num_claims": 6,
+        "run": "run_20260826_123452.json",
+        "disease": "myasthenia gravis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.654091446660459,
+        "min_consistency": 0.03800896555185318,
+        "low_consistency_rate": 0.375,
+        "num_claims": 8,
+        "run": "run_20260826_123511.json",
+        "disease": "chagas disease",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7630696640564845,
+        "min_consistency": 0.23986300826072693,
+        "low_consistency_rate": 0.23076923076923078,
+        "num_claims": 13,
+        "run": "run_20260826_123511.json",
+        "disease": "hidradenitis suppurativa",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash"
+      },
+      {
+        "avg_consistency": 0.7221505298064306,
+        "min_consistency": 0.1114516407251358,
+        "low_consistency_rate": 0.23076923076923078,
+        "num_claims": 13,
+        "run": "run_20260826_123511.json",
+        "disease": "paralysis (brain hemorrhage)",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash"
+      },
+      {
+        "avg_consistency": 0.22097500739619136,
+        "min_consistency": 0.015143117867410183,
+        "low_consistency_rate": 1.0,
+        "num_claims": 2,
+        "run": "run_20260826_123517.json",
+        "disease": "dimorphic hemmorhoids(piles)",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6125980978831649,
+        "min_consistency": 0.05238636955618858,
+        "low_consistency_rate": 0.25,
+        "num_claims": 4,
+        "run": "run_20260826_123517.json",
+        "disease": "teen depression",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.4254436402892073,
+        "min_consistency": 0.02632293663918972,
+        "low_consistency_rate": 0.6666666666666666,
+        "num_claims": 6,
+        "run": "run_20260826_123517.json",
+        "disease": "cervical cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6737627771993479,
+        "min_consistency": 0.03871317580342293,
+        "low_consistency_rate": 0.2222222222222222,
+        "num_claims": 9,
+        "run": "run_20260826_123529.json",
+        "disease": "prostate diseases",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6909418995068832,
+        "min_consistency": 0.01954149641096592,
+        "low_consistency_rate": 0.2727272727272727,
+        "num_claims": 11,
+        "run": "run_20260826_123529.json",
+        "disease": "enlarged prostate (bph)",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.5709447742385023,
+        "min_consistency": 0.011635186150670052,
+        "low_consistency_rate": 0.4117647058823529,
+        "num_claims": 17,
+        "run": "run_20260826_123529.json",
+        "disease": "diabetes",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7814771573651921,
+        "min_consistency": 0.15630300343036652,
+        "low_consistency_rate": 0.2727272727272727,
+        "num_claims": 11,
+        "run": "run_20260826_123535.json",
+        "disease": "hidradenitis suppurativa",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7597287168556993,
+        "min_consistency": 0.014413990080356598,
+        "low_consistency_rate": 0.18181818181818182,
+        "num_claims": 11,
+        "run": "run_20260826_123535.json",
+        "disease": "chronic bronchitis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7903491285008689,
+        "min_consistency": 0.029763756319880486,
+        "low_consistency_rate": 0.16666666666666666,
+        "num_claims": 12,
+        "run": "run_20260826_123535.json",
+        "disease": "hemophilia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6536261654562421,
+        "min_consistency": 0.20441220700740814,
+        "low_consistency_rate": 0.2222222222222222,
+        "num_claims": 9,
+        "run": "run_20260826_123543.json",
+        "disease": "anxiety",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.5093675362877548,
+        "min_consistency": 0.034556835889816284,
+        "low_consistency_rate": 0.5,
+        "num_claims": 8,
+        "run": "run_20260826_123543.json",
+        "disease": "bipolar disorder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.4631408616900444,
+        "min_consistency": 0.018044397234916687,
+        "low_consistency_rate": 0.5,
+        "num_claims": 10,
+        "run": "run_20260826_123543.json",
+        "disease": "varicose veins",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8253072189788023,
+        "min_consistency": 0.2268831580877304,
+        "low_consistency_rate": 0.08333333333333333,
+        "num_claims": 12,
+        "run": "run_20260826_123603.json",
+        "disease": "migraine",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7341579525516584,
+        "min_consistency": 0.02401696890592575,
+        "low_consistency_rate": 0.23076923076923078,
+        "num_claims": 13,
+        "run": "run_20260826_123603.json",
+        "disease": "pneumonia",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.4785329683683813,
+        "min_consistency": 0.010546800680458546,
+        "low_consistency_rate": 0.5,
+        "num_claims": 10,
+        "run": "run_20260826_123603.json",
+        "disease": "hyperthyroidism",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6964436983689666,
+        "min_consistency": 0.014027513563632965,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123640.json",
+        "disease": "insomnia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8594327739306858,
+        "min_consistency": 0.6195935606956482,
+        "low_consistency_rate": 0.0,
+        "num_claims": 7,
+        "run": "run_20260826_123640.json",
+        "disease": "tonsillitis",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.56148003683322,
+        "min_consistency": 0.02470792643725872,
+        "low_consistency_rate": 0.3333333333333333,
+        "num_claims": 9,
+        "run": "run_20260826_123640.json",
+        "disease": "ischemic stroke",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.3452267839262883,
+        "min_consistency": 0.024037880823016167,
+        "low_consistency_rate": 0.6666666666666666,
+        "num_claims": 9,
+        "run": "run_20260826_123647.json",
+        "disease": "chronic cholestasis",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.9065095980962118,
+        "min_consistency": 0.34281355142593384,
+        "low_consistency_rate": 0.08333333333333333,
+        "num_claims": 12,
+        "run": "run_20260826_123647.json",
+        "disease": "fungal infection",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.8169470257483996,
+        "min_consistency": 0.04320023953914642,
+        "low_consistency_rate": 0.15384615384615385,
+        "num_claims": 13,
+        "run": "run_20260826_123647.json",
+        "disease": "head lice",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7235175096429884,
+        "min_consistency": 0.04728164151310921,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123653.json",
+        "disease": "myalgic encephalomyelitis chronic fatigue syndrome",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6741932057775557,
+        "min_consistency": 0.05940275266766548,
+        "low_consistency_rate": 0.375,
+        "num_claims": 8,
+        "run": "run_20260826_123653.json",
+        "disease": "insomnia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6316938027739525,
+        "min_consistency": 0.01655595749616623,
+        "low_consistency_rate": 0.3333333333333333,
+        "num_claims": 9,
+        "run": "run_20260826_123653.json",
+        "disease": "childhood leukemia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.6246875334531069,
+        "min_consistency": 0.02400313690304756,
+        "low_consistency_rate": 0.4,
+        "num_claims": 10,
+        "run": "run_20260826_123700.json",
+        "disease": "testicular cancer",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.570600513368845,
+        "min_consistency": 0.016103312373161316,
+        "low_consistency_rate": 0.2857142857142857,
+        "num_claims": 7,
+        "run": "run_20260826_123700.json",
+        "disease": "acute lymphocytic leukemia",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7820418942719698,
+        "min_consistency": 0.2196187824010849,
+        "low_consistency_rate": 0.25,
+        "num_claims": 8,
+        "run": "run_20260826_123700.json",
+        "disease": "allergy",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.5700172058173588,
+        "min_consistency": 0.14900369942188263,
+        "low_consistency_rate": 0.42857142857142855,
+        "num_claims": 7,
+        "run": "run_20260826_123707.json",
+        "disease": "panic disorder",
+        "evidence_source": "MedlinePlus_direct",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.781580276787281,
+        "min_consistency": 0.10964354127645493,
+        "low_consistency_rate": 0.18181818181818182,
+        "num_claims": 11,
+        "run": "run_20260826_123707.json",
+        "disease": "common cold",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      },
+      {
+        "avg_consistency": 0.7128196010986964,
+        "min_consistency": 0.1463191956281662,
+        "low_consistency_rate": 0.2222222222222222,
+        "num_claims": 9,
+        "run": "run_20260826_123707.json",
+        "disease": "chicken pox",
+        "evidence_source": "MedQuAD_RAG",
+        "generation_model": "gemini-3.5-flash-lite"
+      }
+    ],
+    "avg_consistency": 0.6425780976556204,
+    "avg_min_consistency": 0.1098959760913881,
+    "avg_low_consistency_rate": 0.32933258270628507,
+    "num_scored": 102,
+    "by_source": {
+      "MedQuAD_RAG": {
+        "n": 27,
+        "avg_consistency": 0.6618340338698862,
+        "avg_low_consistency_rate": 0.298041621897831
+      },
+      "MedlinePlus_direct": {
+        "n": 75,
+        "avg_consistency": 0.6356459606184849,
+        "avg_low_consistency_rate": 0.3405973285973286
+      }
+    },
+    "by_generation_model": {
+      "gemini-3.5-flash-lite": {
+        "n": 95,
+        "avg_consistency": 0.6509603638313454,
+        "avg_low_consistency_rate": 0.3195502021198615
+      },
+      "gemini-3.5-flash": {
+        "n": 7,
+        "avg_consistency": 0.5288187709850666,
+        "avg_low_consistency_rate": 0.4620934620934621
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+neo4j
+sentence-transformers
+faiss-cpu
+pandas
+python-dotenv
+google-generativeai
+openai
+requests
+tqdm
+scikit-learn
+google-genai
+networkx
+pykeen
+datasets

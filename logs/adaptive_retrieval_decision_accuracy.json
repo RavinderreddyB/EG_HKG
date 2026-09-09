@@ -1,0 +1,1993 @@
+{
+  "n_trials": 125,
+  "hit1_rate": 0.968,
+  "hit3_rate": 1.0,
+  "flag_rate": 0.064,
+  "confusion_matrix": {
+    "tp": 3,
+    "fp": 5,
+    "tn": 116,
+    "fn": 1
+  },
+  "arda_accuracy": 0.952,
+  "precision": 0.375,
+  "recall": 0.75,
+  "f1": 0.5,
+  "trials": [
+    {
+      "disease": "fungal infection",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "dischromic  patches",
+        "skin rash"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "allergy",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "chills",
+        "shivering"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "gerd",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "chest pain",
+        "cough",
+        "acidity"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "chronic cholestasis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "yellowish skin",
+        "abdominal pain",
+        "yellowing of eyes"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 3,
+      "tied_diseases": [
+        "chronic cholestasis",
+        "hepatitis d",
+        "hepatitis a",
+        "hepatitis b",
+        "hepatitis e"
+      ]
+    },
+    {
+      "disease": "drug reaction",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "skin rash",
+        "spotting  urination"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "peptic ulcer diseae",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "indigestion",
+        "internal itching",
+        "vomiting"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "aids",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "muscle wasting",
+        "patches in throat"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "diabetes",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "irregular sugar level",
+        "obesity",
+        "excessive hunger",
+        "fatigue",
+        "polyuria"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "gastroenteritis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "sunken eyes",
+        "diarrhoea"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "bronchial asthma",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "fatigue",
+        "high fever",
+        "mucoid sputum"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hypertension",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "loss of balance",
+        "chest pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "migraine",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "irritability",
+        "headache",
+        "blurred and distorted vision",
+        "depression"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "cervical spondylosis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "loss of balance",
+        "weakness in limbs"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "paralysis (brain hemorrhage)",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "vomiting",
+        "weakness of one body side"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "jaundice",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "dark urine",
+        "high fever",
+        "fatigue",
+        "vomiting"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "malaria",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "chills",
+        "headache",
+        "diarrhoea",
+        "vomiting"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "chicken pox",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "lethargy",
+        "headache",
+        "malaise",
+        "itching",
+        "mild fever"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "dengue",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "skin rash",
+        "high fever",
+        "pain behind the eyes",
+        "back pain",
+        "muscle pain",
+        "joint pain",
+        "chills"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 7,
+      "tied_diseases": []
+    },
+    {
+      "disease": "typhoid",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "belly pain",
+        "abdominal pain",
+        "toxic look (typhos)",
+        "chills",
+        "headache"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hepatitis a",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "vomiting",
+        "dark urine",
+        "mild fever",
+        "loss of appetite",
+        "nausea"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hepatitis b",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "yellowing of eyes",
+        "dark urine",
+        "receiving blood transfusion",
+        "receiving unsterile injections",
+        "yellowish skin",
+        "lethargy"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 6,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hepatitis c",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "fatigue",
+        "family history",
+        "nausea"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hepatitis d",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "fatigue",
+        "yellowing of eyes",
+        "loss of appetite",
+        "abdominal pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 4,
+      "tied_diseases": [
+        "hepatitis d",
+        "hepatitis b",
+        "hepatitis e"
+      ]
+    },
+    {
+      "disease": "hepatitis e",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "high fever",
+        "nausea",
+        "abdominal pain",
+        "coma",
+        "fatigue",
+        "joint pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 6,
+      "tied_diseases": []
+    },
+    {
+      "disease": "alcoholic hepatitis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "yellowish skin",
+        "fluid overload",
+        "distention of abdomen"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "tuberculosis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "vomiting",
+        "high fever",
+        "chills",
+        "chest pain",
+        "loss of appetite",
+        "yellowing of eyes",
+        "breathlessness",
+        "sweating"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 8,
+      "tied_diseases": []
+    },
+    {
+      "disease": "common cold",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "headache",
+        "throat irritation",
+        "high fever",
+        "congestion",
+        "cough",
+        "continuous sneezing",
+        "sinus pressure",
+        "chest pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 8,
+      "tied_diseases": []
+    },
+    {
+      "disease": "pneumonia",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "fast heart rate",
+        "chest pain",
+        "fatigue",
+        "malaise",
+        "phlegm"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "dimorphic hemmorhoids(piles)",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "pain during bowel movements",
+        "irritation in anus"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "heart attack",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "vomiting",
+        "chest pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 2,
+      "tied_diseases": [
+        "heart attack",
+        "gerd",
+        "tuberculosis",
+        "blood clots"
+      ]
+    },
+    {
+      "disease": "varicose veins",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "swollen blood vessels",
+        "prominent veins on calf",
+        "fatigue"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hypothyroidism",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "swollen extremeties",
+        "lethargy",
+        "weight gain",
+        "depression",
+        "brittle nails",
+        "cold hands and feets"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 6,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hyperthyroidism",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "fatigue",
+        "fast heart rate",
+        "diarrhoea",
+        "mood swings",
+        "abnormal menstruation"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hypoglycemia",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "drying and tingling lips",
+        "headache",
+        "fatigue",
+        "vomiting",
+        "nausea",
+        "blurred and distorted vision"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 6,
+      "tied_diseases": []
+    },
+    {
+      "disease": "osteoarthristis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "joint pain",
+        "hip joint pain",
+        "swelling joints"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "arthritis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "stiff neck",
+        "swelling joints"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "loss of balance",
+        "unsteadiness",
+        "spinning movements"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "acne",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "pus filled pimples",
+        "blackheads"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "urinary tract infection",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "burning micturition",
+        "foul smell of urine"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "psoriasis",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "joint pain",
+        "small dents in nails",
+        "skin rash"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "impetigo",
+      "source": "DiseaseAndSymptoms",
+      "query_symptoms": [
+        "blister",
+        "yellow crust ooze"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "acute flaccid myelitis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "arm weakness",
+        "loss of muscle tone"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "fullness below ribs",
+        "fatigue",
+        "frequent infections",
+        "petechiae",
+        "night sweats",
+        "weakness",
+        "easy bruising"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 7,
+      "tied_diseases": []
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "weakness",
+        "easy bruising",
+        "bone pain",
+        "fatigue",
+        "shortness of breath"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "anal cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "anal pain",
+        "change in bowel habits",
+        "anal itching"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "anal disorders",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "itching",
+        "swelling"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "anxiety",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "avoidance of activities"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 1,
+      "tied_diseases": []
+    },
+    {
+      "disease": "aplastic anemia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "dizziness",
+        "easy bruising",
+        "shortness of breath"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "bipolar disorder",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "elevated mood",
+        "racing thoughts",
+        "irritability"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "blood clots",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "rapid breathing",
+        "chest pain",
+        "nausea",
+        "one sided weakness",
+        "limb tenderness",
+        "rapid heart rate",
+        "shortness of breath",
+        "vomiting"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 8,
+      "tied_diseases": []
+    },
+    {
+      "disease": "breast cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "nipple discharge",
+        "breast skin changes",
+        "breast pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "breast diseases",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "breast lump",
+        "breast tenderness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "blood in urine",
+        "breast lump",
+        "unexplained bleeding",
+        "difficulty swallowing"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "cervical cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "pain during sex",
+        "abnormal vaginal bleeding"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "chagas disease",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "headache",
+        "diarrhea",
+        "swollen eyelid",
+        "body aches"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "childhood leukemia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "weight loss",
+        "petechiae",
+        "fatigue",
+        "night sweats"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 4,
+      "tied_diseases": [
+        "childhood leukemia",
+        "leukemia",
+        "chronic lymphocytic leukemia",
+        "acute lymphocytic leukemia"
+      ]
+    },
+    {
+      "disease": "chronic bronchitis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "chest tightness",
+        "frequent cough"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "easy bruising",
+        "swollen lymph nodes",
+        "weakness",
+        "fatigue",
+        "infections"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "chronic myeloid leukemia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "abdominal fullness",
+        "fatigue"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "colorectal cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "narrow stool",
+        "diarrhea"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "crohns disease",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "diarrhea",
+        "abdominal pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 2,
+      "tied_diseases": [
+        "crohns disease",
+        "kaposi sarcoma",
+        "diverticulosis and diverticulitis",
+        "ebola"
+      ]
+    },
+    {
+      "disease": "cryptosporidiosis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "stomach cramps",
+        "vomiting",
+        "fever"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "delirium",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "disorganized thinking",
+        "altered alertness",
+        "hallucinations",
+        "trouble concentrating",
+        "changing consciousness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "dementia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "word finding difficulty",
+        "needing help with daily tasks"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "diabetic heart disease",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "swollen feet",
+        "fainting",
+        "swollen ankles",
+        "dizziness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "dislocated shoulder",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "weakness in arm",
+        "shoulder bruising",
+        "visible shoulder deformity",
+        "severe shoulder pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "diverticulosis and diverticulitis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "diarrhea",
+        "abdominal cramping"
+      ],
+      "rank": 2,
+      "hit1": false,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "ebola",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "unexplained bleeding",
+        "muscle aches",
+        "sore throat",
+        "diarrhea",
+        "fatigue",
+        "loss of appetite"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 6,
+      "tied_diseases": []
+    },
+    {
+      "disease": "endocarditis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "purple bumps",
+        "cough",
+        "joint pain",
+        "skin changes",
+        "red bumps",
+        "shortness of breath",
+        "chest pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 7,
+      "tied_diseases": []
+    },
+    {
+      "disease": "endometriosis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "infertility"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 1,
+      "tied_diseases": []
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "urine dribbling",
+        "weak urine stream",
+        "urinary incontinence",
+        "frequent urination"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "fibromyalgia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "trouble sleeping",
+        "stiffness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "flu",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "stuffy nose",
+        "fever",
+        "cough",
+        "sore throat",
+        "chills"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "fractures",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "bruising",
+        "tenderness",
+        "swelling"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "head and neck cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "non healing mouth sore",
+        "difficulty swallowing",
+        "persistent sore throat"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "head lice",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "sores from scratching",
+        "scalp tickling"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "heart valve diseases",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "swelling in feet",
+        "swelling in ankles",
+        "chest pain",
+        "arrhythmia"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hemophilia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "blood in stool",
+        "muscle bleeding",
+        "gum bleeding",
+        "skin bruising",
+        "bleeding in infant head"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hemorrhagic stroke",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "speech difficulty",
+        "sudden weakness",
+        "sudden confusion",
+        "sudden severe headache",
+        "loss of balance"
+      ],
+      "rank": 3,
+      "hit1": false,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 5,
+      "tied_diseases": [
+        "ischemic stroke",
+        "stroke",
+        "hemorrhagic stroke"
+      ]
+    },
+    {
+      "disease": "hidradenitis suppurativa",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "slow healing abscesses",
+        "skin tunnels"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "histoplasmosis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "chest pain",
+        "fatigue",
+        "fever"
+      ],
+      "rank": 2,
+      "hit1": false,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 3,
+      "tied_diseases": [
+        "pneumocystis infections",
+        "histoplasmosis",
+        "post-covid conditions (long covid)"
+      ]
+    },
+    {
+      "disease": "hiv",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "chills",
+        "fatigue",
+        "fever",
+        "mouth ulcers"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "hodgkin lymphoma",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "fever",
+        "weight loss",
+        "itchy skin"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "fever",
+        "rash",
+        "extreme fatigue",
+        "body aches"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "insomnia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "feeling unrested",
+        "short sleep periods"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "ischemic stroke",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "speech difficulty",
+        "sudden weakness",
+        "sudden walking trouble",
+        "sudden numbness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "kaposi sarcoma",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "leg swelling",
+        "abdominal pain"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "kawasaki disease",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "rash",
+        "pink eye",
+        "red palms",
+        "high fever",
+        "red soles"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "leukemia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "fatigue",
+        "fever",
+        "weight loss",
+        "petechiae"
+      ],
+      "rank": 2,
+      "hit1": false,
+      "hit3": true,
+      "flagged_low_confidence": true,
+      "top_match_count": 4,
+      "tied_diseases": [
+        "childhood leukemia",
+        "leukemia",
+        "acute myeloid leukemia",
+        "chronic lymphocytic leukemia",
+        "acute lymphocytic leukemia"
+      ]
+    },
+    {
+      "disease": "leukodystrophies",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "muscle tone problems",
+        "vision problems",
+        "hearing problems",
+        "speech difficulty"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "lewy body dementia",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "dementia"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 1,
+      "tied_diseases": []
+    },
+    {
+      "disease": "lyme disease",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "swollen lymph nodes",
+        "headache",
+        "fatigue"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "menopause",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "changed period length"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 1,
+      "tied_diseases": []
+    },
+    {
+      "disease": "menstruation",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "irritability",
+        "bloating",
+        "lower back pain",
+        "breast tenderness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "anxiety",
+        "fatigue",
+        "cough",
+        "migraines"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "mpox",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "chills",
+        "back ache",
+        "nasal congestion",
+        "exhaustion",
+        "headache"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "myalgic encephalomyelitis chronic fatigue syndrome",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "post exertional malaise"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 1,
+      "tied_diseases": []
+    },
+    {
+      "disease": "myasthenia gravis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "facial expression changes",
+        "drooping eyelid",
+        "double vision",
+        "eye muscle weakness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "obsessive-compulsive disorder",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "intrusive worries",
+        "unwanted thoughts"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "oral cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "mouth bleeding",
+        "mouth patch",
+        "mouth pain",
+        "ear pain",
+        "jaw swelling",
+        "jaw movement difficulty"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 6,
+      "tied_diseases": []
+    },
+    {
+      "disease": "ovarian disorders",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "vaginal discharge",
+        "painful menstrual cramps",
+        "diarrhea"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "panic disorder",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "racing heart",
+        "weakness",
+        "nausea",
+        "avoidance behavior",
+        "stomach pain",
+        "choking feeling",
+        "fear of losing control",
+        "shaking"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 8,
+      "tied_diseases": []
+    },
+    {
+      "disease": "pelvic inflammatory disease",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "pain during sex",
+        "foul smelling discharge"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "pneumocystis infections",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "chills",
+        "cough",
+        "difficulty breathing"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "polio and post-polio syndrome",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "headache",
+        "nausea",
+        "sore throat"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "stomach pain",
+        "palpitations",
+        "cough",
+        "sleep problems",
+        "difficulty breathing"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "post-traumatic stress disorder",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "nightmares"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 1,
+      "tied_diseases": []
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "poor concentration",
+        "irritability",
+        "night sweats"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "difficulty swallowing",
+        "loss of balance",
+        "mild dementia",
+        "mood changes"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "prostate cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "blood in semen",
+        "blood in urine",
+        "sudden urge to urinate"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "prostate diseases",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "frequent urination",
+        "urinary urgency"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "reflux in infants",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "swallowing difficulty",
+        "coughing",
+        "wheezing",
+        "back arching",
+        "poor eating",
+        "irritability"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 6,
+      "tied_diseases": []
+    },
+    {
+      "disease": "respiratory syncytial virus infections",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "cough",
+        "sneezing",
+        "fever"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "rotator cuff injuries",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "pain when lying down",
+        "difficulty lifting arm"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "sepsis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "shivering",
+        "feeling cold",
+        "extreme pain",
+        "clammy skin",
+        "shortness of breath"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 5,
+      "tied_diseases": []
+    },
+    {
+      "disease": "sickle cell disease",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "fatigue",
+        "painful hand swelling"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "sleep disorders",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "difficulty falling asleep",
+        "sleep paralysis",
+        "sudden muscle weakness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "stroke",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "sudden numbness",
+        "sudden walking difficulty",
+        "sudden severe headache",
+        "loss of balance"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "teen depression",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "irritability",
+        "frustration",
+        "hopelessness"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "testicular cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "testicular pain",
+        "change in testicle feel",
+        "scrotal fluid buildup"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 3,
+      "tied_diseases": []
+    },
+    {
+      "disease": "thyroid cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "neck lump",
+        "difficulty breathing"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "tonsillitis",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "difficulty swallowing",
+        "red tonsils",
+        "swollen neck glands",
+        "sore throat"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "tremor",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "difficulty holding utensils",
+        "rhythmic shaking"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 2,
+      "tied_diseases": []
+    },
+    {
+      "disease": "uterine fibroids",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "abdominal fullness",
+        "heavy periods",
+        "pain during sex",
+        "frequent urination"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    },
+    {
+      "disease": "vaginal cancer",
+      "source": "MedlinePlus",
+      "query_symptoms": [
+        "pain during sex",
+        "blood in stool",
+        "blood in urine",
+        "vaginal lump"
+      ],
+      "rank": 1,
+      "hit1": true,
+      "hit3": true,
+      "flagged_low_confidence": false,
+      "top_match_count": 4,
+      "tied_diseases": []
+    }
+  ]
+}
