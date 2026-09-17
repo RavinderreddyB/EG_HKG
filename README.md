@@ -227,14 +227,7 @@ abstract live via NCBI efetch and re-encodes with all-MiniLM-L6-v2 against
 the real stored PubMedBERT `confidence` values — expect a several-minute
 run and set `NCBI_API_KEY` in `.env` to a real key or leave it unset,
 since the placeholder value causes NCBI to reject every request with a
-400 error and silently fall every score back to 0.5). An earlier version
-of this ablation (`data/processed/embedding_ablation_224_edges.json`) was
-scoped to only the 224 edges from the original DiseaseAndSymptoms
-dataset; the remaining 546 MedlinePlus-sourced edges turned out to carry
-real embedding-based confidence from the same pipeline, so there was no
-methodological reason to exclude them. The script that generated the
-224-edge file was a one-off, never committed — treat that file as
-historical/unreproducible and prefer the 770-edge version.
+400 error and silently fall every score back to 0.5). 
 
 ## Known limitations
 
