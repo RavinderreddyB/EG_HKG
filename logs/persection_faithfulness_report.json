@@ -1,0 +1,768 @@
+{
+  "per_disease": [
+    {
+      "avg_consistency": 0.3324996118382033,
+      "min_consistency": 0.00603235000744462,
+      "low_consistency_rate": 0.6666666666666666,
+      "num_claims": 18,
+      "run": "run_20260727_210815.json",
+      "disease": "heart attack"
+    },
+    {
+      "avg_consistency": 0.6023835884407163,
+      "min_consistency": 0.019939130172133446,
+      "low_consistency_rate": 0.35714285714285715,
+      "num_claims": 14,
+      "run": "run_20260727_210815.json",
+      "disease": "bronchial asthma"
+    },
+    {
+      "avg_consistency": 0.7301286440924741,
+      "min_consistency": 0.015398387797176838,
+      "low_consistency_rate": 0.25,
+      "num_claims": 16,
+      "run": "run_20260727_211101.json",
+      "disease": "gastroenteritis"
+    },
+    {
+      "avg_consistency": 0.6673983475193381,
+      "min_consistency": 0.049976155161857605,
+      "low_consistency_rate": 0.25,
+      "num_claims": 16,
+      "run": "run_20260727_211101.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.8750721020624042,
+      "min_consistency": 0.038409456610679626,
+      "low_consistency_rate": 0.0625,
+      "num_claims": 16,
+      "run": "run_20260727_211101.json",
+      "disease": "aids"
+    },
+    {
+      "avg_consistency": 0.8769477233290672,
+      "min_consistency": 0.46214914321899414,
+      "low_consistency_rate": 0.125,
+      "num_claims": 8,
+      "run": "run_20260727_211207.json",
+      "disease": "hypothyroidism"
+    },
+    {
+      "avg_consistency": 0.7813793446868658,
+      "min_consistency": 0.04706328734755516,
+      "low_consistency_rate": 0.2,
+      "num_claims": 10,
+      "run": "run_20260727_211207.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.36329203443084324,
+      "min_consistency": 0.002991586923599243,
+      "low_consistency_rate": 0.6666666666666666,
+      "num_claims": 27,
+      "run": "run_20260727_211207.json",
+      "disease": "hyperthyroidism"
+    },
+    {
+      "avg_consistency": 0.6044213617077241,
+      "min_consistency": 0.038375623524188995,
+      "low_consistency_rate": 0.38461538461538464,
+      "num_claims": 13,
+      "run": "run_20260727_211319.json",
+      "disease": "allergy"
+    },
+    {
+      "avg_consistency": 0.8239533960855064,
+      "min_consistency": 0.0031609267462044954,
+      "low_consistency_rate": 0.15384615384615385,
+      "num_claims": 13,
+      "run": "run_20260727_211319.json",
+      "disease": "arthritis"
+    },
+    {
+      "avg_consistency": 0.2841994842248304,
+      "min_consistency": 0.007165488786995411,
+      "low_consistency_rate": 0.7142857142857143,
+      "num_claims": 7,
+      "run": "run_20260727_211319.json",
+      "disease": "hepatitis e"
+    },
+    {
+      "avg_consistency": 0.6876686130251203,
+      "min_consistency": 0.21196871995925903,
+      "low_consistency_rate": 0.21428571428571427,
+      "num_claims": 14,
+      "run": "run_20260727_211626.json",
+      "disease": "psoriasis"
+    },
+    {
+      "avg_consistency": 0.7860718192532659,
+      "min_consistency": 0.2204088717699051,
+      "low_consistency_rate": 0.1875,
+      "num_claims": 16,
+      "run": "run_20260727_211626.json",
+      "disease": "gastroenteritis"
+    },
+    {
+      "avg_consistency": 0.695667476600243,
+      "min_consistency": 0.016160210594534874,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 18,
+      "run": "run_20260727_211919.json",
+      "disease": "osteoarthristis"
+    },
+    {
+      "avg_consistency": 0.7001144350506365,
+      "min_consistency": 0.09156476706266403,
+      "low_consistency_rate": 0.25,
+      "num_claims": 16,
+      "run": "run_20260727_211919.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.6602579612284899,
+      "min_consistency": 0.046267107129096985,
+      "low_consistency_rate": 0.35,
+      "num_claims": 20,
+      "run": "run_20260727_212048.json",
+      "disease": "peptic ulcer diseae"
+    },
+    {
+      "avg_consistency": 0.6629285232888328,
+      "min_consistency": 0.08073227107524872,
+      "low_consistency_rate": 0.2777777777777778,
+      "num_claims": 18,
+      "run": "run_20260727_212048.json",
+      "disease": "common cold"
+    },
+    {
+      "avg_consistency": 0.7741646179381538,
+      "min_consistency": 0.0677480399608612,
+      "low_consistency_rate": 0.23529411764705882,
+      "num_claims": 17,
+      "run": "run_20260727_212048.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.5524507179856301,
+      "min_consistency": 0.05194023251533508,
+      "low_consistency_rate": 0.4666666666666667,
+      "num_claims": 15,
+      "run": "run_20260727_212403.json",
+      "disease": "dengue"
+    },
+    {
+      "avg_consistency": 0.6508311738862711,
+      "min_consistency": 0.07657340914011002,
+      "low_consistency_rate": 0.35294117647058826,
+      "num_claims": 17,
+      "run": "run_20260727_212403.json",
+      "disease": "common cold"
+    },
+    {
+      "avg_consistency": 0.674219939754241,
+      "min_consistency": 0.02268270216882229,
+      "low_consistency_rate": 0.2777777777777778,
+      "num_claims": 18,
+      "run": "run_20260727_212403.json",
+      "disease": "arthritis"
+    },
+    {
+      "avg_consistency": 0.7130707942415029,
+      "min_consistency": 0.025517158210277557,
+      "low_consistency_rate": 0.25,
+      "num_claims": 16,
+      "run": "run_20260727_212830.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.5166257285823425,
+      "min_consistency": 0.013828644528985023,
+      "low_consistency_rate": 0.5333333333333333,
+      "num_claims": 15,
+      "run": "run_20260727_212830.json",
+      "disease": "hypoglycemia"
+    },
+    {
+      "avg_consistency": 0.2242419912169377,
+      "min_consistency": 0.011625489220023155,
+      "low_consistency_rate": 0.8888888888888888,
+      "num_claims": 9,
+      "run": "run_20260727_213204.json",
+      "disease": "hepatitis e"
+    },
+    {
+      "avg_consistency": 0.7906695366171854,
+      "min_consistency": 0.012888992205262184,
+      "low_consistency_rate": 0.14285714285714285,
+      "num_claims": 14,
+      "run": "run_20260727_213450.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.794456915722953,
+      "min_consistency": 0.327732652425766,
+      "low_consistency_rate": 0.1111111111111111,
+      "num_claims": 9,
+      "run": "run_20260727_213450.json",
+      "disease": "common cold"
+    },
+    {
+      "avg_consistency": 0.911169343524509,
+      "min_consistency": 0.7994015216827393,
+      "low_consistency_rate": 0.0,
+      "num_claims": 9,
+      "run": "run_20260727_213606.json",
+      "disease": "dengue"
+    },
+    {
+      "avg_consistency": 0.4846747038619859,
+      "min_consistency": 0.06168732792139053,
+      "low_consistency_rate": 0.5714285714285714,
+      "num_claims": 14,
+      "run": "run_20260727_213606.json",
+      "disease": "chicken pox"
+    },
+    {
+      "avg_consistency": 0.7028469165787101,
+      "min_consistency": 0.01866232044994831,
+      "low_consistency_rate": 0.2,
+      "num_claims": 20,
+      "run": "run_20260727_213606.json",
+      "disease": "hepatitis c"
+    },
+    {
+      "avg_consistency": 0.621125636001428,
+      "min_consistency": 0.027548953890800476,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 6,
+      "run": "run_20260727_213802.json",
+      "disease": "drug reaction"
+    },
+    {
+      "avg_consistency": 0.3816678384318948,
+      "min_consistency": 0.024581080302596092,
+      "low_consistency_rate": 0.6666666666666666,
+      "num_claims": 6,
+      "run": "run_20260727_213802.json",
+      "disease": "hepatitis e"
+    },
+    {
+      "avg_consistency": 0.8558953255414963,
+      "min_consistency": 0.7223963737487793,
+      "low_consistency_rate": 0.0,
+      "num_claims": 8,
+      "run": "run_20260727_213802.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.20578778279013932,
+      "min_consistency": 0.011003120802342892,
+      "low_consistency_rate": 0.875,
+      "num_claims": 8,
+      "run": "run_20260727_213941.json",
+      "disease": "alcoholic hepatitis"
+    },
+    {
+      "avg_consistency": 0.7278060968118635,
+      "min_consistency": 0.008426201529800892,
+      "low_consistency_rate": 0.2727272727272727,
+      "num_claims": 11,
+      "run": "run_20260727_213941.json",
+      "disease": "typhoid"
+    },
+    {
+      "avg_consistency": 0.8564497455954552,
+      "min_consistency": 0.46214914321899414,
+      "low_consistency_rate": 0.125,
+      "num_claims": 8,
+      "run": "run_20260727_213941.json",
+      "disease": "hypothyroidism"
+    },
+    {
+      "avg_consistency": 0.6626016676425934,
+      "min_consistency": 0.029873810708522797,
+      "low_consistency_rate": 0.3,
+      "num_claims": 10,
+      "run": "run_20260727_214006.json",
+      "disease": "paralysis (brain hemorrhage)"
+    },
+    {
+      "avg_consistency": 0.7892716567032039,
+      "min_consistency": 0.00954930018633604,
+      "low_consistency_rate": 0.1,
+      "num_claims": 10,
+      "run": "run_20260727_214006.json",
+      "disease": "hepatitis b"
+    },
+    {
+      "avg_consistency": 0.8273411132395267,
+      "min_consistency": 0.04175693169236183,
+      "low_consistency_rate": 0.1111111111111111,
+      "num_claims": 9,
+      "run": "run_20260727_214006.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.7661974830552936,
+      "min_consistency": 0.0185896847397089,
+      "low_consistency_rate": 0.14285714285714285,
+      "num_claims": 14,
+      "run": "run_20260727_214122.json",
+      "disease": "urinary tract infection"
+    },
+    {
+      "avg_consistency": 0.9413238689303398,
+      "min_consistency": 0.9035529494285583,
+      "low_consistency_rate": 0.0,
+      "num_claims": 8,
+      "run": "run_20260727_214122.json",
+      "disease": "hepatitis b"
+    },
+    {
+      "avg_consistency": 0.0910390205681324,
+      "min_consistency": 0.038695164024829865,
+      "low_consistency_rate": 1.0,
+      "num_claims": 2,
+      "run": "run_20260727_214122.json",
+      "disease": "cervical spondylosis"
+    },
+    {
+      "avg_consistency": 0.7080326974391937,
+      "min_consistency": 0.04072082042694092,
+      "low_consistency_rate": 0.125,
+      "num_claims": 8,
+      "run": "run_20260727_214221.json",
+      "disease": "dengue"
+    },
+    {
+      "avg_consistency": 0.01673954213038087,
+      "min_consistency": 0.012374636717140675,
+      "low_consistency_rate": 1.0,
+      "num_claims": 2,
+      "run": "run_20260727_214221.json",
+      "disease": "cervical spondylosis"
+    },
+    {
+      "avg_consistency": 0.7492312625050545,
+      "min_consistency": 0.14456211030483246,
+      "low_consistency_rate": 0.2,
+      "num_claims": 10,
+      "run": "run_20260727_214221.json",
+      "disease": "peptic ulcer diseae"
+    },
+    {
+      "avg_consistency": 0.8374185807382067,
+      "min_consistency": 0.04214179143309593,
+      "low_consistency_rate": 0.08333333333333333,
+      "num_claims": 12,
+      "run": "run_20260727_214309.json",
+      "disease": "hepatitis b"
+    },
+    {
+      "avg_consistency": 0.6985768576463064,
+      "min_consistency": 0.171877920627594,
+      "low_consistency_rate": 0.16666666666666666,
+      "num_claims": 6,
+      "run": "run_20260727_214309.json",
+      "disease": "hypoglycemia"
+    },
+    {
+      "avg_consistency": 0.8121578735964639,
+      "min_consistency": 0.28673842549324036,
+      "low_consistency_rate": 0.14285714285714285,
+      "num_claims": 7,
+      "run": "run_20260727_214309.json",
+      "disease": "hypothyroidism"
+    },
+    {
+      "avg_consistency": 0.8874782378023321,
+      "min_consistency": 0.678001344203949,
+      "low_consistency_rate": 0.0,
+      "num_claims": 11,
+      "run": "run_20260727_214425.json",
+      "disease": "psoriasis"
+    },
+    {
+      "avg_consistency": 0.7050612163729966,
+      "min_consistency": 0.004499281290918589,
+      "low_consistency_rate": 0.3076923076923077,
+      "num_claims": 13,
+      "run": "run_20260727_214425.json",
+      "disease": "fungal infection"
+    },
+    {
+      "avg_consistency": 0.777650011703372,
+      "min_consistency": 0.23124824464321136,
+      "low_consistency_rate": 0.25,
+      "num_claims": 8,
+      "run": "run_20260727_214425.json",
+      "disease": "acne"
+    },
+    {
+      "avg_consistency": 0.3606113502755761,
+      "min_consistency": 0.01720762439072132,
+      "low_consistency_rate": 0.5,
+      "num_claims": 2,
+      "run": "run_20260727_214448.json",
+      "disease": "dimorphic hemmorhoids(piles)"
+    },
+    {
+      "avg_consistency": 0.8661155045032501,
+      "min_consistency": 0.3953290581703186,
+      "low_consistency_rate": 0.1,
+      "num_claims": 10,
+      "run": "run_20260727_214448.json",
+      "disease": "hepatitis b"
+    },
+    {
+      "avg_consistency": 0.8247475645371846,
+      "min_consistency": 0.07953251898288727,
+      "low_consistency_rate": 0.14285714285714285,
+      "num_claims": 7,
+      "run": "run_20260727_214448.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.763871475495398,
+      "min_consistency": 0.00958436168730259,
+      "low_consistency_rate": 0.2,
+      "num_claims": 10,
+      "run": "run_20260727_214519.json",
+      "disease": "hypoglycemia"
+    },
+    {
+      "avg_consistency": 0.8599251806735992,
+      "min_consistency": 0.46214914321899414,
+      "low_consistency_rate": 0.125,
+      "num_claims": 8,
+      "run": "run_20260727_214519.json",
+      "disease": "hypothyroidism"
+    },
+    {
+      "avg_consistency": 0.7219866092006365,
+      "min_consistency": 0.17228160798549652,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 6,
+      "run": "run_20260727_214519.json",
+      "disease": "peptic ulcer diseae"
+    },
+    {
+      "avg_consistency": 0.5353703389151229,
+      "min_consistency": 0.024545030668377876,
+      "low_consistency_rate": 0.5555555555555556,
+      "num_claims": 9,
+      "run": "run_20260727_214604.json",
+      "disease": "paralysis (brain hemorrhage)"
+    },
+    {
+      "avg_consistency": 0.21569158524895707,
+      "min_consistency": 0.011587635613977909,
+      "low_consistency_rate": 1.0,
+      "num_claims": 6,
+      "run": "run_20260727_214604.json",
+      "disease": "alcoholic hepatitis"
+    },
+    {
+      "avg_consistency": 0.6355017299453417,
+      "min_consistency": 0.09885170310735703,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 3,
+      "run": "run_20260727_214604.json",
+      "disease": "hypertension"
+    },
+    {
+      "avg_consistency": 0.8707940408161708,
+      "min_consistency": 0.6923112869262695,
+      "low_consistency_rate": 0.0,
+      "num_claims": 7,
+      "run": "run_20260727_214708.json",
+      "disease": "hypothyroidism"
+    },
+    {
+      "avg_consistency": 0.6267779173160141,
+      "min_consistency": 0.025989187881350517,
+      "low_consistency_rate": 0.2727272727272727,
+      "num_claims": 11,
+      "run": "run_20260727_214708.json",
+      "disease": "arthritis"
+    },
+    {
+      "avg_consistency": 0.8738061541860754,
+      "min_consistency": 0.3065267503261566,
+      "low_consistency_rate": 0.09090909090909091,
+      "num_claims": 11,
+      "run": "run_20260727_214708.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.8443548873066902,
+      "min_consistency": 0.21363534033298492,
+      "low_consistency_rate": 0.1,
+      "num_claims": 10,
+      "run": "run_20260727_214801.json",
+      "disease": "common cold"
+    },
+    {
+      "avg_consistency": 0.7694754764437676,
+      "min_consistency": 0.1775284707546234,
+      "low_consistency_rate": 0.2,
+      "num_claims": 20,
+      "run": "run_20260727_214801.json",
+      "disease": "urinary tract infection"
+    },
+    {
+      "avg_consistency": 0.750017303857021,
+      "min_consistency": 0.01254796888679266,
+      "low_consistency_rate": 0.25,
+      "num_claims": 8,
+      "run": "run_20260727_214801.json",
+      "disease": "drug reaction"
+    },
+    {
+      "avg_consistency": 0.7564756739884615,
+      "min_consistency": 0.08811601251363754,
+      "low_consistency_rate": 0.16666666666666666,
+      "num_claims": 12,
+      "run": "run_20260727_214924.json",
+      "disease": "psoriasis"
+    },
+    {
+      "avg_consistency": 0.7829171030316502,
+      "min_consistency": 0.06129416450858116,
+      "low_consistency_rate": 0.1875,
+      "num_claims": 16,
+      "run": "run_20260727_214924.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.012097756067911783,
+      "min_consistency": 0.005948268808424473,
+      "low_consistency_rate": 1.0,
+      "num_claims": 3,
+      "run": "run_20260727_214924.json",
+      "disease": "dimorphic hemmorhoids(piles)"
+    },
+    {
+      "avg_consistency": 0.569400433730334,
+      "min_consistency": 0.009086097590625286,
+      "low_consistency_rate": 0.4,
+      "num_claims": 10,
+      "run": "run_20260727_215120.json",
+      "disease": "fungal infection"
+    },
+    {
+      "avg_consistency": 0.8755719011480158,
+      "min_consistency": 0.6821886897087097,
+      "low_consistency_rate": 0.0,
+      "num_claims": 11,
+      "run": "run_20260727_215120.json",
+      "disease": "psoriasis"
+    },
+    {
+      "avg_consistency": 0.412568297666999,
+      "min_consistency": 0.012827442958950996,
+      "low_consistency_rate": 0.6153846153846154,
+      "num_claims": 13,
+      "run": "run_20260727_215120.json",
+      "disease": "heart attack"
+    },
+    {
+      "avg_consistency": 0.7354060855827161,
+      "min_consistency": 0.02886895090341568,
+      "low_consistency_rate": 0.21428571428571427,
+      "num_claims": 14,
+      "run": "run_20260727_215238.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.29516653541941196,
+      "min_consistency": 0.0047979350201785564,
+      "low_consistency_rate": 0.6875,
+      "num_claims": 16,
+      "run": "run_20260727_215238.json",
+      "disease": "hyperthyroidism"
+    },
+    {
+      "avg_consistency": 0.7890431019994948,
+      "min_consistency": 0.0795324444770813,
+      "low_consistency_rate": 0.1111111111111111,
+      "num_claims": 9,
+      "run": "run_20260727_215238.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.4202586079814604,
+      "min_consistency": 0.008460558019578457,
+      "low_consistency_rate": 0.5714285714285714,
+      "num_claims": 7,
+      "run": "run_20260727_215322.json",
+      "disease": "varicose veins"
+    },
+    {
+      "avg_consistency": 0.3865580728277564,
+      "min_consistency": 0.013863184489309788,
+      "low_consistency_rate": 0.6,
+      "num_claims": 5,
+      "run": "run_20260727_215322.json",
+      "disease": "heart attack"
+    },
+    {
+      "avg_consistency": 0.3745655077509582,
+      "min_consistency": 0.007152047008275986,
+      "low_consistency_rate": 0.625,
+      "num_claims": 8,
+      "run": "run_20260727_215322.json",
+      "disease": "bronchial asthma"
+    },
+    {
+      "avg_consistency": 0.7287434520465987,
+      "min_consistency": 0.04544808715581894,
+      "low_consistency_rate": 0.21428571428571427,
+      "num_claims": 14,
+      "run": "run_20260727_215527.json",
+      "disease": "arthritis"
+    },
+    {
+      "avg_consistency": 0.7555162935916867,
+      "min_consistency": 0.037355195730924606,
+      "low_consistency_rate": 0.21428571428571427,
+      "num_claims": 14,
+      "run": "run_20260727_215527.json",
+      "disease": "osteoarthristis"
+    },
+    {
+      "avg_consistency": 0.8256500612478703,
+      "min_consistency": 0.02563534304499626,
+      "low_consistency_rate": 0.0625,
+      "num_claims": 16,
+      "run": "run_20260727_215527.json",
+      "disease": "gastroenteritis"
+    },
+    {
+      "avg_consistency": 0.668109826836735,
+      "min_consistency": 0.009232227690517902,
+      "low_consistency_rate": 0.3,
+      "num_claims": 10,
+      "run": "run_20260727_215702.json",
+      "disease": "typhoid"
+    },
+    {
+      "avg_consistency": 0.24408321897499263,
+      "min_consistency": 0.0077743991278111935,
+      "low_consistency_rate": 1.0,
+      "num_claims": 2,
+      "run": "run_20260727_215702.json",
+      "disease": "dimorphic hemmorhoids(piles)"
+    },
+    {
+      "avg_consistency": 0.5878529838389821,
+      "min_consistency": 0.028324313461780548,
+      "low_consistency_rate": 0.4444444444444444,
+      "num_claims": 9,
+      "run": "run_20260727_215702.json",
+      "disease": "paralysis (brain hemorrhage)"
+    },
+    {
+      "avg_consistency": 0.6433044274648031,
+      "min_consistency": 0.032608263194561005,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 9,
+      "run": "run_20260727_215850.json",
+      "disease": "urinary tract infection"
+    },
+    {
+      "avg_consistency": 0.6780464320576617,
+      "min_consistency": 0.015501209534704685,
+      "low_consistency_rate": 0.2857142857142857,
+      "num_claims": 7,
+      "run": "run_20260727_215850.json",
+      "disease": "hypoglycemia"
+    },
+    {
+      "avg_consistency": 0.6609508947003633,
+      "min_consistency": 0.012308250181376934,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 12,
+      "run": "run_20260727_215850.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.9032820045948029,
+      "min_consistency": 0.6097058653831482,
+      "low_consistency_rate": 0.0,
+      "num_claims": 10,
+      "run": "run_20260727_215934.json",
+      "disease": "psoriasis"
+    },
+    {
+      "avg_consistency": 0.7435964173995532,
+      "min_consistency": 0.011129630729556084,
+      "low_consistency_rate": 0.23076923076923078,
+      "num_claims": 13,
+      "run": "run_20260727_215934.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.6435413097031415,
+      "min_consistency": 0.008158154785633087,
+      "low_consistency_rate": 0.25,
+      "num_claims": 20,
+      "run": "run_20260727_215934.json",
+      "disease": "hypoglycemia"
+    },
+    {
+      "avg_consistency": 0.5449458089553647,
+      "min_consistency": 0.013379322364926338,
+      "low_consistency_rate": 0.4444444444444444,
+      "num_claims": 9,
+      "run": "run_20260727_220039.json",
+      "disease": "varicose veins"
+    },
+    {
+      "avg_consistency": 0.7480160113837984,
+      "min_consistency": 0.05592478811740875,
+      "low_consistency_rate": 0.2222222222222222,
+      "num_claims": 9,
+      "run": "run_20260727_220039.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.7408719379454851,
+      "min_consistency": 0.05823345482349396,
+      "low_consistency_rate": 0.25,
+      "num_claims": 8,
+      "run": "run_20260727_220039.json",
+      "disease": "peptic ulcer diseae"
+    },
+    {
+      "avg_consistency": 0.6621004385607583,
+      "min_consistency": 0.23727548122406006,
+      "low_consistency_rate": 0.42857142857142855,
+      "num_claims": 7,
+      "run": "run_20260727_220141.json",
+      "disease": "peptic ulcer diseae"
+    },
+    {
+      "avg_consistency": 0.8119451569823118,
+      "min_consistency": 0.0070404186844825745,
+      "low_consistency_rate": 0.15384615384615385,
+      "num_claims": 13,
+      "run": "run_20260727_220141.json",
+      "disease": "hepatitis c"
+    },
+    {
+      "avg_consistency": 0.6376271471381187,
+      "min_consistency": 0.011271566152572632,
+      "low_consistency_rate": 0.3,
+      "num_claims": 10,
+      "run": "run_20260727_220141.json",
+      "disease": "chronic cholestasis"
+    }
+  ],
+  "avg_consistency": 0.6526307408564174,
+  "avg_min_consistency": 0.12301461810589229,
+  "avg_low_consistency_rate": 0.32133164994620095,
+  "num_scored": 95
+}

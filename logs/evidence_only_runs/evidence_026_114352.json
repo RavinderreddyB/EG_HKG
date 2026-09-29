@@ -1,0 +1,453 @@
+{
+  "symptoms": [
+    "bleeding after vaccination",
+    "frequent cough",
+    "slow healing abscesses"
+  ],
+  "resolved_symptoms": [
+    "bleeding after vaccination",
+    "frequent cough",
+    "slow healing abscesses"
+  ],
+  "diseases": [
+    {
+      "disease": "hidradenitis suppurativa",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "medicines"
+      ],
+      "citations": [
+        {
+          "symptom": "slow healing abscesses",
+          "pmid": "40279454",
+          "title": "[Hidradenitis suppurativa, report with dual therapy: small molecules and biological therapy].",
+          "year": "2025",
+          "confidence": 0.944,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7080335322904444,
+          "abstract_snippet": "Hidradenitis suppurativa is an immune-mediated disease characterized by abscesses, deep nodules and fistulas that connect them to each other or connect to the surface, creating infectious processes that are difficult to control, healing of fistulas, retractable tracts and painful ulcers of slow evol"
+        },
+        {
+          "symptom": "skin tunnels",
+          "pmid": "39862870",
+          "title": "Hidradenitis suppurativa.",
+          "year": "2025",
+          "confidence": 0.9335,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7089347403412204,
+          "abstract_snippet": "Hidradenitis suppurativa is a chronic inflammatory disease characterised by painful, deep-seated nodules, abscesses, and draining tunnels in the skin of axillary, inguinal, genitoanal, or inframammary areas. In recent years, the body of knowledge in hidradenitis suppurativa has advanced greatly. Thi"
+        },
+        {
+          "symptom": "scarring",
+          "pmid": "39862870",
+          "title": "Hidradenitis suppurativa.",
+          "year": "2025",
+          "confidence": 0.9323,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7563062785155318,
+          "abstract_snippet": "Hidradenitis suppurativa is a chronic inflammatory disease characterised by painful, deep-seated nodules, abscesses, and draining tunnels in the skin of axillary, inguinal, genitoanal, or inframammary areas. In recent years, the body of knowledge in hidradenitis suppurativa has advanced greatly. Thi"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Your provider may refer you to a dermatologist (skin doctor) to get a diagnosis or treatment.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the treatments for hidradenitis suppurativa? \n There is no cure for HS. Treatments focus on the symptoms, but they are not always effective for everyone. The treatments depend on how severe the disease is and may include: \n Medicines , including steroids , antibiotics , pain relievers , and medicines that flight inflammation. In mild cases, the medicines may be topical (applied to your skin). Otherwise, the medicines may be injected or taken orally (by mouth). \n Procedures or surgery to remove the lumps and scars or make the sores go away.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What is hidradenitis suppurativa (HS)? \n Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing abscesses that drain fluid and pus. As the abscesses heal, they can cause scarring of the skin.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What causes hidradenitis suppurativa (HS)? \n The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. Genetics, environment, and hormonal factors may play a role. Some cases of HS are caused by changes in certain genes .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS is not caused by bad hygiene, and it cannot be spread to others.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Who is more likely to get hidradenitis suppurativa (HS)? \n HS usually starts after puberty, usually in the teens or twenties. It is more common in: \n Women \n People who are Black \n People with a family history of HS \n People who are overweight or have obesity \n People who smoke",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the symptoms of hidradenitis suppurativa (HS)? \n The symptoms of HS include: \n Small pitted areas of skin containing blackheads \n Painful, red, lumps that get bigger and break open. This causes abscesses that drain fluid and pus. They may itch and have an unpleasant odor. \n The abscesses heal very slowly, recur over time, and can lead to scarring and tunnels under the skin.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS can be mild, moderate, or severe: \n In mild HS, there are only one or a few lumps in one area of the skin. A mild case will often get worse, becoming a moderate disease. \n Moderate HS includes recurrences of the lumps that get bigger and break open. The lumps form in more than one area of the body. \n With severe HS, there are widespread lumps, scarring, and chronic pain that may make it hard to move.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Your provider may refer you to a dermatologist (skin doctor) to get a diagnosis or treatment.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the treatments for hidradenitis suppurativa? \n There is no cure for HS. Treatments focus on the symptoms, but they are not always effective for everyone. The treatments depend on how severe the disease is and may include: \n Medicines , including steroids , antibiotics , pain relievers , and medicines that flight inflammation. In mild cases, the medicines may be topical (applied to your skin). Otherwise, the medicines may be injected or taken orally (by mouth). \n Procedures or surgery to remove the lumps and scars or make the sores go away.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What is hidradenitis suppurativa (HS)? \n Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing abscesses that drain fluid and pus. As the abscesses heal, they can cause scarring of the skin.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What causes hidradenitis suppurativa (HS)? \n The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. Genetics, environment, and hormonal factors may play a role. Some cases of HS are caused by changes in certain genes .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS is not caused by bad hygiene, and it cannot be spread to others.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Who is more likely to get hidradenitis suppurativa (HS)? \n HS usually starts after puberty, usually in the teens or twenties. It is more common in: \n Women \n People who are Black \n People with a family history of HS \n People who are overweight or have obesity \n People who smoke",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the symptoms of hidradenitis suppurativa (HS)? \n The symptoms of HS include: \n Small pitted areas of skin containing blackheads \n Painful, red, lumps that get bigger and break open. This causes abscesses that drain fluid and pus. They may itch and have an unpleasant odor. \n The abscesses heal very slowly, recur over time, and can lead to scarring and tunnels under the skin.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS can be mild, moderate, or severe: \n In mild HS, there are only one or a few lumps in one area of the skin. A mild case will often get worse, becoming a moderate disease. \n Moderate HS includes recurrences of the lumps that get bigger and break open. The lumps form in more than one area of the body. \n With severe HS, there are widespread lumps, scarring, and chronic pain that may make it hard to move.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "chronic bronchitis",
+      "drugs": [],
+      "treatment_modalities": [
+        "smoking cessation",
+        "avoiding lung irritants",
+        "physical activity"
+      ],
+      "citations": [
+        {
+          "symptom": "mucus producing cough",
+          "pmid": "37942820",
+          "title": "Bronchoscopic interventions for chronic bronchitis.",
+          "year": "2024",
+          "confidence": 0.9496,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7013922542647774,
+          "abstract_snippet": "Chronic bronchitis is a phenotype of chronic obstructive pulmonary disease (COPD), characterized by chronic cough and sputum production, associated with an increased rate of COPD exacerbations and hospital admissions, a more rapid decline in lung function and reduced life expectancy. Despite optimal"
+        },
+        {
+          "symptom": "wheezing",
+          "pmid": "29206552",
+          "title": "Chronic bronchitis.",
+          "year": "1993",
+          "confidence": 0.9394,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.779491263759324,
+          "abstract_snippet": "Preview Wheezing, difficulty in breathing, and coughing that produces thick sputum are all symptoms of chronic bronchitis. Differentiating this very common disorder from other pulmonary diseases with similar symptoms can be difficult. What factors contribute to the disorder? What should be the focus"
+        },
+        {
+          "symptom": "frequent cough",
+          "pmid": "31212350",
+          "title": "[Feline asthma and chronic bronchitis - an overview of diagnostics and therapy].",
+          "year": "2019",
+          "confidence": 0.9179,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7333796507174402,
+          "abstract_snippet": "Feline asthma and feline chronic bronchitis are considered the most common chronic lower respiratory diseases in cats and are frequently referred to by the term chronic bronchial diseases. In feline asthma, a hypersensitivity reaction type I is suspected. For chronic bronchitis, the aetiology remain"
+        },
+        {
+          "symptom": "shortness of breath",
+          "pmid": "39557293",
+          "title": "Cough-Variant Asthma: A Review of Clinical Characteristics, Diagnosis, and Pathophysiology.",
+          "year": "2025",
+          "confidence": 0.9127,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8771777056498418,
+          "abstract_snippet": "Chronic cough is among the most common symptoms prompting medical care. Cough-variant asthma (CVA) is an asthma subset where cough is the primary symptom, without wheezing, chest tightness, or dyspnea. It is an important cause of chronic cough, estimated to account for 25% to 42% of cases, but likel"
+        },
+        {
+          "symptom": "chest tightness",
+          "pmid": "42511891",
+          "title": "Real-World Dupilumab in Type 2 Chronic Obstructive Pulmonary Disease (COPD): A Single-Centre Compassionate-Use Case Series.",
+          "year": "2026",
+          "confidence": 0.8763,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6952834431780089,
+          "abstract_snippet": "<b>Background</b>: Dupilumab, a monoclonal antibody blocking IL-4R&#x3b1;, has recently demonstrated efficacy in patients with type 2 (T2)-inflamed chronic obstructive pulmonary disease (COPD) in the BOREAS and NOTUS trials. Real-world experience in older patients with predominant chronic bronchitis"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the treatments for chronic bronchitis? \n There is no cure for chronic bronchitis. However, treatments can help with symptoms, slow the progress of the disease, and improve your ability to stay active. There are also treatments to prevent or treat complications of the disease. Treatments include: \n Lifestyle changes , such as",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Quitting smoking if you are a smoker. This is the most important step you can take to treat chronic bronchitis. \n Avoiding secondhand smoke and places where you might breathe in other lung irritants \n Ask your health care provider for an eating plan that will meet your nutritional needs. Also ask about how much physical activity you can do. Physical activity can strengthen the muscles that help you breathe and improve your overall wellness.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What is chronic bronchitis? \n Chronic bronchitis is a type of COPD (chronic obstructive pulmonary disease). COPD is a group of lung diseases that make it hard to breathe and get worse over time. The other main type of COPD is emphysema . Most people with COPD have both emphysema and chronic bronchitis, but how severe each type is can be different from person to person. \n Chronic bronchitis is inflammation (swelling) and irritation of the bronchial tubes. These tubes are the airways that carry air to and from the air sacs in your lungs. The irritation of the tubes causes mucus to build up. This mucus and the swelling of the tubes make it harder for your lungs to move oxygen in and carbon dioxide out of your body.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What causes chronic bronchitis? \n The cause of chronic bronchitis is usually long-term exposure to irritants that damage your lungs and airways. In the United States, cigarette smoke is the main cause. Pipe, cigar, and other types of tobacco smoke can also cause chronic bronchitis, especially if you inhale them. \n Exposure to other inhaled irritants can contribute to chronic bronchitis. These include secondhand smoke , air pollution , and chemical fumes or dusts from the environment or workplace. \n Rarely, a genetic condition called alpha-1 antitrypsin deficiency can play a role in causing chronic bronchitis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Who is at risk for chronic bronchitis? \n The risk factors for chronic bronchitis include: \n Smoking. This the main risk factor. Up to 75% of people who have chronic bronchitis smoke or used to smoke. \n Long-term exposure to other lung irritants , such as secondhand smoke, air pollution, and chemical fumes and dusts from the environment or workplace. \n Age. Most people who have chronic bronchitis are at least 40 years old when their symptoms begin. \n Genetics. This includes alpha-1 antitrypsin deficiency, which is a genetic condition. Also, smokers who get chronic bronchitis are more likely to get it if they have a family history of COPD.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the symptoms of chronic bronchitis? \n At first, you may have no symptoms or only mild symptoms. As the disease gets worse, your symptoms usually become more severe. They can include: \n Frequent coughing or a cough that produces a lot mucus \n Wheezing \n A whistling or squeaky sound when you breathe \n Shortness of breath, especially with physical activity \n Tightness in your chest",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Some people with chronic bronchitis get frequent respiratory infections such as colds and the flu . In severe cases, chronic bronchitis can cause weight loss, weakness in your lower muscles, and swelling in your ankles, feet, or legs.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "How is chronic bronchitis diagnosed? \n Your health care provider may use many tools to make a diagnosis: \n A medical history, which includes asking about your symptoms \n A family history \n Various tests, such as lung function tests , a chest x-ray or CT scan , and blood tests",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the treatments for chronic bronchitis? \n There is no cure for chronic bronchitis. However, treatments can help with symptoms, slow the progress of the disease, and improve your ability to stay active. There are also treatments to prevent or treat complications of the disease. Treatments include: \n Lifestyle changes , such as",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Quitting smoking if you are a smoker. This is the most important step you can take to treat chronic bronchitis. \n Avoiding secondhand smoke and places where you might breathe in other lung irritants \n Ask your health care provider for an eating plan that will meet your nutritional needs. Also ask about how much physical activity you can do. Physical activity can strengthen the muscles that help you breathe and improve your overall wellness.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What is chronic bronchitis? \n Chronic bronchitis is a type of COPD (chronic obstructive pulmonary disease). COPD is a group of lung diseases that make it hard to breathe and get worse over time. The other main type of COPD is emphysema . Most people with COPD have both emphysema and chronic bronchitis, but how severe each type is can be different from person to person. \n Chronic bronchitis is inflammation (swelling) and irritation of the bronchial tubes. These tubes are the airways that carry air to and from the air sacs in your lungs. The irritation of the tubes causes mucus to build up. This mucus and the swelling of the tubes make it harder for your lungs to move oxygen in and carbon dioxide out of your body.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What causes chronic bronchitis? \n The cause of chronic bronchitis is usually long-term exposure to irritants that damage your lungs and airways. In the United States, cigarette smoke is the main cause. Pipe, cigar, and other types of tobacco smoke can also cause chronic bronchitis, especially if you inhale them. \n Exposure to other inhaled irritants can contribute to chronic bronchitis. These include secondhand smoke , air pollution , and chemical fumes or dusts from the environment or workplace. \n Rarely, a genetic condition called alpha-1 antitrypsin deficiency can play a role in causing chronic bronchitis.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Who is at risk for chronic bronchitis? \n The risk factors for chronic bronchitis include: \n Smoking. This the main risk factor. Up to 75% of people who have chronic bronchitis smoke or used to smoke. \n Long-term exposure to other lung irritants , such as secondhand smoke, air pollution, and chemical fumes and dusts from the environment or workplace. \n Age. Most people who have chronic bronchitis are at least 40 years old when their symptoms begin. \n Genetics. This includes alpha-1 antitrypsin deficiency, which is a genetic condition. Also, smokers who get chronic bronchitis are more likely to get it if they have a family history of COPD.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the symptoms of chronic bronchitis? \n At first, you may have no symptoms or only mild symptoms. As the disease gets worse, your symptoms usually become more severe. They can include: \n Frequent coughing or a cough that produces a lot mucus \n Wheezing \n A whistling or squeaky sound when you breathe \n Shortness of breath, especially with physical activity \n Tightness in your chest",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Some people with chronic bronchitis get frequent respiratory infections such as colds and the flu . In severe cases, chronic bronchitis can cause weight loss, weakness in your lower muscles, and swelling in your ankles, feet, or legs.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "How is chronic bronchitis diagnosed? \n Your health care provider may use many tools to make a diagnosis: \n A medical history, which includes asking about your symptoms \n A family history \n Various tests, such as lung function tests , a chest x-ray or CT scan , and blood tests",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "hemophilia",
+      "drugs": [],
+      "treatment_modalities": [
+        "clotting factor replacement"
+      ],
+      "citations": [
+        {
+          "symptom": "skin bruising",
+          "pmid": "41488453",
+          "title": "Post-Infectious Acquired Hemophilia A: A Case Report and Review of the Literature.",
+          "year": "2025",
+          "confidence": 0.9329,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.647754503862414,
+          "abstract_snippet": "A 52-year-old man with no personal or family history of bleeding presented with extensive hematomas and skin bruising following prolonged antibiotic use. Initial laboratory evaluation revealed coagulopathy, with an elevated activated partial thromboplastin time and mild anemia. Mixing studies and fa"
+        },
+        {
+          "symptom": "gum bleeding",
+          "pmid": "32685260",
+          "title": "Evaluation of gum health status in hemophilia patients in Birjand (a case-control study).",
+          "year": "2020",
+          "confidence": 0.9212,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7464914402538562,
+          "abstract_snippet": "Gum bleeding in the absence of trauma or injury in adults with haemophilia is often reported. So hemophilic patients require special care and attention in various dentistry practices. The purpose of this study was to evaluate the gingival health status in patients with hemophilia in Birjand in 2018-"
+        },
+        {
+          "symptom": "muscle bleeding",
+          "pmid": "31437138",
+          "title": "Diagnosis and treatment of hemophilia.",
+          "year": "2019",
+          "confidence": 0.9207,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5613180072275644,
+          "abstract_snippet": "Hemophilia A and B are inherited bleeding disorders characterized by deficiency or dysfunction of coagulation protein factors VIII and IX, respectively. Recurrent joint and muscle bleeds are the major clinical manifestations. Replacement therapy with clotting factors, either at the time of bleeding"
+        },
+        {
+          "symptom": "bleeding after circumcision",
+          "pmid": "22866674",
+          "title": "Risk of bleeding and inhibitor development after circumcision of previously untreated or minimally treated severe hemophilia A children.",
+          "year": "2012",
+          "confidence": 0.9205,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7240704293137011,
+          "abstract_snippet": "Surgery and intensive factor VIII (FVIII) replacement may be risk factors for development of inhibitors. To evaluate time and rate of inhibitor development postcircumcision over 12-month period, and to assess bleeding of children with severe hemophilia A after low-dose FVIII replacement and local he"
+        },
+        {
+          "symptom": "bleeding after vaccination",
+          "pmid": "39066347",
+          "title": "Acquired Hemophilia A after SARS-CoV-2 Immunization: A Narrative Review of a Rare Side Effect.",
+          "year": "2024",
+          "confidence": 0.9036,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.763592316485365,
+          "abstract_snippet": "Acquired hemophilia A (AHA) is a rare bleeding disorder (1.4 per million inhabitants per year) caused by neutralizing antibodies against factor VIII. Although uncommon, these autoantibodies can cause a high rate of morbidity and mortality. Several conditions are linked with AHA; based on an EACH2 st"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "hemophilia",
+          "text": "What are the treatments for hemophilia? \n The best way to treat hemophilia is to replace the missing clotting factor so that your blood can clot properly. This is usually done by injecting replacement clotting factor into a vein. The replacement clotting factor may be made from donated human blood. Or it may be made in a lab; this kind is called a recombinant clotting factor. \n Replacement clotting factor can help treat a bleeding episode. In more severe cases of hemophilia, you might get the factor on a regular basis to prevent bleeding. You can learn how to inject the factor so that you can do it yourself at home. \n There are other medicines to treat hemophilia. They may work by releasing factor VIII (8) from where it is stored in the body tissues, replacing the function of factor VIII (8), or preventing clots from breaking down. \n If bleeding has damaged your joints, physical therapy may help them function better. \n Good quality medical care from healthcare professionals who know a lot about the disorder can help prevent some serious problems. Often the best choice for care is to visit a hemophilia treatment center (HTC) . \n Centers for Disease Control and Prevention",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What is hemophilia? \n Hemophilia is a rare bleeding disorder in which the blood does not clot properly. This can lead to problems with bleeding too much after an injury or surgery. You can also have sudden bleeding inside your body, such as in your joints, muscles, and organs.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Your blood contains many proteins called clotting factors that can help form clots to stop bleeding. People with hemophilia have low levels of one of these factors, usually either factor VIII (8) or factor IX (9). How severe the hemophilia is depends on the amount of factor in the blood. The lower the amount of the factor, the more likely it is that bleeding could happen and might lead to serious health problems.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What are the types of hemophilia? \n There are several different types of hemophilia. The most common are:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Hemophilia A (classic hemophilia), which is caused by a lack or decrease of clotting factor VIII (8) \n Hemophilia B (Christmas disease), which is caused by a lack or decrease of clotting factor IX (9)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What causes hemophilia? \n Most types of hemophilia are inherited. They are caused by change in one of the genes (also called a mutation) that provides instructions for making the clotting factor proteins. The change may mean that the clotting proteins don't work properly or that they are missing altogether. \n These genes are on the X chromosome. You may have one or two X chromosomes:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "People who are born male have one X chromosome (from the mother) and one Y chromosome (from the father). They can get hemophilia if their one X chromosome has the gene change. \n People who are born female have two X chromosomes, one from the father and one from the mother. They usually only get hemophilia if:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Both X chromosomes have the gene change OR \n One X chromosome has the gene change and the other X chromosome is missing or inactive.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "hemophilia",
+          "text": "What are the treatments for hemophilia? \n The best way to treat hemophilia is to replace the missing clotting factor so that your blood can clot properly. This is usually done by injecting replacement clotting factor into a vein. The replacement clotting factor may be made from donated human blood. Or it may be made in a lab; this kind is called a recombinant clotting factor. \n Replacement clotting factor can help treat a bleeding episode. In more severe cases of hemophilia, you might get the factor on a regular basis to prevent bleeding. You can learn how to inject the factor so that you can do it yourself at home. \n There are other medicines to treat hemophilia. They may work by releasing factor VIII (8) from where it is stored in the body tissues, replacing the function of factor VIII (8), or preventing clots from breaking down. \n If bleeding has damaged your joints, physical therapy may help them function better. \n Good quality medical care from healthcare professionals who know a lot about the disorder can help prevent some serious problems. Often the best choice for care is to visit a hemophilia treatment center (HTC) . \n Centers for Disease Control and Prevention",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What is hemophilia? \n Hemophilia is a rare bleeding disorder in which the blood does not clot properly. This can lead to problems with bleeding too much after an injury or surgery. You can also have sudden bleeding inside your body, such as in your joints, muscles, and organs.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Your blood contains many proteins called clotting factors that can help form clots to stop bleeding. People with hemophilia have low levels of one of these factors, usually either factor VIII (8) or factor IX (9). How severe the hemophilia is depends on the amount of factor in the blood. The lower the amount of the factor, the more likely it is that bleeding could happen and might lead to serious health problems.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What are the types of hemophilia? \n There are several different types of hemophilia. The most common are:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Hemophilia A (classic hemophilia), which is caused by a lack or decrease of clotting factor VIII (8) \n Hemophilia B (Christmas disease), which is caused by a lack or decrease of clotting factor IX (9)",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What causes hemophilia? \n Most types of hemophilia are inherited. They are caused by change in one of the genes (also called a mutation) that provides instructions for making the clotting factor proteins. The change may mean that the clotting proteins don't work properly or that they are missing altogether. \n These genes are on the X chromosome. You may have one or two X chromosomes:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "People who are born male have one X chromosome (from the mother) and one Y chromosome (from the father). They can get hemophilia if their one X chromosome has the gene change. \n People who are born female have two X chromosomes, one from the father and one from the mother. They usually only get hemophilia if:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Both X chromosomes have the gene change OR \n One X chromosome has the gene change and the other X chromosome is missing or inactive.",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

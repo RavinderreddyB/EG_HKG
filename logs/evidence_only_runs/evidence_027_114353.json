@@ -1,0 +1,408 @@
+{
+  "symptoms": [
+    "elevated mood",
+    "behavioral changes",
+    "prominent veins on calf"
+  ],
+  "resolved_symptoms": [
+    "behavioral changes",
+    "elevated mood",
+    "prominent veins on calf"
+  ],
+  "diseases": [
+    {
+      "disease": "anxiety",
+      "drugs": [],
+      "treatment_modalities": [
+        "psychotherapy",
+        "cognitive behavioral therapy",
+        "acceptance and commitment therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "avoidance of activities",
+          "pmid": "41667154",
+          "title": "Effect of exercise on depression and anxiety symptoms: systematic umbrella review with meta-meta-analysis.",
+          "year": "2026",
+          "confidence": 0.8939,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6671994518287471,
+          "abstract_snippet": "To synthesise meta-analytic outcomes from randomised controlled trials examining exercise effects on depression and anxiety across all population groups, including children and adults with both clinically diagnosed and subclinical symptoms, excluding those with pre-existing chronic physiological con"
+        },
+        {
+          "symptom": "behavioral changes",
+          "pmid": "37840231",
+          "title": "Behavior and anxiety levels in pediatric patient: The behavioral changes and anxiety of pediatric patient in dental clinic.",
+          "year": "2023",
+          "confidence": 0.8589,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6626678741645299,
+          "abstract_snippet": "The aim of this study is to evaluate the behavioral patterns and anxiety levels of pediatric patients in dental clinics, discern their behavioral expectations, and investigate the associations between these factors and the patient's age and gender. In this cross-sectional study, 150 pediatric patien"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "anxiety",
+          "text": "What are the treatments for anxiety disorders? \n The main treatments for anxiety disorders are psychotherapy (talk therapy), medicines, or both:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        },
+        {
+          "question": "anxiety",
+          "text": "Medicines to treat anxiety disorders include anti-anxiety medicines and certain antidepressants . Some types of medicines may work better for specific types of anxiety disorders. You should work closely with your provider to identify which medicine is best for you. You may need to try more than one medicine before you can find the right one.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        },
+        {
+          "question": "anxiety",
+          "text": "What is anxiety? \n Anxiety is a feeling of fear, dread, and uneasiness. It might cause you to sweat, feel restless and tense, and have a rapid heartbeat. It can be a normal reaction to stress. For example, you might feel anxious when faced with a difficult problem at work, before taking a test, or before making an important decision. It can help you to cope. The anxiety may give you a boost of energy or help you focus. But for people with anxiety disorders, the fear is not temporary and can be overwhelming.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        },
+        {
+          "question": "anxiety",
+          "text": "What are anxiety disorders? \n Anxiety disorders are conditions in which you have anxiety that does not go away and can get worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        },
+        {
+          "question": "anxiety",
+          "text": "What are the types of anxiety disorders? \n There are several types of anxiety disorders, including: \n Generalized anxiety disorder (GAD). People with GAD worry about ordinary issues such as health, money, work, and family. But their worries are excessive, and they have them almost every day for at least 6 months. \n Panic disorder . People with panic disorder have panic attacks. These are sudden, repeated periods of intense fear when there is no danger. The attacks come on quickly and can last several minutes or more. \n Phobias . People with phobias have an intense fear of something that poses little or no actual danger. Their fear may be about spiders, flying, going to crowded places, or being in social situations (known as social anxiety).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        },
+        {
+          "question": "anxiety",
+          "text": "What causes anxiety disorders? \n The cause of anxiety is unknown. Factors such as genetics, brain biology and chemistry, stress , and your environment may play a role.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        },
+        {
+          "question": "anxiety",
+          "text": "Who is at risk for anxiety disorders? \n The risk factors for the different types of anxiety disorders can vary. For example, GAD and phobias are more common in women, but social anxiety affects men and women equally. There are some general risk factors for all types of anxiety disorders, including: \n Certain personality traits, such as being shy or withdrawn when you are in new situations or meeting new people \n Traumatic events in early childhood or adulthood \n Family history of anxiety or other mental disorders \n Some physical health conditions, such as thyroid problems or arrhythmia",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        },
+        {
+          "question": "anxiety",
+          "text": "What are the symptoms of anxiety disorders? \n The different types of anxiety disorders can have different symptoms. But they all have a combination of: \n Anxious thoughts or beliefs that are hard to control. They make you feel restless and tense and interfere with your daily life. They do not go away and can get worse over time. \n Physical symptoms, such as a pounding or rapid heartbeat, unexplained aches and pains, dizziness , and shortness of breath \n Changes in behavior, such as avoiding everyday activities you used to do",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/anxiety.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "anxiety",
+          "text": "What are the treatments for anxiety disorders? \n The main treatments for anxiety disorders are psychotherapy (talk therapy), medicines, or both:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anxiety",
+          "text": "Medicines to treat anxiety disorders include anti-anxiety medicines and certain antidepressants . Some types of medicines may work better for specific types of anxiety disorders. You should work closely with your provider to identify which medicine is best for you. You may need to try more than one medicine before you can find the right one.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anxiety",
+          "text": "What is anxiety? \n Anxiety is a feeling of fear, dread, and uneasiness. It might cause you to sweat, feel restless and tense, and have a rapid heartbeat. It can be a normal reaction to stress. For example, you might feel anxious when faced with a difficult problem at work, before taking a test, or before making an important decision. It can help you to cope. The anxiety may give you a boost of energy or help you focus. But for people with anxiety disorders, the fear is not temporary and can be overwhelming.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anxiety",
+          "text": "What are anxiety disorders? \n Anxiety disorders are conditions in which you have anxiety that does not go away and can get worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anxiety",
+          "text": "What are the types of anxiety disorders? \n There are several types of anxiety disorders, including: \n Generalized anxiety disorder (GAD). People with GAD worry about ordinary issues such as health, money, work, and family. But their worries are excessive, and they have them almost every day for at least 6 months. \n Panic disorder . People with panic disorder have panic attacks. These are sudden, repeated periods of intense fear when there is no danger. The attacks come on quickly and can last several minutes or more. \n Phobias . People with phobias have an intense fear of something that poses little or no actual danger. Their fear may be about spiders, flying, going to crowded places, or being in social situations (known as social anxiety).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anxiety",
+          "text": "What causes anxiety disorders? \n The cause of anxiety is unknown. Factors such as genetics, brain biology and chemistry, stress , and your environment may play a role.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anxiety",
+          "text": "Who is at risk for anxiety disorders? \n The risk factors for the different types of anxiety disorders can vary. For example, GAD and phobias are more common in women, but social anxiety affects men and women equally. There are some general risk factors for all types of anxiety disorders, including: \n Certain personality traits, such as being shy or withdrawn when you are in new situations or meeting new people \n Traumatic events in early childhood or adulthood \n Family history of anxiety or other mental disorders \n Some physical health conditions, such as thyroid problems or arrhythmia",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anxiety",
+          "text": "What are the symptoms of anxiety disorders? \n The different types of anxiety disorders can have different symptoms. But they all have a combination of: \n Anxious thoughts or beliefs that are hard to control. They make you feel restless and tense and interfere with your daily life. They do not go away and can get worse over time. \n Physical symptoms, such as a pounding or rapid heartbeat, unexplained aches and pains, dizziness , and shortness of breath \n Changes in behavior, such as avoiding everyday activities you used to do",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "bipolar disorder",
+      "drugs": [],
+      "treatment_modalities": [
+        "psychotherapy",
+        "medicines",
+        "electroconvulsive therapy",
+        "transcranial magnetic stimulation",
+        "light therapy",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "decreased need for sleep",
+          "pmid": "30818134",
+          "title": "A systematic review on sleep alterations anticipating the onset of bipolar disorder.",
+          "year": "2019",
+          "confidence": 0.9386,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6252239445919343,
+          "abstract_snippet": "Sleep alterations are frequent occurrence in Bipolar Disorder (BD), both in acute and interepisodic phases. Sleep alterations have been also described both long before BD onset, as aspecific risk syndromes, or as immediate prodromes of BD onset. The aim of the present study is to systematically revi"
+        },
+        {
+          "symptom": "racing thoughts",
+          "pmid": "31129462",
+          "title": "Racing thoughts revisited: A key dimension of activation in bipolar disorder.",
+          "year": "2019",
+          "confidence": 0.9345,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7133261009159696,
+          "abstract_snippet": "Racing and crowded thoughts are frequently reported respectively in manic and mixed episodes of bipolar disorder (BD). However, questionnaires assessing this symptom are lacking. Here we aimed to investigate racing thoughts across different mood episodes of BD through a self-report questionnaire tha"
+        },
+        {
+          "symptom": "elevated mood",
+          "pmid": "37045450",
+          "title": "Diagnosis and management of bipolar disorders.",
+          "year": "2023",
+          "confidence": 0.9304,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6772392341020372,
+          "abstract_snippet": "Bipolar disorders (BDs) are recurrent and sometimes chronic disorders of mood that affect around 2% of the world's population and encompass a spectrum between severe elevated and excitable mood states (mania) to the dysphoria, low energy, and despondency of depressive episodes. The illness commonly"
+        },
+        {
+          "symptom": "grandiosity",
+          "pmid": "33673356",
+          "title": "Clinical Impact of Psychopathy on Bipolar Disorder.",
+          "year": "2021",
+          "confidence": 0.9087,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7301284042471816,
+          "abstract_snippet": "<i>Background and Objectives</i>. Bipolar disorder (BD) is associated with a significant burden due to affective symptoms and behavioral manifestations, but also cognitive and functional impairment. Comorbidity with other psychiatric conditions, including personality disorders, is frequent. The como"
+        },
+        {
+          "symptom": "increased energy",
+          "pmid": "32479323",
+          "title": "Correlates, Course, and Outcomes of Increased Energy in Youth with Bipolar Disorder.",
+          "year": "2020",
+          "confidence": 0.8986,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6651547883300718,
+          "abstract_snippet": "Compare longitudinal trajectories of youth with Diagnostic and Statistical Manual of Mental Disorders (DSM)-IV Bipolar Disorder (BD), grouped at baseline by presence/absence of increased energy during their worst lifetime mood episode (required for DSM-5). Participants from the parent Course and Out"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "bipolar disorder",
+          "text": "What are the treatments for bipolar disorder? \n Treatment can help many people, including those with the most severe forms of bipolar disorder. The main treatments for bipolar disorder include medicines, psychotherapy, or both:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder is a lifelong illness. But long-term, ongoing treatment can help manage your symptoms and enable you to live a healthy, successful life.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What is bipolar disorder? \n Bipolar disorder is a mood disorder that can cause intense mood swings:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Sometimes you may feel extremely \"up,\" elated, irritable, or energized. This is called a manic episode . \n Other times you may feel \"down,\" sad, indifferent, or hopeless. This is called a depressive episode . \n You may have both manic and depressive symptoms together. This is called a mixed episode .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Along with mood swings, bipolar disorder causes changes in behavior, energy levels, and activity levels.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder used to be called other names, including manic depression and manic-depressive disorder.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What are the types of bipolar disorder? \n There are three main types of bipolar disorder:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar I disorder involves manic episodes that last at least 7 days or manic symptoms so severe that you need immediate hospital care. Depressive episodes are also common. Those often last at least two weeks. This type of bipolar disorder can also involve mixed episodes. \n Bipolar II disorder involves depressive episodes. But instead of full-blown manic episodes, there are episodes of hypomania. Hypomania is a less severe version of mania. \n Cyclothymic disorder , or cyclothymia, also involves hypomanic and depressive symptoms. But they are not as intense or as long-lasting as hypomanic or depressive episodes. The symptoms usually last for at least two years in adults and for one year in children and teenagers.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "bipolar disorder",
+          "text": "What are the treatments for bipolar disorder? \n Treatment can help many people, including those with the most severe forms of bipolar disorder. The main treatments for bipolar disorder include medicines, psychotherapy, or both:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder is a lifelong illness. But long-term, ongoing treatment can help manage your symptoms and enable you to live a healthy, successful life.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What is bipolar disorder? \n Bipolar disorder is a mood disorder that can cause intense mood swings:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Sometimes you may feel extremely \"up,\" elated, irritable, or energized. This is called a manic episode . \n Other times you may feel \"down,\" sad, indifferent, or hopeless. This is called a depressive episode . \n You may have both manic and depressive symptoms together. This is called a mixed episode .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Along with mood swings, bipolar disorder causes changes in behavior, energy levels, and activity levels.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder used to be called other names, including manic depression and manic-depressive disorder.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What are the types of bipolar disorder? \n There are three main types of bipolar disorder:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar I disorder involves manic episodes that last at least 7 days or manic symptoms so severe that you need immediate hospital care. Depressive episodes are also common. Those often last at least two weeks. This type of bipolar disorder can also involve mixed episodes. \n Bipolar II disorder involves depressive episodes. But instead of full-blown manic episodes, there are episodes of hypomania. Hypomania is a less severe version of mania. \n Cyclothymic disorder , or cyclothymia, also involves hypomanic and depressive symptoms. But they are not as intense or as long-lasting as hypomanic or depressive episodes. The symptoms usually last for at least two years in adults and for one year in children and teenagers.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "varicose veins",
+      "drugs": [
+        "diosmin",
+        "hesperidin"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "obesity",
+          "pmid": "31150188",
+          "title": "Varicose Veins: Diagnosis and Treatment.",
+          "year": "2019",
+          "confidence": 0.9236,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.46250875461806473,
+          "abstract_snippet": "Varicose veins are twisted, dilated veins most commonly located on the lower extremities. The exact pathophysiology is debated, but it involves a genetic predisposition, incompetent valves, weakened vascular walls, and increased intravenous pressure. Risk factors include family history of venous dis"
+        },
+        {
+          "symptom": "swollen legs",
+          "pmid": "35418769",
+          "title": "Current Best Practice in the Management of Varicose Veins.",
+          "year": "2022",
+          "confidence": 0.9221,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6092407477306013,
+          "abstract_snippet": "This article outlines the current best practice in the management of varicose veins. \"Varicose veins\" traditionally means bulging veins, usually seen on the legs, when standing. It is now a general term used to describe these bulging veins, and also underlying incompetent veins that reflux and cause"
+        },
+        {
+          "symptom": "fatigue",
+          "pmid": "17653021",
+          "title": "Radiofrequency minimally invasive endovascular treatment of lower limbs varicose veins: clinical experience and literature review.",
+          "year": "2007",
+          "confidence": 0.9091,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.710973079154158,
+          "abstract_snippet": "Varicose veins of the legs are a common condition affecting 10-15% of men and 20-25% of women in the western world. This high prevalence is responsible of high medical and social costs. Most primary varices are associated with greater saphenous vein (GSV) incompetence. A new method, radiofrequency ("
+        },
+        {
+          "symptom": "swollen blood vessels",
+          "pmid": "38782035",
+          "title": "Chronic venous disease: What if everything started with early care? A discussion with experts.",
+          "year": "2024",
+          "confidence": 0.9021,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6549595142545886,
+          "abstract_snippet": "Chronic venous disease (CVD) is an umbrella term for a group of morphological and functional disorders of the venous system. Clinical signs of CVD may range from telangiectasia and reticular veins to active venous ulcers; therefore, earlier diagnosis and management of CVD may delay disease progressi"
+        },
+        {
+          "symptom": "cramps",
+          "pmid": "36526075",
+          "title": "Lateral Subdermic Venous Plexus Insufficiency: The Association of Varicose Veins with Restless Legs Syndrome and Nocturnal Leg Cramps.",
+          "year": "2023",
+          "confidence": 0.8944,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6269195570381043,
+          "abstract_snippet": "To determine whether nocturnal symptoms of restless legs syndrome (RLS) and muscle cramps in the legs are associated specifically with lateral subdermic venous plexus (LSVP) insufficiency and whether treatment can provide symptomatic relief. A retrospective cross-sectional observational study of 506"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Varicose veins are treated with lifestyle changes and medical procedures. The goals of treatment are to relieve symptoms, prevent complications, and improve appearance.\n                \nIf varicose veins cause few symptoms, your doctor may simply suggest making lifestyle changes. If your symptoms are more severe, your doctor may recommend one or more medical procedures. For example, you may need a medical procedure if you have a lot of pain, blood clots, or skin disorders caused by your varicose veins.\n                \nSome people who have varicose veins choose to have procedures to improve how their veins look.\n                \nAlthough treatment can help existing varicose veins, it can't keep new varicose veins from forming.\n                \nLifestyle Changes\n                \nLifestyle changes often are the first treatment for varicose veins. These changes can prevent varicose veins from getting worse, reduce pain, and delay other varicose veins from forming. Lifestyle changes include the following:\n                \nAvoid standing or sitting for long periods without taking a break. When sitting, avoid crossing your legs. Keep your legs raised when sitting, resting, or sleeping. When you can, raise your legs above the level of your heart.\n                \nDo physical activities to get your legs moving and improve muscle tone. This helps blood move through your veins.\n                \nIf you're overweight or obese, try to lose weight. This will improve blood flow and ease the pressure on your veins.\n                \nAvoid wearing tight clothes, especially those that are tight around your waist, groin (upper thighs), and legs. Tight clothes can make varicose veins worse.\n                \nAvoid wearing high heels for long periods. Lower heeled shoes can help tone your calf muscles. Toned muscles help blood move through the veins.\n                \nYour doctor may recommend compression stockings. These stockings create gentle pressure up the leg. This pressure keeps blood from pooling and decreases swelling in the legs.\n                \nThere are three types of compression stockings. One type is support pantyhose. These offer the least amount of pressure. A second type is over-the-counter compression hose. These stockings give a little more pressure than support pantyhose. Over-the-counter compression hose are sold in medical supply stores and pharmacies.\n                \nPrescription-strength compression hose are the third type of compression stockings. These stockings offer the greatest amount of pressure. They also are sold in medical supply stores and pharmacies. However, you need to be fitted for them in the store by a specially trained person.\n                \nMedical Procedures\n                \nMedical procedures are done either to remove varicose veins or to close them. Removing or closing varicose veins usually doesn't cause problems with blood flow because the blood starts moving through other veins.\n                \nYou may be treated with one or more of the procedures described below. Common side effects right after most of these procedures include bruising, swelling, skin discoloration, and slight pain.\n                \nThe side effects are most severe with vein stripping and ligation (li-GA-shun). Rarely, this procedure can cause severe pain, infections, blood clots, and scarring.\n                \nSclerotherapy\n                \nSclerotherapy (SKLER-o-ther-ah-pe) uses a liquid chemical to close off a varicose vein. The chemical is injected into the vein to cause irritation and scarring inside the vein. The irritation and scarring cause the vein to close off, and it fades away.\n                \nThis procedure often is used to treat smaller varicose veins and spider veins. It can be done in your doctor's office, while you stand. You may need several treatments to completely close off a vein.\n                \nTreatments typically are done every 4 to 6 weeks. Following treatments, your legs will be wrapped in elastic bandaging to help with healing and decrease swelling.\n                \nMicrosclerotherapy\n                \nMicrosclerotherapy (MI-kro-SKLER-o-ther-ah-pe) is used to treat spider veins and other very small varicose veins.\n                \nA small amount of liquid chemical is injected into a vein using a very fine needle. The chemical scars the inner lining of the vein, causing it to close off.\n                \nLaser Surgery\n                \nThis procedure applies light energy from a laser onto a varicose vein. The laser light makes the vein fade away.\n                \nLaser surgery mostly is used to treat smaller varicose veins. No cutting or injection of chemicals is involved.\n                \nEndovenous Ablation Therapy\n                \nEndovenous ablation (ab-LA-shun) therapy uses lasers or radiowaves to create heat to close off a varicose vein.\n                \nYour doctor makes a tiny cut in your skin near the varicose vein. He or she then inserts a small tube called a catheter into the vein. A device at the tip of the tube heats up the inside of the vein and closes it off.\n                \nYou'll be awake during this procedure, but your doctor will numb the area around the vein. You usually can go home the same day as the procedure.\n                \nEndoscopic Vein Surgery\n                \nFor endoscopic (en-do-SKOP-ik) vein surgery, your doctor will make a small cut in your skin near a varicose vein. He or she then uses a tiny camera at the end of a thin tube to move through the vein. A surgical device at the end of the camera is used to close the vein.\n                \nEndoscopic vein surgery usually is used only in severe cases when varicose veins are causing skin ulcers (sores). After the procedure, you usually can return to your normal activities within a few weeks.\n                \nAmbulatory Phlebectomy\n                \nFor ambulatory phlebectomy (fle-BEK-to-me), your doctor will make small cuts in your skin to remove small varicose veins. This procedure usually is done to remove the varicose veins closest to the surface of your skin.\n                \nYou'll be awake during the procedure, but your doctor will numb the area around the vein. Usually, you can go home the same day that the procedure is done.\n                \nVein Stripping and Ligation\n                \nVein stripping and ligation typically is done only for severe cases of varicose veins. The procedure involves tying shut and removing the veins through small cuts in your skin.\n                \nYou'll be given medicine to temporarily put you to sleep so you don't feel any pain during the procedure.\n                \nVein stripping and ligation usually is done as an outpatient procedure. The recovery time from the procedure is about 1 to 4 weeks.",
+          "question": "What are the treatments for Varicose Veins ?",
+          "score": 0.027944214642047882,
+          "rerank_score": 4.47486686706543,
+          "trust_score": 0.9124542449285754
+        },
+        {
+          "text": "Varicose veins are swollen, twisted veins that you can see just under the skin. They usually occur in the legs, but also can form in other parts of the body. Hemorrhoids are a type of varicose vein.    Your veins have one-way valves that help keep blood flowing toward your heart. If the valves are weak or damaged, blood can back up and pool in your veins. This causes the veins to swell, which can lead to varicose veins.    Varicose veins are very common. You are more at risk if you are older, a female, obese, don't exercise or have a family history. They can also be more common in pregnancy.    Doctors often diagnose varicose veins from a physical exam. Sometimes you may need additional tests.    Exercising, losing weight, elevating your legs when resting, and not crossing them when sitting can help keep varicose veins from getting worse. Wearing loose clothing and avoiding long periods of standing can also help. If varicose veins are painful or you don't like the way they look, your doctor may recommend procedures to remove them.    NIH: National Heart, Lung, and Blood Institute",
+          "question": "What is (are) Varicose Veins ?",
+          "score": 0.03913901001214981,
+          "rerank_score": 9.555168151855469,
+          "trust_score": 0.7222657573240384
+        },
+        {
+          "text": "Many factors may raise your risk for varicose veins, including family history, older age, gender, pregnancy, overweight or obesity, lack of movement, and leg trauma.\n                \nFamily History\n                \nHaving family members who have varicose veins may raise your risk for the condition. About half of all people who have varicose veins have a family history of them.\n                \nOlder Age\n                \nGetting older may raise your risk for varicose veins. The normal wear and tear of aging may cause the valves in your veins to weaken and not work well.\n                \nGender\n                \nWomen tend to get varicose veins more often than men. Hormonal changes that occur during puberty, pregnancy, and menopause (or with the use of birth control pills) may raise a woman's risk for varicose veins.\n                \nPregnancy\n                \nDuring pregnancy, the growing fetus puts pressure on the veins in the mother's legs. Varicose veins that occur during pregnancy usually get better within 3 to 12 months of delivery.\n                \nOverweight or Obesity\n                \nBeing overweight or obese can put extra pressure on your veins. This can lead to varicose veins. For more information about overweight and obesity, go to the Health Topics Overweight and Obesity article.\n                \nLack of Movement\n                \nStanding or sitting for a long time, especially with your legs bent or crossed, may raise your risk for varicose veins. This is because staying in one position for a long time may force your veins to work harder to pump blood to your heart.\n                \nLeg Trauma\n                \nPrevious blood clots or traumatic damage to the valves in your veins can weaken their ability to move blood back to the heart, increasing the risk for varicose veins.",
+          "question": "Who is at risk for Varicose Veins? ?",
+          "score": 0.020975440740585327,
+          "rerank_score": -0.1476229578256607,
+          "trust_score": 0.12873621479060346
+        },
+        {
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "score": 0.027671165764331818,
+          "rerank_score": -5.105754852294922,
+          "trust_score": 0.0014426194000376129
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Varicose Veins ?",
+          "text": "Varicose veins are treated with lifestyle changes and medical procedures. The goals of treatment are to relieve symptoms, prevent complications, and improve appearance.\n                \nIf varicose veins cause few symptoms, your doctor may simply suggest making lifestyle changes. If your symptoms are more severe, your doctor may recommend one or more medical procedures. For example, you may need a medical procedure if you have a lot of pain, blood clots, or skin disorders caused by your varicose veins.\n                \nSome people who have varicose veins choose to have procedures to improve how their veins look.\n                \nAlthough treatment can help existing varicose veins, it can't keep new varicose veins from forming.\n                \nLifestyle Changes\n                \nLifestyle changes often are the first treatment for varicose veins. These changes can prevent varicose veins from getting worse, reduce pain, and delay other varicose veins from forming. Lifestyle changes include the following:\n                \nAvoid standing or sitting for long periods without taking a break. When sitting, avoid crossing your legs. Keep your legs raised when sitting, resting, or sleeping. When you can, raise your legs above the level of your heart.\n                \nDo physical activities to get your legs moving and improve muscle tone. This helps blood move through your veins.\n                \nIf you're overweight or obese, try to lose weight. This will improve blood flow and ease the pressure on your veins.\n                \nAvoid wearing tight clothes, especially those that are tight around your waist, groin (upper thighs), and legs. Tight clothes can make varicose veins worse.\n                \nAvoid wearing high heels for long periods. Lower heeled shoes can help tone your calf muscles. Toned muscles help blood move through the veins.\n                \nYour doctor may recommend compression stockings. These stockings create gentle pressure up the leg. This pressure keeps blood from pooling and decreases swelling in the legs.\n                \nThere are three types of compression stockings. One type is support pantyhose. These offer the least amount of pressure. A second type is over-the-counter compression hose. These stockings give a little more pressure than support pantyhose. Over-the-counter compression hose are sold in medical supply stores and pharmacies.\n                \nPrescription-strength compression hose are the third type of compression stockings. These stockings offer the greatest amount of pressure. They also are sold in medical supply stores and pharmacies. However, you need to be fitted for them in the store by a specially trained person.\n                \nMedical Procedures\n                \nMedical procedures are done either to remove varicose veins or to close them. Removing or closing varicose veins usually doesn't cause problems with blood flow because the blood starts moving through other veins.\n                \nYou may be treated with one or more of the procedures described below. Common side effects right after most of these procedures include bruising, swelling, skin discoloration, and slight pain.\n                \nThe side effects are most severe with vein stripping and ligation (li-GA-shun). Rarely, this procedure can cause severe pain, infections, blood clots, and scarring.\n                \nSclerotherapy\n                \nSclerotherapy (SKLER-o-ther-ah-pe) uses a liquid chemical to close off a varicose vein. The chemical is injected into the vein to cause irritation and scarring inside the vein. The irritation and scarring cause the vein to close off, and it fades away.\n                \nThis procedure often is used to treat smaller varicose veins and spider veins. It can be done in your doctor's office, while you stand. You may need several treatments to completely close off a vein.\n                \nTreatments typically are done every 4 to 6 weeks. Following treatments, your legs will be wrapped in elastic bandaging to help with healing and decrease swelling.\n                \nMicrosclerotherapy\n                \nMicrosclerotherapy (MI-kro-SKLER-o-ther-ah-pe) is used to treat spider veins and other very small varicose veins.\n                \nA small amount of liquid chemical is injected into a vein using a very fine needle. The chemical scars the inner lining of the vein, causing it to close off.\n                \nLaser Surgery\n                \nThis procedure applies light energy from a laser onto a varicose vein. The laser light makes the vein fade away.\n                \nLaser surgery mostly is used to treat smaller varicose veins. No cutting or injection of chemicals is involved.\n                \nEndovenous Ablation Therapy\n                \nEndovenous ablation (ab-LA-shun) therapy uses lasers or radiowaves to create heat to close off a varicose vein.\n                \nYour doctor makes a tiny cut in your skin near the varicose vein. He or she then inserts a small tube called a catheter into the vein. A device at the tip of the tube heats up the inside of the vein and closes it off.\n                \nYou'll be awake during this procedure, but your doctor will numb the area around the vein. You usually can go home the same day as the procedure.\n                \nEndoscopic Vein Surgery\n                \nFor endoscopic (en-do-SKOP-ik) vein surgery, your doctor will make a small cut in your skin near a varicose vein. He or she then uses a tiny camera at the end of a thin tube to move through the vein. A surgical device at the end of the camera is used to close the vein.\n                \nEndoscopic vein surgery usually is used only in severe cases when varicose veins are causing skin ulcers (sores). After the procedure, you usually can return to your normal activities within a few weeks.\n                \nAmbulatory Phlebectomy\n                \nFor ambulatory phlebectomy (fle-BEK-to-me), your doctor will make small cuts in your skin to remove small varicose veins. This procedure usually is done to remove the varicose veins closest to the surface of your skin.\n                \nYou'll be awake during the procedure, but your doctor will numb the area around the vein. Usually, you can go home the same day that the procedure is done.\n                \nVein Stripping and Ligation\n                \nVein stripping and ligation typically is done only for severe cases of varicose veins. The procedure involves tying shut and removing the veins through small cuts in your skin.\n                \nYou'll be given medicine to temporarily put you to sleep so you don't feel any pain during the procedure.\n                \nVein stripping and ligation usually is done as an outpatient procedure. The recovery time from the procedure is about 1 to 4 weeks.",
+          "trust_score": 0.9124542449285754
+        },
+        {
+          "question": "What is (are) Varicose Veins ?",
+          "text": "Varicose veins are swollen, twisted veins that you can see just under the skin. They usually occur in the legs, but also can form in other parts of the body. Hemorrhoids are a type of varicose vein.    Your veins have one-way valves that help keep blood flowing toward your heart. If the valves are weak or damaged, blood can back up and pool in your veins. This causes the veins to swell, which can lead to varicose veins.    Varicose veins are very common. You are more at risk if you are older, a female, obese, don't exercise or have a family history. They can also be more common in pregnancy.    Doctors often diagnose varicose veins from a physical exam. Sometimes you may need additional tests.    Exercising, losing weight, elevating your legs when resting, and not crossing them when sitting can help keep varicose veins from getting worse. Wearing loose clothing and avoiding long periods of standing can also help. If varicose veins are painful or you don't like the way they look, your doctor may recommend procedures to remove them.    NIH: National Heart, Lung, and Blood Institute",
+          "trust_score": 0.7222657573240384
+        },
+        {
+          "question": "Who is at risk for Varicose Veins? ?",
+          "text": "Many factors may raise your risk for varicose veins, including family history, older age, gender, pregnancy, overweight or obesity, lack of movement, and leg trauma.\n                \nFamily History\n                \nHaving family members who have varicose veins may raise your risk for the condition. About half of all people who have varicose veins have a family history of them.\n                \nOlder Age\n                \nGetting older may raise your risk for varicose veins. The normal wear and tear of aging may cause the valves in your veins to weaken and not work well.\n                \nGender\n                \nWomen tend to get varicose veins more often than men. Hormonal changes that occur during puberty, pregnancy, and menopause (or with the use of birth control pills) may raise a woman's risk for varicose veins.\n                \nPregnancy\n                \nDuring pregnancy, the growing fetus puts pressure on the veins in the mother's legs. Varicose veins that occur during pregnancy usually get better within 3 to 12 months of delivery.\n                \nOverweight or Obesity\n                \nBeing overweight or obese can put extra pressure on your veins. This can lead to varicose veins. For more information about overweight and obesity, go to the Health Topics Overweight and Obesity article.\n                \nLack of Movement\n                \nStanding or sitting for a long time, especially with your legs bent or crossed, may raise your risk for varicose veins. This is because staying in one position for a long time may force your veins to work harder to pump blood to your heart.\n                \nLeg Trauma\n                \nPrevious blood clots or traumatic damage to the valves in your veins can weaken their ability to move blood back to the heart, increasing the risk for varicose veins.",
+          "trust_score": 0.12873621479060346
+        },
+        {
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "trust_score": 0.0014426194000376129
+        }
+      ]
+    }
+  ]
+}

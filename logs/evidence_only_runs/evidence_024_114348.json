@@ -1,0 +1,398 @@
+{
+  "symptoms": [
+    "abnormal vaginal bleeding",
+    "irritation in anus",
+    "sadness"
+  ],
+  "resolved_symptoms": [
+    "abnormal vaginal bleeding",
+    "irritation in anus",
+    "sadness"
+  ],
+  "diseases": [
+    {
+      "disease": "dimorphic hemmorhoids(piles)",
+      "drugs": [
+        "hydrocortisone",
+        "diosmin"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "bloody stool",
+          "pmid": "19260486",
+          "title": "Risk factors and the role of bedside colonoscopy for lower gastrointestinal hemorrhage in critically ill patients.",
+          "year": "2008",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7576033164265334,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "How might Stenotrophomonas maltophilia infection be treated? Stenotrophomonas maltophilia (S. maltophilia) bacteria are usually resistant to many antibiotics. The recommended therapy is trimethoprim-sulfamethoxazole (also called co-trimoxazole, or TMP-SMX). If this medication can not be used, a variety of other antibiotics may be considered. Combination therapy may be necessary in life-threatening cases. The duration of therapy largely depends on the site of infection. More detailed information about medications used to treat S. maltophilia infection is available in Medscape Reference and can be viewed by clicking here. This information is intended for informational purposes only. People seeking treatment for S. maltophilia infection should consult with their health care provider.",
+          "question": "What are the treatments for Stenotrophomonas maltophilia infection ?",
+          "score": 0.025446070358157158,
+          "rerank_score": -4.12374210357666,
+          "trust_score": 0.003545461275711851
+        },
+        {
+          "text": "How might pityriasis rubra pilaris be treated? Treatment of pityriasis rubra pilaris (PRP) is mainly based on reports of patients' experiences. No controlled trials have been done, so the effectiveness and safety of treatments is unclear. Currently there are no treatments approved by the US Food and Drug Administration (FDA) or the European Medicines Agency (EMA) for use in PRP. Management of PRP often involves systemic and topical therapies combined. Topical therapies can help with the symptoms and may be enough for people with mild PRP. Topical treatments are usually combined with systemic therapy for PRP that affects a large part of the body. Most people need systemic therapy to control the condition. Oral retinoids (synthetic vitamin A derivatives) are usually preferred as a first-line systemic treatment for PRP. Methotrexate may be an alternative option for people who should not use systemic retinoids, or who don't respond to systemic retinoid therapy. For people who don't respond well to retinoid or methotrexate therapy, options may include biologic TNF-alpha inhibitors, azathioprine, cyclosporine, and/or phototherapy. Topical treatments used for PRP may include topical corticosteroids, keratolytics, tar, calcipotriol, topical tretinoin, and tazarotene. Some of the medications used to treat PRP can harm a developing fetus and are not recommended for use right before or during pregnancy. People seeking information about specific treatment options for themselves or family members should speak with their health care provider.",
+          "question": "What are the treatments for Pityriasis rubra pilaris ?",
+          "score": 0.026437127962708473,
+          "rerank_score": -6.219386100769043,
+          "trust_score": 0.0005103209588536409
+        },
+        {
+          "text": "HEM (hydrops fetalis, ectopic calcifications, \"moth-eaten\" skeletal dysplasia) is a very rare type of lethal skeletal dysplasia. According to the reported cases of HEM in the medical literature, the condition's main features are hydrops fetalis, dwarfism with severely shortened limbs and relatively normal-sized hands and feet, a \"moth-eaten\" appearance of the skeleton, flat vertebral bodies and ectopic calcifications. HEM is an autosomal recessive condition caused by a mutation in the lamin B receptor (LBR) gene. No treatment or cure is currently known for HEM.",
+          "question": "What is (are) Hydrops, Ectopic calcification, Moth-eaten skeletal dysplasia ?",
+          "score": 0.023758046329021454,
+          "rerank_score": -5.116559982299805,
+          "trust_score": 3.201054245755228e-06
+        },
+        {
+          "text": "Heme is a red pigment composed of iron linked to a chemical called protoporphyrin. Heme has important functions in the body. The largest amounts of heme are in the form of hemoglobin, found in red blood cells and bone marrow. Hemoglobin carries oxygen from the lungs to all parts of the body. In the liver, heme is a component of proteins that break down hormones, medications, and other chemicals and keep liver cells functioning normally. Heme is an important part of nearly every cell in the body.",
+          "question": "What is (are) Porphyria ?",
+          "score": 0.023376893252134323,
+          "rerank_score": -7.156485557556152,
+          "trust_score": 4.878702224377824e-07
+        },
+        {
+          "text": "What are the signs and symptoms of Pilodental dysplasia with refractive errors? The Human Phenotype Ontology provides the following list of signs and symptoms for Pilodental dysplasia with refractive errors. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Abnormality of dental morphology 90% Anteverted nares 90% Hypermetropia 90% Hypohidrosis 90% Irregular hyperpigmentation 90% Long philtrum 90% Myopia 90% Reduced number of teeth 90% Thin vermilion border 90% Astigmatism 50% Hyperkeratosis 50% Cognitive impairment 7.5% Abnormality of the nail - Autosomal recessive inheritance - Brittle hair - Conical incisor - Ectodermal dysplasia - Follicular hyperkeratosis - Hypodontia - Reticular hyperpigmentation - Sparse scalp hair - Wide nasal bridge - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "question": "What are the symptoms of Pilodental dysplasia with refractive errors ?",
+          "score": 0.019666094332933426,
+          "rerank_score": -11.075878143310547,
+          "trust_score": 1.3039193450660709e-08
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Stenotrophomonas maltophilia infection ?",
+          "text": "How might Stenotrophomonas maltophilia infection be treated? Stenotrophomonas maltophilia (S. maltophilia) bacteria are usually resistant to many antibiotics. The recommended therapy is trimethoprim-sulfamethoxazole (also called co-trimoxazole, or TMP-SMX). If this medication can not be used, a variety of other antibiotics may be considered. Combination therapy may be necessary in life-threatening cases. The duration of therapy largely depends on the site of infection. More detailed information about medications used to treat S. maltophilia infection is available in Medscape Reference and can be viewed by clicking here. This information is intended for informational purposes only. People seeking treatment for S. maltophilia infection should consult with their health care provider.",
+          "trust_score": 0.003545461275711851
+        },
+        {
+          "question": "What are the treatments for Pityriasis rubra pilaris ?",
+          "text": "How might pityriasis rubra pilaris be treated? Treatment of pityriasis rubra pilaris (PRP) is mainly based on reports of patients' experiences. No controlled trials have been done, so the effectiveness and safety of treatments is unclear. Currently there are no treatments approved by the US Food and Drug Administration (FDA) or the European Medicines Agency (EMA) for use in PRP. Management of PRP often involves systemic and topical therapies combined. Topical therapies can help with the symptoms and may be enough for people with mild PRP. Topical treatments are usually combined with systemic therapy for PRP that affects a large part of the body. Most people need systemic therapy to control the condition. Oral retinoids (synthetic vitamin A derivatives) are usually preferred as a first-line systemic treatment for PRP. Methotrexate may be an alternative option for people who should not use systemic retinoids, or who don't respond to systemic retinoid therapy. For people who don't respond well to retinoid or methotrexate therapy, options may include biologic TNF-alpha inhibitors, azathioprine, cyclosporine, and/or phototherapy. Topical treatments used for PRP may include topical corticosteroids, keratolytics, tar, calcipotriol, topical tretinoin, and tazarotene. Some of the medications used to treat PRP can harm a developing fetus and are not recommended for use right before or during pregnancy. People seeking information about specific treatment options for themselves or family members should speak with their health care provider.",
+          "trust_score": 0.0005103209588536409
+        },
+        {
+          "question": "What is (are) Hydrops, Ectopic calcification, Moth-eaten skeletal dysplasia ?",
+          "text": "HEM (hydrops fetalis, ectopic calcifications, \"moth-eaten\" skeletal dysplasia) is a very rare type of lethal skeletal dysplasia. According to the reported cases of HEM in the medical literature, the condition's main features are hydrops fetalis, dwarfism with severely shortened limbs and relatively normal-sized hands and feet, a \"moth-eaten\" appearance of the skeleton, flat vertebral bodies and ectopic calcifications. HEM is an autosomal recessive condition caused by a mutation in the lamin B receptor (LBR) gene. No treatment or cure is currently known for HEM.",
+          "trust_score": 3.201054245755228e-06
+        },
+        {
+          "question": "What is (are) Porphyria ?",
+          "text": "Heme is a red pigment composed of iron linked to a chemical called protoporphyrin. Heme has important functions in the body. The largest amounts of heme are in the form of hemoglobin, found in red blood cells and bone marrow. Hemoglobin carries oxygen from the lungs to all parts of the body. In the liver, heme is a component of proteins that break down hormones, medications, and other chemicals and keep liver cells functioning normally. Heme is an important part of nearly every cell in the body.",
+          "trust_score": 4.878702224377824e-07
+        },
+        {
+          "question": "What are the symptoms of Pilodental dysplasia with refractive errors ?",
+          "text": "What are the signs and symptoms of Pilodental dysplasia with refractive errors? The Human Phenotype Ontology provides the following list of signs and symptoms for Pilodental dysplasia with refractive errors. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Abnormality of dental morphology 90% Anteverted nares 90% Hypermetropia 90% Hypohidrosis 90% Irregular hyperpigmentation 90% Long philtrum 90% Myopia 90% Reduced number of teeth 90% Thin vermilion border 90% Astigmatism 50% Hyperkeratosis 50% Cognitive impairment 7.5% Abnormality of the nail - Autosomal recessive inheritance - Brittle hair - Conical incisor - Ectodermal dysplasia - Follicular hyperkeratosis - Hypodontia - Reticular hyperpigmentation - Sparse scalp hair - Wide nasal bridge - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "trust_score": 1.3039193450660709e-08
+        }
+      ]
+    },
+    {
+      "disease": "teen depression",
+      "drugs": [],
+      "treatment_modalities": [
+        "medicines",
+        "talk therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "irritability",
+          "pmid": "38419494",
+          "title": "Irritability in Youths: A Critical Integrative Review.",
+          "year": "2024",
+          "confidence": 0.9148,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5722442001736783,
+          "abstract_snippet": "Irritability, defined as proneness to anger that may impair an individual's functioning, is common in youths. There has been a recent upsurge in relevant research. The authors combine systematic and narrative review approaches to integrate the latest clinical and translational findings and provide s"
+        },
+        {
+          "symptom": "emptiness",
+          "pmid": "38579178",
+          "title": "A general inductive approach to characterize transdiagnostic experiences of emptiness.",
+          "year": "2024",
+          "confidence": 0.9035,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7065129823721462,
+          "abstract_snippet": "Despite the pervasiveness of patient-reported emptiness and the high burden it carries, emptiness is poorly understood. In the current study, we used a general inductive approach to examine experiences with emptiness in a diagnostically diverse sample of treatment-seeking patients with severe and ac"
+        },
+        {
+          "symptom": "frustration",
+          "pmid": "32864293",
+          "title": "ADHD and Depression: the Role of Poor Frustration Tolerance.",
+          "year": "2017",
+          "confidence": 0.885,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.627907759351197,
+          "abstract_snippet": "Unipolar depression is a common comorbidity in children with ADHD with rates ranging from 12-50%. Compared to children with ADHD alone, children with comorbid ADHD and depression require more intense interventions since they experience higher levels of stress and more psychosocial and familial probl"
+        },
+        {
+          "symptom": "hopelessness",
+          "pmid": "31397111",
+          "title": "Depression and hopelessness in pre-clinical medical students.",
+          "year": "2019",
+          "confidence": 0.885,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5929463285974962,
+          "abstract_snippet": "Mental distress seriously affects the quality of life of medical students. Medical students face mental health problems such as depression, anxiety and hopelessness. The pre-clinical years include substantial changes in a student's life, such as moving cities and losing friends, which can complicate"
+        },
+        {
+          "symptom": "anger",
+          "pmid": "26931289",
+          "title": "Clinical validity of PROMIS Depression, Anxiety, and Anger across diverse clinical samples.",
+          "year": "2016",
+          "confidence": 0.8825,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6410140595377275,
+          "abstract_snippet": "The purpose of this study was to evaluate the responsiveness to change of the PROMIS negative affect measures (depression, anxiety, and anger) using longitudinal data collected in six chronic health conditions. Individuals with major depressive disorder (MDD), back pain, chronic obstructive pulmonar"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens treated? \n Effective treatments for depression in teens include talk therapy, or a combination of talk therapy and medicines:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "What is depression in teens? \n Depression in teens (ages 13-17) is a serious medical illness. It's more than just a feeling of being sad or \"blue\" for a few days. It is an intense feeling of sadness, hopelessness, and anger or frustration that lasts much longer. These feelings make it hard for you to function normally and do your usual activities. You may also have trouble focusing and have no motivation or energy. Depression can make you feel like it is hard to enjoy life or even get through the day.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "What causes depression in teens? \n Many factors may play a role in depression, including: \n Genetics. Depression can run in families. \n Brain biology and chemistry. \n Hormones. Hormone changes can contribute to depression. \n Stressful childhood events such as trauma, the death of a loved one, bullying , and abuse .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "Which teens are at risk of depression? \n Depression can happen at any age, but often begins in the teens or early adulthood. Certain teens are at higher risk of depression, such as those who: \n Have other mental health conditions, such as anxiety , eating disorders , and substance use \n Have other diseases, such as diabetes , cancer , and heart disease \n Have family members with mental illness \n Have a dysfunctional family/family conflict \n Have problems with friends or other kids at school \n Have learning disabilities or attention deficit hyperactivity disorder (ADHD) \n Have had trauma in childhood \n Have low self-esteem, a pessimistic outlook, or poor coping skills",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "What are the symptoms of depression in teens? \n If you have depression, you have one or more of these symptoms most of the time: \n Sadness \n Feeling of emptiness \n Hopelessness \n Being angry, irritable, or frustrated, even at minor things",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "You also may also have other symptoms, such as: \n No longer caring about things you used to enjoy \n Changes in weight, such as losing weight when you are not dieting or gaining weight from eating too much \n Changes in sleep, such as having trouble falling asleep or staying asleep, or sleeping much more than usual \n Feeling restless or having trouble sitting still \n Feeling very tired or not having energy \n Feeling worthless or very guilty \n Having trouble concentrating, remembering information, or making decisions \n Thinking about dying or suicide",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens diagnosed? \n If you think you might be depressed, tell someone that you trust, such as your: \n Parents or guardian \n Teacher or counselor \n Doctor",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "The next step is to see your doctor for a checkup. Your doctor can first make sure that you do not have another health problem that is causing your depression. To do this, you may have a physical exam and lab tests.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens treated? \n Effective treatments for depression in teens include talk therapy, or a combination of talk therapy and medicines:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "What is depression in teens? \n Depression in teens (ages 13-17) is a serious medical illness. It's more than just a feeling of being sad or \"blue\" for a few days. It is an intense feeling of sadness, hopelessness, and anger or frustration that lasts much longer. These feelings make it hard for you to function normally and do your usual activities. You may also have trouble focusing and have no motivation or energy. Depression can make you feel like it is hard to enjoy life or even get through the day.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "What causes depression in teens? \n Many factors may play a role in depression, including: \n Genetics. Depression can run in families. \n Brain biology and chemistry. \n Hormones. Hormone changes can contribute to depression. \n Stressful childhood events such as trauma, the death of a loved one, bullying , and abuse .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "Which teens are at risk of depression? \n Depression can happen at any age, but often begins in the teens or early adulthood. Certain teens are at higher risk of depression, such as those who: \n Have other mental health conditions, such as anxiety , eating disorders , and substance use \n Have other diseases, such as diabetes , cancer , and heart disease \n Have family members with mental illness \n Have a dysfunctional family/family conflict \n Have problems with friends or other kids at school \n Have learning disabilities or attention deficit hyperactivity disorder (ADHD) \n Have had trauma in childhood \n Have low self-esteem, a pessimistic outlook, or poor coping skills",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "What are the symptoms of depression in teens? \n If you have depression, you have one or more of these symptoms most of the time: \n Sadness \n Feeling of emptiness \n Hopelessness \n Being angry, irritable, or frustrated, even at minor things",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "You also may also have other symptoms, such as: \n No longer caring about things you used to enjoy \n Changes in weight, such as losing weight when you are not dieting or gaining weight from eating too much \n Changes in sleep, such as having trouble falling asleep or staying asleep, or sleeping much more than usual \n Feeling restless or having trouble sitting still \n Feeling very tired or not having energy \n Feeling worthless or very guilty \n Having trouble concentrating, remembering information, or making decisions \n Thinking about dying or suicide",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens diagnosed? \n If you think you might be depressed, tell someone that you trust, such as your: \n Parents or guardian \n Teacher or counselor \n Doctor",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "The next step is to see your doctor for a checkup. Your doctor can first make sure that you do not have another health problem that is causing your depression. To do this, you may have a physical exam and lab tests.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "cervical cancer",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy",
+        "surgery",
+        "immunotherapy"
+      ],
+      "citations": [
+        {
+          "symptom": "pelvic pain",
+          "pmid": "38783273",
+          "title": "Insights into pelvic insufficiency fracture following pelvic radiotherapy for cervical cancer: a comparative review.",
+          "year": "2024",
+          "confidence": 0.916,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.716126624027147,
+          "abstract_snippet": "Radiotherapy (RT)-induced pelvic insufficiency fractures (PIF) are prevalent in patients with cervical cancer. Inconclusive studies on PIF after cervical irradiation create uncertainty. This review examined PIF after RT in cervical patients, including its pathobiology, likely locations of fractures,"
+        },
+        {
+          "symptom": "pain during sex",
+          "pmid": "36207568",
+          "title": "Lack of Awareness, Body Confidence and Connotations of Sex: An Interpretative Phenomenological Analysis of Barriers Affecting the Decision to Attend Initial Cervical Cancer Screening.",
+          "year": "2023",
+          "confidence": 0.9091,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8352141317823454,
+          "abstract_snippet": "This study sought to understand how cervical cancer screening (CCS) awareness, sexual connotations and body image influenced the likelihood of CCS uptake in women yet to attend. Eleven females, aged 23-24, yet to attend CCS, were purposefully sampled. Interview transcripts were analysed using interp"
+        },
+        {
+          "symptom": "abnormal vaginal discharge",
+          "pmid": "33706721",
+          "title": "Early detection of cervical cancer in western Kenya: determinants of healthcare providers performing a gynaecological examination for abnormal vaginal discharge or bleeding.",
+          "year": "2021",
+          "confidence": 0.9057,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6969815616317355,
+          "abstract_snippet": "In western Kenya, women often present with late-stage cervical cancer despite prior contact with the health care system. The aim of this study was to predict primary health care providers' behaviour in examining women who present with abnormal discharge or bleeding. This was a cross-sectional survey"
+        },
+        {
+          "symptom": "abnormal vaginal bleeding",
+          "pmid": "34229672",
+          "title": "Clinical and sociodemographic factors associated with late stage cervical cancer diagnosis in Botswana.",
+          "year": "2021",
+          "confidence": 0.9008,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6692270506093,
+          "abstract_snippet": "Cervical cancer is the leading cause of female cancer mortality in Botswana with the majority of cervical cancer patients presenting with late-stage disease. The identification of factors associated with late-stage disease could reduce the cervical cancer burden. This study aims to identify potentia"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "cervical cancer",
+          "text": "What are the treatments for cervical cancer? \n Different treatments are available for cervical cancer. The best treatment for you depends on your health, how much cancer you have, whether it has spread, and which treatment you prefer. You may have more than one treatment, including:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        },
+        {
+          "question": "cervical cancer",
+          "text": "A Pap smear checks for abnormal cells so they can be treated before they become cancer \n An HPV test checks for high-risk HPV infections that can cause cancer.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Getting the right follow-up treatment if a screening test finds abnormal cells and/or high-risk HPV.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        },
+        {
+          "question": "cervical cancer",
+          "text": "What is cervical cancer? \n Cervical cancer is cancer that starts in the cells of the cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal). \n Cervical cancer usually develops slowly. Before cervical cells become cancer, they start to look abnormal. These cells are called \"precancers.\" If they aren't destroyed or removed, they may become cancer cells that grow out of control and spread to other parts of your body. \n Screening tests for cervical cancer can help find abnormal cells so you can get treatment to prevent cervical cancer. These tests can also find cervical cancer early when it's usually easier to treat.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        },
+        {
+          "question": "cervical cancer",
+          "text": "What causes cervical cancer? \n Almost all cervical cancers are caused by a long-lasting infection with a virus called human papillomavirus (HPV) . There are many types of HPV. The types that cause cancer are called \"high-risk HPV.\" High-risk HPV is very common. It can be passed from one person to another through close skin-to-skin touching, usually during vaginal, anal, or oral sex. Most people who are infected have no symptoms and don't know they have it. \n If you're infected with high-risk HPV, usually your immune system will get rid of it within a year or two. But if your immune system can't control the infection, it may last for many years. Over time, HPV can turn normal cervical cells into abnormal cells. Without treatment, these cells may keep changing until they become cervical cancer.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Who is more likely to develop cervical cancer? \n Cervical cancer is most common in people over age 30. If you have a high-risk HPV infection in your cervix, you're more likely to develop cervical cancer if you:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Have a weakened immune system because you:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Have a disease that harms your immune system, such as HIV . \n Take medicine to control your immune system, such as certain medicines to treat cancer or autoimmune diseases",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cervicalcancer.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "cervical cancer",
+          "text": "What are the treatments for cervical cancer? \n Different treatments are available for cervical cancer. The best treatment for you depends on your health, how much cancer you have, whether it has spread, and which treatment you prefer. You may have more than one treatment, including:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cervical cancer",
+          "text": "A Pap smear checks for abnormal cells so they can be treated before they become cancer \n An HPV test checks for high-risk HPV infections that can cause cancer.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Getting the right follow-up treatment if a screening test finds abnormal cells and/or high-risk HPV.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cervical cancer",
+          "text": "What is cervical cancer? \n Cervical cancer is cancer that starts in the cells of the cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal). \n Cervical cancer usually develops slowly. Before cervical cells become cancer, they start to look abnormal. These cells are called \"precancers.\" If they aren't destroyed or removed, they may become cancer cells that grow out of control and spread to other parts of your body. \n Screening tests for cervical cancer can help find abnormal cells so you can get treatment to prevent cervical cancer. These tests can also find cervical cancer early when it's usually easier to treat.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cervical cancer",
+          "text": "What causes cervical cancer? \n Almost all cervical cancers are caused by a long-lasting infection with a virus called human papillomavirus (HPV) . There are many types of HPV. The types that cause cancer are called \"high-risk HPV.\" High-risk HPV is very common. It can be passed from one person to another through close skin-to-skin touching, usually during vaginal, anal, or oral sex. Most people who are infected have no symptoms and don't know they have it. \n If you're infected with high-risk HPV, usually your immune system will get rid of it within a year or two. But if your immune system can't control the infection, it may last for many years. Over time, HPV can turn normal cervical cells into abnormal cells. Without treatment, these cells may keep changing until they become cervical cancer.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Who is more likely to develop cervical cancer? \n Cervical cancer is most common in people over age 30. If you have a high-risk HPV infection in your cervix, you're more likely to develop cervical cancer if you:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Have a weakened immune system because you:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cervical cancer",
+          "text": "Have a disease that harms your immune system, such as HIV . \n Take medicine to control your immune system, such as certain medicines to treat cancer or autoimmune diseases",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

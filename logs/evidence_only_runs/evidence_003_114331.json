@@ -1,0 +1,449 @@
+{
+  "symptoms": [
+    "burning micturition",
+    "weakness in arm",
+    "unwanted thoughts"
+  ],
+  "resolved_symptoms": [
+    "burning micturition",
+    "unwanted thoughts",
+    "weakness in arm"
+  ],
+  "diseases": [
+    {
+      "disease": "obsessive-compulsive disorder",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "exposure and response prevention"
+      ],
+      "citations": [
+        {
+          "symptom": "unwanted thoughts",
+          "pmid": "35617698",
+          "title": "Neurocircuit models of obsessive-compulsive disorder: limitations and future directions for research.",
+          "year": "2022",
+          "confidence": 0.9382,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7548592381522228,
+          "abstract_snippet": "Obsessive-compulsive disorder (OCD) is a common psychiatric condition classically characterized by obsessions (recurrent, intrusive and unwanted thoughts) and compulsions (excessive, repetitive and ritualistic behaviors or mental acts). OCD is heterogeneous in its clinical presentation and not all p"
+        },
+        {
+          "symptom": "intrusive worries",
+          "pmid": "28822003",
+          "title": "Pedophilia-Themed Obsessive-Compulsive Disorder: Assessment, Differential Diagnosis, and Treatment with Exposure and Response Prevention.",
+          "year": "2018",
+          "confidence": 0.919,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6979679739394308,
+          "abstract_snippet": "Fears of sexually harming children are fairly common among clients suffering from obsessive-compulsive disorder (OCD), yet these symptoms are largely unrecognized and frequently misdiagnosed by mental health professionals. Specifically, clients with pedophilia-themed OCD (P-OCD) experience excessive"
+        },
+        {
+          "symptom": "need for symmetry",
+          "pmid": "40727850",
+          "title": "Clinical characteristics of obsessive-compulsive disorder comorbid with obsessive -compulsive personality disorder: subtype implications.",
+          "year": "2025",
+          "confidence": 0.9085,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7600557431547509,
+          "abstract_snippet": "Obsessive-compulsive disorder (OCD) is a psychiatric condition characterized by persistent obsessions and compulsions that lead to significant distress and functional impairment. Obsessive-compulsive personality disorder (OCPD) frequently co-occurs in individuals with OCD and has been identified in"
+        },
+        {
+          "symptom": "fear of losing things",
+          "pmid": "21077294",
+          "title": "[Clinical features of obsessive-compulsive disorder with pervasive developmental disorder].",
+          "year": "2010",
+          "confidence": 0.8903,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7178354825132582,
+          "abstract_snippet": "Recently, psychiatrists have been paying attention to the presence of PDD (Pervasive Developmental Disorder) in difficult cases of mental disorder. We have found that patients with treatment-resistant OCD (Obsessive-Compulsive Disorder) are very likely to have PDD. If the presence of PDD can be reco"
+        },
+        {
+          "symptom": "aggressive thoughts",
+          "pmid": "34512758",
+          "title": "The Behavior of Patients with Obsessive-Compulsive Disorder in Dental Clinics.",
+          "year": "2021",
+          "confidence": 0.883,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.711800896983638,
+          "abstract_snippet": "This review documents published obsessive-compulsive disorder (OCD) cases with dental and oral conditions with potential impact on the dental procedure. The research question was, what are the psychiatric and behavioral features of people with OCD that might affect dental sessions? This review follo"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the treatments for obsessive-compulsive disorder (OCD)? \n The main treatments for obsessive-compulsive disorder (OCD) are cognitive behavioral therapy, medicines, or both: \n Cognitive behavioral therapy (CBT) is a type of psychotherapy. It teaches you different ways of thinking, behaving, and reacting to your obsessions and compulsions.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "If you have severe OCD that does not get better with these treatments, your provider may suggest a treatment called repetitive transcranial magnetic stimulation (rTMS). It is a brain stimulation procedure that uses magnetic waves. It can target specific brain areas associated with OCD.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What is obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) is a mental disorder in which you have thoughts (obsessions) and rituals (compulsions) over and over. They interfere with your life, but you cannot control or stop them.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What causes obsessive-compulsive disorder (OCD)? \n The cause of obsessive-compulsive disorder (OCD) is unknown. Factors such as genetics, brain biology and chemistry, and your environment may play a role.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Who is at risk for obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) usually begins when you are a teen or young adult. Boys often develop OCD at a younger age than girls.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Risk factors for OCD include: \n Family history. People with a first-degree relative (such as a parent, sibling, or child) who has OCD are at higher risk. This is especially true if the relative developed OCD as a child or teen. \n Brain structure and functioning. Imaging studies have shown that people with OCD have differences in certain parts of the brain. Researchers need to do more studies to understand the connection between the brain differences and OCD. \n Childhood trauma, such as child abuse . Some studies have found a link between trauma in childhood and OCD. More research is needed to understand this relationship better.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "In some cases, children may develop OCD or OCD symptoms following a streptococcal infection . This is called Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the symptoms of obsessive-compulsive disorder (OCD)? \n People with OCD may have symptoms of obsessions, compulsions, or both: \n Obsessions are repeated thoughts, urges, or mental images that cause anxiety . They may involve things such as",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the treatments for obsessive-compulsive disorder (OCD)? \n The main treatments for obsessive-compulsive disorder (OCD) are cognitive behavioral therapy, medicines, or both: \n Cognitive behavioral therapy (CBT) is a type of psychotherapy. It teaches you different ways of thinking, behaving, and reacting to your obsessions and compulsions.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "If you have severe OCD that does not get better with these treatments, your provider may suggest a treatment called repetitive transcranial magnetic stimulation (rTMS). It is a brain stimulation procedure that uses magnetic waves. It can target specific brain areas associated with OCD.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What is obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) is a mental disorder in which you have thoughts (obsessions) and rituals (compulsions) over and over. They interfere with your life, but you cannot control or stop them.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What causes obsessive-compulsive disorder (OCD)? \n The cause of obsessive-compulsive disorder (OCD) is unknown. Factors such as genetics, brain biology and chemistry, and your environment may play a role.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Who is at risk for obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) usually begins when you are a teen or young adult. Boys often develop OCD at a younger age than girls.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Risk factors for OCD include: \n Family history. People with a first-degree relative (such as a parent, sibling, or child) who has OCD are at higher risk. This is especially true if the relative developed OCD as a child or teen. \n Brain structure and functioning. Imaging studies have shown that people with OCD have differences in certain parts of the brain. Researchers need to do more studies to understand the connection between the brain differences and OCD. \n Childhood trauma, such as child abuse . Some studies have found a link between trauma in childhood and OCD. More research is needed to understand this relationship better.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "In some cases, children may develop OCD or OCD symptoms following a streptococcal infection . This is called Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the symptoms of obsessive-compulsive disorder (OCD)? \n People with OCD may have symptoms of obsessions, compulsions, or both: \n Obsessions are repeated thoughts, urges, or mental images that cause anxiety . They may involve things such as",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "dislocated shoulder",
+      "drugs": [],
+      "treatment_modalities": [
+        "closed reduction",
+        "sling immobilization",
+        "rehabilitation"
+      ],
+      "citations": [
+        {
+          "symptom": "numbness in arm",
+          "pmid": "36882314",
+          "title": "Posttraumatic Ruptured Axillary Mononeuropathy Without Shoulder Dislocation in an American Football Player: A Case Report and Review of the Literature.",
+          "year": "2023",
+          "confidence": 0.911,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8048181694617204,
+          "abstract_snippet": "A high school-aged right-handed adolescent boy presented with a 5-mo history of persistent proximal right arm weakness and numbness after an American football stinger injury without a documented history of a shoulder dislocation or humeral fracture. He developed diffuse deltoid muscle atrophy, persi"
+        },
+        {
+          "symptom": "weakness in arm",
+          "pmid": "27327391",
+          "title": "Lap-tray and triangular sling are no more effective than a hemi-sling in preventing shoulder subluxation in those at risk early after stroke: a randomized trial.",
+          "year": "2017",
+          "confidence": 0.8951,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8075783577846082,
+          "abstract_snippet": "Shoulder subluxation is a common secondary impairment of the upper limb following stroke. A range of supportive devices are used in rehabilitation to prevent shoulder subluxation, including hemi-slings and firm supports, such as arm troughs, however, there is little evidence regarding their efficacy"
+        },
+        {
+          "symptom": "shoulder bruising",
+          "pmid": "26359844",
+          "title": "Common Shoulder Injuries in American Football Athletes.",
+          "year": "2015",
+          "confidence": 0.8803,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7448866407481841,
+          "abstract_snippet": "American football is a collision sport played by athletes at high speeds. Despite the padding and conditioning in these athletes, the shoulder is a vulnerable joint, and injuries to the shoulder girdle are common at all levels of competitive football. Some of the most common injuries in these athlet"
+        },
+        {
+          "symptom": "severe shoulder pain",
+          "pmid": "30847445",
+          "title": "Remifentanil versus Propofol/Fentanyl Combination in Procedural Sedation for Dislocated Shoulder Reduction; a Clinical Trial.",
+          "year": "2019",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.793956297376222,
+          "abstract_snippet": ""
+        },
+        {
+          "symptom": "shoulder swelling",
+          "pmid": "40545326",
+          "title": "Adhesive Capsulitis of the Shoulder.",
+          "year": "2025",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8017318421554147,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "dislocated shoulder",
+          "text": "If you are having these symptoms, get medical treatment right away.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the treatments for a dislocated shoulder? \n The treatment for dislocated shoulder usually involves three steps: \n The first step is a closed reduction, a procedure in which your health care provider puts the ball of your upper arm back into the socket. You may first get medicine to relieve the pain and relax your shoulder muscles. Once the joint is back in place, the severe pain should end. \n The second step is wearing a sling or other device to keep your shoulder in place. You will wear it for a few days to several weeks. \n The third step is rehabilitation, once the pain and swelling have improved. You will do exercises to improve your range of motion and strengthen your muscles.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What is a dislocated shoulder? \n Your shoulder joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder dislocation is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What causes a dislocated shoulder? \n Your shoulders are the most movable joints in your body. They are also the most commonly dislocated joints.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "The most common causes of shoulder dislocations are: \n Sports injuries \n Accidents, including traffic accidents \n Falling on your shoulder or outstretched arm \n Seizures and electric shocks, which can cause muscle contractions that pull the arm out of place",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "Who is at risk for a dislocated shoulder? \n A dislocated shoulder can happen to anyone, but they are more common in young men, who are more often involved in sports and other physical activities. Older adults, especially women, are also at higher risk because they are more likely to fall.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the symptoms of a dislocated shoulder? \n The symptoms of a dislocated shoulder include: \n Severe shoulder pain \n Swelling and bruising of your shoulder or upper arm \n Numbness and/or weakness in your arm, neck, hand, or fingers \n Trouble moving your arm \n Your arm seems to be out of place \n Muscle spasms in your shoulder",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "How is a dislocated shoulder diagnosed? \n To make a diagnosis, your health care provider will take a medical history and examine your shoulder. Your provider may also ask you to get an x-ray to confirm the diagnosis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "dislocated shoulder",
+          "text": "If you are having these symptoms, get medical treatment right away.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the treatments for a dislocated shoulder? \n The treatment for dislocated shoulder usually involves three steps: \n The first step is a closed reduction, a procedure in which your health care provider puts the ball of your upper arm back into the socket. You may first get medicine to relieve the pain and relax your shoulder muscles. Once the joint is back in place, the severe pain should end. \n The second step is wearing a sling or other device to keep your shoulder in place. You will wear it for a few days to several weeks. \n The third step is rehabilitation, once the pain and swelling have improved. You will do exercises to improve your range of motion and strengthen your muscles.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What is a dislocated shoulder? \n Your shoulder joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder dislocation is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What causes a dislocated shoulder? \n Your shoulders are the most movable joints in your body. They are also the most commonly dislocated joints.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "The most common causes of shoulder dislocations are: \n Sports injuries \n Accidents, including traffic accidents \n Falling on your shoulder or outstretched arm \n Seizures and electric shocks, which can cause muscle contractions that pull the arm out of place",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "Who is at risk for a dislocated shoulder? \n A dislocated shoulder can happen to anyone, but they are more common in young men, who are more often involved in sports and other physical activities. Older adults, especially women, are also at higher risk because they are more likely to fall.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the symptoms of a dislocated shoulder? \n The symptoms of a dislocated shoulder include: \n Severe shoulder pain \n Swelling and bruising of your shoulder or upper arm \n Numbness and/or weakness in your arm, neck, hand, or fingers \n Trouble moving your arm \n Your arm seems to be out of place \n Muscle spasms in your shoulder",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "How is a dislocated shoulder diagnosed? \n To make a diagnosis, your health care provider will take a medical history and examine your shoulder. Your provider may also ask you to get an x-ray to confirm the diagnosis.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "urinary tract infection",
+      "drugs": [
+        "ciprofloxacin",
+        "nitrofurantoin",
+        "trimethoprim"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "foul smell of urine",
+          "pmid": "30445422",
+          "title": "Accuracy of urinary symptoms and urine microscopy in diagnosing urinary tract infection in women.",
+          "year": "2019",
+          "confidence": 0.9347,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6227012303184432,
+          "abstract_snippet": "Women with urinary tract infections (UTIs) often present with urinary complaints such as frequency of micturition, dysuria, foul-smelling urine and other non-specific symptoms like fever. Physicians may order urine microscopy to guide empirical antibiotic prescription. However, the performance of th"
+        },
+        {
+          "symptom": "burning micturition",
+          "pmid": "36041061",
+          "title": "D-mannose for preventing and treating urinary tract infections.",
+          "year": "2022",
+          "confidence": 0.9055,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.302470816050334,
+          "abstract_snippet": "Urinary tract infections (UTIs) are very common, affecting more than 7 million people worldwide. Whilst many people may only experience a single episode in their lifetime and are generally responsive to standard antibiotics, a significant proportion of adults and children (approximately 15% to 25%)"
+        },
+        {
+          "symptom": "continuous feel of urine",
+          "pmid": "28766094",
+          "title": "Risk of Depressive Symptoms Associated with Morbidity in Postpartum Women in Rural Bangladesh.",
+          "year": "2017",
+          "confidence": 0.8481,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7194952948514791,
+          "abstract_snippet": "Objectives Depression following pregnancy is common, but its extent and association with maternal morbidity in the first 6 months postpartum have not been well described in low resource settings such as rural Bangladesh. Methods We used data from a population-based, community trial of approximately"
+        },
+        {
+          "symptom": "bladder discomfort",
+          "pmid": "29261874",
+          "title": "Uncomplicated Urinary Tract Infections.",
+          "year": "2026",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6900063879325951,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "- A urinary tract infection (UTI) is an infection in the urinary tract. Infections are caused by microbesorganisms too small to be seen without a microscope.  - Most UTIs are caused by bacteria that live in the bowel, the part of the digestive tract where stool is changed from liquid to solid.  - Any child can get a UTI, though girls get UTIs more often than boys.  - Most UTIs are not serious, but some infections can lead to serious problems.  - A child with a UTI may not have any symptoms. When symptoms are present, they can range from mild to severe.  - A UTI is diagnosed by testing a sample of your childs urine.  - Bacteria-fighting medicines called antibiotics are used to treat a UTI.  - Talk with your childs health care provider after your childs UTI is gone. The health care provider may want to do more tests to check for vesicoureteral reflux (VUR) or a blockage in the urinary tract.  - You can take steps to help prevent your child from getting a UTI.",
+          "question": "What to do for What I need to know about My Child's Urinary Tract Infection ?",
+          "score": 0.04627222567796707,
+          "rerank_score": 8.731769561767578,
+          "trust_score": 0.9981577416995675
+        },
+        {
+          "text": "Because most UTIs are caused by bacteria, bacteria-fighting medications called antibiotics are the usual treatment. The type of antibiotic and length of treatment depend on the patients history and the type of bacteria causing the infection. Bladder infections may eventually get better on their own. But antibiotics can make the symptoms go away much more quickly. People usually feel better within a day or two of starting antibiotics. Drinking lots of fluids and urinating often may also speed healing. If needed, pain-killers can relieve the pain of a UTI. A heating pad on the back or abdomen may also help. Learn more about treating urinary tract infections.",
+          "question": "What are the treatments for Urinary Tract Infections ?",
+          "score": 0.050484150648117065,
+          "rerank_score": 4.777216911315918,
+          "trust_score": 0.9317678578898769
+        },
+        {
+          "text": "Pyelonephritis is treated with antibiotics, which may need to be taken for several weeks. While a urine sample is sent to a lab for culture, the health care provider may begin treatment with an antibiotic that fights the most common types of bacteria. Once culture results are known and the bacteria is clearly identified, the health care provider may switch the antibiotic to one that more effectively targets the bacteria. Antibiotics may be given through a vein, orally, or both. Urinary tract obstructions are often treated with surgery.\n                \nSeverely ill patients may be hospitalized and limited to bed rest until they can take the fluids and medications they need on their own. Fluids and medications may be given intravenously during this time.\n                \nIn adults, repeat urine cultures should be performed after treatment has ended to make sure the infection does not recur. If a repeat test shows infection, another 14-day course of antibiotics is prescribed; if infection recurs again, antibiotics are prescribed for 6 weeks.",
+          "question": "What are the treatments for Pyelonephritis: Kidney Infection ?",
+          "score": 0.042282599955797195,
+          "rerank_score": 3.6688642501831055,
+          "trust_score": 0.8291152989206578
+        },
+        {
+          "text": "Urinary tract infections (UTI) are a common bladder problem, especially as people age. UTIs are the second most common type of infection in the body. Each year, UTIs cause more than 8 million visits to health care providers. UTIs can happen anywhere in the urinary system (which includes the kidneys, bladder, and urethra). But UTIs are most common in the bladder. A UTI in the bladder is called cystitis. Infections in the bladder can spread to the kidneys. A UTI in the kidneys is called pyelonephritis. Sometimes, a UTI can also develop in the urethra, but this is less common. A UTI in the urethra is called urethritis. Learn more about urinary tract infections in adults.",
+          "question": "What is (are) Urinary Tract Infections ?",
+          "score": 0.046668488532304764,
+          "rerank_score": 8.822653770446777,
+          "trust_score": 0.5687334764237912
+        },
+        {
+          "text": "Although everyone has some risk, some people are more prone to getting UTIs than others. People with spinal cord injuries or other nerve damage around the bladder have difficulty emptying their bladder completely, allowing bacteria to grow in the urine that stays in the bladder. Anyone with an abnormality of the urinary tract that obstructs the flow of urinea kidney stone or enlarged prostate, for exampleis at risk for a UTI. People with diabetes or problems with the bodys natural defense system are more likely to get UTIs.\n                \nSexual activity can move microbes from the bowel or vaginal cavity to the urethral opening. If these microbes have special characteristics that allow them to live in the urinary tract, it is harder for the body to remove them quickly enough to prevent infection. Following sexual intercourse, most women have a significant number of bacteria in their urine, but the body normally clears them within 24 hours. However, some forms of birth control increase the risk of UTI. In some women, certain spermicides may irritate the skin, increasing the risk of bacteria invading surrounding tissues. Using a diaphragm may slow urinary flow and allow bacteria to multiply. Condom use is also associated with increased risk of UTIs, possibly because of the increased trauma that occurs to the vagina during sexual activity. Using spermicides with diaphragms and condoms can increase risk even further.\n                \nAnother common source of infection is catheters, or tubes, placed in the urethra and bladder. Catheters interfere with the bodys ability to clear microbes from the urinary tract. Bacteria travel through or around the catheter and establish a place where they can thrive within the bladder. A person who cannot urinate in the normal way or who is unconscious or critically ill often needs a catheter for more than a few days. The Infectious Diseases Society of America recommends using catheters for the shortest time possible to reduce the risk of a UTI.3\n                \nRecurrent Infections\n                \nMany women suffer from frequent UTIs. About 20 percent of young women with a first UTI will have a recurrent infection.4 With each UTI, the risk that a woman will continue having recurrent UTIs increases.5 Some women have three or more UTIs a year. However, very few women will have frequent infections throughout their lives. More typically, a woman will have a period of 1 or 2 years with frequent infections, after which recurring infections cease.\n                \nMen are less likely than women to have a first UTI. But once a man has a UTI, he is likely to have another because bacteria can hide deep inside prostate tissue. Anyone who has diabetes or a problem that makes it hard to urinate may have repeat infections.\n                \nResearch funded by the National Institutes of Health (NIH) suggests that one factor behind recurrent UTIs may be the ability of bacteria to attach to cells lining the urinary tract. One NIH-funded study found that bacteria formed a protective film on the inner lining of the bladder in mice.6 If a similar process can be demonstrated in humans, the discovery may lead to new treatments to prevent recurrent UTIs. Another line of research has indicated that women who are nonsecretors of certain blood group antigens may be more prone to recurrent UTIs because the cells lining the vagina and urethra may allow bacteria to attach more easily. A nonsecretor is a person with an A, B, or AB blood type who does not secrete the normal antigens for that blood type in bodily fluids, such as fluids that line the bladder wall.7\n                \nInfections during Pregnancy\n                \nPregnant women seem no more prone to UTIs than other women. However, when a UTI does occur in a pregnant woman, it is more likely to travel to the kidneys. According to some reports, about 4 to 5 percent of pregnant women develop a UTI.8 Scientists think that hormonal changes and shifts in the position of the urinary tract during pregnancy make it easier for bacteria to travel up the ureters to the kidneys and cause infection. For this reason, health care providers routinely screen pregnant women for bacteria in the urine during the first 3 months of pregnancy.",
+          "question": "Who is at risk for Urinary Tract Infection In Adults? ?",
+          "score": 0.021743731573224068,
+          "rerank_score": -0.7626612782478333,
+          "trust_score": 0.07592415997408654
+        },
+        {
+          "text": "Changing some of these daily habits may help prevent urinary tract infections (UTIs). - Wipe from front to back after using the toilet. Women should wipe from front to back to keep bacteria from getting into the urethra. This step is most important after a bowel movement. Wipe from front to back after using the toilet. Women should wipe from front to back to keep bacteria from getting into the urethra. This step is most important after a bowel movement. - Drink lots of fluids, especially water. Fluids can help flush bacteria from the urinary system. Water is best. Most healthy people should try to drink six to eight, 8-ounce glasses of fluid each day. (Some people need to drink less water because of certain conditions. For example, if you have kidney failure or heart disease, you should not drink this much fluid. Ask your health care provider how much fluid is healthy for you.) Drink lots of fluids, especially water. Fluids can help flush bacteria from the urinary system. Water is best. Most healthy people should try to drink six to eight, 8-ounce glasses of fluid each day. (Some people need to drink less water because of certain conditions. For example, if you have kidney failure or heart disease, you should not drink this much fluid. Ask your health care provider how much fluid is healthy for you.) - Urinate often and when the urge arises. Try to urinate at least every 3 to 4 hours. Bacteria are more likely to grow in the bladder when urine stays in the bladder too long.  Urinate often and when the urge arises. Try to urinate at least every 3 to 4 hours. Bacteria are more likely to grow in the bladder when urine stays in the bladder too long. - Urinate after sex. Both women and men should urinate shortly after sex to flush away bacteria that may have entered the urethra during sex.  Urinate after sex. Both women and men should urinate shortly after sex to flush away bacteria that may have entered the urethra during sex. - Wear cotton underwear and loose-fitting clothes. Wearing looser, cotton clothing will allow air to keep the area around the urethra dry. Tight-fitting jeans and nylon underwear should be avoided because they can trap moisture and help bacteria grow. Wear cotton underwear and loose-fitting clothes. Wearing looser, cotton clothing will allow air to keep the area around the urethra dry. Tight-fitting jeans and nylon underwear should be avoided because they can trap moisture and help bacteria grow. Cranberry Juice Drinking cranberry juice or taking cranberry supplements may also help prevent UTIs. Some studies have shown that cranberry products make UTIs less likely, especially in people who get UTIs often. But in other studies, cranberry products did not help.",
+          "question": "How to prevent Urinary Tract Infections ?",
+          "score": 0.021893177181482315,
+          "rerank_score": -1.0844497680664062,
+          "trust_score": 0.05840941283559296
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What to do for What I need to know about My Child's Urinary Tract Infection ?",
+          "text": "- A urinary tract infection (UTI) is an infection in the urinary tract. Infections are caused by microbesorganisms too small to be seen without a microscope.  - Most UTIs are caused by bacteria that live in the bowel, the part of the digestive tract where stool is changed from liquid to solid.  - Any child can get a UTI, though girls get UTIs more often than boys.  - Most UTIs are not serious, but some infections can lead to serious problems.  - A child with a UTI may not have any symptoms. When symptoms are present, they can range from mild to severe.  - A UTI is diagnosed by testing a sample of your childs urine.  - Bacteria-fighting medicines called antibiotics are used to treat a UTI.  - Talk with your childs health care provider after your childs UTI is gone. The health care provider may want to do more tests to check for vesicoureteral reflux (VUR) or a blockage in the urinary tract.  - You can take steps to help prevent your child from getting a UTI.",
+          "trust_score": 0.9981577416995675
+        },
+        {
+          "question": "What are the treatments for Urinary Tract Infections ?",
+          "text": "Because most UTIs are caused by bacteria, bacteria-fighting medications called antibiotics are the usual treatment. The type of antibiotic and length of treatment depend on the patients history and the type of bacteria causing the infection. Bladder infections may eventually get better on their own. But antibiotics can make the symptoms go away much more quickly. People usually feel better within a day or two of starting antibiotics. Drinking lots of fluids and urinating often may also speed healing. If needed, pain-killers can relieve the pain of a UTI. A heating pad on the back or abdomen may also help. Learn more about treating urinary tract infections.",
+          "trust_score": 0.9317678578898769
+        },
+        {
+          "question": "What are the treatments for Pyelonephritis: Kidney Infection ?",
+          "text": "Pyelonephritis is treated with antibiotics, which may need to be taken for several weeks. While a urine sample is sent to a lab for culture, the health care provider may begin treatment with an antibiotic that fights the most common types of bacteria. Once culture results are known and the bacteria is clearly identified, the health care provider may switch the antibiotic to one that more effectively targets the bacteria. Antibiotics may be given through a vein, orally, or both. Urinary tract obstructions are often treated with surgery.\n                \nSeverely ill patients may be hospitalized and limited to bed rest until they can take the fluids and medications they need on their own. Fluids and medications may be given intravenously during this time.\n                \nIn adults, repeat urine cultures should be performed after treatment has ended to make sure the infection does not recur. If a repeat test shows infection, another 14-day course of antibiotics is prescribed; if infection recurs again, antibiotics are prescribed for 6 weeks.",
+          "trust_score": 0.8291152989206578
+        },
+        {
+          "question": "What is (are) Urinary Tract Infections ?",
+          "text": "Urinary tract infections (UTI) are a common bladder problem, especially as people age. UTIs are the second most common type of infection in the body. Each year, UTIs cause more than 8 million visits to health care providers. UTIs can happen anywhere in the urinary system (which includes the kidneys, bladder, and urethra). But UTIs are most common in the bladder. A UTI in the bladder is called cystitis. Infections in the bladder can spread to the kidneys. A UTI in the kidneys is called pyelonephritis. Sometimes, a UTI can also develop in the urethra, but this is less common. A UTI in the urethra is called urethritis. Learn more about urinary tract infections in adults.",
+          "trust_score": 0.5687334764237912
+        },
+        {
+          "question": "Who is at risk for Urinary Tract Infection In Adults? ?",
+          "text": "Although everyone has some risk, some people are more prone to getting UTIs than others. People with spinal cord injuries or other nerve damage around the bladder have difficulty emptying their bladder completely, allowing bacteria to grow in the urine that stays in the bladder. Anyone with an abnormality of the urinary tract that obstructs the flow of urinea kidney stone or enlarged prostate, for exampleis at risk for a UTI. People with diabetes or problems with the bodys natural defense system are more likely to get UTIs.\n                \nSexual activity can move microbes from the bowel or vaginal cavity to the urethral opening. If these microbes have special characteristics that allow them to live in the urinary tract, it is harder for the body to remove them quickly enough to prevent infection. Following sexual intercourse, most women have a significant number of bacteria in their urine, but the body normally clears them within 24 hours. However, some forms of birth control increase the risk of UTI. In some women, certain spermicides may irritate the skin, increasing the risk of bacteria invading surrounding tissues. Using a diaphragm may slow urinary flow and allow bacteria to multiply. Condom use is also associated with increased risk of UTIs, possibly because of the increased trauma that occurs to the vagina during sexual activity. Using spermicides with diaphragms and condoms can increase risk even further.\n                \nAnother common source of infection is catheters, or tubes, placed in the urethra and bladder. Catheters interfere with the bodys ability to clear microbes from the urinary tract. Bacteria travel through or around the catheter and establish a place where they can thrive within the bladder. A person who cannot urinate in the normal way or who is unconscious or critically ill often needs a catheter for more than a few days. The Infectious Diseases Society of America recommends using catheters for the shortest time possible to reduce the risk of a UTI.3\n                \nRecurrent Infections\n                \nMany women suffer from frequent UTIs. About 20 percent of young women with a first UTI will have a recurrent infection.4 With each UTI, the risk that a woman will continue having recurrent UTIs increases.5 Some women have three or more UTIs a year. However, very few women will have frequent infections throughout their lives. More typically, a woman will have a period of 1 or 2 years with frequent infections, after which recurring infections cease.\n                \nMen are less likely than women to have a first UTI. But once a man has a UTI, he is likely to have another because bacteria can hide deep inside prostate tissue. Anyone who has diabetes or a problem that makes it hard to urinate may have repeat infections.\n                \nResearch funded by the National Institutes of Health (NIH) suggests that one factor behind recurrent UTIs may be the ability of bacteria to attach to cells lining the urinary tract. One NIH-funded study found that bacteria formed a protective film on the inner lining of the bladder in mice.6 If a similar process can be demonstrated in humans, the discovery may lead to new treatments to prevent recurrent UTIs. Another line of research has indicated that women who are nonsecretors of certain blood group antigens may be more prone to recurrent UTIs because the cells lining the vagina and urethra may allow bacteria to attach more easily. A nonsecretor is a person with an A, B, or AB blood type who does not secrete the normal antigens for that blood type in bodily fluids, such as fluids that line the bladder wall.7\n                \nInfections during Pregnancy\n                \nPregnant women seem no more prone to UTIs than other women. However, when a UTI does occur in a pregnant woman, it is more likely to travel to the kidneys. According to some reports, about 4 to 5 percent of pregnant women develop a UTI.8 Scientists think that hormonal changes and shifts in the position of the urinary tract during pregnancy make it easier for bacteria to travel up the ureters to the kidneys and cause infection. For this reason, health care providers routinely screen pregnant women for bacteria in the urine during the first 3 months of pregnancy.",
+          "trust_score": 0.07592415997408654
+        },
+        {
+          "question": "How to prevent Urinary Tract Infections ?",
+          "text": "Changing some of these daily habits may help prevent urinary tract infections (UTIs). - Wipe from front to back after using the toilet. Women should wipe from front to back to keep bacteria from getting into the urethra. This step is most important after a bowel movement. Wipe from front to back after using the toilet. Women should wipe from front to back to keep bacteria from getting into the urethra. This step is most important after a bowel movement. - Drink lots of fluids, especially water. Fluids can help flush bacteria from the urinary system. Water is best. Most healthy people should try to drink six to eight, 8-ounce glasses of fluid each day. (Some people need to drink less water because of certain conditions. For example, if you have kidney failure or heart disease, you should not drink this much fluid. Ask your health care provider how much fluid is healthy for you.) Drink lots of fluids, especially water. Fluids can help flush bacteria from the urinary system. Water is best. Most healthy people should try to drink six to eight, 8-ounce glasses of fluid each day. (Some people need to drink less water because of certain conditions. For example, if you have kidney failure or heart disease, you should not drink this much fluid. Ask your health care provider how much fluid is healthy for you.) - Urinate often and when the urge arises. Try to urinate at least every 3 to 4 hours. Bacteria are more likely to grow in the bladder when urine stays in the bladder too long.  Urinate often and when the urge arises. Try to urinate at least every 3 to 4 hours. Bacteria are more likely to grow in the bladder when urine stays in the bladder too long. - Urinate after sex. Both women and men should urinate shortly after sex to flush away bacteria that may have entered the urethra during sex.  Urinate after sex. Both women and men should urinate shortly after sex to flush away bacteria that may have entered the urethra during sex. - Wear cotton underwear and loose-fitting clothes. Wearing looser, cotton clothing will allow air to keep the area around the urethra dry. Tight-fitting jeans and nylon underwear should be avoided because they can trap moisture and help bacteria grow. Wear cotton underwear and loose-fitting clothes. Wearing looser, cotton clothing will allow air to keep the area around the urethra dry. Tight-fitting jeans and nylon underwear should be avoided because they can trap moisture and help bacteria grow. Cranberry Juice Drinking cranberry juice or taking cranberry supplements may also help prevent UTIs. Some studies have shown that cranberry products make UTIs less likely, especially in people who get UTIs often. But in other studies, cranberry products did not help.",
+          "trust_score": 0.05840941283559296
+        }
+      ]
+    }
+  ]
+}

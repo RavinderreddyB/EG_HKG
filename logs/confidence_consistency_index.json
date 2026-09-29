@@ -1,0 +1,33 @@
+{
+  "n_edges": 770,
+  "cci": 0.6024181034715291,
+  "pairwise_correlations": {
+    "semantic_credibility": -0.03161309780470853,
+    "semantic_structural": -0.036562986958700014,
+    "credibility_structural": 0.04053483039961648
+  },
+  "by_source": {
+    "DiseaseAndSymptoms": {
+      "n": 224,
+      "cci": 0.6121273689672585
+    },
+    "MedlinePlus": {
+      "n": 546,
+      "cci": 0.5984348150630248
+    }
+  },
+  "raw_signal_ranges": {
+    "semantic": [
+      0.5,
+      0.961
+    ],
+    "source_credibility": [
+      0.0014175762585389349,
+      0.005881231375763507
+    ],
+    "structural": [
+      0.0,
+      1.0
+    ]
+  }
+}

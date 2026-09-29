@@ -1,0 +1,446 @@
+{
+  "symptoms": [
+    "feeling unrested",
+    "petechiae",
+    "post exertional malaise"
+  ],
+  "resolved_symptoms": [
+    "feeling unrested",
+    "petechiae",
+    "post exertional malaise"
+  ],
+  "diseases": [
+    {
+      "disease": "myalgic encephalomyelitis chronic fatigue syndrome",
+      "drugs": [],
+      "treatment_modalities": [
+        "medicines",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "post exertional malaise",
+          "pmid": "39240417",
+          "title": "Towards an understanding of physical activity-induced post-exertional malaise: Insights into microvascular alterations and immunometabolic interactions in post-COVID condition and myalgic encephalomyelitis/chronic fatigue syndrome.",
+          "year": "2025",
+          "confidence": 0.9279,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6602055427397798,
+          "abstract_snippet": "A considerable number of patients who contracted SARS-CoV-2 are affected by persistent multi-systemic symptoms, referred to as Post-COVID Condition (PCC). Post-exertional malaise (PEM) has been recognized as one of the most frequent manifestations of PCC and is a diagnostic criterion of myalgic ence"
+        },
+        {
+          "symptom": "sleep problems",
+          "pmid": "38504389",
+          "title": "Current understanding of nociplastic pain.",
+          "year": "2024",
+          "confidence": 0.865,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7314363015242612,
+          "abstract_snippet": "Nociplastic pain by the \"International Association for the Study of Pain\" is defined as pain that arises from altered nociception despite no clear evidence of nociceptive or neuropathic pain. Augmented central nervous system pain and sensory processing with altered pain modulation are suggested to b"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "What are the treatments for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n There is no cure or approved treatment for ME/CFS, but you may be able to treat or manage some of your symptoms.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "When you have ME/CFS, it can be hard to help develop a treatment plan. It can also be difficult to try to take care of yourself. So it's important that you have support from family members and friends.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Make sure to talk to your provider before you try any new treatments. Some treatments that are promoted as cures for ME/CFS are unproven, often costly, and could be dangerous.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "What is myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a serious, long-term illness that affects many body systems. Another name for it is chronic fatigue syndrome (CFS). ME/CFS can often make you unable to do your usual activities. Sometimes you may not even be able to get out of bed.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "What causes myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n Researchers don't yet know what causes ME/CFS. There may be more than one potential cause. It is also possible that two or more triggers might work together to cause the illness.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Researchers are studying many possible causes, including:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Infections \n Immune system changes \n Physical or emotional stress \n Changes in the way cells in the body get their energy \n Genetics; the illness can sometimes run in families",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Who is more likely to develop myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n Anyone can get ME/CFS, but it is most common in people between 40 and 60 years old. Adult women are more likely to develop it than adult men.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "What are the treatments for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n There is no cure or approved treatment for ME/CFS, but you may be able to treat or manage some of your symptoms.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "When you have ME/CFS, it can be hard to help develop a treatment plan. It can also be difficult to try to take care of yourself. So it's important that you have support from family members and friends.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Make sure to talk to your provider before you try any new treatments. Some treatments that are promoted as cures for ME/CFS are unproven, often costly, and could be dangerous.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "What is myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a serious, long-term illness that affects many body systems. Another name for it is chronic fatigue syndrome (CFS). ME/CFS can often make you unable to do your usual activities. Sometimes you may not even be able to get out of bed.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "What causes myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n Researchers don't yet know what causes ME/CFS. There may be more than one potential cause. It is also possible that two or more triggers might work together to cause the illness.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Researchers are studying many possible causes, including:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Infections \n Immune system changes \n Physical or emotional stress \n Changes in the way cells in the body get their energy \n Genetics; the illness can sometimes run in families",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myalgic encephalomyelitis chronic fatigue syndrome",
+          "text": "Who is more likely to develop myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)? \n Anyone can get ME/CFS, but it is most common in people between 40 and 60 years old. Adult women are more likely to develop it than adult men.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "insomnia",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "medicines",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "difficulty falling asleep",
+          "pmid": "41475385",
+          "title": "Pediatric Insomnia.",
+          "year": "2026",
+          "confidence": 0.9348,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7322465773008461,
+          "abstract_snippet": "Pediatric insomnia is a common condition that can significantly impact a patient's well-being. It typically involves difficulty falling asleep, staying asleep, or both. The prevalence of insomnia is notably higher among children with autism spectrum disorder (ASD) or attention-deficit hyperactivity"
+        },
+        {
+          "symptom": "early waking",
+          "pmid": "29852897",
+          "title": "Insomnia in the Elderly: A Review.",
+          "year": "2018",
+          "confidence": 0.912,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7779010229642179,
+          "abstract_snippet": "Insomnia remains one of the most common sleep disorders encountered in the geriatric clinic population, frequently characterized by the subjective complaint of difficulty falling or maintaining sleep, or nonrestorative sleep, producing significant daytime symptoms including difficulty concentrating"
+        },
+        {
+          "symptom": "short sleep periods",
+          "pmid": "38016484",
+          "title": "The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023.",
+          "year": "2023",
+          "confidence": 0.9069,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7823551530615716,
+          "abstract_snippet": "Progress in the field of insomnia since 2017 necessitated this update of the European Insomnia Guideline. Recommendations for the diagnostic procedure for insomnia and its comorbidities are: clinical interview (encompassing sleep and medical history); the use of sleep questionnaires and diaries (and"
+        },
+        {
+          "symptom": "frequent night waking",
+          "pmid": "31738588",
+          "title": "Insomnia Symptoms and Suicide-Related Ideation in U.S. Army Service Members.",
+          "year": "2020",
+          "confidence": 0.8831,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.73973667588599,
+          "abstract_snippet": "<b>Background</b>: Insomnia has been identified as a key risk factor for suicide, though most studies have been limited to global measures of these constructs. The aim of the present study was to evaluate the link between insomnia symptoms and five different aspects of suicide-related ideation. <b>P"
+        },
+        {
+          "symptom": "feeling unrested",
+          "pmid": "29979840",
+          "title": "Association between allergic rhinitis and poor sleep parameters in U.S. adults.",
+          "year": "2018",
+          "confidence": 0.8589,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8169299426494204,
+          "abstract_snippet": "Evidence suggests relationships between allergic rhinitis (AR) and poor sleep parameters, but population-based studies in the United States are lacking. This study investigates the relationship between AR and sleep parameters in a representative sample of U.S. adults. Cross-sectional study of 5563 p"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "childhood leukemia",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "stem cell transplant",
+        "targeted therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "weight loss",
+          "pmid": "38652494",
+          "title": "Exercise and QUality Diet after Leukemia: A Randomized Weight Loss Trial among Adult Survivors of Childhood Leukemia in the Childhood Cancer Survivor Study.",
+          "year": "2024",
+          "confidence": 0.9334,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6957710406482779,
+          "abstract_snippet": "Obesity is prevalent in childhood cancer survivors and interacts with cancer treatments to potentiate risk for cardiovascular (CV) death. We tested a remote weight-loss intervention trial that was effective among adults with CV risk factors in a cohort of adult survivors of childhood acute lymphobla"
+        },
+        {
+          "symptom": "easy bruising",
+          "pmid": "25237325",
+          "title": "Thyroid nodule in an eighteen-year-old man as the first presentation of acute lymphoblastic leukemia.",
+          "year": "2014",
+          "confidence": 0.9232,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7472191371147714,
+          "abstract_snippet": "Acute lymphoblastic leukemia (ALL) is the most common malignancy of childhood. Patients with ALL commonly present with easy bruising and infections due to medullary involvement. The extra medullary involvements of ALL manifests as hepatosplenomegaly, lymphadenopathy, and testicular enlargement. Amon"
+        },
+        {
+          "symptom": "petechiae",
+          "pmid": "27647842",
+          "title": "Clinical presentation of childhood leukaemia: a systematic review and meta-analysis.",
+          "year": "2016",
+          "confidence": 0.9197,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.5341156532033996,
+          "abstract_snippet": "Leukaemia is the most common cancer of childhood, accounting for a third of cases. In order to assist clinicians in its early detection, we systematically reviewed all existing data on its clinical presentation and estimated the frequency of signs and symptoms presenting at or prior to diagnosis. We"
+        },
+        {
+          "symptom": "easy bleeding",
+          "pmid": "25237325",
+          "title": "Thyroid nodule in an eighteen-year-old man as the first presentation of acute lymphoblastic leukemia.",
+          "year": "2014",
+          "confidence": 0.9168,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7999349154037483,
+          "abstract_snippet": "Acute lymphoblastic leukemia (ALL) is the most common malignancy of childhood. Patients with ALL commonly present with easy bruising and infections due to medullary involvement. The extra medullary involvements of ALL manifests as hepatosplenomegaly, lymphadenopathy, and testicular enlargement. Amon"
+        },
+        {
+          "symptom": "loss of appetite",
+          "pmid": "27647842",
+          "title": "Clinical presentation of childhood leukaemia: a systematic review and meta-analysis.",
+          "year": "2016",
+          "confidence": 0.9128,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.6116140562202509,
+          "abstract_snippet": "Leukaemia is the most common cancer of childhood, accounting for a third of cases. In order to assist clinicians in its early detection, we systematically reviewed all existing data on its clinical presentation and estimated the frequency of signs and symptoms presenting at or prior to diagnosis. We"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "childhood leukemia",
+          "text": "What are the treatments for leukemia in children? \n The treatments for leukemia depend on which type it is, how severe the leukemia is, the child's age, and other factors. Possible treatments might include: \n chemotherapy \n radiation therapy \n Chemotherapy with stem cell transplant \n Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "Treatment for childhood leukemia is often successful. But the treatments can cause complications right away or later in life. Children who survived leukemia will need follow-up care the rest of their lives to watch for and treat any complications they may have.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "What is leukemia? \n Leukemia is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job: \n White blood cells help your body fight infection \n Red blood cells deliver oxygen from your lungs to your tissues and organs \n Platelets help form clots to stop bleeding",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "What are the types of leukemia in children? \n There are different types of leukemia. Some types are acute (fast growing). They usually get worse quickly if they are not treated. Most childhood leukemias are acute: \n Acute lymphocytic leukemia (ALL) , which is the most common type of leukemia in children and the most common cancer in children . In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell. \n Acute myeloid leukemia (AML) , which happens when bone marrow makes abnormal myeloblasts (a type of white blood cell), red blood cells, or platelets.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "Other types of leukemia are chronic (slow growing). They usually get worse over a longer period of time. They are rare in children: \n Chronic lymphocytic leukemia (CLL), in which the bone marrow makes abnormal lymphocytes (a type of white blood cell). It is more common in teens than children. \n Chronic myeloid leukemia (CML), in which the bone marrow makes abnormal granulocytes (a type of white blood cell). It is very rare in children.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "There are some other rare types of leukemia in children, including juvenile myelomonocytic leukemia (JMML).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "What causes leukemia in children? \n Leukemia happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown. However, there are certain factors that raise the risk of childhood leukemia.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/childhoodleukemia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "childhood leukemia",
+          "text": "What are the treatments for leukemia in children? \n The treatments for leukemia depend on which type it is, how severe the leukemia is, the child's age, and other factors. Possible treatments might include: \n chemotherapy \n radiation therapy \n Chemotherapy with stem cell transplant \n Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells",
+          "trust_score": 1.0
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "Treatment for childhood leukemia is often successful. But the treatments can cause complications right away or later in life. Children who survived leukemia will need follow-up care the rest of their lives to watch for and treat any complications they may have.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "What is leukemia? \n Leukemia is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job: \n White blood cells help your body fight infection \n Red blood cells deliver oxygen from your lungs to your tissues and organs \n Platelets help form clots to stop bleeding",
+          "trust_score": 1.0
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "What are the types of leukemia in children? \n There are different types of leukemia. Some types are acute (fast growing). They usually get worse quickly if they are not treated. Most childhood leukemias are acute: \n Acute lymphocytic leukemia (ALL) , which is the most common type of leukemia in children and the most common cancer in children . In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell. \n Acute myeloid leukemia (AML) , which happens when bone marrow makes abnormal myeloblasts (a type of white blood cell), red blood cells, or platelets.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "Other types of leukemia are chronic (slow growing). They usually get worse over a longer period of time. They are rare in children: \n Chronic lymphocytic leukemia (CLL), in which the bone marrow makes abnormal lymphocytes (a type of white blood cell). It is more common in teens than children. \n Chronic myeloid leukemia (CML), in which the bone marrow makes abnormal granulocytes (a type of white blood cell). It is very rare in children.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "There are some other rare types of leukemia in children, including juvenile myelomonocytic leukemia (JMML).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "childhood leukemia",
+          "text": "What causes leukemia in children? \n Leukemia happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown. However, there are certain factors that raise the risk of childhood leukemia.",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

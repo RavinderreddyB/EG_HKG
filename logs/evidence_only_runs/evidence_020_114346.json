@@ -1,0 +1,367 @@
+{
+  "symptoms": [
+    "visual disturbances",
+    "sudden weakness",
+    "trouble moving arm"
+  ],
+  "resolved_symptoms": [
+    "sudden weakness",
+    "trouble moving arm",
+    "visual disturbances"
+  ],
+  "diseases": [
+    {
+      "disease": "dislocated shoulder",
+      "drugs": [],
+      "treatment_modalities": [
+        "closed reduction",
+        "sling immobilization",
+        "rehabilitation"
+      ],
+      "citations": [
+        {
+          "symptom": "numbness in arm",
+          "pmid": "36882314",
+          "title": "Posttraumatic Ruptured Axillary Mononeuropathy Without Shoulder Dislocation in an American Football Player: A Case Report and Review of the Literature.",
+          "year": "2023",
+          "confidence": 0.911,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8048181694617204,
+          "abstract_snippet": "A high school-aged right-handed adolescent boy presented with a 5-mo history of persistent proximal right arm weakness and numbness after an American football stinger injury without a documented history of a shoulder dislocation or humeral fracture. He developed diffuse deltoid muscle atrophy, persi"
+        },
+        {
+          "symptom": "weakness in arm",
+          "pmid": "27327391",
+          "title": "Lap-tray and triangular sling are no more effective than a hemi-sling in preventing shoulder subluxation in those at risk early after stroke: a randomized trial.",
+          "year": "2017",
+          "confidence": 0.8951,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8075783577846082,
+          "abstract_snippet": "Shoulder subluxation is a common secondary impairment of the upper limb following stroke. A range of supportive devices are used in rehabilitation to prevent shoulder subluxation, including hemi-slings and firm supports, such as arm troughs, however, there is little evidence regarding their efficacy"
+        },
+        {
+          "symptom": "shoulder bruising",
+          "pmid": "26359844",
+          "title": "Common Shoulder Injuries in American Football Athletes.",
+          "year": "2015",
+          "confidence": 0.8803,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7448866407481841,
+          "abstract_snippet": "American football is a collision sport played by athletes at high speeds. Despite the padding and conditioning in these athletes, the shoulder is a vulnerable joint, and injuries to the shoulder girdle are common at all levels of competitive football. Some of the most common injuries in these athlet"
+        },
+        {
+          "symptom": "severe shoulder pain",
+          "pmid": "30847445",
+          "title": "Remifentanil versus Propofol/Fentanyl Combination in Procedural Sedation for Dislocated Shoulder Reduction; a Clinical Trial.",
+          "year": "2019",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.793956297376222,
+          "abstract_snippet": ""
+        },
+        {
+          "symptom": "shoulder swelling",
+          "pmid": "40545326",
+          "title": "Adhesive Capsulitis of the Shoulder.",
+          "year": "2025",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8017318421554147,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "dislocated shoulder",
+          "text": "If you are having these symptoms, get medical treatment right away.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the treatments for a dislocated shoulder? \n The treatment for dislocated shoulder usually involves three steps: \n The first step is a closed reduction, a procedure in which your health care provider puts the ball of your upper arm back into the socket. You may first get medicine to relieve the pain and relax your shoulder muscles. Once the joint is back in place, the severe pain should end. \n The second step is wearing a sling or other device to keep your shoulder in place. You will wear it for a few days to several weeks. \n The third step is rehabilitation, once the pain and swelling have improved. You will do exercises to improve your range of motion and strengthen your muscles.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What is a dislocated shoulder? \n Your shoulder joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder dislocation is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What causes a dislocated shoulder? \n Your shoulders are the most movable joints in your body. They are also the most commonly dislocated joints.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "The most common causes of shoulder dislocations are: \n Sports injuries \n Accidents, including traffic accidents \n Falling on your shoulder or outstretched arm \n Seizures and electric shocks, which can cause muscle contractions that pull the arm out of place",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "Who is at risk for a dislocated shoulder? \n A dislocated shoulder can happen to anyone, but they are more common in young men, who are more often involved in sports and other physical activities. Older adults, especially women, are also at higher risk because they are more likely to fall.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the symptoms of a dislocated shoulder? \n The symptoms of a dislocated shoulder include: \n Severe shoulder pain \n Swelling and bruising of your shoulder or upper arm \n Numbness and/or weakness in your arm, neck, hand, or fingers \n Trouble moving your arm \n Your arm seems to be out of place \n Muscle spasms in your shoulder",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "How is a dislocated shoulder diagnosed? \n To make a diagnosis, your health care provider will take a medical history and examine your shoulder. Your provider may also ask you to get an x-ray to confirm the diagnosis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "dislocated shoulder",
+          "text": "If you are having these symptoms, get medical treatment right away.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the treatments for a dislocated shoulder? \n The treatment for dislocated shoulder usually involves three steps: \n The first step is a closed reduction, a procedure in which your health care provider puts the ball of your upper arm back into the socket. You may first get medicine to relieve the pain and relax your shoulder muscles. Once the joint is back in place, the severe pain should end. \n The second step is wearing a sling or other device to keep your shoulder in place. You will wear it for a few days to several weeks. \n The third step is rehabilitation, once the pain and swelling have improved. You will do exercises to improve your range of motion and strengthen your muscles.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What is a dislocated shoulder? \n Your shoulder joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder dislocation is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What causes a dislocated shoulder? \n Your shoulders are the most movable joints in your body. They are also the most commonly dislocated joints.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "The most common causes of shoulder dislocations are: \n Sports injuries \n Accidents, including traffic accidents \n Falling on your shoulder or outstretched arm \n Seizures and electric shocks, which can cause muscle contractions that pull the arm out of place",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "Who is at risk for a dislocated shoulder? \n A dislocated shoulder can happen to anyone, but they are more common in young men, who are more often involved in sports and other physical activities. Older adults, especially women, are also at higher risk because they are more likely to fall.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the symptoms of a dislocated shoulder? \n The symptoms of a dislocated shoulder include: \n Severe shoulder pain \n Swelling and bruising of your shoulder or upper arm \n Numbness and/or weakness in your arm, neck, hand, or fingers \n Trouble moving your arm \n Your arm seems to be out of place \n Muscle spasms in your shoulder",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "How is a dislocated shoulder diagnosed? \n To make a diagnosis, your health care provider will take a medical history and examine your shoulder. Your provider may also ask you to get an x-ray to confirm the diagnosis.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "migraine",
+      "drugs": [
+        "ibuprofen",
+        "propranolol",
+        "sumatriptan"
+      ],
+      "treatment_modalities": [],
+      "citations": [],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Researchers believe that migraine is the result of fundamental neurological abnormalities caused by genetic mutations at work in the brain. New models are aiding scientists in studying the basic science involved in the biological cascade, genetic components and mechanisms of migraine. Understanding the causes of migraine as well as the events that effect them will give researchers the opportunity to develop and test drugs that could be more targeted to preventing or interrupting attacks entirely. Therapies currently being tested for their effectiveness in treating migraine include magnesium, coenzyme Q10, vitamin B12, riboflavin, fever-few, and butterbur. \n                \nIn 2010, a team of researchers found a common mutation in the gene TRESK which contains instructions for a certain potassium ion channel. Potassium channels are important for keeping a nerve cell at rest and mutations in them can lead to overactive cells that respond to much lower levels of pain. Large genetic analyses similar to the one used to identify TRESK will most likely lead to the identification of a number of other genes linked to migraine.",
+          "question": "what research (or clinical trials) is being done for Migraine ?",
+          "score": 0.02866257354617119,
+          "rerank_score": 4.605221271514893,
+          "trust_score": 0.9222435295029443
+        },
+        {
+          "text": "When headaches occur three or more times a month, preventive treatment is usually recommended. Drug therapy, biofeedback training, stress reduction, and elimination of certain foods from the diet are the most common methods of preventing and controlling migraine and other vascular headaches. Regular exercise, such as swimming or vigorous walking, can also reduce the frequency and severity of migraine headaches. Drug therapy for migraine is often combined with biofeedback and relaxation training. One of the most commonly used drugs for the relief of migraine symptoms is sumatriptan. Drugs used to prevent migraine also include methysergide maleate, which counteracts blood vessel constriction; propranolol hydrochloride, which also reduces the frequency and severity of migraine headaches; ergotamine tartrate, a vasoconstrictor that helps counteract the painful dilation stage of the headache; amitriptyline, an antidepressant; valproic acid, an anticonvulsant; and verapamil, a calcium channel blocker.",
+          "question": "What are the treatments for Headache ?",
+          "score": 0.02980130910873413,
+          "rerank_score": 4.47862434387207,
+          "trust_score": 0.9120405198919176
+        },
+        {
+          "text": "There is no absolute cure for migraine since its pathophysiology has yet to be fully understood. There are two ways to approach the treatment of migraine headache with drugs: prevent the attacks, or relieve the symptoms during the attacks. Prevention involves the use of medications and behavioral changes. Drugs originally developed for epilepsy, depression, or high blood pressure to prevent future attacks have been shown to be extremely effective in treating migraine. Botulinum toxin A has been shown to be effective in prevention of chronic migraine. Behaviorally, stress management strategies, such as exercise, relaxation techniques, biofeedback mechanisms, and other therapies designed to limit daily discomfort, may reduce the number and severity of migraine attacks. Making a log of personal triggers of migraine can also provide useful information for trigger-avoiding lifestyle changes, including dietary considerations, eating regularly scheduled meals with adequate hydration, stopping certain medications, and establishing a consistent sleep schedule. Hormone therapy may help some women whose migraines seem to be linked to their menstrual cycle. A weight loss program is recommended for obese individuals with migraine.\n                \nRelief of symptoms, or acute treatments, during attacks consists of sumatriptan, ergotamine drugs, and analgesics such as ibuprofen and aspirin. The sooner these treatments are administered, the more effective they are.",
+          "question": "What are the treatments for Migraine ?",
+          "score": 0.030631083995103836,
+          "rerank_score": 4.075135707855225,
+          "trust_score": 0.8761468325958546
+        },
+        {
+          "text": "If you suffer from migraine headaches, you're not alone. About 12 percent of the U.S. population gets them. Migraines are recurring attacks of moderate to severe pain. The pain is throbbing or pulsing, and is often on one side of the head. During migraines, people are very sensitive to light and sound. They may also become nauseated and vomit.     Migraine is three times more common in women than in men. Some people can tell when they are about to have a migraine because they see flashing lights or zigzag lines or they temporarily lose their vision.     Many things can trigger a migraine. These include        -  Anxiety    -  Stress    -  Lack of food or sleep     -  Exposure to light    -  Hormonal changes (in women)       Doctors used to believe migraines were linked to the opening and narrowing of blood vessels in the head. Now they believe the cause is related to genes that control the activity of some brain cells. Medicines can help prevent migraine attacks or help relieve symptoms of attacks when they happen. For many people, treatments to relieve stress can also help.    NIH: National Institute of Neurological Disorders and Stroke",
+          "question": "What is (are) Migraine ?",
+          "score": 0.0340573787689209,
+          "rerank_score": 5.836207866668701,
+          "trust_score": 0.07542381189546943
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "what research (or clinical trials) is being done for Migraine ?",
+          "text": "Researchers believe that migraine is the result of fundamental neurological abnormalities caused by genetic mutations at work in the brain. New models are aiding scientists in studying the basic science involved in the biological cascade, genetic components and mechanisms of migraine. Understanding the causes of migraine as well as the events that effect them will give researchers the opportunity to develop and test drugs that could be more targeted to preventing or interrupting attacks entirely. Therapies currently being tested for their effectiveness in treating migraine include magnesium, coenzyme Q10, vitamin B12, riboflavin, fever-few, and butterbur. \n                \nIn 2010, a team of researchers found a common mutation in the gene TRESK which contains instructions for a certain potassium ion channel. Potassium channels are important for keeping a nerve cell at rest and mutations in them can lead to overactive cells that respond to much lower levels of pain. Large genetic analyses similar to the one used to identify TRESK will most likely lead to the identification of a number of other genes linked to migraine.",
+          "trust_score": 0.9222435295029443
+        },
+        {
+          "question": "What are the treatments for Headache ?",
+          "text": "When headaches occur three or more times a month, preventive treatment is usually recommended. Drug therapy, biofeedback training, stress reduction, and elimination of certain foods from the diet are the most common methods of preventing and controlling migraine and other vascular headaches. Regular exercise, such as swimming or vigorous walking, can also reduce the frequency and severity of migraine headaches. Drug therapy for migraine is often combined with biofeedback and relaxation training. One of the most commonly used drugs for the relief of migraine symptoms is sumatriptan. Drugs used to prevent migraine also include methysergide maleate, which counteracts blood vessel constriction; propranolol hydrochloride, which also reduces the frequency and severity of migraine headaches; ergotamine tartrate, a vasoconstrictor that helps counteract the painful dilation stage of the headache; amitriptyline, an antidepressant; valproic acid, an anticonvulsant; and verapamil, a calcium channel blocker.",
+          "trust_score": 0.9120405198919176
+        },
+        {
+          "question": "What are the treatments for Migraine ?",
+          "text": "There is no absolute cure for migraine since its pathophysiology has yet to be fully understood. There are two ways to approach the treatment of migraine headache with drugs: prevent the attacks, or relieve the symptoms during the attacks. Prevention involves the use of medications and behavioral changes. Drugs originally developed for epilepsy, depression, or high blood pressure to prevent future attacks have been shown to be extremely effective in treating migraine. Botulinum toxin A has been shown to be effective in prevention of chronic migraine. Behaviorally, stress management strategies, such as exercise, relaxation techniques, biofeedback mechanisms, and other therapies designed to limit daily discomfort, may reduce the number and severity of migraine attacks. Making a log of personal triggers of migraine can also provide useful information for trigger-avoiding lifestyle changes, including dietary considerations, eating regularly scheduled meals with adequate hydration, stopping certain medications, and establishing a consistent sleep schedule. Hormone therapy may help some women whose migraines seem to be linked to their menstrual cycle. A weight loss program is recommended for obese individuals with migraine.\n                \nRelief of symptoms, or acute treatments, during attacks consists of sumatriptan, ergotamine drugs, and analgesics such as ibuprofen and aspirin. The sooner these treatments are administered, the more effective they are.",
+          "trust_score": 0.8761468325958546
+        },
+        {
+          "question": "What is (are) Migraine ?",
+          "text": "If you suffer from migraine headaches, you're not alone. About 12 percent of the U.S. population gets them. Migraines are recurring attacks of moderate to severe pain. The pain is throbbing or pulsing, and is often on one side of the head. During migraines, people are very sensitive to light and sound. They may also become nauseated and vomit.     Migraine is three times more common in women than in men. Some people can tell when they are about to have a migraine because they see flashing lights or zigzag lines or they temporarily lose their vision.     Many things can trigger a migraine. These include        -  Anxiety    -  Stress    -  Lack of food or sleep     -  Exposure to light    -  Hormonal changes (in women)       Doctors used to believe migraines were linked to the opening and narrowing of blood vessels in the head. Now they believe the cause is related to genes that control the activity of some brain cells. Medicines can help prevent migraine attacks or help relieve symptoms of attacks when they happen. For many people, treatments to relieve stress can also help.    NIH: National Institute of Neurological Disorders and Stroke",
+          "trust_score": 0.07542381189546943
+        }
+      ]
+    },
+    {
+      "disease": "ischemic stroke",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "blood thinners",
+        "thrombolytics",
+        "rehabilitation",
+        "stenting"
+      ],
+      "citations": [
+        {
+          "symptom": "dizziness",
+          "pmid": "35367974",
+          "title": "Vascular vertigo and dizziness: Diagnostic criteria.",
+          "year": "2022",
+          "confidence": 0.9149,
+          "source_credibility": 0.002020106195627142,
+          "structural_confidence": 0.8106642077561411,
+          "abstract_snippet": "This paper presents diagnostic criteria for vascular vertigo and dizziness as formulated by the Committee for the Classification of Vestibular Disorders of the B&#xe1;r&#xe1;ny Society. The classification includes vertigo/dizziness due to stroke or transient ischemic attack as well as isolated labyr"
+        },
+        {
+          "symptom": "loss of balance",
+          "pmid": "39930815",
+          "title": "The role of astrocyte metabolic reprogramming in ischemic stroke (Review).",
+          "year": "2025",
+          "confidence": 0.902,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3323229747312098,
+          "abstract_snippet": "Ischemic stroke, a leading cause of disability and mortality worldwide, is characterized by the sudden loss of blood flow in specific area of the brain. Intravenous thrombolysis with recombinant tissue plasminogen activator is the only approved pharmacological treatment for acute ischemic stroke; ho"
+        },
+        {
+          "symptom": "speech difficulty",
+          "pmid": "39840204",
+          "title": "Clinical Insights on My Acute Ischemic Stroke Caused by a Carotid Web.",
+          "year": "2024",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.20803001194649604,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "symptoms": [
+    "rectal bleeding",
+    "early waking",
+    "fullness below ribs"
+  ],
+  "resolved_symptoms": [
+    "early waking",
+    "fullness below ribs",
+    "rectal bleeding"
+  ],
+  "diseases": [
+    {
+      "disease": "insomnia",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "medicines",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "difficulty falling asleep",
+          "pmid": "41475385",
+          "title": "Pediatric Insomnia.",
+          "year": "2026",
+          "confidence": 0.9348,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7322465773008461,
+          "abstract_snippet": "Pediatric insomnia is a common condition that can significantly impact a patient's well-being. It typically involves difficulty falling asleep, staying asleep, or both. The prevalence of insomnia is notably higher among children with autism spectrum disorder (ASD) or attention-deficit hyperactivity"
+        },
+        {
+          "symptom": "early waking",
+          "pmid": "29852897",
+          "title": "Insomnia in the Elderly: A Review.",
+          "year": "2018",
+          "confidence": 0.912,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7779010229642179,
+          "abstract_snippet": "Insomnia remains one of the most common sleep disorders encountered in the geriatric clinic population, frequently characterized by the subjective complaint of difficulty falling or maintaining sleep, or nonrestorative sleep, producing significant daytime symptoms including difficulty concentrating"
+        },
+        {
+          "symptom": "short sleep periods",
+          "pmid": "38016484",
+          "title": "The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023.",
+          "year": "2023",
+          "confidence": 0.9069,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7823551530615716,
+          "abstract_snippet": "Progress in the field of insomnia since 2017 necessitated this update of the European Insomnia Guideline. Recommendations for the diagnostic procedure for insomnia and its comorbidities are: clinical interview (encompassing sleep and medical history); the use of sleep questionnaires and diaries (and"
+        },
+        {
+          "symptom": "frequent night waking",
+          "pmid": "31738588",
+          "title": "Insomnia Symptoms and Suicide-Related Ideation in U.S. Army Service Members.",
+          "year": "2020",
+          "confidence": 0.8831,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.73973667588599,
+          "abstract_snippet": "<b>Background</b>: Insomnia has been identified as a key risk factor for suicide, though most studies have been limited to global measures of these constructs. The aim of the present study was to evaluate the link between insomnia symptoms and five different aspects of suicide-related ideation. <b>P"
+        },
+        {
+          "symptom": "feeling unrested",
+          "pmid": "29979840",
+          "title": "Association between allergic rhinitis and poor sleep parameters in U.S. adults.",
+          "year": "2018",
+          "confidence": 0.8589,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8169299426494204,
+          "abstract_snippet": "Evidence suggests relationships between allergic rhinitis (AR) and poor sleep parameters, but population-based studies in the United States are lacking. This study investigates the relationship between AR and sleep parameters in a representative sample of U.S. adults. Cross-sectional study of 5563 p"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "anal cancer",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "surgery"
+      ],
+      "citations": [
+        {
+          "symptom": "rectal bleeding",
+          "pmid": "27468181",
+          "title": "Anorectal emergencies.",
+          "year": "2016",
+          "confidence": 0.9109,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6474091521543968,
+          "abstract_snippet": "Anorectal emergencies refer to anorectal disorders presenting with some alarming symptoms such as acute anal pain and bleeding which might require an immediate management. This article deals with the diagnosis and management of common anorectal emergencies such as acutely thrombosed external hemorrh"
+        },
+        {
+          "symptom": "anal discharge",
+          "pmid": "39900565",
+          "title": "Sexual dysfunction after colorectal and anal cancer-treatment in nurse-led sexological clinics.",
+          "year": "2025",
+          "confidence": 0.8958,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7476375210430051,
+          "abstract_snippet": "Sexual dysfunction after colorectal and anal cancer is common but rarely identified and treated, although effective treatment options do exist. Therefore, we recently established nurse-led clinics for the treatment of sexual dysfunction after pelvic organ cancer at two Danish university hospitals. T"
+        },
+        {
+          "symptom": "anal pain",
+          "pmid": "27468181",
+          "title": "Anorectal emergencies.",
+          "year": "2016",
+          "confidence": 0.8956,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7473493301740136,
+          "abstract_snippet": "Anorectal emergencies refer to anorectal disorders presenting with some alarming symptoms such as acute anal pain and bleeding which might require an immediate management. This article deals with the diagnosis and management of common anorectal emergencies such as acutely thrombosed external hemorrh"
+        },
+        {
+          "symptom": "anal itching",
+          "pmid": "32077979",
+          "title": "[Differential diagnosis of hemorrhoidal disease].",
+          "year": "2020",
+          "confidence": 0.887,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.713904153325657,
+          "abstract_snippet": "Hemorrhoidal disease is one of the most common illnesses in industrialized nations. Up to 70% of adults suffer from the disease once in their lifetime. This underlines the necessity and importance of knowing about the differential diagnosis of hemorrhoids. One can differentiate between differential"
+        },
+        {
+          "symptom": "change in bowel habits",
+          "pmid": "30793858",
+          "title": "Factors influencing changing bowel habits in patients undergoing sphincter-saving surgery for rectal cancer.",
+          "year": "2019",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.674035482441658,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "anal cancer",
+          "text": "What are the treatments for anal cancer? \n The treatments for anal cancer include radiation therapy , chemotherapy , and surgery. Which treatment you get will depend on how advanced the cancer is, your overall health, and your preferences.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "What is anal cancer? \n Your anus is the opening at the end of your large intestine. It is where stool (poop) leaves your body. The anus is formed partly from your outer layers of skin and partly from your intestine. Anal cancer is a type of cancer that forms in the tissues of your anus.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "Who is more likely to develop anal cancer? \n Anyone can get anal cancer, but you are more likely to develop it if you:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "You have an infection with high-risk HPV , especially if you have certain types. Most anal cancers are related to HPV infection. \n Have a weakened immune system , from conditions such as HIV or because of medicines you need to take after an organ transplant . \n Have had vulvar , vaginal , or cervical cancer. \n Have many sexual partners. \n Have anal sex. \n Smoke cigarettes .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "What are the symptoms of anal cancer? \n The signs and symptoms of anal cancer may include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "Bleeding from the anus or rectum \n A lump near the anus \n Pain or pressure in the area around the anus \n Itching or discharge from the anus \n A change in bowel habits , such as narrower stools, having to go more often, or bowel incontinence",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "How is anal cancer diagnosed? \n To find out if you have anal cancer, your provider:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "Will take your medical history, which includes asking about your symptoms. \n Will ask about your family health history. \n May do a digital rectal examination (DRE). A DRE is an exam of the anus and rectum. For the exam, your provider will insert a lubricated, gloved finger into the lower part of your rectum to feel for lumps or anything else that seems unusual. \n May order tests that examine the anus and rectum, such as:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "anal cancer",
+          "text": "What are the treatments for anal cancer? \n The treatments for anal cancer include radiation therapy , chemotherapy , and surgery. Which treatment you get will depend on how advanced the cancer is, your overall health, and your preferences.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "What is anal cancer? \n Your anus is the opening at the end of your large intestine. It is where stool (poop) leaves your body. The anus is formed partly from your outer layers of skin and partly from your intestine. Anal cancer is a type of cancer that forms in the tissues of your anus.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "Who is more likely to develop anal cancer? \n Anyone can get anal cancer, but you are more likely to develop it if you:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "You have an infection with high-risk HPV , especially if you have certain types. Most anal cancers are related to HPV infection. \n Have a weakened immune system , from conditions such as HIV or because of medicines you need to take after an organ transplant . \n Have had vulvar , vaginal , or cervical cancer. \n Have many sexual partners. \n Have anal sex. \n Smoke cigarettes .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "What are the symptoms of anal cancer? \n The signs and symptoms of anal cancer may include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "Bleeding from the anus or rectum \n A lump near the anus \n Pain or pressure in the area around the anus \n Itching or discharge from the anus \n A change in bowel habits , such as narrower stools, having to go more often, or bowel incontinence",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "How is anal cancer diagnosed? \n To find out if you have anal cancer, your provider:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "Will take your medical history, which includes asking about your symptoms. \n Will ask about your family health history. \n May do a digital rectal examination (DRE). A DRE is an exam of the anus and rectum. For the exam, your provider will insert a lubricated, gloved finger into the lower part of your rectum to feel for lumps or anything else that seems unusual. \n May order tests that examine the anus and rectum, such as:",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "stem cell transplant",
+        "targeted therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "fatigue",
+          "pmid": "38519964",
+          "title": "Fatigue in children who have recently completed treatment for acute lymphoblastic leukemia: a longitudinal study.",
+          "year": "2024",
+          "confidence": 0.9238,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.832776263764694,
+          "abstract_snippet": "This study examined fatigue in patients treated for childhood acute lymphoblastic leukemia (ALL) over a 2-year period (3- to 27-months post-treatment completion), from the perspective of children and parent caregivers, compared to a healthy comparison group. Eighty-three patients (4-16 years at enro"
+        },
+        {
+          "symptom": "abdominal pain",
+          "pmid": "40842042",
+          "title": "A Multicenter Study of Acute Abdomen in Children With Acute Lymphoblastic Leukemia: CCCG-ALL-2015.",
+          "year": "2025",
+          "confidence": 0.9186,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.9672829973473314,
+          "abstract_snippet": "Acute abdomen presents a significant challenge in the treatment of childhood acute lymphoblastic leukemia (ALL), potentially leading to treatment failure and treatment-related mortality. Results from the multicenter study of CCCG-ALL-2015 showed significant improvements in overall survival (OS) and"
+        },
+        {
+          "symptom": "bone pain",
+          "pmid": "32258824",
+          "title": "Acute lymphocytic leukemia masquerading as acute retinal necrosis.",
+          "year": "2020",
+          "confidence": 0.9161,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8090515322267202,
+          "abstract_snippet": "To report a case of B-cell acute lymphocytic leukemia (ALL) relapse presenting as acute retinal necrosis. An 11-year old boy with history of B-cell ALL undergoing maintenance therapy presented with a three-month history of intermittent blurry vision and pain in the right eye when a routine lumbar pu"
+        },
+        {
+          "symptom": "weakness",
+          "pmid": "29234981",
+          "title": "Sarcopenia after induction therapy in childhood acute lymphoblastic leukemia: its clinical significance.",
+          "year": "2018",
+          "confidence": 0.9157,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.899292267665951,
+          "abstract_snippet": "Muscle weakness is one of the most serious problems during chemotherapy for childhood hematological malignancies. It may be caused by long-term hospitalization, unfavorable physical conditions, and restricted activities. Although the concept of sarcopenia is becoming widely recognized, especially in"
+        },
+        {
+          "symptom": "weight loss",
+          "pmid": "38652494",
+          "title": "Exercise and QUality Diet after Leukemia: A Randomized Weight Loss Trial among Adult Survivors of Childhood Leukemia in the Childhood Cancer Survivor Study.",
+          "year": "2024",
+          "confidence": 0.91,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8217128370714414,
+          "abstract_snippet": "Obesity is prevalent in childhood cancer survivors and interacts with cancer treatments to potentiate risk for cardiovascular (CV) death. We tested a remote weight-loss intervention trial that was effective among adults with CV risk factors in a cohort of adult survivors of childhood acute lymphobla"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What are the treatments for acute lymphocytic leukemia (ALL)? \n Treatments for ALL include: \n Chemotherapy \n Radiation therapy \n Chemotherapy with stem cell transplant \n Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "Treatment is usually done in two phases: \n The goal of the first phase is to kill the leukemia cells in the blood and bone marrow. This treatment puts the leukemia into remission. Remission means that the signs and symptoms of cancer are reduced or have disappeared. \n The second phase is known as post-remission therapy. Its goal is to prevent a relapse (return) of the cancer. It involves killing any remaining leukemia cells that may not be active but could begin to regrow.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "Treatment during both phases also usually includes central nervous system (CNS) prophylaxis therapy. This therapy helps prevent the spread of leukemia cells to the brain and spinal cord. It may be high dose chemotherapy or chemotherapy injected into the spinal cord. It also sometimes includes radiation therapy.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What is leukemia? \n Leukemia is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job: \n White blood cells help your body fight infection \n Red blood cells deliver oxygen from your lungs to your tissues and organs \n Platelets help form clots to stop bleeding",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What is acute lymphocytic leukemia (ALL)? \n Acute lymphocytic leukemia is a type of acute leukemia. It's also called ALL and acute lymphoblastic leukemia. \"Acute\" means that it usually gets worse quickly if it's not treated. ALL is the most common type of cancer in children . It can also affect adults.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell. These cells normally help your body fight infection. But in ALL, they are abnormal and cannot fight infection very well. They also crowd out the healthy cells, which can lead to infection, anemia , and easy bleeding. These abnormal cells can also spread to other parts of the body, including the brain and spinal cord.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What causes acute lymphocytic leukemia (ALL)? \n ALL happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown. However, there are certain factors that raise your risk of ALL.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acutelymphocyticleukemia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What are the treatments for acute lymphocytic leukemia (ALL)? \n Treatments for ALL include: \n Chemotherapy \n Radiation therapy \n Chemotherapy with stem cell transplant \n Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "Treatment is usually done in two phases: \n The goal of the first phase is to kill the leukemia cells in the blood and bone marrow. This treatment puts the leukemia into remission. Remission means that the signs and symptoms of cancer are reduced or have disappeared. \n The second phase is known as post-remission therapy. Its goal is to prevent a relapse (return) of the cancer. It involves killing any remaining leukemia cells that may not be active but could begin to regrow.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "Treatment during both phases also usually includes central nervous system (CNS) prophylaxis therapy. This therapy helps prevent the spread of leukemia cells to the brain and spinal cord. It may be high dose chemotherapy or chemotherapy injected into the spinal cord. It also sometimes includes radiation therapy.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What is leukemia? \n Leukemia is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job: \n White blood cells help your body fight infection \n Red blood cells deliver oxygen from your lungs to your tissues and organs \n Platelets help form clots to stop bleeding",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What is acute lymphocytic leukemia (ALL)? \n Acute lymphocytic leukemia is a type of acute leukemia. It's also called ALL and acute lymphoblastic leukemia. \"Acute\" means that it usually gets worse quickly if it's not treated. ALL is the most common type of cancer in children . It can also affect adults.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell. These cells normally help your body fight infection. But in ALL, they are abnormal and cannot fight infection very well. They also crowd out the healthy cells, which can lead to infection, anemia , and easy bleeding. These abnormal cells can also spread to other parts of the body, including the brain and spinal cord.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute lymphocytic leukemia",
+          "text": "What causes acute lymphocytic leukemia (ALL)? \n ALL happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown. However, there are certain factors that raise your risk of ALL.",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

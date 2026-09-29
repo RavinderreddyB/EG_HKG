@@ -1,0 +1,476 @@
+{
+  "symptoms": [
+    "palpitations",
+    "rapid speech",
+    "stuffy nose"
+  ],
+  "resolved_symptoms": [
+    "palpitations",
+    "rapid speech",
+    "stuffy nose"
+  ],
+  "diseases": [
+    {
+      "disease": "bipolar disorder",
+      "drugs": [],
+      "treatment_modalities": [
+        "psychotherapy",
+        "medicines",
+        "electroconvulsive therapy",
+        "transcranial magnetic stimulation",
+        "light therapy",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "decreased need for sleep",
+          "pmid": "30818134",
+          "title": "A systematic review on sleep alterations anticipating the onset of bipolar disorder.",
+          "year": "2019",
+          "confidence": 0.9386,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6252239445919343,
+          "abstract_snippet": "Sleep alterations are frequent occurrence in Bipolar Disorder (BD), both in acute and interepisodic phases. Sleep alterations have been also described both long before BD onset, as aspecific risk syndromes, or as immediate prodromes of BD onset. The aim of the present study is to systematically revi"
+        },
+        {
+          "symptom": "racing thoughts",
+          "pmid": "31129462",
+          "title": "Racing thoughts revisited: A key dimension of activation in bipolar disorder.",
+          "year": "2019",
+          "confidence": 0.9345,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7133261009159696,
+          "abstract_snippet": "Racing and crowded thoughts are frequently reported respectively in manic and mixed episodes of bipolar disorder (BD). However, questionnaires assessing this symptom are lacking. Here we aimed to investigate racing thoughts across different mood episodes of BD through a self-report questionnaire tha"
+        },
+        {
+          "symptom": "elevated mood",
+          "pmid": "37045450",
+          "title": "Diagnosis and management of bipolar disorders.",
+          "year": "2023",
+          "confidence": 0.9304,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6772392341020372,
+          "abstract_snippet": "Bipolar disorders (BDs) are recurrent and sometimes chronic disorders of mood that affect around 2% of the world's population and encompass a spectrum between severe elevated and excitable mood states (mania) to the dysphoria, low energy, and despondency of depressive episodes. The illness commonly"
+        },
+        {
+          "symptom": "grandiosity",
+          "pmid": "33673356",
+          "title": "Clinical Impact of Psychopathy on Bipolar Disorder.",
+          "year": "2021",
+          "confidence": 0.9087,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7301284042471816,
+          "abstract_snippet": "<i>Background and Objectives</i>. Bipolar disorder (BD) is associated with a significant burden due to affective symptoms and behavioral manifestations, but also cognitive and functional impairment. Comorbidity with other psychiatric conditions, including personality disorders, is frequent. The como"
+        },
+        {
+          "symptom": "increased energy",
+          "pmid": "32479323",
+          "title": "Correlates, Course, and Outcomes of Increased Energy in Youth with Bipolar Disorder.",
+          "year": "2020",
+          "confidence": 0.8986,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6651547883300718,
+          "abstract_snippet": "Compare longitudinal trajectories of youth with Diagnostic and Statistical Manual of Mental Disorders (DSM)-IV Bipolar Disorder (BD), grouped at baseline by presence/absence of increased energy during their worst lifetime mood episode (required for DSM-5). Participants from the parent Course and Out"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "bipolar disorder",
+          "text": "What are the treatments for bipolar disorder? \n Treatment can help many people, including those with the most severe forms of bipolar disorder. The main treatments for bipolar disorder include medicines, psychotherapy, or both:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder is a lifelong illness. But long-term, ongoing treatment can help manage your symptoms and enable you to live a healthy, successful life.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What is bipolar disorder? \n Bipolar disorder is a mood disorder that can cause intense mood swings:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Sometimes you may feel extremely \"up,\" elated, irritable, or energized. This is called a manic episode . \n Other times you may feel \"down,\" sad, indifferent, or hopeless. This is called a depressive episode . \n You may have both manic and depressive symptoms together. This is called a mixed episode .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Along with mood swings, bipolar disorder causes changes in behavior, energy levels, and activity levels.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder used to be called other names, including manic depression and manic-depressive disorder.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What are the types of bipolar disorder? \n There are three main types of bipolar disorder:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar I disorder involves manic episodes that last at least 7 days or manic symptoms so severe that you need immediate hospital care. Depressive episodes are also common. Those often last at least two weeks. This type of bipolar disorder can also involve mixed episodes. \n Bipolar II disorder involves depressive episodes. But instead of full-blown manic episodes, there are episodes of hypomania. Hypomania is a less severe version of mania. \n Cyclothymic disorder , or cyclothymia, also involves hypomanic and depressive symptoms. But they are not as intense or as long-lasting as hypomanic or depressive episodes. The symptoms usually last for at least two years in adults and for one year in children and teenagers.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bipolardisorder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "bipolar disorder",
+          "text": "What are the treatments for bipolar disorder? \n Treatment can help many people, including those with the most severe forms of bipolar disorder. The main treatments for bipolar disorder include medicines, psychotherapy, or both:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder is a lifelong illness. But long-term, ongoing treatment can help manage your symptoms and enable you to live a healthy, successful life.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What is bipolar disorder? \n Bipolar disorder is a mood disorder that can cause intense mood swings:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Sometimes you may feel extremely \"up,\" elated, irritable, or energized. This is called a manic episode . \n Other times you may feel \"down,\" sad, indifferent, or hopeless. This is called a depressive episode . \n You may have both manic and depressive symptoms together. This is called a mixed episode .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Along with mood swings, bipolar disorder causes changes in behavior, energy levels, and activity levels.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar disorder used to be called other names, including manic depression and manic-depressive disorder.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "What are the types of bipolar disorder? \n There are three main types of bipolar disorder:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "bipolar disorder",
+          "text": "Bipolar I disorder involves manic episodes that last at least 7 days or manic symptoms so severe that you need immediate hospital care. Depressive episodes are also common. Those often last at least two weeks. This type of bipolar disorder can also involve mixed episodes. \n Bipolar II disorder involves depressive episodes. But instead of full-blown manic episodes, there are episodes of hypomania. Hypomania is a less severe version of mania. \n Cyclothymic disorder , or cyclothymia, also involves hypomanic and depressive symptoms. But they are not as intense or as long-lasting as hypomanic or depressive episodes. The symptoms usually last for at least two years in adults and for one year in children and teenagers.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "flu",
+      "drugs": [],
+      "treatment_modalities": [
+        "antiviral medicine",
+        "rest"
+      ],
+      "citations": [
+        {
+          "symptom": "body aches",
+          "pmid": "33522695",
+          "title": "Influenza and Influenza Vaccine: A Review.",
+          "year": "2021",
+          "confidence": 0.9084,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7741784084059609,
+          "abstract_snippet": "Influenza is a highly contagious, deadly virus, killing nearly half a million people yearly worldwide. The classic symptoms of influenza are fever, fatigue, cough, and body aches. In the outpatient setting, diagnosis can be made by clinical presentation with optional confirmatory diagnostic testing."
+        },
+        {
+          "symptom": "chills",
+          "pmid": "31845781",
+          "title": "Influenza: Diagnosis and Treatment.",
+          "year": "2019",
+          "confidence": 0.8949,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.7557236914255042,
+          "abstract_snippet": "Influenza is an acute viral respiratory infection that causes significant morbidity and mortality worldwide. Three types of influenza cause disease in humans. Influenza A is the type most responsible for causing pandemics because of its high susceptibility to antigenic variation. Influenza is highly"
+        },
+        {
+          "symptom": "fever",
+          "pmid": "36030813",
+          "title": "Influenza.",
+          "year": "2022",
+          "confidence": 0.8917,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.4217665611001039,
+          "abstract_snippet": "Annual seasonal influenza epidemics of variable severity caused by influenza A and B virus infections result in substantial disease burden worldwide. Seasonal influenza virus circulation declined markedly in 2020-21 after SARS-CoV-2 emerged but increased in 2021-22. Most people with influenza have a"
+        },
+        {
+          "symptom": "muscle aches",
+          "pmid": "36030813",
+          "title": "Influenza.",
+          "year": "2022",
+          "confidence": 0.8761,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.7011912963254888,
+          "abstract_snippet": "Annual seasonal influenza epidemics of variable severity caused by influenza A and B virus infections result in substantial disease burden worldwide. Seasonal influenza virus circulation declined markedly in 2020-21 after SARS-CoV-2 emerged but increased in 2021-22. Most people with influenza have a"
+        },
+        {
+          "symptom": "stuffy nose",
+          "pmid": "37994372",
+          "title": "Distinguishing Swine Flu (H1N1) from COVID-19: Clinical, Virological, and Immunological Perspectives.",
+          "year": "2023",
+          "confidence": 0.8749,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7572086799032395,
+          "abstract_snippet": "This article provides an in-depth examination on the differences between the influenza A strain, H1N1 (also called Swine Flu) and Covid-19 focusing on the immune response and clinical symptoms. Flu symptoms due to influenza A strain, H1N1, were initially discovered in 2009. This variant of influenza"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "flu",
+          "text": "What are the treatments for the flu? \n Most people with the flu recover on their own without medical care. People with mild cases of the flu should stay home and avoid contact with others, except to get medical care.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "question": "flu",
+          "text": "What is the flu? \n The flu, also called influenza, is a respiratory infection caused by viruses. Each year, millions of Americans get sick with the flu. Sometimes it causes mild illness. But it can also be serious or even deadly, especially for people over 65, newborn babies, and people with certain chronic illnesses.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "question": "flu",
+          "text": "What causes the flu? \n The flu is caused by flu viruses that spread from person to person. When someone with the flu coughs, sneezes, or talks, they spray tiny droplets. These droplets can land in the mouths or noses of people who are nearby. Less often, a person may get flu by touching a surface or object that has flu virus on it and then touching their own mouth, nose, or possibly their eyes.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "question": "flu",
+          "text": "What are the symptoms of the flu? \n Symptoms of the flu come on suddenly and may include: \n Fever or feeling feverish/chills \n Cough \n Sore throat \n Runny or stuffy nose \n Muscle or body aches \n Headaches \n Fatigue (tiredness)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "question": "flu",
+          "text": "Some people may also have vomiting and diarrhea . This is more common in children.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "question": "flu",
+          "text": "Sometimes people have trouble figuring out whether they have a cold or the flu. There are differences between them:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "question": "flu",
+          "text": "Signs and Symptoms \n Cold \n Flu",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "question": "flu",
+          "text": "Start of symptoms \n Slowly \n Suddenly",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/flu.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "flu",
+          "text": "What are the treatments for the flu? \n Most people with the flu recover on their own without medical care. People with mild cases of the flu should stay home and avoid contact with others, except to get medical care.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "flu",
+          "text": "What is the flu? \n The flu, also called influenza, is a respiratory infection caused by viruses. Each year, millions of Americans get sick with the flu. Sometimes it causes mild illness. But it can also be serious or even deadly, especially for people over 65, newborn babies, and people with certain chronic illnesses.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "flu",
+          "text": "What causes the flu? \n The flu is caused by flu viruses that spread from person to person. When someone with the flu coughs, sneezes, or talks, they spray tiny droplets. These droplets can land in the mouths or noses of people who are nearby. Less often, a person may get flu by touching a surface or object that has flu virus on it and then touching their own mouth, nose, or possibly their eyes.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "flu",
+          "text": "What are the symptoms of the flu? \n Symptoms of the flu come on suddenly and may include: \n Fever or feeling feverish/chills \n Cough \n Sore throat \n Runny or stuffy nose \n Muscle or body aches \n Headaches \n Fatigue (tiredness)",
+          "trust_score": 1.0
+        },
+        {
+          "question": "flu",
+          "text": "Some people may also have vomiting and diarrhea . This is more common in children.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "flu",
+          "text": "Sometimes people have trouble figuring out whether they have a cold or the flu. There are differences between them:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "flu",
+          "text": "Signs and Symptoms \n Cold \n Flu",
+          "trust_score": 1.0
+        },
+        {
+          "question": "flu",
+          "text": "Start of symptoms \n Slowly \n Suddenly",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "drugs": [],
+      "treatment_modalities": [
+        "supportive care"
+      ],
+      "citations": [
+        {
+          "symptom": "brain fog",
+          "pmid": "37555926",
+          "title": "Characterizing long-COVID brain fog: a retrospective cohort study.",
+          "year": "2023",
+          "confidence": 0.9431,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8149293132835227,
+          "abstract_snippet": "Long COVID or post-COVID condition (PCC) is a common complication following acute COVID-19 infection. PCC is a multi-systems disease with neurocognitive impairment frequently reported regardless of age. Little is known about the risk factors, associated biomarkers and clinical trajectory of patients"
+        },
+        {
+          "symptom": "sleep problems",
+          "pmid": "37227000",
+          "title": "Pre-existing sleep problems as a predictor of post-acute sequelae of COVID-19.",
+          "year": "2024",
+          "confidence": 0.9397,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5565001480334464,
+          "abstract_snippet": "Several months after COVID-19 many individuals still report persisting symptoms, the so-called 'post-COVID-19 syndrome'. An immunological dysfunction is one of the main pathophysiological hypotheses. As sleep is central to the functioning of the immune system, we investigated whether self-reported p"
+        },
+        {
+          "symptom": "chest pain",
+          "pmid": "36379497",
+          "title": "Long COVID: Rapid Evidence Review.",
+          "year": "2022",
+          "confidence": 0.9367,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8213674853634242,
+          "abstract_snippet": "Postacute sequelae of COVID-19, also known as long COVID, affects approximately 10% to 30% of the hundreds of millions of people who have had acute COVID-19. The Centers for Disease Control and Prevention defines long COVID as the presence of new, returning, or ongoing symptoms associated with acute"
+        },
+        {
+          "symptom": "cough",
+          "pmid": "37061399",
+          "title": "Long COVID and rehabilitation.",
+          "year": "2024",
+          "confidence": 0.923,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.2644632734449239,
+          "abstract_snippet": "Coronavirus disease 2019 (COVID-19) has caused tremendous morbidity and mortality worldwide. The large number of post-COVID survivors has drawn attention to the management of post-COVID condition, known as long COVID. This review examines current knowledge of long COVID, regarding its epidemiology,"
+        },
+        {
+          "symptom": "diarrhea",
+          "pmid": "36813431",
+          "title": "Diarrhea and Coronavirus Disease 2019 Infection.",
+          "year": "2023",
+          "confidence": 0.9227,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7839947980056476,
+          "abstract_snippet": "The global coronavirus disease-2019 (COVID-19) pandemic has caused significant morbidity and mortality, thoroughly affected daily living, and caused severe economic disruption throughout the world. Pulmonary symptoms predominate and account for most of the associated morbidity and mortality. However"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "What are the treatments for post-COVID conditions (long COVID)? \n There is no specific treatment for post-COVID conditions yet. You and your provider can work together to create a personal care plan to manage your symptoms and improve your quality of life.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "What are post-COVID conditions (long COVID)? \n COVID-19 (coronavirus disease 2019) is an illness caused by a virus. Many people get better within a few days or weeks after being infected with the virus. But others have post-COVID conditions. They may:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "Have symptoms that linger for weeks, months, or even years \n Seem to recover from COVID-19 but then see their symptoms return \n Develop new symptoms or new health conditions within a few months of having COVID-19",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "There are several other names for post-COVID conditions. It is often called long COVID. But it can also be called long-haul COVID, long-term effects of COVID, chronic COVID, post-acute COVID-19, and post-acute sequelae of SARS-CoV-2 (PASC).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "Who is more likely to develop post-COVID conditions (long COVID)? \n Anyone who had COVID-19, whether it was severe or mild, can have long-lasting symptoms. But you are at higher risk of post-COVID conditions if you:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "Had severe COVID-19 illness, especially if you were hospitalized or needed intensive care. \n Had underlying health conditions before you got COVID-19. \n Did not get a COVID-19 vaccine . \n Had multisystem inflammatory syndrome (MIS) during or after COVID-19. MIS is a rare but serious condition in which different body parts become inflamed.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "What are the symptoms of post-COVID conditions (long COVID)? \n Post-COVID conditions do not affect everyone the same way. They can cause various types and combinations of symptoms in different people. The symptoms may affect different parts of the body, for example:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "General symptoms, such as fatigue and fever \n Respiratory symptoms, such as trouble breathing and cough \n Heart symptoms, such as chest pain and palpitations \n Neurologic symptoms such as trouble thinking and concentrating (\"brain fog\"), headaches , and sleep problems \n Digestive symptoms such as diarrhea and stomach pain",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/postcovidconditionslongcovid.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "What are the treatments for post-COVID conditions (long COVID)? \n There is no specific treatment for post-COVID conditions yet. You and your provider can work together to create a personal care plan to manage your symptoms and improve your quality of life.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "What are post-COVID conditions (long COVID)? \n COVID-19 (coronavirus disease 2019) is an illness caused by a virus. Many people get better within a few days or weeks after being infected with the virus. But others have post-COVID conditions. They may:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "Have symptoms that linger for weeks, months, or even years \n Seem to recover from COVID-19 but then see their symptoms return \n Develop new symptoms or new health conditions within a few months of having COVID-19",
+          "trust_score": 1.0
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "There are several other names for post-COVID conditions. It is often called long COVID. But it can also be called long-haul COVID, long-term effects of COVID, chronic COVID, post-acute COVID-19, and post-acute sequelae of SARS-CoV-2 (PASC).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "Who is more likely to develop post-COVID conditions (long COVID)? \n Anyone who had COVID-19, whether it was severe or mild, can have long-lasting symptoms. But you are at higher risk of post-COVID conditions if you:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "Had severe COVID-19 illness, especially if you were hospitalized or needed intensive care. \n Had underlying health conditions before you got COVID-19. \n Did not get a COVID-19 vaccine . \n Had multisystem inflammatory syndrome (MIS) during or after COVID-19. MIS is a rare but serious condition in which different body parts become inflamed.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "What are the symptoms of post-COVID conditions (long COVID)? \n Post-COVID conditions do not affect everyone the same way. They can cause various types and combinations of symptoms in different people. The symptoms may affect different parts of the body, for example:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "post-covid conditions (long covid)",
+          "text": "General symptoms, such as fatigue and fever \n Respiratory symptoms, such as trouble breathing and cough \n Heart symptoms, such as chest pain and palpitations \n Neurologic symptoms such as trouble thinking and concentrating (\"brain fog\"), headaches , and sleep problems \n Digestive symptoms such as diarrhea and stomach pain",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

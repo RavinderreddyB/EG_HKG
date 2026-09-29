@@ -1,0 +1,461 @@
+{
+  "symptoms": [
+    "leg jerking",
+    "nausea",
+    "breast pain"
+  ],
+  "resolved_symptoms": [
+    "breast pain",
+    "leg jerking",
+    "nausea"
+  ],
+  "diseases": [
+    {
+      "disease": "sleep disorders",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "light therapy",
+        "lifestyle changes",
+        "cpap therapy",
+        "sleep aid medicine"
+      ],
+      "citations": [
+        {
+          "symptom": "excessive daytime sleepiness",
+          "pmid": "36115367",
+          "title": "Understanding and approaching excessive daytime sleepiness.",
+          "year": "2022",
+          "confidence": 0.9576,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7928313386507632,
+          "abstract_snippet": "Excessive daytime sleepiness (EDS) is a public health issue. However, it remains largely undervalued, scarcely diagnosed, and poorly supported. Variations in the definition of EDS and limitations in clinical assessment lead to difficulties in its epidemiological study, but the relevance of this symp"
+        },
+        {
+          "symptom": "difficulty falling asleep",
+          "pmid": "39622332",
+          "title": "[Sleep Disorders].",
+          "year": "2024",
+          "confidence": 0.9469,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7682230604486016,
+          "abstract_snippet": "Insomnia is a common sleep disorder that, owing to difficulties falling asleep or maintaining sleep and/or early morning awakening, causes daytime functional impairment. Other sleep disorders include sleep-related breathing disorders; sleep-related movement disorders, such as periodic limb movement"
+        },
+        {
+          "symptom": "sleep paralysis",
+          "pmid": "40919623",
+          "title": "Sleep Paralysis: Pathogenesis, Clinical Manifestations, and Treatment Strategies.",
+          "year": "2025",
+          "confidence": 0.9154,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8676311295303992,
+          "abstract_snippet": "Sleep paralysis, colloquially known as \"ghost pressing\" is a state of momentary bodily immobilization occurring either at the onset of sleep or upon awakening. It is characterized by atonia during rapid eye movement (REM) sleep that continues into wakefulness, causing patients to become temporarily"
+        },
+        {
+          "symptom": "leg jerking",
+          "pmid": "36324989",
+          "title": "Myoclonus and other jerky movement disorders.",
+          "year": "2022",
+          "confidence": 0.9084,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8102144390666053,
+          "abstract_snippet": "Myoclonus and other jerky movements form a large heterogeneous group of disorders. Clinical neurophysiology studies can have an important contribution to support diagnosis but also to gain insight in the pathophysiology of different kind of jerks. This review focuses on myoclonus, tics, startle diso"
+        },
+        {
+          "symptom": "sudden muscle weakness",
+          "pmid": "38663202",
+          "title": "Single cell transcriptomics of cerebrospinal fluid cells from patients with recent-onset narcolepsy.",
+          "year": "2024",
+          "confidence": 0.9062,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.766825782235342,
+          "abstract_snippet": "Narcolepsy is a rare cause of hypersomnolence and may be associated or not with cataplexy, i.e. sudden muscle weakness. These forms are designated narcolepsy-type 1 (NT1) and -type 2 (NT2), respectively. Notable characteristics of narcolepsy are that most patients carry the HLA-DQB1*06:02 allele and"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "sleep disorders",
+          "text": "What are the treatments for sleep disorders? \n Treatments for sleep disorders depend on which disorder you have. They may include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        },
+        {
+          "question": "sleep disorders",
+          "text": "What is sleep? \n While you are sleeping your brain and body functions are still active. Sleep is a natural process that helps your body restore energy, supports learning and memory, and keeps you healthy.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        },
+        {
+          "question": "sleep disorders",
+          "text": "It's not just the number of hours of sleep you get that matters. The quality of your sleep is also important. During the night, your brain cycles through different stages of non-rapid eye movement (non-REM) sleep and rapid eye movement (REM) sleep. If your sleep is often interrupted, you may not get enough time in certain stages of sleep. Poor-quality sleep does more than make you feel tired. It can affect your physical and mental health, thinking, and daily functioning.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        },
+        {
+          "question": "sleep disorders",
+          "text": "What are sleep disorders? \n Sleep disorders are conditions that disturb your normal sleep patterns. There are many types of sleep disorders. Some general types include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        },
+        {
+          "question": "sleep disorders",
+          "text": "Insomnia , which is trouble falling asleep or staying asleep. \n Sleep-related breathing disorders such as sleep apnea , a condition in which you stop breathing for 10 seconds or more during sleep. \n Sleep-related movement disorders such as restless leg syndrome (RLS), which involves tingling or prickling sensations in your legs, and a strong urge to move them. \n Hypersomnia, which is extreme daytime sleepiness. This includes narcolepsy. \n Circadian rhythm sleep-wake disorders , which are problems falling asleep or waking up at the right times. This may be due to shift work or jet lag. \n Parasomnia , which is unusual behaviors during sleep or while falling asleep or waking up. This may include sleepwalking, talking, or eating during sleep.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        },
+        {
+          "question": "sleep disorders",
+          "text": "Some people who feel tired during the day have a true sleep disorder, while others simply don't get enough sleep. The amount of sleep you need depends on your age, lifestyle, health, and sleep patterns. Most adults need about 7-9 hours each night.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        },
+        {
+          "question": "sleep disorders",
+          "text": "What causes sleep disorders? \n There are different causes for different sleep disorders. They may include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        },
+        {
+          "question": "sleep disorders",
+          "text": "Other health conditions, such as heart disease , lung disease , nerve disorders , or pain \n Mental illnesses , including depression and anxiety \n Medicines \n Genetics",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/sleepdisorders.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "sleep disorders",
+          "text": "What are the treatments for sleep disorders? \n Treatments for sleep disorders depend on which disorder you have. They may include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "sleep disorders",
+          "text": "What is sleep? \n While you are sleeping your brain and body functions are still active. Sleep is a natural process that helps your body restore energy, supports learning and memory, and keeps you healthy.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "sleep disorders",
+          "text": "It's not just the number of hours of sleep you get that matters. The quality of your sleep is also important. During the night, your brain cycles through different stages of non-rapid eye movement (non-REM) sleep and rapid eye movement (REM) sleep. If your sleep is often interrupted, you may not get enough time in certain stages of sleep. Poor-quality sleep does more than make you feel tired. It can affect your physical and mental health, thinking, and daily functioning.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "sleep disorders",
+          "text": "What are sleep disorders? \n Sleep disorders are conditions that disturb your normal sleep patterns. There are many types of sleep disorders. Some general types include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "sleep disorders",
+          "text": "Insomnia , which is trouble falling asleep or staying asleep. \n Sleep-related breathing disorders such as sleep apnea , a condition in which you stop breathing for 10 seconds or more during sleep. \n Sleep-related movement disorders such as restless leg syndrome (RLS), which involves tingling or prickling sensations in your legs, and a strong urge to move them. \n Hypersomnia, which is extreme daytime sleepiness. This includes narcolepsy. \n Circadian rhythm sleep-wake disorders , which are problems falling asleep or waking up at the right times. This may be due to shift work or jet lag. \n Parasomnia , which is unusual behaviors during sleep or while falling asleep or waking up. This may include sleepwalking, talking, or eating during sleep.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "sleep disorders",
+          "text": "Some people who feel tired during the day have a true sleep disorder, while others simply don't get enough sleep. The amount of sleep you need depends on your age, lifestyle, health, and sleep patterns. Most adults need about 7-9 hours each night.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "sleep disorders",
+          "text": "What causes sleep disorders? \n There are different causes for different sleep disorders. They may include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "sleep disorders",
+          "text": "Other health conditions, such as heart disease , lung disease , nerve disorders , or pain \n Mental illnesses , including depression and anxiety \n Medicines \n Genetics",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "breast cancer",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "mastectomy",
+        "lumpectomy"
+      ],
+      "citations": [
+        {
+          "symptom": "nipple discharge",
+          "pmid": "27501708",
+          "title": "Nipple Preservation in Breast Cancer Associated with Nipple Discharge.",
+          "year": "2017",
+          "confidence": 0.9376,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8221572357447848,
+          "abstract_snippet": "Breast carcinoma presented with nipple discharge is a rare condition. There is theoretical concern about preserving nipple in these patients since the risk of nipple-areolar complex involvement may be greater, but not many studies in the literature have addressed on this issue. The aim of the curren"
+        },
+        {
+          "symptom": "breast lump",
+          "pmid": "9484272",
+          "title": "The palpable breast lump: information and recommendations to assist decision-making when a breast lump is detected. The Steering Committee on Clinical Practice Guidelines for the Care and Treatment of Breast Cancer. Canadian Association of Radiation Oncologists.",
+          "year": "1998",
+          "confidence": 0.9228,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7788216824069797,
+          "abstract_snippet": "To provide information and recommendations for assisting women and their physicians in making the decisions necessary to establish or exclude the presence of cancer when a lump is felt in the breast. Guidelines are based on a systematic review of published evidence and expert opinion. References wer"
+        },
+        {
+          "symptom": "change in breast size",
+          "pmid": "34075766",
+          "title": "Neoadjuvant Chemotherapy for Breast Cancer: Moving Beyond Pathological Complete Response in the Molecular Age.",
+          "year": "2021",
+          "confidence": 0.895,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.776392287081543,
+          "abstract_snippet": "This review focuses on neoadjuvant chemotherapy for breast cancer which introduces practical issues for pathologists, including predicting response, optimising specimen handling, size measurement and assessment of residual disease, and recent advances in management of the axilla. The role of neoadju"
+        },
+        {
+          "symptom": "breast skin changes",
+          "pmid": "35682472",
+          "title": "Long-Term Skin Temperature Changes after Breast Cancer Radiotherapy.",
+          "year": "2022",
+          "confidence": 0.8854,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7791259833245484,
+          "abstract_snippet": "The aim of the study was to use thermal imaging to evaluate long-term chest temperature changes in patients who had previously been treated with radiotherapy. The examination with a thermal imaging camera involved 144 women-48 of them were patients after RT, 48 were females before breast cancer radi"
+        },
+        {
+          "symptom": "inverted nipple",
+          "pmid": "36820864",
+          "title": "Three-Pedicle Reduction Mammaplasty Technique in the Treatment of Greater Breast Hypertrophy Patients With or Without Breast Cancer: Surgical and Patient-reported outcomes.",
+          "year": "2023",
+          "confidence": 0.8746,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8419400173964657,
+          "abstract_snippet": "Reduction mammoplasty (RM) is an important procedure in the management of symptomatic greater breast hypertrophy with or without early-stage breast cancer. We aim to introduce a new procedure: the three-pedicle reduction mammaplasty technique. A prospectively maintained database was reviewed, and tw"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "breast cancer",
+          "text": "What are the treatments for breast cancer? \n Treatments for breast cancer include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        },
+        {
+          "question": "breast cancer",
+          "text": "What is breast cancer? \n Breast cancer is a cancer that starts in breast tissue. It happens when cells in the breast change and grow out of control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        },
+        {
+          "question": "breast cancer",
+          "text": "Sometimes the cancer does not spread any further. This is called \"in situ.\" If the cancer spreads outside the breast, the cancer is called \"invasive.\" It may just spread to nearby tissues and lymph nodes. Or the cancer may metastasize (spread to other parts of the body) through the lymph system or the blood.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        },
+        {
+          "question": "breast cancer",
+          "text": "Breast cancer is the second most common type of cancer in women in the United States. Rarely, it can also affect men .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        },
+        {
+          "question": "breast cancer",
+          "text": "What are the types of breast cancer? \n There are different types of breast cancer. The types are based on which breast cells turn into cancer. The types include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        },
+        {
+          "question": "breast cancer",
+          "text": "Ductal carcinoma , which begins in the cells of the ducts. This is the most common type. \n Lobular carcinoma , which begins in the lobules. It is more often found in both breasts than other types of breast cancer. \n Inflammatory breast cancer , in which cancer cells block lymph vessels in the skin of the breast. The breast becomes warm, red, and swollen. This is a rare type. \n Paget's disease of the breast , which is a cancer involving the skin of the nipple. It usually also affects the darker skin around the nipple. It is also rare.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        },
+        {
+          "question": "breast cancer",
+          "text": "What causes breast cancer? \n Breast cancer happens when there are changes in the genetic material (DNA). Often, the exact cause of these genetic changes is unknown.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        },
+        {
+          "question": "breast cancer",
+          "text": "But sometimes these genetic changes are inherited, meaning that you are born with them. Breast cancer that is caused by inherited genetic changes is called hereditary breast cancer.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/breastcancer.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "breast cancer",
+          "text": "What are the treatments for breast cancer? \n Treatments for breast cancer include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "breast cancer",
+          "text": "What is breast cancer? \n Breast cancer is a cancer that starts in breast tissue. It happens when cells in the breast change and grow out of control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "breast cancer",
+          "text": "Sometimes the cancer does not spread any further. This is called \"in situ.\" If the cancer spreads outside the breast, the cancer is called \"invasive.\" It may just spread to nearby tissues and lymph nodes. Or the cancer may metastasize (spread to other parts of the body) through the lymph system or the blood.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "breast cancer",
+          "text": "Breast cancer is the second most common type of cancer in women in the United States. Rarely, it can also affect men .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "breast cancer",
+          "text": "What are the types of breast cancer? \n There are different types of breast cancer. The types are based on which breast cells turn into cancer. The types include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "breast cancer",
+          "text": "Ductal carcinoma , which begins in the cells of the ducts. This is the most common type. \n Lobular carcinoma , which begins in the lobules. It is more often found in both breasts than other types of breast cancer. \n Inflammatory breast cancer , in which cancer cells block lymph vessels in the skin of the breast. The breast becomes warm, red, and swollen. This is a rare type. \n Paget's disease of the breast , which is a cancer involving the skin of the nipple. It usually also affects the darker skin around the nipple. It is also rare.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "breast cancer",
+          "text": "What causes breast cancer? \n Breast cancer happens when there are changes in the genetic material (DNA). Often, the exact cause of these genetic changes is unknown.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "breast cancer",
+          "text": "But sometimes these genetic changes are inherited, meaning that you are born with them. Breast cancer that is caused by inherited genetic changes is called hereditary breast cancer.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "hepatitis c",
+      "drugs": [
+        "sofosbuvir",
+        "ledipasvir"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "fatigue",
+          "pmid": "29931590",
+          "title": "Depression, fatigue and neurocognitive deficits in chronic hepatitis C.",
+          "year": "2018",
+          "confidence": 0.9353,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8660345640495555,
+          "abstract_snippet": "Patients with chronic hepatitis C virus (HCV) infection experience a range of symptoms including depression, fatigue and neurocognitive deficits, impairing quality of life. Depression, in particular, may be reactive to increased psychosocial stress, and the physical symptoms of advanced HCV or assoc"
+        },
+        {
+          "symptom": "family history",
+          "pmid": "31241295",
+          "title": "Cluster of hepatitis C in a family: a twenty-year follow-up.",
+          "year": "2019",
+          "confidence": 0.9346,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6727823593297408,
+          "abstract_snippet": "We described an impressive cluster of hepatitis C in a single family. Of nine members of the family, six - the mother and five daughters - were affected by chronic hepatitis, hepatitis C virus (HCV) genotype 1b, of which two were co-infected with hepatitis B virus (HBV). Sharing a non-disposable inj"
+        },
+        {
+          "symptom": "nausea",
+          "pmid": "35431515",
+          "title": "Similarities, differences, and possible interactions between hepatitis E and hepatitis C viruses: Relevance for research and clinical practice.",
+          "year": "2022",
+          "confidence": 0.9312,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7893377254496882,
+          "abstract_snippet": "Hepatitis E virus (HEV) and hepatitis C virus (HCV) are both RNA viruses with a tropism for liver parenchyma but are also capable of extrahepatic manifestations. Hepatitis E is usually a viral acute fecal-oral transmitted and self-limiting disease presenting with malaise, jaundice, nausea and vomiti"
+        },
+        {
+          "symptom": "loss of appetite",
+          "pmid": "30538845",
+          "title": "Spontaneous Cure of Acute Hepatitis C.",
+          "year": "2015",
+          "confidence": 0.9035,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7228281655678619,
+          "abstract_snippet": "The statistics proved that approximately 25% of the patients with acute HCV present with jaundice, and only 10-20% develop gastrointestinal symptoms. We present the case of a 58 year-old woman, with prior antecedents of arterial hypertension and diabetes mellitus since 25 years old, hypercholesterol"
+        },
+        {
+          "symptom": "yellowish skin",
+          "pmid": "36968922",
+          "title": "Clinical Conundrum of Acute Hepatitis B With Concurrent Hepatitis E Infection Leading to Severe Acute Liver Injury.",
+          "year": "2023",
+          "confidence": 0.8606,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8330254325160208,
+          "abstract_snippet": "Acute liver injury in the setting of acute fulminant hepatitis caused by the hepatitis B virus&#xa0;(HBV) can occur both during primary infection and after chronic HBV reactivation. Guidelines recommend considering antiviral therapy in both cases. Antiviral therapy with a nucleoside analog may be be"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "- Hepatitis C is a virus, or infection, that causes inflammation of the liver.  - Anyone can get hepatitis C, but some people are more likely to than others.  - You could get hepatitis C through contact with an infected persons blood.  - Most people do not have any symptoms until the hepatitis C virus causes liver damage, which can take 10 or more years to happen.  - See a doctor right away if you or a child in your care has symptoms of hepatitis C.  - Acute hepatitis C is a short-term infection with the hepatitis C virus.  - Chronic hepatitis C is a long-lasting infection with the hepatitis C virus. Chronic hepatitis C occurs when the body cant get rid of the hepatitis C virus.  - A blood test will show if you have hepatitis C.  - If you are at higher risk of getting hepatitis C, get tested. Many people with hepatitis C do not know they are infected.  - Hepatitis C usually is not treated unless it becomes chronic. Chronic hepatitis C is treated with medicines that slow or stop the virus from damaging the liver.  - Tell your doctor and your dentist if you have hepatitis C.  - See your doctor right away if you think you have been in contact with the hepatitis C virus. Early diagnosis and treatment of chronic hepatitis C can help prevent liver damage.",
+          "question": "What to do for What I need to know about Hepatitis C ?",
+          "score": 0.037464942783117294,
+          "rerank_score": 7.747867584228516,
+          "trust_score": 0.9954314642355685
+        },
+        {
+          "text": "Hepatitis* C is a virus, or infection, that causes liver disease and inflammation of the liver. Viruses can cause sickness. For example, the flu is caused by a virus. People can pass viruses to each other.\n                \nInflammation is swelling that occurs when tissues of the body become injured or infected. Inflammation can cause organs to not work properly.",
+          "question": "What is (are) What I need to know about Hepatitis C ?",
+          "score": 0.037300705909729004,
+          "rerank_score": 8.95503044128418,
+          "trust_score": 0.5986596385309024
+        },
+        {
+          "text": "Hepatitis C is usually not treated unless it becomes chronic. Chronic hepatitis C is treated with medicines that slow or stop the virus from damaging the liver. Your doctor will closely watch your symptoms and schedule regular blood tests to make sure the treatment is working.\n                \nMedicines for Chronic Hepatitis C\n                \nChronic hepatitis C is most often treated with a medicine combination that attacks the hepatitis C virus. Treatment may last from 24 to 48 weeks.\n                \nToday, newer treatments with medicine for chronic hepatitis C are appearing quickly. Talk with your doctor if you have questions about treatment.\n                \nTalk with your doctor before taking other prescription medicines and over-the-counter medicines.\n                \n\n                \nLiver Transplant\n                \nA liver transplant may be necessary if chronic hepatitis C causes severe liver damage that leads to liver failure. Symptoms of severe liver damage include the symptoms of hepatitis C and\n                \n- generalized itching  - a longer than usual amount of time for bleeding to stop  - easy bruising  - swollen stomach or ankles  - spiderlike blood vessels, called spider angiomas, that develop on the skin\n                \nLiver transplant is surgery to remove a diseased or injured liver and replace it with a healthy one from another person, called a donor. If your doctors tell you that you need a transplant, you should talk with them about the long-term demands of living with a liver transplant.\n                \nA team of surgeonsdoctors who specialize in surgeryperforms a liver transplant in a hospital. You will learn how to take care of yourself after you go home and about the medicines youll need to take to protect your new liver. You will continue to take medicines because hepatitis C may come back after surgery.\n                \nTesting for Liver Cancer\n                \nHaving hepatitis C increases your risk for liver cancer, so your doctor may suggest an ultrasound test of the liver every 6 to 12 months. Finding cancer early makes it more treatable. Ultrasound is a machine that uses sound waves to create a picture of your liver. Ultrasound is performed at a hospital or radiology center by a specially trained technician. The image, called a sonogram, can show the livers size and the presence of cancerous tumors.",
+          "question": "What are the treatments for What I need to know about Hepatitis C ?",
+          "score": 0.0314071886241436,
+          "rerank_score": 2.1690521240234375,
+          "trust_score": 0.5538504345651661
+        },
+        {
+          "text": "Key Points\n                    - Avoiding risk factors and increasing protective factors may help prevent cancer.    - The following risk factors may increase the risk of liver cancer:         - Hepatitis B and C     - Cirrhosis     - Aflatoxin        - The following protective factor may decrease the risk of liver cancer:         - Hepatitis B vaccine        - Cancer prevention clinical trials are used to study ways to prevent cancer.     - New ways to prevent liver cancer are being studied in clinical trials.\n                \n                \n                    Avoiding risk factors and increasing protective factors may help prevent cancer.\n                    Avoiding cancer risk factors may help prevent certain cancers. Risk factors include smoking, being overweight, and not getting enough exercise. Increasing protective factors such as quitting smoking and exercising may also help prevent some cancers. Talk to your doctor or other health care professional about how you might lower your risk of cancer.\n                \n                \n                    The following risk factors may increase the risk of liver cancer:\n                    Hepatitis B and C    Having chronic hepatitis B or chronic hepatitis C increases the risk of developing liver cancer. The risk is even greater for people with both hepatitis B and C. Also, the longer the hepatitis infection lasts (especially hepatitis C), the greater the risk.    In a study of patients with chronic hepatitis C, those who were treated to lower their iron levels by having blood drawn and eating a low-iron diet were less likely to develop liver cancer than those who did not have this treatment.       Cirrhosis    The risk of developing liver cancer is increased for people who have cirrhosis, a disease in which healthy liver tissue is replaced by scar tissue. The scar tissue blocks the flow of blood through the liver and keeps it from working as it should. Chronic alcoholism and chronic hepatitis C are the most common causes of cirrhosis.       Aflatoxin    The risk of developing liver cancer may be increased by eating foods that contain aflatoxin (poison from a fungus that can grow on foods, such as grains and nuts, that have not been stored properly).\n                \n                \n                    The following protective factor may decrease the risk of liver cancer:\n                    Hepatitis B vaccine    Preventing hepatitis B infection (by being vaccinated for hepatitis B) has been shown to lower the risk of liver cancer in children. It is not yet known if it lowers the risk in adults.\n                \n                \n                    Cancer prevention clinical trials are used to study ways to prevent cancer.\n                    Cancer prevention clinical trials are used to study ways to lower the risk of developing certain types of cancer. Some cancer prevention trials are conducted with healthy people who have not had cancer but who have an increased risk for cancer. Other prevention trials are conducted with people who have had cancer and are trying to prevent another cancer of the same type or to lower their chance of developing a new type of cancer. Other trials are done with healthy volunteers who are not known to have any risk factors for cancer.    The purpose of some cancer prevention clinical trials is to find out whether actions people take can prevent cancer. These may include eating fruits and vegetables, exercising, quitting smoking, or taking certain medicines, vitamins, minerals, or food supplements.\n                \n                \n                    New ways to prevent liver cancer are being studied in clinical trials.\n                    Clinical trials are taking place in many parts of the country. Information about clinical trials can be found in the Clinical Trials section of the NCI website. Check NCI's list of cancer clinical trials for liver cancer prevention trials that are now accepting patients.",
+          "question": "How to prevent Liver (Hepatocellular) Cancer ?",
+          "score": 0.019059762358665466,
+          "rerank_score": -1.3756825923919678,
+          "trust_score": 0.04449818431487073
+        },
+        {
+          "text": "Treatment for cirrhosis depends on the cause of the disease and whether complications are present. In the early stages of cirrhosis, the goals of treatment are to slow the progression of tissue scarring in the liver and prevent complications. As cirrhosis progresses, a person may need additional treatments and hospitalization to manage complications. Treatment may include the following:\n                \nAvoiding Alcohol and Illegal Substances\n                \nPeople with cirrhosis should not drink any alcohol or take any illegal substances, as both will cause more liver damage.\n                \nPreventing Problems with Medications\n                \nPeople with cirrhosis should be careful about starting new medications and should consult a health care provider before taking prescription medications, over-the-counter medications, or vitamins. People with cirrhosis should avoid complementary and alternative medications, such as herbs.\n                \nCirrhosis slows the livers ability to filter medications from the blood. When this slowdown occurs, medications act longer than expected and build up in the body. Some medications and vitamins may also affect liver function.\n                \nViral Hepatitis Vaccination and Screening\n                \nAll people with cirrhosis should consider vaccination against hepatitis A and B. An infection with one of these hepatitis viruses can cause cirrhosis to get worse. Vaccination can easily prevent both infections.\n                \nPeople with cirrhosis should also get a screening blood test for hepatitis C.\n                \nTreating Causes of Cirrhosis\n                \nHealth care providers can treat some causes of cirrhosis, for example, by prescribing antiviral medications for hepatitis B and C. In some instances, these medications cure the viral infection. Health care providers treat autoimmune hepatitis with corticosteroids and other medications that suppress the immune system. Health care providers can treat hemochromatosis and Wilson diseaseinherited forms of liver disease caused by the buildup of iron or copper in the liverif detected early. Health care providers usually treat liver diseases due to blockage or loss of bile ducts with ursodiol (Actigall, Urso). Ursodiol is a nontoxic bile acid that people can take orally. Ursodiol replaces the bile acids that are normally produced by the liver, which are toxic and build up in the liver when the bile ducts are blocked.\n                \nTreating Symptoms and Complications of Cirrhosis\n                \nItching and abdominal pain. A health care provider may give medications to treat various symptoms of cirrhosis, such as itching and abdominal pain.\n                \nPortal hypertension. A health care provider may prescribe a beta-blocker or nitrate to treat portal hypertension. Beta-blockers lower blood pressure by helping the heart beat slower and with less force, and nitrates relax and widen blood vessels to let more blood flow to the heart and reduce the hearts workload.\n                \nVarices. Beta-blockers can lower the pressure in varices and reduce the likelihood of bleeding. Bleeding in the stomach or esophagus requires an immediate upper endoscopy. This procedure involves using an endoscopea small, flexible tube with a lightto look for varices. The health care provider may use the endoscope to perform a band ligation, a procedure that involves placing a special rubber band around the varices that causes the tissue to die and fall off. A gastroenterologista doctor who specializes in digestive diseasesperforms the procedure at a hospital or an outpatient center. People who have had varices in the past may need to take medication to prevent future episodes.\n                \nEdema and ascites. Health care providers prescribe diureticsmedications that remove fluid from the bodyto treat edema and ascites. A health care provider may remove large amounts of ascitic fluid from the abdomen and check for spontaneous bacterial peritonitis. A health care provider may prescribe bacteria-fighting medications called antibiotics to prevent infection. He or she may prescribe oral antibiotics; however, severe infection with ascites requires intravenous (IV) antibiotics.\n                \nHepatic encephalopathy. A health care provider treats hepatic encephalopathy by cleansing the bowel with lactulose, a laxative given orally or as an enemaa liquid put into the rectum. A health care provider may also add antibiotics to the treatment. Hepatic encephalopathy may improve as other complications of cirrhosis are controlled.\n                \nHepatorenal syndrome. Some people with cirrhosis who develop hepatorenal syndrome must undergo regular dialysis treatment, which filters wastes and extra fluid from the body by means other than the kidneys. People may also need medications to improve blood flow through the kidneys.\n                \nOsteoporosis. A health care provider may prescribe bisphosphonate medications to improve bone density.\n                \nGallstones and bile duct stones. A health care provider may use surgery to remove gallstones. He or she may use endoscopic retrograde cholangiopancreatography, which uses balloons and basketlike devices, to retrieve the bile duct stones.\n                \nLiver cancer. A health care provider may recommend screening tests every 6 to 12 months to check for signs of liver cancer. Screening tests can find cancer before the person has symptoms of the disease. Cancer treatment is usually more effective when the health care provider finds the disease early. Health care providers use blood tests, ultrasound, or both to screen for liver cancer in people with cirrhosis. He or she may treat cancer with a combination of surgery, radiation, and chemotherapy.",
+          "question": "What are the treatments for Cirrhosis ?",
+          "score": 0.026810845360159874,
+          "rerank_score": -1.6481430530548096,
+          "trust_score": 0.034050412107152955
+        },
+        {
+          "text": "- Viral hepatitis is inflammation of the liver caused by the hepatitis A, B, C, D, or E viruses.  - Depending on the type of virus, viral hepatitis is spread through contaminated food or water, contact with infected blood, sexual contact with an infected person, or from mother to child during childbirth.  - Vaccines offer protection from hepatitis A and hepatitis B.  - No vaccines are available for hepatitis C, D, and E. Reducing exposure to the viruses offers the best protection.  - Hepatitis A and E usually resolve on their own. Hepatitis B, C, and D can be chronic and serious. Drugs are available to treat chronic hepatitis.",
+          "question": "What to do for Viral Hepatitis: A through E and Beyond ?",
+          "score": 0.02083479054272175,
+          "rerank_score": -2.880338668823242,
+          "trust_score": 0.011421385777308148
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What to do for What I need to know about Hepatitis C ?",
+          "text": "- Hepatitis C is a virus, or infection, that causes inflammation of the liver.  - Anyone can get hepatitis C, but some people are more likely to than others.  - You could get hepatitis C through contact with an infected persons blood.  - Most people do not have any symptoms until the hepatitis C virus causes liver damage, which can take 10 or more years to happen.  - See a doctor right away if you or a child in your care has symptoms of hepatitis C.  - Acute hepatitis C is a short-term infection with the hepatitis C virus.  - Chronic hepatitis C is a long-lasting infection with the hepatitis C virus. Chronic hepatitis C occurs when the body cant get rid of the hepatitis C virus.  - A blood test will show if you have hepatitis C.  - If you are at higher risk of getting hepatitis C, get tested. Many people with hepatitis C do not know they are infected.  - Hepatitis C usually is not treated unless it becomes chronic. Chronic hepatitis C is treated with medicines that slow or stop the virus from damaging the liver.  - Tell your doctor and your dentist if you have hepatitis C.  - See your doctor right away if you think you have been in contact with the hepatitis C virus. Early diagnosis and treatment of chronic hepatitis C can help prevent liver damage.",
+          "trust_score": 0.9954314642355685
+        },
+        {
+          "question": "What is (are) What I need to know about Hepatitis C ?",
+          "text": "Hepatitis* C is a virus, or infection, that causes liver disease and inflammation of the liver. Viruses can cause sickness. For example, the flu is caused by a virus. People can pass viruses to each other.\n                \nInflammation is swelling that occurs when tissues of the body become injured or infected. Inflammation can cause organs to not work properly.",
+          "trust_score": 0.5986596385309024
+        },
+        {
+          "question": "What are the treatments for What I need to know about Hepatitis C ?",
+          "text": "Hepatitis C is usually not treated unless it becomes chronic. Chronic hepatitis C is treated with medicines that slow or stop the virus from damaging the liver. Your doctor will closely watch your symptoms and schedule regular blood tests to make sure the treatment is working.\n                \nMedicines for Chronic Hepatitis C\n                \nChronic hepatitis C is most often treated with a medicine combination that attacks the hepatitis C virus. Treatment may last from 24 to 48 weeks.\n                \nToday, newer treatments with medicine for chronic hepatitis C are appearing quickly. Talk with your doctor if you have questions about treatment.\n                \nTalk with your doctor before taking other prescription medicines and over-the-counter medicines.\n                \n\n                \nLiver Transplant\n                \nA liver transplant may be necessary if chronic hepatitis C causes severe liver damage that leads to liver failure. Symptoms of severe liver damage include the symptoms of hepatitis C and\n                \n- generalized itching  - a longer than usual amount of time for bleeding to stop  - easy bruising  - swollen stomach or ankles  - spiderlike blood vessels, called spider angiomas, that develop on the skin\n                \nLiver transplant is surgery to remove a diseased or injured liver and replace it with a healthy one from another person, called a donor. If your doctors tell you that you need a transplant, you should talk with them about the long-term demands of living with a liver transplant.\n                \nA team of surgeonsdoctors who specialize in surgeryperforms a liver transplant in a hospital. You will learn how to take care of yourself after you go home and about the medicines youll need to take to protect your new liver. You will continue to take medicines because hepatitis C may come back after surgery.\n                \nTesting for Liver Cancer\n                \nHaving hepatitis C increases your risk for liver cancer, so your doctor may suggest an ultrasound test of the liver every 6 to 12 months. Finding cancer early makes it more treatable. Ultrasound is a machine that uses sound waves to create a picture of your liver. Ultrasound is performed at a hospital or radiology center by a specially trained technician. The image, called a sonogram, can show the livers size and the presence of cancerous tumors.",
+          "trust_score": 0.5538504345651661
+        },
+        {
+          "question": "How to prevent Liver (Hepatocellular) Cancer ?",
+          "text": "Key Points\n                    - Avoiding risk factors and increasing protective factors may help prevent cancer.    - The following risk factors may increase the risk of liver cancer:         - Hepatitis B and C     - Cirrhosis     - Aflatoxin        - The following protective factor may decrease the risk of liver cancer:         - Hepatitis B vaccine        - Cancer prevention clinical trials are used to study ways to prevent cancer.     - New ways to prevent liver cancer are being studied in clinical trials.\n                \n                \n                    Avoiding risk factors and increasing protective factors may help prevent cancer.\n                    Avoiding cancer risk factors may help prevent certain cancers. Risk factors include smoking, being overweight, and not getting enough exercise. Increasing protective factors such as quitting smoking and exercising may also help prevent some cancers. Talk to your doctor or other health care professional about how you might lower your risk of cancer.\n                \n                \n                    The following risk factors may increase the risk of liver cancer:\n                    Hepatitis B and C    Having chronic hepatitis B or chronic hepatitis C increases the risk of developing liver cancer. The risk is even greater for people with both hepatitis B and C. Also, the longer the hepatitis infection lasts (especially hepatitis C), the greater the risk.    In a study of patients with chronic hepatitis C, those who were treated to lower their iron levels by having blood drawn and eating a low-iron diet were less likely to develop liver cancer than those who did not have this treatment.       Cirrhosis    The risk of developing liver cancer is increased for people who have cirrhosis, a disease in which healthy liver tissue is replaced by scar tissue. The scar tissue blocks the flow of blood through the liver and keeps it from working as it should. Chronic alcoholism and chronic hepatitis C are the most common causes of cirrhosis.       Aflatoxin    The risk of developing liver cancer may be increased by eating foods that contain aflatoxin (poison from a fungus that can grow on foods, such as grains and nuts, that have not been stored properly).\n                \n                \n                    The following protective factor may decrease the risk of liver cancer:\n                    Hepatitis B vaccine    Preventing hepatitis B infection (by being vaccinated for hepatitis B) has been shown to lower the risk of liver cancer in children. It is not yet known if it lowers the risk in adults.\n                \n                \n                    Cancer prevention clinical trials are used to study ways to prevent cancer.\n                    Cancer prevention clinical trials are used to study ways to lower the risk of developing certain types of cancer. Some cancer prevention trials are conducted with healthy people who have not had cancer but who have an increased risk for cancer. Other prevention trials are conducted with people who have had cancer and are trying to prevent another cancer of the same type or to lower their chance of developing a new type of cancer. Other trials are done with healthy volunteers who are not known to have any risk factors for cancer.    The purpose of some cancer prevention clinical trials is to find out whether actions people take can prevent cancer. These may include eating fruits and vegetables, exercising, quitting smoking, or taking certain medicines, vitamins, minerals, or food supplements.\n                \n                \n                    New ways to prevent liver cancer are being studied in clinical trials.\n                    Clinical trials are taking place in many parts of the country. Information about clinical trials can be found in the Clinical Trials section of the NCI website. Check NCI's list of cancer clinical trials for liver cancer prevention trials that are now accepting patients.",
+          "trust_score": 0.04449818431487073
+        },
+        {
+          "question": "What are the treatments for Cirrhosis ?",
+          "text": "Treatment for cirrhosis depends on the cause of the disease and whether complications are present. In the early stages of cirrhosis, the goals of treatment are to slow the progression of tissue scarring in the liver and prevent complications. As cirrhosis progresses, a person may need additional treatments and hospitalization to manage complications. Treatment may include the following:\n                \nAvoiding Alcohol and Illegal Substances\n                \nPeople with cirrhosis should not drink any alcohol or take any illegal substances, as both will cause more liver damage.\n                \nPreventing Problems with Medications\n                \nPeople with cirrhosis should be careful about starting new medications and should consult a health care provider before taking prescription medications, over-the-counter medications, or vitamins. People with cirrhosis should avoid complementary and alternative medications, such as herbs.\n                \nCirrhosis slows the livers ability to filter medications from the blood. When this slowdown occurs, medications act longer than expected and build up in the body. Some medications and vitamins may also affect liver function.\n                \nViral Hepatitis Vaccination and Screening\n                \nAll people with cirrhosis should consider vaccination against hepatitis A and B. An infection with one of these hepatitis viruses can cause cirrhosis to get worse. Vaccination can easily prevent both infections.\n                \nPeople with cirrhosis should also get a screening blood test for hepatitis C.\n                \nTreating Causes of Cirrhosis\n                \nHealth care providers can treat some causes of cirrhosis, for example, by prescribing antiviral medications for hepatitis B and C. In some instances, these medications cure the viral infection. Health care providers treat autoimmune hepatitis with corticosteroids and other medications that suppress the immune system. Health care providers can treat hemochromatosis and Wilson diseaseinherited forms of liver disease caused by the buildup of iron or copper in the liverif detected early. Health care providers usually treat liver diseases due to blockage or loss of bile ducts with ursodiol (Actigall, Urso). Ursodiol is a nontoxic bile acid that people can take orally. Ursodiol replaces the bile acids that are normally produced by the liver, which are toxic and build up in the liver when the bile ducts are blocked.\n                \nTreating Symptoms and Complications of Cirrhosis\n                \nItching and abdominal pain. A health care provider may give medications to treat various symptoms of cirrhosis, such as itching and abdominal pain.\n                \nPortal hypertension. A health care provider may prescribe a beta-blocker or nitrate to treat portal hypertension. Beta-blockers lower blood pressure by helping the heart beat slower and with less force, and nitrates relax and widen blood vessels to let more blood flow to the heart and reduce the hearts workload.\n                \nVarices. Beta-blockers can lower the pressure in varices and reduce the likelihood of bleeding. Bleeding in the stomach or esophagus requires an immediate upper endoscopy. This procedure involves using an endoscopea small, flexible tube with a lightto look for varices. The health care provider may use the endoscope to perform a band ligation, a procedure that involves placing a special rubber band around the varices that causes the tissue to die and fall off. A gastroenterologista doctor who specializes in digestive diseasesperforms the procedure at a hospital or an outpatient center. People who have had varices in the past may need to take medication to prevent future episodes.\n                \nEdema and ascites. Health care providers prescribe diureticsmedications that remove fluid from the bodyto treat edema and ascites. A health care provider may remove large amounts of ascitic fluid from the abdomen and check for spontaneous bacterial peritonitis. A health care provider may prescribe bacteria-fighting medications called antibiotics to prevent infection. He or she may prescribe oral antibiotics; however, severe infection with ascites requires intravenous (IV) antibiotics.\n                \nHepatic encephalopathy. A health care provider treats hepatic encephalopathy by cleansing the bowel with lactulose, a laxative given orally or as an enemaa liquid put into the rectum. A health care provider may also add antibiotics to the treatment. Hepatic encephalopathy may improve as other complications of cirrhosis are controlled.\n                \nHepatorenal syndrome. Some people with cirrhosis who develop hepatorenal syndrome must undergo regular dialysis treatment, which filters wastes and extra fluid from the body by means other than the kidneys. People may also need medications to improve blood flow through the kidneys.\n                \nOsteoporosis. A health care provider may prescribe bisphosphonate medications to improve bone density.\n                \nGallstones and bile duct stones. A health care provider may use surgery to remove gallstones. He or she may use endoscopic retrograde cholangiopancreatography, which uses balloons and basketlike devices, to retrieve the bile duct stones.\n                \nLiver cancer. A health care provider may recommend screening tests every 6 to 12 months to check for signs of liver cancer. Screening tests can find cancer before the person has symptoms of the disease. Cancer treatment is usually more effective when the health care provider finds the disease early. Health care providers use blood tests, ultrasound, or both to screen for liver cancer in people with cirrhosis. He or she may treat cancer with a combination of surgery, radiation, and chemotherapy.",
+          "trust_score": 0.034050412107152955
+        },
+        {
+          "question": "What to do for Viral Hepatitis: A through E and Beyond ?",
+          "text": "- Viral hepatitis is inflammation of the liver caused by the hepatitis A, B, C, D, or E viruses.  - Depending on the type of virus, viral hepatitis is spread through contaminated food or water, contact with infected blood, sexual contact with an infected person, or from mother to child during childbirth.  - Vaccines offer protection from hepatitis A and hepatitis B.  - No vaccines are available for hepatitis C, D, and E. Reducing exposure to the viruses offers the best protection.  - Hepatitis A and E usually resolve on their own. Hepatitis B, C, and D can be chronic and serious. Drugs are available to treat chronic hepatitis.",
+          "trust_score": 0.011421385777308148
+        }
+      ]
+    }
+  ]
+}

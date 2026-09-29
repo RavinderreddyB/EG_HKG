@@ -1,0 +1,374 @@
+{
+  "symptoms": [
+    "skin blackheads",
+    "swollen eyelid",
+    "headache"
+  ],
+  "resolved_symptoms": [
+    "headache",
+    "skin blackheads",
+    "swollen eyelid"
+  ],
+  "diseases": [
+    {
+      "disease": "chagas disease",
+      "drugs": [],
+      "treatment_modalities": [
+        "antiparasitic medicine",
+        "pacemaker"
+      ],
+      "citations": [
+        {
+          "symptom": "fatigue",
+          "pmid": "32228417",
+          "title": "Recent Advances in the Synthesis and Development of Nitroaromatics as Anti-Infective Drugs.",
+          "year": "2020",
+          "confidence": 0.9151,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.9193602568442945,
+          "abstract_snippet": "Infectious diseases commonly occur in tropical and sub-tropical countries. The pathogens of such diseases are able to multiply in human hosts, warranting their continual survival. Infections that are commonplace include malaria, chagas, trypanosomiasis, giardiasis, amoebiasis, toxoplasmosis and leis"
+        },
+        {
+          "symptom": "fever",
+          "pmid": "34368188",
+          "title": "Clinical and Epidemiological Characterization of Acute Chagas Disease in Casanare, Eastern Colombia, 2012-2020.",
+          "year": "2021",
+          "confidence": 0.9142,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3570644293349426,
+          "abstract_snippet": "<b>Background:</b> Chagas disease (CD), caused by the protozoan <i>Trypanosoma cruzi</i>, is considered a public health problem in Latin America. In Colombia, it affects more than 437,000 inhabitants, mainly in Casanare, an endemic region with eco-epidemiological characteristics that favor its trans"
+        },
+        {
+          "symptom": "headache",
+          "pmid": "34368188",
+          "title": "Clinical and Epidemiological Characterization of Acute Chagas Disease in Casanare, Eastern Colombia, 2012-2020.",
+          "year": "2021",
+          "confidence": 0.9067,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.69060735241137,
+          "abstract_snippet": "<b>Background:</b> Chagas disease (CD), caused by the protozoan <i>Trypanosoma cruzi</i>, is considered a public health problem in Latin America. In Colombia, it affects more than 437,000 inhabitants, mainly in Casanare, an endemic region with eco-epidemiological characteristics that favor its trans"
+        },
+        {
+          "symptom": "rash",
+          "pmid": "33305846",
+          "title": "Trypanocidal drugs for late-stage, symptomatic Chagas disease (Trypanosoma cruzi infection).",
+          "year": "2020",
+          "confidence": 0.8955,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7436493890174577,
+          "abstract_snippet": "People with Chagas disease may develop progressive and lethal heart conditions. Drugs to eliminate the parasite Trypanosoma cruzi (T cruzi) currently carry limited therapeutic value and are used in the early stages of the disease. Extending the use of these drugs to treat chronic chagasic cardiomyop"
+        },
+        {
+          "symptom": "vomiting",
+          "pmid": "36002604",
+          "title": "Nifurtimox for Treatment of Chagas Disease in Pediatric Patients: the Challenges of Applying Pharmacokinetic-Pharmacodynamic Principles to Dose Finding.",
+          "year": "2022",
+          "confidence": 0.8892,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.759914094060965,
+          "abstract_snippet": "The antiparasitic drug nifurtimox was approved in the USA in 2020 for the treatment of patients with Chagas disease aged less than 18&#xa0;years and weighing at least 2.5&#xa0;kg, based on outcomes from the phase 3 CHICO study. Accordingly, pediatric patients with Chagas disease take nifurtimox thri"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "chagas disease",
+          "text": "These early symptoms usually go away. However, if you don't treat the infection, it stays in your body. Later, it can cause serious intestinal and heart problems such as: \n An serious arrhythmia (a problem with the rate or rhythm of your heartbeat) that can cause sudden death \n An enlarged heart that doesn't pump blood well \n Problems with digestion and bowel movements \n An increased chance of having a stroke",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        },
+        {
+          "question": "chagas disease",
+          "text": "What are the treatments for Chagas disease? \n Medicines can kill the parasite, especially early on. You can also treat related problems. For example, a pacemaker can help with some heart complications.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        },
+        {
+          "question": "chagas disease",
+          "text": "What is Chagas disease? \n Chagas disease, or American trypanosomiasis, is an illness that can cause serious heart and stomach problems. It is caused by a parasite . Chagas disease is common in Latin America, especially in poor, rural areas. It can also be found in the United States, most often in people who were infected before they moved to the U.S.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        },
+        {
+          "question": "chagas disease",
+          "text": "What causes Chagas disease? \n Chagas disease is caused by the Trypanosoma cruzi parasite. It is usually spread by infected blood-sucking bugs called triatomine bugs. They are also known as \"kissing bugs\" because they often bite people's faces. When one of these bugs bites you, it leaves behind infected waste. You can become infected if you rub the waste in your eyes or nose, the bite wound, or a cut.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        },
+        {
+          "question": "chagas disease",
+          "text": "Chagas disease can also spread through contaminated food, a blood transfusion, a donated organ, or from the pregnant parent to the baby during pregnancy.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        },
+        {
+          "question": "chagas disease",
+          "text": "Who is more likely to develop Chagas disease? \n Kissing bugs can be found throughout the Americas, but they are more common in certain areas. The people who are most at risk for Chagas disease: \n Live in rural areas of Latin America \n Have seen the bugs, especially in those areas \n Have stayed in a house with a thatched roof or with walls that have cracks or crevices",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        },
+        {
+          "question": "chagas disease",
+          "text": "What are the symptoms of Chagas disease? \n In the beginning, there may be no symptoms. Some people do get mild symptoms, such as: \n Fever \n Fatigue \n Body aches \n Headache \n Loss of appetite \n Diarrhea \n Vomiting \n A rash \n A swollen eyelid",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        },
+        {
+          "question": "chagas disease",
+          "text": "How is Chagas disease diagnosed? \n To find out if you have Chagas disease, your health care provider:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chagasdisease.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "chagas disease",
+          "text": "These early symptoms usually go away. However, if you don't treat the infection, it stays in your body. Later, it can cause serious intestinal and heart problems such as: \n An serious arrhythmia (a problem with the rate or rhythm of your heartbeat) that can cause sudden death \n An enlarged heart that doesn't pump blood well \n Problems with digestion and bowel movements \n An increased chance of having a stroke",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chagas disease",
+          "text": "What are the treatments for Chagas disease? \n Medicines can kill the parasite, especially early on. You can also treat related problems. For example, a pacemaker can help with some heart complications.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chagas disease",
+          "text": "What is Chagas disease? \n Chagas disease, or American trypanosomiasis, is an illness that can cause serious heart and stomach problems. It is caused by a parasite . Chagas disease is common in Latin America, especially in poor, rural areas. It can also be found in the United States, most often in people who were infected before they moved to the U.S.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chagas disease",
+          "text": "What causes Chagas disease? \n Chagas disease is caused by the Trypanosoma cruzi parasite. It is usually spread by infected blood-sucking bugs called triatomine bugs. They are also known as \"kissing bugs\" because they often bite people's faces. When one of these bugs bites you, it leaves behind infected waste. You can become infected if you rub the waste in your eyes or nose, the bite wound, or a cut.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chagas disease",
+          "text": "Chagas disease can also spread through contaminated food, a blood transfusion, a donated organ, or from the pregnant parent to the baby during pregnancy.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chagas disease",
+          "text": "Who is more likely to develop Chagas disease? \n Kissing bugs can be found throughout the Americas, but they are more common in certain areas. The people who are most at risk for Chagas disease: \n Live in rural areas of Latin America \n Have seen the bugs, especially in those areas \n Have stayed in a house with a thatched roof or with walls that have cracks or crevices",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chagas disease",
+          "text": "What are the symptoms of Chagas disease? \n In the beginning, there may be no symptoms. Some people do get mild symptoms, such as: \n Fever \n Fatigue \n Body aches \n Headache \n Loss of appetite \n Diarrhea \n Vomiting \n A rash \n A swollen eyelid",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chagas disease",
+          "text": "How is Chagas disease diagnosed? \n To find out if you have Chagas disease, your health care provider:",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "hidradenitis suppurativa",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "medicines"
+      ],
+      "citations": [
+        {
+          "symptom": "slow healing abscesses",
+          "pmid": "40279454",
+          "title": "[Hidradenitis suppurativa, report with dual therapy: small molecules and biological therapy].",
+          "year": "2025",
+          "confidence": 0.944,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7080335322904444,
+          "abstract_snippet": "Hidradenitis suppurativa is an immune-mediated disease characterized by abscesses, deep nodules and fistulas that connect them to each other or connect to the surface, creating infectious processes that are difficult to control, healing of fistulas, retractable tracts and painful ulcers of slow evol"
+        },
+        {
+          "symptom": "skin tunnels",
+          "pmid": "39862870",
+          "title": "Hidradenitis suppurativa.",
+          "year": "2025",
+          "confidence": 0.9335,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7089347403412204,
+          "abstract_snippet": "Hidradenitis suppurativa is a chronic inflammatory disease characterised by painful, deep-seated nodules, abscesses, and draining tunnels in the skin of axillary, inguinal, genitoanal, or inframammary areas. In recent years, the body of knowledge in hidradenitis suppurativa has advanced greatly. Thi"
+        },
+        {
+          "symptom": "scarring",
+          "pmid": "39862870",
+          "title": "Hidradenitis suppurativa.",
+          "year": "2025",
+          "confidence": 0.9323,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7563062785155318,
+          "abstract_snippet": "Hidradenitis suppurativa is a chronic inflammatory disease characterised by painful, deep-seated nodules, abscesses, and draining tunnels in the skin of axillary, inguinal, genitoanal, or inframammary areas. In recent years, the body of knowledge in hidradenitis suppurativa has advanced greatly. Thi"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Your provider may refer you to a dermatologist (skin doctor) to get a diagnosis or treatment.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the treatments for hidradenitis suppurativa? \n There is no cure for HS. Treatments focus on the symptoms, but they are not always effective for everyone. The treatments depend on how severe the disease is and may include: \n Medicines , including steroids , antibiotics , pain relievers , and medicines that flight inflammation. In mild cases, the medicines may be topical (applied to your skin). Otherwise, the medicines may be injected or taken orally (by mouth). \n Procedures or surgery to remove the lumps and scars or make the sores go away.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What is hidradenitis suppurativa (HS)? \n Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing abscesses that drain fluid and pus. As the abscesses heal, they can cause scarring of the skin.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What causes hidradenitis suppurativa (HS)? \n The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. Genetics, environment, and hormonal factors may play a role. Some cases of HS are caused by changes in certain genes .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS is not caused by bad hygiene, and it cannot be spread to others.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Who is more likely to get hidradenitis suppurativa (HS)? \n HS usually starts after puberty, usually in the teens or twenties. It is more common in: \n Women \n People who are Black \n People with a family history of HS \n People who are overweight or have obesity \n People who smoke",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the symptoms of hidradenitis suppurativa (HS)? \n The symptoms of HS include: \n Small pitted areas of skin containing blackheads \n Painful, red, lumps that get bigger and break open. This causes abscesses that drain fluid and pus. They may itch and have an unpleasant odor. \n The abscesses heal very slowly, recur over time, and can lead to scarring and tunnels under the skin.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS can be mild, moderate, or severe: \n In mild HS, there are only one or a few lumps in one area of the skin. A mild case will often get worse, becoming a moderate disease. \n Moderate HS includes recurrences of the lumps that get bigger and break open. The lumps form in more than one area of the body. \n With severe HS, there are widespread lumps, scarring, and chronic pain that may make it hard to move.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hidradenitissuppurativa.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Your provider may refer you to a dermatologist (skin doctor) to get a diagnosis or treatment.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the treatments for hidradenitis suppurativa? \n There is no cure for HS. Treatments focus on the symptoms, but they are not always effective for everyone. The treatments depend on how severe the disease is and may include: \n Medicines , including steroids , antibiotics , pain relievers , and medicines that flight inflammation. In mild cases, the medicines may be topical (applied to your skin). Otherwise, the medicines may be injected or taken orally (by mouth). \n Procedures or surgery to remove the lumps and scars or make the sores go away.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What is hidradenitis suppurativa (HS)? \n Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing abscesses that drain fluid and pus. As the abscesses heal, they can cause scarring of the skin.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What causes hidradenitis suppurativa (HS)? \n The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. Genetics, environment, and hormonal factors may play a role. Some cases of HS are caused by changes in certain genes .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS is not caused by bad hygiene, and it cannot be spread to others.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "Who is more likely to get hidradenitis suppurativa (HS)? \n HS usually starts after puberty, usually in the teens or twenties. It is more common in: \n Women \n People who are Black \n People with a family history of HS \n People who are overweight or have obesity \n People who smoke",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "What are the symptoms of hidradenitis suppurativa (HS)? \n The symptoms of HS include: \n Small pitted areas of skin containing blackheads \n Painful, red, lumps that get bigger and break open. This causes abscesses that drain fluid and pus. They may itch and have an unpleasant odor. \n The abscesses heal very slowly, recur over time, and can lead to scarring and tunnels under the skin.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hidradenitis suppurativa",
+          "text": "HS can be mild, moderate, or severe: \n In mild HS, there are only one or a few lumps in one area of the skin. A mild case will often get worse, becoming a moderate disease. \n Moderate HS includes recurrences of the lumps that get bigger and break open. The lumps form in more than one area of the body. \n With severe HS, there are widespread lumps, scarring, and chronic pain that may make it hard to move.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "paralysis (brain hemorrhage)",
+      "drugs": [
+        "mannitol",
+        "labetalol"
+      ],
+      "treatment_modalities": [],
+      "citations": [],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Paralysis is the loss of muscle function in part of your body. It happens when something goes wrong with the way messages pass between your brain and muscles. Paralysis can be complete or partial. It can occur on one or both sides of your body. It can also occur in just one area, or it can be widespread. Paralysis of the lower half of your body, including both legs, is called paraplegia. Paralysis of the arms and legs is quadriplegia.     Most paralysis is due to strokes or injuries such as spinal cord injury or a broken neck. Other causes of paralysis include       - Nerve diseases such as amyotrophic lateral sclerosis    -  Autoimmune diseases such as Guillain-Barre syndrome    -  Bell's palsy, which affects muscles in the face       Polio used to be a cause of paralysis, but polio no longer occurs in the U.S.",
+          "question": "What is (are) Paralysis ?",
+          "score": 0.04156682267785072,
+          "rerank_score": 4.85800313949585,
+          "trust_score": 0.03242750336200327
+        },
+        {
+          "text": "Anyone experiencing symptoms of meningitis or encephalitis should see a doctor immediately. Antibiotics for most types of meningitis can greatly reduce the risk of dying from the disease. Antiviral medications may be prescribed for viral encephalitis or other severe viral infections.Anticonvulsants are used to prevent or treat seizures. Corticosteroidd rugs can reduce brain swelling and inflammation. Over-the-counter medications may be used for fever and headache. Individuals with encephalitis or bacterial meningitis are usually hospitalized for treatment. Affected individuals with breathing difficulties may require artificial respiration.",
+          "question": "What are the treatments for Meningitis and Encephalitis ?",
+          "score": 0.032149288803339005,
+          "rerank_score": -3.1641063690185547,
+          "trust_score": 0.008577892270486992
+        },
+        {
+          "text": "A stroke is a medical emergency. There are two types - ischemic and hemorrhagic. Hemorrhagic stroke is the less common type. It happens when a blood vessel breaks and bleeds into the brain. Within minutes, brain cells begin to die. Causes include a bleeding aneurysm, an arteriovenous malformation (AVM), or an artery wall that breaks open.    Symptoms of stroke are       - Sudden numbness or weakness of the face, arm or leg (especially on one side of the body)    - Sudden confusion, trouble speaking or understanding speech    - Sudden trouble seeing in one or both eyes    - Sudden trouble walking, dizziness, loss of balance or coordination    - Sudden severe headache with no known cause       It is important to treat strokes as quickly as possible. With a hemorrhagic stroke, the first steps are to find the cause of bleeding in the brain and then control it. Surgery may be needed. Post-stroke rehabilitation can help people overcome disabilities caused by stroke damage.    National Institute of Neurological Disorders and Stroke",
+          "question": "What is (are) Hemorrhagic Stroke ?",
+          "score": 0.03295067697763443,
+          "rerank_score": -0.6472496390342712,
+          "trust_score": 0.00020266338316278436
+        },
+        {
+          "text": "Warning signs are clues your body sends to tell you that your brain is not receiving enough oxygen. These are warning signs of a stroke, or brain attack: - sudden numbness or weakness of the face, arm, or leg, especially on one side of the body  - sudden confusion, trouble speaking or understanding  - sudden trouble seeing in one or both eyes  - sudden trouble walking, dizziness, loss of balance or coordination  - sudden severe headache with no known cause. sudden numbness or weakness of the face, arm, or leg, especially on one side of the body sudden confusion, trouble speaking or understanding sudden trouble seeing in one or both eyes sudden trouble walking, dizziness, loss of balance or coordination sudden severe headache with no known cause. If you observe one or more of these signs, don't wait. Call 911 right away!",
+          "question": "What are the symptoms of Stroke ?",
+          "score": 0.023542648181319237,
+          "rerank_score": -3.5778756141662598,
+          "trust_score": 1.3544283624188037e-05
+        },
+        {
+          "text": "Generally, long-term antibiotic treatment to destroy the bacteria can relieve symptoms and cure the disease. If left untreated, the disease is progressive and fatal. Individuals with involvement of the central nervous system generally have a worse prognosis and may be left with permanent neurologic disability. Deficits may persist and relapses may still occur in individuals who receive appropriate treatment in a timely fashion. Prognosis may improve with earlier recognition, diagnosis, and treatment of the disorder.",
+          "question": "What is the outlook for Whipple's Disease ?",
+          "score": 0.02984188310801983,
+          "rerank_score": -4.292863845825195,
+          "trust_score": 6.804801782453947e-06
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What is (are) Paralysis ?",
+          "text": "Paralysis is the loss of muscle function in part of your body. It happens when something goes wrong with the way messages pass between your brain and muscles. Paralysis can be complete or partial. It can occur on one or both sides of your body. It can also occur in just one area, or it can be widespread. Paralysis of the lower half of your body, including both legs, is called paraplegia. Paralysis of the arms and legs is quadriplegia.     Most paralysis is due to strokes or injuries such as spinal cord injury or a broken neck. Other causes of paralysis include       - Nerve diseases such as amyotrophic lateral sclerosis    -  Autoimmune diseases such as Guillain-Barre syndrome    -  Bell's palsy, which affects muscles in the face       Polio used to be a cause of paralysis, but polio no longer occurs in the U.S.",
+          "trust_score": 0.03242750336200327
+        },
+        {
+          "question": "What are the treatments for Meningitis and Encephalitis ?",
+          "text": "Anyone experiencing symptoms of meningitis or encephalitis should see a doctor immediately. Antibiotics for most types of meningitis can greatly reduce the risk of dying from the disease. Antiviral medications may be prescribed for viral encephalitis or other severe viral infections.Anticonvulsants are used to prevent or treat seizures. Corticosteroidd rugs can reduce brain swelling and inflammation. Over-the-counter medications may be used for fever and headache. Individuals with encephalitis or bacterial meningitis are usually hospitalized for treatment. Affected individuals with breathing difficulties may require artificial respiration.",
+          "trust_score": 0.008577892270486992
+        },
+        {
+          "question": "What is (are) Hemorrhagic Stroke ?",
+          "text": "A stroke is a medical emergency. There are two types - ischemic and hemorrhagic. Hemorrhagic stroke is the less common type. It happens when a blood vessel breaks and bleeds into the brain. Within minutes, brain cells begin to die. Causes include a bleeding aneurysm, an arteriovenous malformation (AVM), or an artery wall that breaks open.    Symptoms of stroke are       - Sudden numbness or weakness of the face, arm or leg (especially on one side of the body)    - Sudden confusion, trouble speaking or understanding speech    - Sudden trouble seeing in one or both eyes    - Sudden trouble walking, dizziness, loss of balance or coordination    - Sudden severe headache with no known cause       It is important to treat strokes as quickly as possible. With a hemorrhagic stroke, the first steps are to find the cause of bleeding in the brain and then control it. Surgery may be needed. Post-stroke rehabilitation can help people overcome disabilities caused by stroke damage.    National Institute of Neurological Disorders and Stroke",
+          "trust_score": 0.00020266338316278436
+        },
+        {
+          "question": "What are the symptoms of Stroke ?",
+          "text": "Warning signs are clues your body sends to tell you that your brain is not receiving enough oxygen. These are warning signs of a stroke, or brain attack: - sudden numbness or weakness of the face, arm, or leg, especially on one side of the body  - sudden confusion, trouble speaking or understanding  - sudden trouble seeing in one or both eyes  - sudden trouble walking, dizziness, loss of balance or coordination  - sudden severe headache with no known cause. sudden numbness or weakness of the face, arm, or leg, especially on one side of the body sudden confusion, trouble speaking or understanding sudden trouble seeing in one or both eyes sudden trouble walking, dizziness, loss of balance or coordination sudden severe headache with no known cause. If you observe one or more of these signs, don't wait. Call 911 right away!",
+          "trust_score": 1.3544283624188037e-05
+        },
+        {
+          "question": "What is the outlook for Whipple's Disease ?",
+          "text": "Generally, long-term antibiotic treatment to destroy the bacteria can relieve symptoms and cure the disease. If left untreated, the disease is progressive and fatal. Individuals with involvement of the central nervous system generally have a worse prognosis and may be left with permanent neurologic disability. Deficits may persist and relapses may still occur in individuals who receive appropriate treatment in a timely fashion. Prognosis may improve with earlier recognition, diagnosis, and treatment of the disorder.",
+          "trust_score": 6.804801782453947e-06
+        }
+      ]
+    }
+  ]
+}

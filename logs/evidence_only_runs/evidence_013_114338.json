@@ -1,0 +1,370 @@
+{
+  "symptoms": [
+    "joint pain",
+    "hopelessness",
+    "sadness"
+  ],
+  "resolved_symptoms": [
+    "hopelessness",
+    "joint pain",
+    "sadness"
+  ],
+  "diseases": [
+    {
+      "disease": "teen depression",
+      "drugs": [],
+      "treatment_modalities": [
+        "medicines",
+        "talk therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "irritability",
+          "pmid": "38419494",
+          "title": "Irritability in Youths: A Critical Integrative Review.",
+          "year": "2024",
+          "confidence": 0.9148,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5722442001736783,
+          "abstract_snippet": "Irritability, defined as proneness to anger that may impair an individual's functioning, is common in youths. There has been a recent upsurge in relevant research. The authors combine systematic and narrative review approaches to integrate the latest clinical and translational findings and provide s"
+        },
+        {
+          "symptom": "emptiness",
+          "pmid": "38579178",
+          "title": "A general inductive approach to characterize transdiagnostic experiences of emptiness.",
+          "year": "2024",
+          "confidence": 0.9035,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7065129823721462,
+          "abstract_snippet": "Despite the pervasiveness of patient-reported emptiness and the high burden it carries, emptiness is poorly understood. In the current study, we used a general inductive approach to examine experiences with emptiness in a diagnostically diverse sample of treatment-seeking patients with severe and ac"
+        },
+        {
+          "symptom": "frustration",
+          "pmid": "32864293",
+          "title": "ADHD and Depression: the Role of Poor Frustration Tolerance.",
+          "year": "2017",
+          "confidence": 0.885,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.627907759351197,
+          "abstract_snippet": "Unipolar depression is a common comorbidity in children with ADHD with rates ranging from 12-50%. Compared to children with ADHD alone, children with comorbid ADHD and depression require more intense interventions since they experience higher levels of stress and more psychosocial and familial probl"
+        },
+        {
+          "symptom": "hopelessness",
+          "pmid": "31397111",
+          "title": "Depression and hopelessness in pre-clinical medical students.",
+          "year": "2019",
+          "confidence": 0.885,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5929463285974962,
+          "abstract_snippet": "Mental distress seriously affects the quality of life of medical students. Medical students face mental health problems such as depression, anxiety and hopelessness. The pre-clinical years include substantial changes in a student's life, such as moving cities and losing friends, which can complicate"
+        },
+        {
+          "symptom": "anger",
+          "pmid": "26931289",
+          "title": "Clinical validity of PROMIS Depression, Anxiety, and Anger across diverse clinical samples.",
+          "year": "2016",
+          "confidence": 0.8825,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6410140595377275,
+          "abstract_snippet": "The purpose of this study was to evaluate the responsiveness to change of the PROMIS negative affect measures (depression, anxiety, and anger) using longitudinal data collected in six chronic health conditions. Individuals with major depressive disorder (MDD), back pain, chronic obstructive pulmonar"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens treated? \n Effective treatments for depression in teens include talk therapy, or a combination of talk therapy and medicines:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "What is depression in teens? \n Depression in teens (ages 13-17) is a serious medical illness. It's more than just a feeling of being sad or \"blue\" for a few days. It is an intense feeling of sadness, hopelessness, and anger or frustration that lasts much longer. These feelings make it hard for you to function normally and do your usual activities. You may also have trouble focusing and have no motivation or energy. Depression can make you feel like it is hard to enjoy life or even get through the day.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "What causes depression in teens? \n Many factors may play a role in depression, including: \n Genetics. Depression can run in families. \n Brain biology and chemistry. \n Hormones. Hormone changes can contribute to depression. \n Stressful childhood events such as trauma, the death of a loved one, bullying , and abuse .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "Which teens are at risk of depression? \n Depression can happen at any age, but often begins in the teens or early adulthood. Certain teens are at higher risk of depression, such as those who: \n Have other mental health conditions, such as anxiety , eating disorders , and substance use \n Have other diseases, such as diabetes , cancer , and heart disease \n Have family members with mental illness \n Have a dysfunctional family/family conflict \n Have problems with friends or other kids at school \n Have learning disabilities or attention deficit hyperactivity disorder (ADHD) \n Have had trauma in childhood \n Have low self-esteem, a pessimistic outlook, or poor coping skills",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "What are the symptoms of depression in teens? \n If you have depression, you have one or more of these symptoms most of the time: \n Sadness \n Feeling of emptiness \n Hopelessness \n Being angry, irritable, or frustrated, even at minor things",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "You also may also have other symptoms, such as: \n No longer caring about things you used to enjoy \n Changes in weight, such as losing weight when you are not dieting or gaining weight from eating too much \n Changes in sleep, such as having trouble falling asleep or staying asleep, or sleeping much more than usual \n Feeling restless or having trouble sitting still \n Feeling very tired or not having energy \n Feeling worthless or very guilty \n Having trouble concentrating, remembering information, or making decisions \n Thinking about dying or suicide",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens diagnosed? \n If you think you might be depressed, tell someone that you trust, such as your: \n Parents or guardian \n Teacher or counselor \n Doctor",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        },
+        {
+          "question": "teen depression",
+          "text": "The next step is to see your doctor for a checkup. Your doctor can first make sure that you do not have another health problem that is causing your depression. To do this, you may have a physical exam and lab tests.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/teendepression.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens treated? \n Effective treatments for depression in teens include talk therapy, or a combination of talk therapy and medicines:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "What is depression in teens? \n Depression in teens (ages 13-17) is a serious medical illness. It's more than just a feeling of being sad or \"blue\" for a few days. It is an intense feeling of sadness, hopelessness, and anger or frustration that lasts much longer. These feelings make it hard for you to function normally and do your usual activities. You may also have trouble focusing and have no motivation or energy. Depression can make you feel like it is hard to enjoy life or even get through the day.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "What causes depression in teens? \n Many factors may play a role in depression, including: \n Genetics. Depression can run in families. \n Brain biology and chemistry. \n Hormones. Hormone changes can contribute to depression. \n Stressful childhood events such as trauma, the death of a loved one, bullying , and abuse .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "Which teens are at risk of depression? \n Depression can happen at any age, but often begins in the teens or early adulthood. Certain teens are at higher risk of depression, such as those who: \n Have other mental health conditions, such as anxiety , eating disorders , and substance use \n Have other diseases, such as diabetes , cancer , and heart disease \n Have family members with mental illness \n Have a dysfunctional family/family conflict \n Have problems with friends or other kids at school \n Have learning disabilities or attention deficit hyperactivity disorder (ADHD) \n Have had trauma in childhood \n Have low self-esteem, a pessimistic outlook, or poor coping skills",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "What are the symptoms of depression in teens? \n If you have depression, you have one or more of these symptoms most of the time: \n Sadness \n Feeling of emptiness \n Hopelessness \n Being angry, irritable, or frustrated, even at minor things",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "You also may also have other symptoms, such as: \n No longer caring about things you used to enjoy \n Changes in weight, such as losing weight when you are not dieting or gaining weight from eating too much \n Changes in sleep, such as having trouble falling asleep or staying asleep, or sleeping much more than usual \n Feeling restless or having trouble sitting still \n Feeling very tired or not having energy \n Feeling worthless or very guilty \n Having trouble concentrating, remembering information, or making decisions \n Thinking about dying or suicide",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "How is depression in teens diagnosed? \n If you think you might be depressed, tell someone that you trust, such as your: \n Parents or guardian \n Teacher or counselor \n Doctor",
+          "trust_score": 1.0
+        },
+        {
+          "question": "teen depression",
+          "text": "The next step is to see your doctor for a checkup. Your doctor can first make sure that you do not have another health problem that is causing your depression. To do this, you may have a physical exam and lab tests.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "osteoarthristis",
+      "drugs": [
+        "ibuprofen",
+        "paracetamol",
+        "diclofenac"
+      ],
+      "treatment_modalities": [],
+      "citations": [],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Osteoarthritis is the most common form of arthritis among older people. It affects hands, low back, neck, and weight-bearing joints such as knees, hips, and feet. Osteoarthritis occurs when cartilage, the tissue that cushions the ends of the bones within the joints, breaks down and wears away. This causes bones to rub together, causing pain, swelling, and loss of motion of the joint.",
+          "question": "What is (are) Osteoarthritis ?",
+          "score": 0.02812945283949375,
+          "rerank_score": 6.368967533111572,
+          "trust_score": 0.11970339506781773
+        },
+        {
+          "text": "Osteoarthritis is the most common form of arthritis. It causes pain, swelling, and reduced motion in your joints. It can occur in any joint, but usually it affects your hands, knees, hips or spine.    Osteoarthritis breaks down the cartilage in your joints. Cartilage is the slippery tissue that covers the ends of bones in a joint. Healthy cartilage absorbs the shock of movement. When you lose cartilage, your bones rub together. Over time, this rubbing can permanently damage the joint.    Risk factors for osteoarthritis include       -  Being overweight    -  Getting older    -  Injuring a joint        No single test can diagnose osteoarthritis. Most doctors use several methods, including medical history, a physical exam, x-rays, or lab tests.    Treatments include exercise, medicines, and sometimes surgery.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "question": "What is (are) Osteoarthritis ?",
+          "score": 0.030882615596055984,
+          "rerank_score": 5.59305477142334,
+          "trust_score": 0.061153041552269485
+        },
+        {
+          "text": "Warm towels, hot packs, or a warm bath or shower can provide temporary pain relief. Medications such as non-steroidal anti-inflammatory drugs, or NSAIDs, help reduce pain and inflammation that result from osteoarthritis. A doctor or physical therapist can recommend if heat or cold is the best treatment. For osteoarthritis in the knee, wearing insoles or cushioned shoes may reduce joint stress.",
+          "question": "What are the treatments for Osteoarthritis ?",
+          "score": 0.02048145979642868,
+          "rerank_score": -2.1457080841064453,
+          "trust_score": 0.021939457136677786
+        },
+        {
+          "text": "Warning signs of osteoarthritis include -  joint pain  -  swelling or tenderness in one or more joints  -  stiffness after getting out of bed or sitting for a long time  -  a crunching feeling or sound of bone rubbing on bone.  joint pain swelling or tenderness in one or more joints stiffness after getting out of bed or sitting for a long time a crunching feeling or sound of bone rubbing on bone. Not everyone with osteoarthritis develops symptoms. In fact, only a third of people with x-ray evidence of osteoarthritis report pain or other symptoms.",
+          "question": "What are the symptoms of Osteoarthritis ?",
+          "score": 0.02077510952949524,
+          "rerank_score": 2.956169605255127,
+          "trust_score": 0.005729683499416
+        },
+        {
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "score": 0.03136648237705231,
+          "rerank_score": -4.110466957092285,
+          "trust_score": 0.003618543202659269
+        },
+        {
+          "text": "How might SAPHO syndrome be treated? There is no specific treatment plan for SAPHO syndrome. It can be a chronic condition but sometimes eventually heals on its own. Joint pain may be managed with nonsteroidal anti-inflammatory drugs and prescription vitamin A is used to treat the acne. Other drugs that may be used include: Colchicine Topical corticosteroids Systemic corticosteroids Methotrexate Calcitonin Bisphosphonates Infliximab Etanercept.",
+          "question": "What are the treatments for SAPHO syndrome ?",
+          "score": 0.029606632888317108,
+          "rerank_score": -6.553265571594238,
+          "trust_score": 0.0003809817471488673
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What is (are) Osteoarthritis ?",
+          "text": "Osteoarthritis is the most common form of arthritis among older people. It affects hands, low back, neck, and weight-bearing joints such as knees, hips, and feet. Osteoarthritis occurs when cartilage, the tissue that cushions the ends of the bones within the joints, breaks down and wears away. This causes bones to rub together, causing pain, swelling, and loss of motion of the joint.",
+          "trust_score": 0.11970339506781773
+        },
+        {
+          "question": "What is (are) Osteoarthritis ?",
+          "text": "Osteoarthritis is the most common form of arthritis. It causes pain, swelling, and reduced motion in your joints. It can occur in any joint, but usually it affects your hands, knees, hips or spine.    Osteoarthritis breaks down the cartilage in your joints. Cartilage is the slippery tissue that covers the ends of bones in a joint. Healthy cartilage absorbs the shock of movement. When you lose cartilage, your bones rub together. Over time, this rubbing can permanently damage the joint.    Risk factors for osteoarthritis include       -  Being overweight    -  Getting older    -  Injuring a joint        No single test can diagnose osteoarthritis. Most doctors use several methods, including medical history, a physical exam, x-rays, or lab tests.    Treatments include exercise, medicines, and sometimes surgery.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "trust_score": 0.061153041552269485
+        },
+        {
+          "question": "What are the treatments for Osteoarthritis ?",
+          "text": "Warm towels, hot packs, or a warm bath or shower can provide temporary pain relief. Medications such as non-steroidal anti-inflammatory drugs, or NSAIDs, help reduce pain and inflammation that result from osteoarthritis. A doctor or physical therapist can recommend if heat or cold is the best treatment. For osteoarthritis in the knee, wearing insoles or cushioned shoes may reduce joint stress.",
+          "trust_score": 0.021939457136677786
+        },
+        {
+          "question": "What are the symptoms of Osteoarthritis ?",
+          "text": "Warning signs of osteoarthritis include -  joint pain  -  swelling or tenderness in one or more joints  -  stiffness after getting out of bed or sitting for a long time  -  a crunching feeling or sound of bone rubbing on bone.  joint pain swelling or tenderness in one or more joints stiffness after getting out of bed or sitting for a long time a crunching feeling or sound of bone rubbing on bone. Not everyone with osteoarthritis develops symptoms. In fact, only a third of people with x-ray evidence of osteoarthritis report pain or other symptoms.",
+          "trust_score": 0.005729683499416
+        },
+        {
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "trust_score": 0.003618543202659269
+        },
+        {
+          "question": "What are the treatments for SAPHO syndrome ?",
+          "text": "How might SAPHO syndrome be treated? There is no specific treatment plan for SAPHO syndrome. It can be a chronic condition but sometimes eventually heals on its own. Joint pain may be managed with nonsteroidal anti-inflammatory drugs and prescription vitamin A is used to treat the acne. Other drugs that may be used include: Colchicine Topical corticosteroids Systemic corticosteroids Methotrexate Calcitonin Bisphosphonates Infliximab Etanercept.",
+          "trust_score": 0.0003809817471488673
+        }
+      ]
+    },
+    {
+      "disease": "psoriasis",
+      "drugs": [
+        "methotrexate",
+        "calcipotriol",
+        "cyclosporine"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "inflammatory nails",
+          "pmid": "38105636",
+          "title": "Pediatric psoriasis: Understanding pathological conditions and advances in treatment.",
+          "year": "2024",
+          "confidence": 0.9404,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.687560047222729,
+          "abstract_snippet": "Psoriasis is a long-lasting skin disease that primarily affects the skin, nails, and joints and is characterized by inflammation. Genetic factors contribute to its development and environmental triggers can worsen symptoms. Pathologically, psoriasis is characterized by uncontrolled keratinocyte prol"
+        },
+        {
+          "symptom": "skin rash",
+          "pmid": "27900946",
+          "title": "Childhood psoriasis.",
+          "year": "2016",
+          "confidence": 0.9214,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.37991826358020414,
+          "abstract_snippet": "Psoriasis is a common chronic inflammatory skin disease. Recently, few data have been published on epidemiology, comorbidity, or therapy in children with psoriasis. Psoriasis affects up to 2% of children in Europe, even during the first months of life. The link between psoriasis and metabolic comorb"
+        },
+        {
+          "symptom": "skin peeling",
+          "pmid": "41400370",
+          "title": "Comparative Efficacy and Safety of Laser Versus Chemical Skin Peeling in Skin Rejuvenation: A Systematic Review and Meta-Analysis.",
+          "year": "2025",
+          "confidence": 0.902,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6574722044978539,
+          "abstract_snippet": "Laser resurfacing and chemical peeling represent two widely practiced skin rejuvenation techniques, each with distinct mechanisms and risk profiles. Despite their widespread use, comparative efficacy and safety across various dermatologic conditions remains incompletely synthesized. This systematic"
+        },
+        {
+          "symptom": "joint pain",
+          "pmid": "38054800",
+          "title": "Treatment of Severe Palmoplantar Pustular Psoriasis With Bimekizumab.",
+          "year": "2024",
+          "confidence": 0.8934,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7360534414464771,
+          "abstract_snippet": "Palmoplantar pustulosis (PPP) and palmoplantar plaque psoriasis with pustules remain challenging to treat. Studies suggest that an interleukin 17 or interleukin 36 loop acts synergistically in these diseases to induce palmoplantar pustules. To assess the effectiveness of bimekizumab in treating PPP"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "How might guttate psoriasis be treated? The goal of treatment is to control the symptoms and prevent secondary infections. Mild cases of guttate psoriasis are usually treated at home. The following may be recommended: Cortisone (anti-itch and anti-inflammatory) cream Dandruff shampoos (over-the-counter or prescription) Lotions that contain coal tar Moisturizers Prescription medicines containing vitamin D or vitamin A (retinoids) People with very severe guttate psoriasis may take medicines to suppress the body's immune system. These medicines include corticosteroids, cyclosporine, and methotrexate. Sunlight may help some symptoms go away. Care should be taken to avoid sunburn. Some people may choose to have phototherapy. Phototherapy is a medical procedure in which the skin is carefully exposed to ultraviolet light. Phototherapy may be given alone or after taking a drug that makes the skin more sensitive to light. More detailed information related to the treatment of psoriasis can be accessed through Medscape Reference. The National Psoriasis Foundation can also provide you with information on treatment.",
+          "question": "What are the treatments for Guttate psoriasis ?",
+          "score": 0.032608285546302795,
+          "rerank_score": 4.784112453460693,
+          "trust_score": 0.9322411750242627
+        },
+        {
+          "text": "Topical treatments are those that are applied directly to the skin. Topical treatments for psoriasis include - salicylic acid,  - steroid-based creams  - calcipotriene-containing ointment  - anthralin  - coal-tar ointments and shampoos  - and vitamin D analogues.  salicylic acid, steroid-based creams calcipotriene-containing ointment anthralin coal-tar ointments and shampoos and vitamin D analogues.",
+          "question": "What are the treatments for Psoriasis ?",
+          "score": 0.03754289448261261,
+          "rerank_score": 4.239889144897461,
+          "trust_score": 0.8941881553517129
+        },
+        {
+          "text": "Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales. You usually get the patches on your elbows, knees, scalp, back, face, palms and feet, but they can show up on other parts of your body. Some people who have psoriasis also get a form of arthritis called psoriatic arthritis.    A problem with your immune system causes psoriasis. In a process called cell turnover, skin cells that grow deep in your skin rise to the surface. Normally, this takes a month. In psoriasis, it happens in just days because your cells rise too fast.     Psoriasis can be hard to diagnose because it can look like other skin diseases. Your doctor might need to look at a small skin sample under a microscope.    Psoriasis can last a long time, even a lifetime. Symptoms come and go. Things that make them worse include       - Infections    - Stress    - Dry skin    - Certain medicines       Psoriasis usually occurs in adults. It sometimes runs in families. Treatments include creams, medicines, and light therapy.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "question": "What is (are) Psoriasis ?",
+          "score": 0.0423775278031826,
+          "rerank_score": 10.733980178833008,
+          "trust_score": 0.8830826547988614
+        },
+        {
+          "text": "Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales. You usually get them on your elbows, knees, scalp, back, face, palms and feet, but they can show up on other parts of your body.    Some people with psoriasis have psoriatic arthritis. It causes pain, stiffness, and swelling of the joints. It is often mild, but can sometimes be serious and affect many joints. The joint and skin problems don't always happen at the same time.    Your doctor will do a physical exam and imaging tests to diagnose psoriatic arthritis. There is no cure, but medicines can help control inflammation and pain. In rare cases, you might need surgery to repair or replace damaged joints.",
+          "question": "What is (are) Psoriatic Arthritis ?",
+          "score": 0.04306105524301529,
+          "rerank_score": 10.65113639831543,
+          "trust_score": 0.8776943958139947
+        },
+        {
+          "text": "Scientists who are working to better understand and treat psoriasis are making headway in several different areas. The Role of T Cells Scientists believe that psoriasis occurs when white blood cells called T cells, which normally help fight infections, attack the bodys skin cells by mistake. Scientists are working to understand what causes these cells to go awry in people with psoriasis. Their hope is that by better understanding why T cells attack the bodys healthy skin tissue, they can develop better treatments to stop or prevent that damaging process. New Treatments Since discovering that T cells attack skin cells in psoriasis, researchers have been studying new treatments that quiet immune system reactions in the skin. Among these are treatments that block the activity of T cells or block cytokines (proteins that promote inflammation). If researchers find a way to target only the disease-causing immune reactions while leaving the rest of the immune system alone, resulting treatments could benefit psoriasis patients as well as those with other autoimmune diseases (when the immune system attacks the bodys own tissues). Currently there are a number of potential psoriasis treatments in clinical trials, including injections, pills, and topical ointments. Clinical trials are research studies with volunteers in which drugs are tested for the effectiveness and safety. All drugs must complete and pass this process before they can be approved by the FDA. Psoriasis Genes Because psoriasis is more common among people who have one or more family members with the disease, scientists have long suspected that genes are involved. A number of genetic loci  specific locations on the genes  have been associated with the development of psoriasis or the severity or progression of the disease. In 2012, scientists discovered the first gene to be directly linked to development of plaque psoriasis. Researchers continue to study the genetic aspects of psoriasis, and some studies are looking at the nervous system to determine the genes responsible for the circuitry that causes itching. Psoriasis-related Conditions Research in recent years has shown that people with psoriasis are more likely to develop other health problems, including problems with the heart and blood vessels. Research is continuing to examine links between psoriasis and other health problems. Scientists are working to understand how and why these diseases occur in people with psoriasis, with the hope that this understanding will lead to better treatments for both psoriasis and the related diseases. Stress Reduction Treatment For many people with psoriasis, life stresses cause the disease to worsen or become more active. Research suggests that stress is associated with the increased production of chemicals by the immune system that promote inflammation. The same chemicals may play a role in the anxiety and depression that is common in people with psoriasis. Researchers are studying the use of stress reduction techniques, along with medical treatment, in the hope that reducing stress will both lower anxiety and improve the skin lesions of psoriasis. Where to Find More Information More information on research is available from the following websites. - NIH Clinical Research Trials and You helps people learn more about clinical trials, why they matter, and how to participate. Visitors to the website will find information about the basics of participating in a clinical trial, first-hand stories from actual clinical trial volunteers, explanations from researchers, and links to help you search for a trial or enroll in a research-matching program.  - ClinicalTrials.gov offers up-to-date information for locating federally and privately supported clinical trials for a wide range of diseases and conditions.  - NIH RePORTER is an electronic tool that allows users to search a repository of both intramural and extramural NIH-funded research projects from the past 25 years and access publications (since 1985) and patents resulting from NIH funding.  - PubMed is a free service of the U.S. National Library of Medicine that lets you search millions of journal citations and abstracts in the fields of medicine, nursing, dentistry, veterinary medicine, the health care system, and preclinical sciences.  NIH Clinical Research Trials and You helps people learn more about clinical trials, why they matter, and how to participate. Visitors to the website will find information about the basics of participating in a clinical trial, first-hand stories from actual clinical trial volunteers, explanations from researchers, and links to help you search for a trial or enroll in a research-matching program. ClinicalTrials.gov offers up-to-date information for locating federally and privately supported clinical trials for a wide range of diseases and conditions. NIH RePORTER is an electronic tool that allows users to search a repository of both intramural and extramural NIH-funded research projects from the past 25 years and access publications (since 1985) and patents resulting from NIH funding. PubMed is a free service of the U.S. National Library of Medicine that lets you search millions of journal citations and abstracts in the fields of medicine, nursing, dentistry, veterinary medicine, the health care system, and preclinical sciences.",
+          "question": "what research (or clinical trials) is being done for Psoriasis ?",
+          "score": 0.019423622637987137,
+          "rerank_score": -1.8604679107666016,
+          "trust_score": 0.028624697363218023
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Guttate psoriasis ?",
+          "text": "How might guttate psoriasis be treated? The goal of treatment is to control the symptoms and prevent secondary infections. Mild cases of guttate psoriasis are usually treated at home. The following may be recommended: Cortisone (anti-itch and anti-inflammatory) cream Dandruff shampoos (over-the-counter or prescription) Lotions that contain coal tar Moisturizers Prescription medicines containing vitamin D or vitamin A (retinoids) People with very severe guttate psoriasis may take medicines to suppress the body's immune system. These medicines include corticosteroids, cyclosporine, and methotrexate. Sunlight may help some symptoms go away. Care should be taken to avoid sunburn. Some people may choose to have phototherapy. Phototherapy is a medical procedure in which the skin is carefully exposed to ultraviolet light. Phototherapy may be given alone or after taking a drug that makes the skin more sensitive to light. More detailed information related to the treatment of psoriasis can be accessed through Medscape Reference. The National Psoriasis Foundation can also provide you with information on treatment.",
+          "trust_score": 0.9322411750242627
+        },
+        {
+          "question": "What are the treatments for Psoriasis ?",
+          "text": "Topical treatments are those that are applied directly to the skin. Topical treatments for psoriasis include - salicylic acid,  - steroid-based creams  - calcipotriene-containing ointment  - anthralin  - coal-tar ointments and shampoos  - and vitamin D analogues.  salicylic acid, steroid-based creams calcipotriene-containing ointment anthralin coal-tar ointments and shampoos and vitamin D analogues.",
+          "trust_score": 0.8941881553517129
+        },
+        {
+          "question": "What is (are) Psoriasis ?",
+          "text": "Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales. You usually get the patches on your elbows, knees, scalp, back, face, palms and feet, but they can show up on other parts of your body. Some people who have psoriasis also get a form of arthritis called psoriatic arthritis.    A problem with your immune system causes psoriasis. In a process called cell turnover, skin cells that grow deep in your skin rise to the surface. Normally, this takes a month. In psoriasis, it happens in just days because your cells rise too fast.     Psoriasis can be hard to diagnose because it can look like other skin diseases. Your doctor might need to look at a small skin sample under a microscope.    Psoriasis can last a long time, even a lifetime. Symptoms come and go. Things that make them worse include       - Infections    - Stress    - Dry skin    - Certain medicines       Psoriasis usually occurs in adults. It sometimes runs in families. Treatments include creams, medicines, and light therapy.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "trust_score": 0.8830826547988614
+        },
+        {
+          "question": "What is (are) Psoriatic Arthritis ?",
+          "text": "Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales. You usually get them on your elbows, knees, scalp, back, face, palms and feet, but they can show up on other parts of your body.    Some people with psoriasis have psoriatic arthritis. It causes pain, stiffness, and swelling of the joints. It is often mild, but can sometimes be serious and affect many joints. The joint and skin problems don't always happen at the same time.    Your doctor will do a physical exam and imaging tests to diagnose psoriatic arthritis. There is no cure, but medicines can help control inflammation and pain. In rare cases, you might need surgery to repair or replace damaged joints.",
+          "trust_score": 0.8776943958139947
+        },
+        {
+          "question": "what research (or clinical trials) is being done for Psoriasis ?",
+          "text": "Scientists who are working to better understand and treat psoriasis are making headway in several different areas. The Role of T Cells Scientists believe that psoriasis occurs when white blood cells called T cells, which normally help fight infections, attack the bodys skin cells by mistake. Scientists are working to understand what causes these cells to go awry in people with psoriasis. Their hope is that by better understanding why T cells attack the bodys healthy skin tissue, they can develop better treatments to stop or prevent that damaging process. New Treatments Since discovering that T cells attack skin cells in psoriasis, researchers have been studying new treatments that quiet immune system reactions in the skin. Among these are treatments that block the activity of T cells or block cytokines (proteins that promote inflammation). If researchers find a way to target only the disease-causing immune reactions while leaving the rest of the immune system alone, resulting treatments could benefit psoriasis patients as well as those with other autoimmune diseases (when the immune system attacks the bodys own tissues). Currently there are a number of potential psoriasis treatments in clinical trials, including injections, pills, and topical ointments. Clinical trials are research studies with volunteers in which drugs are tested for the effectiveness and safety. All drugs must complete and pass this process before they can be approved by the FDA. Psoriasis Genes Because psoriasis is more common among people who have one or more family members with the disease, scientists have long suspected that genes are involved. A number of genetic loci  specific locations on the genes  have been associated with the development of psoriasis or the severity or progression of the disease. In 2012, scientists discovered the first gene to be directly linked to development of plaque psoriasis. Researchers continue to study the genetic aspects of psoriasis, and some studies are looking at the nervous system to determine the genes responsible for the circuitry that causes itching. Psoriasis-related Conditions Research in recent years has shown that people with psoriasis are more likely to develop other health problems, including problems with the heart and blood vessels. Research is continuing to examine links between psoriasis and other health problems. Scientists are working to understand how and why these diseases occur in people with psoriasis, with the hope that this understanding will lead to better treatments for both psoriasis and the related diseases. Stress Reduction Treatment For many people with psoriasis, life stresses cause the disease to worsen or become more active. Research suggests that stress is associated with the increased production of chemicals by the immune system that promote inflammation. The same chemicals may play a role in the anxiety and depression that is common in people with psoriasis. Researchers are studying the use of stress reduction techniques, along with medical treatment, in the hope that reducing stress will both lower anxiety and improve the skin lesions of psoriasis. Where to Find More Information More information on research is available from the following websites. - NIH Clinical Research Trials and You helps people learn more about clinical trials, why they matter, and how to participate. Visitors to the website will find information about the basics of participating in a clinical trial, first-hand stories from actual clinical trial volunteers, explanations from researchers, and links to help you search for a trial or enroll in a research-matching program.  - ClinicalTrials.gov offers up-to-date information for locating federally and privately supported clinical trials for a wide range of diseases and conditions.  - NIH RePORTER is an electronic tool that allows users to search a repository of both intramural and extramural NIH-funded research projects from the past 25 years and access publications (since 1985) and patents resulting from NIH funding.  - PubMed is a free service of the U.S. National Library of Medicine that lets you search millions of journal citations and abstracts in the fields of medicine, nursing, dentistry, veterinary medicine, the health care system, and preclinical sciences.  NIH Clinical Research Trials and You helps people learn more about clinical trials, why they matter, and how to participate. Visitors to the website will find information about the basics of participating in a clinical trial, first-hand stories from actual clinical trial volunteers, explanations from researchers, and links to help you search for a trial or enroll in a research-matching program. ClinicalTrials.gov offers up-to-date information for locating federally and privately supported clinical trials for a wide range of diseases and conditions. NIH RePORTER is an electronic tool that allows users to search a repository of both intramural and extramural NIH-funded research projects from the past 25 years and access publications (since 1985) and patents resulting from NIH funding. PubMed is a free service of the U.S. National Library of Medicine that lets you search millions of journal citations and abstracts in the fields of medicine, nursing, dentistry, veterinary medicine, the health care system, and preclinical sciences.",
+          "trust_score": 0.028624697363218023
+        }
+      ]
+    }
+  ]
+}

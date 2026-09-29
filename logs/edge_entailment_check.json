@@ -1,0 +1,6029 @@
+{
+  "n": 751,
+  "threshold": 0.5,
+  "mean_score": 0.5071157170303064,
+  "entailed_count": 422,
+  "entailed_rate": 0.5619174434087882,
+  "by_source": {
+    "DiseaseAndSymptoms": {
+      "n": 217,
+      "entailed_rate": 0.5161290322580645,
+      "mean_score": 0.4878889781086006
+    },
+    "MedlinePlus": {
+      "n": 534,
+      "entailed_rate": 0.5805243445692884,
+      "mean_score": 0.5149288300378161
+    }
+  },
+  "results": [
+    {
+      "disease": "fungal infection",
+      "symptom": "nodal skin eruptions",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26728811",
+      "score": 0.4392563998699188,
+      "entailed": false
+    },
+    {
+      "disease": "fungal infection",
+      "symptom": "skin rash",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26280141",
+      "score": 0.8729133009910583,
+      "entailed": true
+    },
+    {
+      "disease": "fungal infection",
+      "symptom": "itching",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26280141",
+      "score": 0.29148930311203003,
+      "entailed": false
+    },
+    {
+      "disease": "allergy",
+      "symptom": "watering from eyes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34418402",
+      "score": 0.002747993217781186,
+      "entailed": false
+    },
+    {
+      "disease": "allergy",
+      "symptom": "continuous sneezing",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28474799",
+      "score": 0.6208749413490295,
+      "entailed": true
+    },
+    {
+      "disease": "allergy",
+      "symptom": "shivering",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "24270900",
+      "score": 0.647067129611969,
+      "entailed": true
+    },
+    {
+      "disease": "allergy",
+      "symptom": "chills",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32663912",
+      "score": 0.13238418102264404,
+      "entailed": false
+    },
+    {
+      "disease": "gerd",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "27261898",
+      "score": 0.8961418271064758,
+      "entailed": true
+    },
+    {
+      "disease": "gerd",
+      "symptom": "cough",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36283869",
+      "score": 0.011273958720266819,
+      "entailed": false
+    },
+    {
+      "disease": "gerd",
+      "symptom": "acidity",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28375448",
+      "score": 0.7053795456886292,
+      "entailed": true
+    },
+    {
+      "disease": "gerd",
+      "symptom": "chest pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35123084",
+      "score": 0.5796468257904053,
+      "entailed": true
+    },
+    {
+      "disease": "gerd",
+      "symptom": "ulcers on tongue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29480863",
+      "score": 0.05745011940598488,
+      "entailed": false
+    },
+    {
+      "disease": "chronic cholestasis",
+      "symptom": "itching",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39216494",
+      "score": 0.0044479528442025185,
+      "entailed": false
+    },
+    {
+      "disease": "chronic cholestasis",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37962077",
+      "score": 0.0012252884916961193,
+      "entailed": false
+    },
+    {
+      "disease": "chronic cholestasis",
+      "symptom": "abdominal pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34233488",
+      "score": 0.7661181688308716,
+      "entailed": true
+    },
+    {
+      "disease": "chronic cholestasis",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37962077",
+      "score": 0.0014302859781309962,
+      "entailed": false
+    },
+    {
+      "disease": "chronic cholestasis",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40944111",
+      "score": 0.02474484220147133,
+      "entailed": false
+    },
+    {
+      "disease": "drug reaction",
+      "symptom": "skin rash",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35176506",
+      "score": 0.288069486618042,
+      "entailed": false
+    },
+    {
+      "disease": "drug reaction",
+      "symptom": "itching",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35084797",
+      "score": 0.7050064206123352,
+      "entailed": true
+    },
+    {
+      "disease": "drug reaction",
+      "symptom": "stomach pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32203698",
+      "score": 0.0045154825784265995,
+      "entailed": false
+    },
+    {
+      "disease": "drug reaction",
+      "symptom": "spotting  urination",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36869170",
+      "score": 0.24311505258083344,
+      "entailed": false
+    },
+    {
+      "disease": "drug reaction",
+      "symptom": "burning micturition",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37885390",
+      "score": 0.0028939147014170885,
+      "entailed": false
+    },
+    {
+      "disease": "aids",
+      "symptom": "muscle wasting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35302338",
+      "score": 0.01654248870909214,
+      "entailed": false
+    },
+    {
+      "disease": "aids",
+      "symptom": "patches in throat",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39754381",
+      "score": 0.11489217728376389,
+      "entailed": false
+    },
+    {
+      "disease": "aids",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37232940",
+      "score": 0.13558584451675415,
+      "entailed": false
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "lethargy",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "27887750",
+      "score": 0.7254573106765747,
+      "entailed": true
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "blurred and distorted vision",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37020489",
+      "score": 0.001785420230589807,
+      "entailed": false
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "irregular sugar level",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34182231",
+      "score": 0.08566676080226898,
+      "entailed": false
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "restlessness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35689720",
+      "score": 0.07856739312410355,
+      "entailed": false
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "increased appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34672967",
+      "score": 0.0021025873720645905,
+      "entailed": false
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "20630261",
+      "score": 0.93140709400177,
+      "entailed": true
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "polyuria",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35771962",
+      "score": 0.940667986869812,
+      "entailed": true
+    },
+    {
+      "disease": "diabetes",
+      "symptom": "obesity",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35893888",
+      "score": 0.9217689633369446,
+      "entailed": true
+    },
+    {
+      "disease": "gastroenteritis",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28963679",
+      "score": 0.964214026927948,
+      "entailed": true
+    },
+    {
+      "disease": "malaria",
+      "symptom": "headache",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34218833",
+      "score": 0.8084643483161926,
+      "entailed": true
+    },
+    {
+      "disease": "malaria",
+      "symptom": "muscle pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40425003",
+      "score": 0.09621676802635193,
+      "entailed": false
+    },
+    {
+      "disease": "malaria",
+      "symptom": "sweating",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37415760",
+      "score": 0.42014750838279724,
+      "entailed": false
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "skin rash",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36718910",
+      "score": 0.5315667390823364,
+      "entailed": true
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "itching",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37715705",
+      "score": 0.8709446787834167,
+      "entailed": true
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "6276348",
+      "score": 0.0016247883904725313,
+      "entailed": false
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34806766",
+      "score": 0.0055551384575665,
+      "entailed": false
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "lethargy",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "15054573",
+      "score": 0.01331822294741869,
+      "entailed": false
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38838170",
+      "score": 0.033649783581495285,
+      "entailed": false
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "headache",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "41018329",
+      "score": 0.9524599313735962,
+      "entailed": true
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "malaise",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40801156",
+      "score": 0.0423247255384922,
+      "entailed": false
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "mild fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40066307",
+      "score": 0.03177972510457039,
+      "entailed": false
+    },
+    {
+      "disease": "chicken pox",
+      "symptom": "swelled lymph nodes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "15054573",
+      "score": 0.012413300573825836,
+      "entailed": false
+    },
+    {
+      "disease": "dengue",
+      "symptom": "skin rash",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30997892",
+      "score": 0.9207016229629517,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "chills",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35057590",
+      "score": 0.3171154260635376,
+      "entailed": false
+    },
+    {
+      "disease": "dengue",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34627388",
+      "score": 0.5285018086433411,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40587449",
+      "score": 0.6573036313056946,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "24504142",
+      "score": 0.8551114201545715,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38017595",
+      "score": 0.8969399929046631,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "33099653",
+      "score": 0.9291473627090454,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "headache",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38196945",
+      "score": 0.9209156632423401,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "back pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38507814",
+      "score": 0.7784554362297058,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "muscle pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38017595",
+      "score": 0.6651075482368469,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "malaise",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39893629",
+      "score": 0.454979807138443,
+      "entailed": false
+    },
+    {
+      "disease": "dengue",
+      "symptom": "joint pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38017595",
+      "score": 0.811618447303772,
+      "entailed": true
+    },
+    {
+      "disease": "dengue",
+      "symptom": "pain behind the eyes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36428031",
+      "score": 0.8807347416877747,
+      "entailed": true
+    },
+    {
+      "disease": "typhoid",
+      "symptom": "chills",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32728320",
+      "score": 0.16796496510505676,
+      "entailed": false
+    },
+    {
+      "disease": "typhoid",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "25819116",
+      "score": 0.4426913559436798,
+      "entailed": false
+    },
+    {
+      "disease": "typhoid",
+      "symptom": "abdominal pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "21045376",
+      "score": 0.8751872777938843,
+      "entailed": true
+    },
+    {
+      "disease": "typhoid",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "25819116",
+      "score": 0.30004915595054626,
+      "entailed": false
+    },
+    {
+      "disease": "typhoid",
+      "symptom": "headache",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40914181",
+      "score": 0.5771176218986511,
+      "entailed": true
+    },
+    {
+      "disease": "typhoid",
+      "symptom": "constipation",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34927711",
+      "score": 0.28835412859916687,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34221712",
+      "score": 0.13480280339717865,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "abdominal pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40062221",
+      "score": 0.12424996495246887,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "yellowish skin",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34507614",
+      "score": 0.7866154313087463,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "yellowing of eyes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34667938",
+      "score": 0.8318483829498291,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34221712",
+      "score": 0.24441789090633392,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32389358",
+      "score": 0.0016586753772571683,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "diarrhoea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "1475999",
+      "score": 0.17921361327171326,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "dark urine",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34221712",
+      "score": 0.2847289741039276,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "muscle pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40420466",
+      "score": 0.5369395613670349,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "mild fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "9854014",
+      "score": 0.36469098925590515,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis a",
+      "symptom": "joint pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "31128586",
+      "score": 0.04136696830391884,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "itching",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29265072",
+      "score": 0.47244539856910706,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "abdominal pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36968922",
+      "score": 0.6340506672859192,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "yellowish skin",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36968922",
+      "score": 0.6616085767745972,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "yellowing of eyes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "20329609",
+      "score": 0.1698445826768875,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29551632",
+      "score": 0.26130566000938416,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "lethargy",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "2295547",
+      "score": 0.9013386368751526,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36346079",
+      "score": 0.002802539151161909,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "dark urine",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "20387772",
+      "score": 0.7168232202529907,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "malaise",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37304244",
+      "score": 0.9028059840202332,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "receiving blood transfusion",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30912100",
+      "score": 0.44169655442237854,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis b",
+      "symptom": "yellow urine",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "17058826",
+      "score": 0.5844414830207825,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis c",
+      "symptom": "yellowish skin",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36968922",
+      "score": 0.6215991377830505,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis c",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35431515",
+      "score": 0.7152122855186462,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis c",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30538845",
+      "score": 0.001980077475309372,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis c",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29931590",
+      "score": 0.8113343119621277,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis c",
+      "symptom": "family history",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "31241295",
+      "score": 0.9148123860359192,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis d",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "1535112",
+      "score": 0.3094070851802826,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis d",
+      "symptom": "abdominal pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37345876",
+      "score": 0.0032541179098188877,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis d",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40622663",
+      "score": 0.005489164497703314,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis d",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40622663",
+      "score": 0.0008280629990622401,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis d",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40622663",
+      "score": 0.637079119682312,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis d",
+      "symptom": "joint pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40622663",
+      "score": 0.002716815797612071,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35431515",
+      "score": 0.8904308080673218,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "abdominal pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37223867",
+      "score": 0.47770488262176514,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "yellowish skin",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36968922",
+      "score": 0.49154168367385864,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "yellowing of eyes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "25996097",
+      "score": 0.9090218544006348,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35431515",
+      "score": 0.829044759273529,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39035188",
+      "score": 0.7193537950515747,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35573531",
+      "score": 0.4152267873287201,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37223867",
+      "score": 0.32788118720054626,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "dark urine",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38584892",
+      "score": 0.7639938592910767,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "joint pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39143435",
+      "score": 0.02737514302134514,
+      "entailed": false
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "coma",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34804613",
+      "score": 0.8007424473762512,
+      "entailed": true
+    },
+    {
+      "disease": "hepatitis e",
+      "symptom": "acute liver failure",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "33071523",
+      "score": 0.7300828099250793,
+      "entailed": true
+    },
+    {
+      "disease": "alcoholic hepatitis",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28075092",
+      "score": 0.5671917200088501,
+      "entailed": true
+    },
+    {
+      "disease": "alcoholic hepatitis",
+      "symptom": "history of alcohol consumption",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "31496843",
+      "score": 0.9886826872825623,
+      "entailed": true
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "chills",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39333984",
+      "score": 0.011151199229061604,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40522647",
+      "score": 0.24509957432746887,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "cough",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39217183",
+      "score": 0.8606564998626709,
+      "entailed": true
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "chest pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38490237",
+      "score": 0.16980968415737152,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "yellowing of eyes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "27888495",
+      "score": 0.4434111714363098,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "loss of appetite",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32814966",
+      "score": 0.49114522337913513,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "25401489",
+      "score": 0.9258006811141968,
+      "entailed": true
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "weight loss",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "10083790",
+      "score": 0.8498167991638184,
+      "entailed": true
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40522647",
+      "score": 0.46488431096076965,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "breathlessness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26790716",
+      "score": 0.0158481877297163,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "sweating",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30700939",
+      "score": 0.6233124732971191,
+      "entailed": true
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "malaise",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28281443",
+      "score": 0.9082980751991272,
+      "entailed": true
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "mild fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28043486",
+      "score": 0.44490382075309753,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "swelled lymph nodes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30349336",
+      "score": 0.47809356451034546,
+      "entailed": false
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "blood in sputum",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40203083",
+      "score": 0.6040041446685791,
+      "entailed": true
+    },
+    {
+      "disease": "tuberculosis",
+      "symptom": "phlegm",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26963306",
+      "score": 0.9259141087532043,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "continuous sneezing",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "14726904",
+      "score": 0.003766923677176237,
+      "entailed": false
+    },
+    {
+      "disease": "common cold",
+      "symptom": "chills",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "12357708",
+      "score": 0.9465909004211426,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "cough",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "16428695",
+      "score": 0.9608702659606934,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "chest pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29145288",
+      "score": 0.6264136433601379,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26785402",
+      "score": 0.008382046595215797,
+      "entailed": false
+    },
+    {
+      "disease": "common cold",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34067981",
+      "score": 0.7593854665756226,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "headache",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "33529514",
+      "score": 0.4771507680416107,
+      "entailed": false
+    },
+    {
+      "disease": "common cold",
+      "symptom": "muscle pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30865998",
+      "score": 0.5538159608840942,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "malaise",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28516442",
+      "score": 0.5069833993911743,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "swelled lymph nodes",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29217910",
+      "score": 0.866823136806488,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "phlegm",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "16428698",
+      "score": 0.5748481750488281,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "loss of smell",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32748211",
+      "score": 0.9321539402008057,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "sinus pressure",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "12930012",
+      "score": 0.32858967781066895,
+      "entailed": false
+    },
+    {
+      "disease": "common cold",
+      "symptom": "runny nose",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28516442",
+      "score": 0.9662349224090576,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "congestion",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35060618",
+      "score": 0.602827787399292,
+      "entailed": true
+    },
+    {
+      "disease": "common cold",
+      "symptom": "throat irritation",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28650326",
+      "score": 0.9284642934799194,
+      "entailed": true
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "chills",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "6767579",
+      "score": 0.6322099566459656,
+      "entailed": true
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "cough",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37889830",
+      "score": 0.9484754204750061,
+      "entailed": true
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "chest pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28763554",
+      "score": 0.004696167539805174,
+      "entailed": false
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38043865",
+      "score": 0.1956564486026764,
+      "entailed": false
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35409591",
+      "score": 0.004036631900817156,
+      "entailed": false
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "breathlessness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28763554",
+      "score": 0.0031669344753026962,
+      "entailed": false
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "sweating",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "33898133",
+      "score": 0.16440579295158386,
+      "entailed": false
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "malaise",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32944095",
+      "score": 0.873755156993866,
+      "entailed": true
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "phlegm",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "33522193",
+      "score": 0.5475606918334961,
+      "entailed": true
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "rusty sputum",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29773479",
+      "score": 0.8611772656440735,
+      "entailed": true
+    },
+    {
+      "disease": "pneumonia",
+      "symptom": "fast heart rate",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36639608",
+      "score": 0.0047878697514534,
+      "entailed": false
+    },
+    {
+      "disease": "dimorphic hemmorhoids(piles)",
+      "symptom": "bloody stool",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "19260486",
+      "score": 0.0038488588761538267,
+      "entailed": false
+    },
+    {
+      "disease": "heart attack",
+      "symptom": "sweating",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "25638347",
+      "score": 0.2876659333705902,
+      "entailed": false
+    },
+    {
+      "disease": "varicose veins",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "17653021",
+      "score": 0.3309851884841919,
+      "entailed": false
+    },
+    {
+      "disease": "varicose veins",
+      "symptom": "obesity",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "31150188",
+      "score": 0.6660968661308289,
+      "entailed": true
+    },
+    {
+      "disease": "varicose veins",
+      "symptom": "swollen blood vessels",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38782035",
+      "score": 0.6076015830039978,
+      "entailed": true
+    },
+    {
+      "disease": "varicose veins",
+      "symptom": "swollen legs",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35418769",
+      "score": 0.8056640028953552,
+      "entailed": true
+    },
+    {
+      "disease": "varicose veins",
+      "symptom": "cramps",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36526075",
+      "score": 0.02126084826886654,
+      "entailed": false
+    },
+    {
+      "disease": "varicose veins",
+      "symptom": "bruising",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35949828",
+      "score": 0.862706184387207,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "lethargy",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39368843",
+      "score": 0.9352042078971863,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39368843",
+      "score": 0.883448600769043,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "irritability",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29996755",
+      "score": 0.14996451139450073,
+      "entailed": false
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "depression",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34524390",
+      "score": 0.9280301332473755,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "brittle nails",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "21675503",
+      "score": 0.801426112651825,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "abnormal menstruation",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "10468932",
+      "score": 0.767508864402771,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "weight gain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "39368843",
+      "score": 0.5701026916503906,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "mood swings",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "27592576",
+      "score": 0.8409970998764038,
+      "entailed": true
+    },
+    {
+      "disease": "hypothyroidism",
+      "symptom": "enlarged thyroid",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36428205",
+      "score": 0.015327627770602703,
+      "entailed": false
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "weight loss",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37847271",
+      "score": 0.9051020741462708,
+      "entailed": true
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "excessive hunger",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "10396860",
+      "score": 0.005199875216931105,
+      "entailed": false
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "restlessness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "22931400",
+      "score": 0.535275399684906,
+      "entailed": true
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "40376729",
+      "score": 0.5348176956176758,
+      "entailed": true
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "diarrhoea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37847271",
+      "score": 0.030272221192717552,
+      "entailed": false
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "irritability",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36861168",
+      "score": 0.39221376180648804,
+      "entailed": false
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "sweating",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "31577260",
+      "score": 0.6225231885910034,
+      "entailed": true
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "fast heart rate",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "32206604",
+      "score": 0.013332207687199116,
+      "entailed": false
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "abnormal menstruation",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "41528831",
+      "score": 0.4684925973415375,
+      "entailed": false
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "mood swings",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "12693723",
+      "score": 0.6319394707679749,
+      "entailed": true
+    },
+    {
+      "disease": "hyperthyroidism",
+      "symptom": "muscle weakness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36254023",
+      "score": 0.9800057411193848,
+      "entailed": true
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37786396",
+      "score": 0.00249558431096375,
+      "entailed": false
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34170647",
+      "score": 0.003935732413083315,
+      "entailed": false
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "excessive hunger",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "25317264",
+      "score": 0.8279310464859009,
+      "entailed": true
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "fatigue",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30740406",
+      "score": 0.9417949318885803,
+      "entailed": true
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "headache",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "42462850",
+      "score": 0.9804579615592957,
+      "entailed": true
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "irritability",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "31792941",
+      "score": 0.5796290636062622,
+      "entailed": true
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "sweating",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36843590",
+      "score": 0.5854199528694153,
+      "entailed": true
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "palpitations",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "42009219",
+      "score": 0.41181179881095886,
+      "entailed": false
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "slurred speech",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26535131",
+      "score": 0.9423551559448242,
+      "entailed": true
+    },
+    {
+      "disease": "hypoglycemia",
+      "symptom": "anxiety",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37115176",
+      "score": 0.8391011357307434,
+      "entailed": true
+    },
+    {
+      "disease": "arthritis",
+      "symptom": "stiff neck",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37941854",
+      "score": 0.4886549711227417,
+      "entailed": false
+    },
+    {
+      "disease": "arthritis",
+      "symptom": "muscle weakness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "34916210",
+      "score": 0.8220624327659607,
+      "entailed": true
+    },
+    {
+      "disease": "arthritis",
+      "symptom": "swelling joints",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29683839",
+      "score": 0.8589571118354797,
+      "entailed": true
+    },
+    {
+      "disease": "arthritis",
+      "symptom": "painful walking",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30967128",
+      "score": 0.6068973541259766,
+      "entailed": true
+    },
+    {
+      "disease": "arthritis",
+      "symptom": "movement stiffness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "33560326",
+      "score": 0.8865503072738647,
+      "entailed": true
+    },
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "symptom": "vomiting",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "35723133",
+      "score": 0.03690661862492561,
+      "entailed": false
+    },
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "symptom": "nausea",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "37358870",
+      "score": 0.00274382415227592,
+      "entailed": false
+    },
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "symptom": "loss of balance",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28145669",
+      "score": 0.16487549245357513,
+      "entailed": false
+    },
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "symptom": "headache",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38619053",
+      "score": 0.01634194329380989,
+      "entailed": false
+    },
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "symptom": "spinning movements",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29036855",
+      "score": 0.4094173014163971,
+      "entailed": false
+    },
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "symptom": "unsteadiness",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "29036855",
+      "score": 0.3100109100341797,
+      "entailed": false
+    },
+    {
+      "disease": "acne",
+      "symptom": "skin rash",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30560109",
+      "score": 0.24648235738277435,
+      "entailed": false
+    },
+    {
+      "disease": "acne",
+      "symptom": "scurring",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38241449",
+      "score": 0.008269610814750195,
+      "entailed": false
+    },
+    {
+      "disease": "acne",
+      "symptom": "blackheads",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38140770",
+      "score": 0.9634860754013062,
+      "entailed": true
+    },
+    {
+      "disease": "urinary tract infection",
+      "symptom": "burning micturition",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "36041061",
+      "score": 0.0036081757862120867,
+      "entailed": false
+    },
+    {
+      "disease": "urinary tract infection",
+      "symptom": "foul smell of urine",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "30445422",
+      "score": 0.9105952382087708,
+      "entailed": true
+    },
+    {
+      "disease": "urinary tract infection",
+      "symptom": "continuous feel of urine",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "28766094",
+      "score": 0.3792433440685272,
+      "entailed": false
+    },
+    {
+      "disease": "psoriasis",
+      "symptom": "skin rash",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "27900946",
+      "score": 0.9577679634094238,
+      "entailed": true
+    },
+    {
+      "disease": "psoriasis",
+      "symptom": "joint pain",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38054800",
+      "score": 0.413440465927124,
+      "entailed": false
+    },
+    {
+      "disease": "psoriasis",
+      "symptom": "inflammatory nails",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "38105636",
+      "score": 0.8204950094223022,
+      "entailed": true
+    },
+    {
+      "disease": "psoriasis",
+      "symptom": "skin peeling",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "41400370",
+      "score": 0.6943463683128357,
+      "entailed": true
+    },
+    {
+      "disease": "impetigo",
+      "symptom": "skin rash",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26280141",
+      "score": 0.9456004500389099,
+      "entailed": true
+    },
+    {
+      "disease": "impetigo",
+      "symptom": "high fever",
+      "source": "DiseaseAndSymptoms",
+      "pmid": "26280141",
+      "score": 0.9208327531814575,
+      "entailed": true
+    },
+    {
+      "disease": "acute flaccid myelitis",
+      "symptom": "leg weakness",
+      "source": "MedlinePlus",
+      "pmid": "34823462",
+      "score": 0.6608033776283264,
+      "entailed": true
+    },
+    {
+      "disease": "acute flaccid myelitis",
+      "symptom": "arm weakness",
+      "source": "MedlinePlus",
+      "pmid": "34175008",
+      "score": 0.008505333214998245,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "abdominal pain",
+      "source": "MedlinePlus",
+      "pmid": "40842042",
+      "score": 0.00990429986268282,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "loss of appetite",
+      "source": "MedlinePlus",
+      "pmid": "26172008",
+      "score": 0.4997110366821289,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "38652494",
+      "score": 0.850694477558136,
+      "entailed": true
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "38519964",
+      "score": 0.8514827489852905,
+      "entailed": true
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "petechiae",
+      "source": "MedlinePlus",
+      "pmid": "33810369",
+      "score": 0.013838676735758781,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "easy bruising",
+      "source": "MedlinePlus",
+      "pmid": "36331249",
+      "score": 0.0019452336709946394,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "38926954",
+      "score": 0.2404775619506836,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "swollen lymph nodes",
+      "source": "MedlinePlus",
+      "pmid": "30620703",
+      "score": 0.024413052946329117,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "easy bleeding",
+      "source": "MedlinePlus",
+      "pmid": "36331249",
+      "score": 0.0038114695344120264,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "frequent infections",
+      "source": "MedlinePlus",
+      "pmid": "41363805",
+      "score": 0.0736248567700386,
+      "entailed": false
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "37768027",
+      "score": 0.6288647651672363,
+      "entailed": true
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "bone pain",
+      "source": "MedlinePlus",
+      "pmid": "32258824",
+      "score": 0.5669421553611755,
+      "entailed": true
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "weakness",
+      "source": "MedlinePlus",
+      "pmid": "29234981",
+      "score": 0.8760708570480347,
+      "entailed": true
+    },
+    {
+      "disease": "acute lymphocytic leukemia",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "27621914",
+      "score": 0.8357919454574585,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "loss of appetite",
+      "source": "MedlinePlus",
+      "pmid": "40544958",
+      "score": 0.5592544078826904,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "41287669",
+      "score": 0.8129875659942627,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "30361262",
+      "score": 0.13728421926498413,
+      "entailed": false
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "joint pain",
+      "source": "MedlinePlus",
+      "pmid": "39121277",
+      "score": 0.7896197438240051,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "petechiae",
+      "source": "MedlinePlus",
+      "pmid": "39233385",
+      "score": 0.8208345174789429,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "easy bruising",
+      "source": "MedlinePlus",
+      "pmid": "30422740",
+      "score": 0.7333607077598572,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "32892669",
+      "score": 0.9602031111717224,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "easy bleeding",
+      "source": "MedlinePlus",
+      "pmid": "9643577",
+      "score": 0.5920461416244507,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "39121277",
+      "score": 0.791337788105011,
+      "entailed": true
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "bone pain",
+      "source": "MedlinePlus",
+      "pmid": "38447622",
+      "score": 0.06269229203462601,
+      "entailed": false
+    },
+    {
+      "disease": "acute myeloid leukemia",
+      "symptom": "weakness",
+      "source": "MedlinePlus",
+      "pmid": "38546675",
+      "score": 0.7392525672912598,
+      "entailed": true
+    },
+    {
+      "disease": "anal cancer",
+      "symptom": "anal pain",
+      "source": "MedlinePlus",
+      "pmid": "27468181",
+      "score": 0.6604992747306824,
+      "entailed": true
+    },
+    {
+      "disease": "anal cancer",
+      "symptom": "rectal bleeding",
+      "source": "MedlinePlus",
+      "pmid": "27468181",
+      "score": 0.7506298422813416,
+      "entailed": true
+    },
+    {
+      "disease": "anal cancer",
+      "symptom": "anal discharge",
+      "source": "MedlinePlus",
+      "pmid": "39900565",
+      "score": 0.8146769404411316,
+      "entailed": true
+    },
+    {
+      "disease": "anal cancer",
+      "symptom": "anal itching",
+      "source": "MedlinePlus",
+      "pmid": "32077979",
+      "score": 0.7036832571029663,
+      "entailed": true
+    },
+    {
+      "disease": "anal cancer",
+      "symptom": "change in bowel habits",
+      "source": "MedlinePlus",
+      "pmid": "30793858",
+      "score": 0.008824620395898819,
+      "entailed": false
+    },
+    {
+      "disease": "anal disorders",
+      "symptom": "itching",
+      "source": "MedlinePlus",
+      "pmid": "26305345",
+      "score": 0.9443010687828064,
+      "entailed": true
+    },
+    {
+      "disease": "anal disorders",
+      "symptom": "bleeding",
+      "source": "MedlinePlus",
+      "pmid": "27468181",
+      "score": 0.9773260951042175,
+      "entailed": true
+    },
+    {
+      "disease": "anal disorders",
+      "symptom": "swelling",
+      "source": "MedlinePlus",
+      "pmid": "26878185",
+      "score": 0.025618180632591248,
+      "entailed": false
+    },
+    {
+      "disease": "anal disorders",
+      "symptom": "pain",
+      "source": "MedlinePlus",
+      "pmid": "35649568",
+      "score": 0.932631254196167,
+      "entailed": true
+    },
+    {
+      "disease": "anxiety",
+      "symptom": "behavioral changes",
+      "source": "MedlinePlus",
+      "pmid": "37840231",
+      "score": 0.3244612216949463,
+      "entailed": false
+    },
+    {
+      "disease": "anxiety",
+      "symptom": "avoidance of activities",
+      "source": "MedlinePlus",
+      "pmid": "41667154",
+      "score": 0.2607608437538147,
+      "entailed": false
+    },
+    {
+      "disease": "aplastic anemia",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "39664132",
+      "score": 0.7752138376235962,
+      "entailed": true
+    },
+    {
+      "disease": "aplastic anemia",
+      "symptom": "dizziness",
+      "source": "MedlinePlus",
+      "pmid": "38185518",
+      "score": 0.32792091369628906,
+      "entailed": false
+    },
+    {
+      "disease": "aplastic anemia",
+      "symptom": "easy bruising",
+      "source": "MedlinePlus",
+      "pmid": "39807462",
+      "score": 0.9537246227264404,
+      "entailed": true
+    },
+    {
+      "disease": "aplastic anemia",
+      "symptom": "easy bleeding",
+      "source": "MedlinePlus",
+      "pmid": "33982136",
+      "score": 0.15907160937786102,
+      "entailed": false
+    },
+    {
+      "disease": "aplastic anemia",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "24520786",
+      "score": 0.7126331925392151,
+      "entailed": true
+    },
+    {
+      "disease": "aplastic anemia",
+      "symptom": "weakness",
+      "source": "MedlinePlus",
+      "pmid": "36826612",
+      "score": 0.6081390976905823,
+      "entailed": true
+    },
+    {
+      "disease": "bipolar disorder",
+      "symptom": "irritability",
+      "source": "MedlinePlus",
+      "pmid": "41135771",
+      "score": 0.8199191689491272,
+      "entailed": true
+    },
+    {
+      "disease": "bipolar disorder",
+      "symptom": "increased energy",
+      "source": "MedlinePlus",
+      "pmid": "32479323",
+      "score": 0.9397026300430298,
+      "entailed": true
+    },
+    {
+      "disease": "bipolar disorder",
+      "symptom": "rapid speech",
+      "source": "MedlinePlus",
+      "pmid": "30721526",
+      "score": 0.009457269683480263,
+      "entailed": false
+    },
+    {
+      "disease": "bipolar disorder",
+      "symptom": "racing thoughts",
+      "source": "MedlinePlus",
+      "pmid": "31129462",
+      "score": 0.9448317289352417,
+      "entailed": true
+    },
+    {
+      "disease": "bipolar disorder",
+      "symptom": "decreased need for sleep",
+      "source": "MedlinePlus",
+      "pmid": "30818134",
+      "score": 0.8668010830879211,
+      "entailed": true
+    },
+    {
+      "disease": "bipolar disorder",
+      "symptom": "grandiosity",
+      "source": "MedlinePlus",
+      "pmid": "33673356",
+      "score": 0.6214781999588013,
+      "entailed": true
+    },
+    {
+      "disease": "bipolar disorder",
+      "symptom": "elevated mood",
+      "source": "MedlinePlus",
+      "pmid": "37045450",
+      "score": 0.9596571922302246,
+      "entailed": true
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "vomiting",
+      "source": "MedlinePlus",
+      "pmid": "34179742",
+      "score": 0.018328888341784477,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "28159870",
+      "score": 0.7974728345870972,
+      "entailed": true
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "abdominal pain",
+      "source": "MedlinePlus",
+      "pmid": "36849315",
+      "score": 0.8000931143760681,
+      "entailed": true
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "nausea",
+      "source": "MedlinePlus",
+      "pmid": "34179742",
+      "score": 0.014824132435023785,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "sweating",
+      "source": "MedlinePlus",
+      "pmid": "32329011",
+      "score": 0.0030877862591296434,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "41171226",
+      "score": 0.8600077033042908,
+      "entailed": true
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "rapid breathing",
+      "source": "MedlinePlus",
+      "pmid": "27885969",
+      "score": 0.012862318195402622,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "sudden headache",
+      "source": "MedlinePlus",
+      "pmid": "28043726",
+      "score": 0.1628008335828781,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "limb warmth",
+      "source": "MedlinePlus",
+      "pmid": "27129065",
+      "score": 0.014382937923073769,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "limb swelling",
+      "source": "MedlinePlus",
+      "pmid": "33141212",
+      "score": 0.3088197410106659,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "rapid heart rate",
+      "source": "MedlinePlus",
+      "pmid": "37788395",
+      "score": 0.01004623994231224,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "limb pain",
+      "source": "MedlinePlus",
+      "pmid": "37680629",
+      "score": 0.9117913246154785,
+      "entailed": true
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "vision problems",
+      "source": "MedlinePlus",
+      "pmid": "34688699",
+      "score": 0.00545851094648242,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "one sided weakness",
+      "source": "MedlinePlus",
+      "pmid": "36923779",
+      "score": 0.022350529208779335,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "limb tenderness",
+      "source": "MedlinePlus",
+      "pmid": "40952730",
+      "score": 0.4390210211277008,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "speech difficulty",
+      "source": "MedlinePlus",
+      "pmid": "39840204",
+      "score": 0.13619504868984222,
+      "entailed": false
+    },
+    {
+      "disease": "blood clots",
+      "symptom": "seizures",
+      "source": "MedlinePlus",
+      "pmid": "38284265",
+      "score": 0.3185781240463257,
+      "entailed": false
+    },
+    {
+      "disease": "breast cancer",
+      "symptom": "breast lump",
+      "source": "MedlinePlus",
+      "pmid": "9484272",
+      "score": 0.7650225758552551,
+      "entailed": true
+    },
+    {
+      "disease": "breast cancer",
+      "symptom": "breast dimpling",
+      "source": "MedlinePlus",
+      "pmid": "37147506",
+      "score": 0.8690415024757385,
+      "entailed": true
+    },
+    {
+      "disease": "breast cancer",
+      "symptom": "breast skin changes",
+      "source": "MedlinePlus",
+      "pmid": "35682472",
+      "score": 0.7874888181686401,
+      "entailed": true
+    },
+    {
+      "disease": "breast cancer",
+      "symptom": "breast pain",
+      "source": "MedlinePlus",
+      "pmid": "39665649",
+      "score": 0.004089755471795797,
+      "entailed": false
+    },
+    {
+      "disease": "breast cancer",
+      "symptom": "change in breast size",
+      "source": "MedlinePlus",
+      "pmid": "34075766",
+      "score": 0.8196350932121277,
+      "entailed": true
+    },
+    {
+      "disease": "breast cancer",
+      "symptom": "nipple discharge",
+      "source": "MedlinePlus",
+      "pmid": "27501708",
+      "score": 0.9230605363845825,
+      "entailed": true
+    },
+    {
+      "disease": "breast cancer",
+      "symptom": "inverted nipple",
+      "source": "MedlinePlus",
+      "pmid": "36820864",
+      "score": 0.6575027108192444,
+      "entailed": true
+    },
+    {
+      "disease": "breast diseases",
+      "symptom": "breast lump",
+      "source": "MedlinePlus",
+      "pmid": "28835430",
+      "score": 0.8493320345878601,
+      "entailed": true
+    },
+    {
+      "disease": "breast diseases",
+      "symptom": "breast skin changes",
+      "source": "MedlinePlus",
+      "pmid": "28492938",
+      "score": 0.24901509284973145,
+      "entailed": false
+    },
+    {
+      "disease": "breast diseases",
+      "symptom": "change in breast shape",
+      "source": "MedlinePlus",
+      "pmid": "41092928",
+      "score": 0.002380938967689872,
+      "entailed": false
+    },
+    {
+      "disease": "cancer",
+      "symptom": "breast lump",
+      "source": "MedlinePlus",
+      "pmid": "39013811",
+      "score": 0.5068033933639526,
+      "entailed": true
+    },
+    {
+      "disease": "cancer",
+      "symptom": "unexplained bleeding",
+      "source": "MedlinePlus",
+      "pmid": "40665751",
+      "score": 0.9341002702713013,
+      "entailed": true
+    },
+    {
+      "disease": "cancer",
+      "symptom": "non healing sore",
+      "source": "MedlinePlus",
+      "pmid": "29235378",
+      "score": 0.008210058324038982,
+      "entailed": false
+    },
+    {
+      "disease": "cancer",
+      "symptom": "mole changes",
+      "source": "MedlinePlus",
+      "pmid": "27759434",
+      "score": 0.0043641203083097935,
+      "entailed": false
+    },
+    {
+      "disease": "cancer",
+      "symptom": "blood in urine",
+      "source": "MedlinePlus",
+      "pmid": "40698358",
+      "score": 0.8726758360862732,
+      "entailed": true
+    },
+    {
+      "disease": "cancer",
+      "symptom": "blood in stool",
+      "source": "MedlinePlus",
+      "pmid": "39137727",
+      "score": 0.07148782163858414,
+      "entailed": false
+    },
+    {
+      "disease": "cancer",
+      "symptom": "unexplained bruising",
+      "source": "MedlinePlus",
+      "pmid": "27647842",
+      "score": 0.06753183156251907,
+      "entailed": false
+    },
+    {
+      "disease": "cancer",
+      "symptom": "difficulty swallowing",
+      "source": "MedlinePlus",
+      "pmid": "37303210",
+      "score": 0.8256287574768066,
+      "entailed": true
+    },
+    {
+      "disease": "cervical cancer",
+      "symptom": "abnormal vaginal discharge",
+      "source": "MedlinePlus",
+      "pmid": "33706721",
+      "score": 0.831089437007904,
+      "entailed": true
+    },
+    {
+      "disease": "cervical cancer",
+      "symptom": "abnormal vaginal bleeding",
+      "source": "MedlinePlus",
+      "pmid": "34229672",
+      "score": 0.5153734087944031,
+      "entailed": true
+    },
+    {
+      "disease": "cervical cancer",
+      "symptom": "pelvic pain",
+      "source": "MedlinePlus",
+      "pmid": "38783273",
+      "score": 0.9312734007835388,
+      "entailed": true
+    },
+    {
+      "disease": "cervical cancer",
+      "symptom": "pain during sex",
+      "source": "MedlinePlus",
+      "pmid": "36207568",
+      "score": 0.20954470336437225,
+      "entailed": false
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "vomiting",
+      "source": "MedlinePlus",
+      "pmid": "36002604",
+      "score": 0.003464366775006056,
+      "entailed": false
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "loss of appetite",
+      "source": "MedlinePlus",
+      "pmid": "29412311",
+      "score": 0.4571121633052826,
+      "entailed": false
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "32228417",
+      "score": 0.2821701765060425,
+      "entailed": false
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "headache",
+      "source": "MedlinePlus",
+      "pmid": "34368188",
+      "score": 0.4355836510658264,
+      "entailed": false
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "34368188",
+      "score": 0.6376921534538269,
+      "entailed": true
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "body aches",
+      "source": "MedlinePlus",
+      "pmid": "30169645",
+      "score": 0.30465373396873474,
+      "entailed": false
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "rash",
+      "source": "MedlinePlus",
+      "pmid": "33305846",
+      "score": 0.009550224989652634,
+      "entailed": false
+    },
+    {
+      "disease": "chagas disease",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "37327016",
+      "score": 0.9376325011253357,
+      "entailed": true
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "loss of appetite",
+      "source": "MedlinePlus",
+      "pmid": "27647842",
+      "score": 0.002372629940509796,
+      "entailed": false
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "38652494",
+      "score": 0.8935218453407288,
+      "entailed": true
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "36148187",
+      "score": 0.23316630721092224,
+      "entailed": false
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "petechiae",
+      "source": "MedlinePlus",
+      "pmid": "27647842",
+      "score": 0.20547068119049072,
+      "entailed": false
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "easy bruising",
+      "source": "MedlinePlus",
+      "pmid": "25237325",
+      "score": 0.9672987461090088,
+      "entailed": true
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "36148187",
+      "score": 0.6852675676345825,
+      "entailed": true
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "easy bleeding",
+      "source": "MedlinePlus",
+      "pmid": "25237325",
+      "score": 0.9496501088142395,
+      "entailed": true
+    },
+    {
+      "disease": "childhood leukemia",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "9880449",
+      "score": 0.7200747728347778,
+      "entailed": true
+    },
+    {
+      "disease": "chronic bronchitis",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "39557293",
+      "score": 0.009040660224854946,
+      "entailed": false
+    },
+    {
+      "disease": "chronic bronchitis",
+      "symptom": "mucus producing cough",
+      "source": "MedlinePlus",
+      "pmid": "37942820",
+      "score": 0.9396248459815979,
+      "entailed": true
+    },
+    {
+      "disease": "chronic bronchitis",
+      "symptom": "chest tightness",
+      "source": "MedlinePlus",
+      "pmid": "42511891",
+      "score": 0.040174007415771484,
+      "entailed": false
+    },
+    {
+      "disease": "chronic bronchitis",
+      "symptom": "frequent cough",
+      "source": "MedlinePlus",
+      "pmid": "31212350",
+      "score": 0.7877302765846252,
+      "entailed": true
+    },
+    {
+      "disease": "chronic bronchitis",
+      "symptom": "wheezing",
+      "source": "MedlinePlus",
+      "pmid": "29206552",
+      "score": 0.9688474535942078,
+      "entailed": true
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "36943212",
+      "score": 0.7381681799888611,
+      "entailed": true
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "26639149",
+      "score": 0.0028007030487060547,
+      "entailed": false
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "petechiae",
+      "source": "MedlinePlus",
+      "pmid": "27040709",
+      "score": 0.002326538087800145,
+      "entailed": false
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "easy bruising",
+      "source": "MedlinePlus",
+      "pmid": "36331249",
+      "score": 0.0021577957086265087,
+      "entailed": false
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "36943212",
+      "score": 0.7163349986076355,
+      "entailed": true
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "swollen lymph nodes",
+      "source": "MedlinePlus",
+      "pmid": "36943212",
+      "score": 0.0088567603379488,
+      "entailed": false
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "easy bleeding",
+      "source": "MedlinePlus",
+      "pmid": "36331249",
+      "score": 0.003985872492194176,
+      "entailed": false
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "weakness",
+      "source": "MedlinePlus",
+      "pmid": "39213466",
+      "score": 0.052588798105716705,
+      "entailed": false
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "36943212",
+      "score": 0.6840914487838745,
+      "entailed": true
+    },
+    {
+      "disease": "chronic lymphocytic leukemia",
+      "symptom": "abdominal fullness",
+      "source": "MedlinePlus",
+      "pmid": "2287070",
+      "score": 0.7535022497177124,
+      "entailed": true
+    },
+    {
+      "disease": "chronic myeloid leukemia",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "39802596",
+      "score": 0.672200083732605,
+      "entailed": true
+    },
+    {
+      "disease": "chronic myeloid leukemia",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "32782768",
+      "score": 0.624748706817627,
+      "entailed": true
+    },
+    {
+      "disease": "chronic myeloid leukemia",
+      "symptom": "abdominal fullness",
+      "source": "MedlinePlus",
+      "pmid": "26297263",
+      "score": 0.46340158581733704,
+      "entailed": false
+    },
+    {
+      "disease": "colorectal cancer",
+      "symptom": "constipation",
+      "source": "MedlinePlus",
+      "pmid": "34238248",
+      "score": 0.249867245554924,
+      "entailed": false
+    },
+    {
+      "disease": "colorectal cancer",
+      "symptom": "change in bowel habits",
+      "source": "MedlinePlus",
+      "pmid": "38372944",
+      "score": 0.748490571975708,
+      "entailed": true
+    },
+    {
+      "disease": "colorectal cancer",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "41053591",
+      "score": 0.9382187128067017,
+      "entailed": true
+    },
+    {
+      "disease": "colorectal cancer",
+      "symptom": "narrow stool",
+      "source": "MedlinePlus",
+      "pmid": "41994658",
+      "score": 0.6617093682289124,
+      "entailed": true
+    },
+    {
+      "disease": "colorectal cancer",
+      "symptom": "incomplete bowel emptying",
+      "source": "MedlinePlus",
+      "pmid": "37505437",
+      "score": 0.005348052829504013,
+      "entailed": false
+    },
+    {
+      "disease": "crohns disease",
+      "symptom": "abdominal pain",
+      "source": "MedlinePlus",
+      "pmid": "34844288",
+      "score": 0.960494875907898,
+      "entailed": true
+    },
+    {
+      "disease": "crohns disease",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "35883220",
+      "score": 0.7017731666564941,
+      "entailed": true
+    },
+    {
+      "disease": "crohns disease",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "28601423",
+      "score": 0.8271350264549255,
+      "entailed": true
+    },
+    {
+      "disease": "crohns disease",
+      "symptom": "abdominal cramping",
+      "source": "MedlinePlus",
+      "pmid": "27359251",
+      "score": 0.034048810601234436,
+      "entailed": false
+    },
+    {
+      "disease": "cryptosporidiosis",
+      "symptom": "vomiting",
+      "source": "MedlinePlus",
+      "pmid": "25252476",
+      "score": 0.2574866712093353,
+      "entailed": false
+    },
+    {
+      "disease": "cryptosporidiosis",
+      "symptom": "nausea",
+      "source": "MedlinePlus",
+      "pmid": "18219083",
+      "score": 0.7383000254631042,
+      "entailed": true
+    },
+    {
+      "disease": "cryptosporidiosis",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "36355894",
+      "score": 0.6639047861099243,
+      "entailed": true
+    },
+    {
+      "disease": "cryptosporidiosis",
+      "symptom": "dehydration",
+      "source": "MedlinePlus",
+      "pmid": "32277986",
+      "score": 0.7180801630020142,
+      "entailed": true
+    },
+    {
+      "disease": "cryptosporidiosis",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "16882300",
+      "score": 0.13961899280548096,
+      "entailed": false
+    },
+    {
+      "disease": "delirium",
+      "symptom": "confusion",
+      "source": "MedlinePlus",
+      "pmid": "38683185",
+      "score": 0.00389502034522593,
+      "entailed": false
+    },
+    {
+      "disease": "delirium",
+      "symptom": "delusions",
+      "source": "MedlinePlus",
+      "pmid": "35603676",
+      "score": 0.9037798643112183,
+      "entailed": true
+    },
+    {
+      "disease": "delirium",
+      "symptom": "sleep disruption",
+      "source": "MedlinePlus",
+      "pmid": "39982143",
+      "score": 0.7498137354850769,
+      "entailed": true
+    },
+    {
+      "disease": "delirium",
+      "symptom": "hallucinations",
+      "source": "MedlinePlus",
+      "pmid": "36866576",
+      "score": 0.92929607629776,
+      "entailed": true
+    },
+    {
+      "disease": "delirium",
+      "symptom": "changing consciousness",
+      "source": "MedlinePlus",
+      "pmid": "40476568",
+      "score": 0.8589069247245789,
+      "entailed": true
+    },
+    {
+      "disease": "delirium",
+      "symptom": "trouble concentrating",
+      "source": "MedlinePlus",
+      "pmid": "40451692",
+      "score": 0.004450234118849039,
+      "entailed": false
+    },
+    {
+      "disease": "delirium",
+      "symptom": "disorganized thinking",
+      "source": "MedlinePlus",
+      "pmid": "29875640",
+      "score": 0.42503219842910767,
+      "entailed": false
+    },
+    {
+      "disease": "delirium",
+      "symptom": "altered alertness",
+      "source": "MedlinePlus",
+      "pmid": "33981143",
+      "score": 0.7866278290748596,
+      "entailed": true
+    },
+    {
+      "disease": "dementia",
+      "symptom": "getting lost",
+      "source": "MedlinePlus",
+      "pmid": "38890607",
+      "score": 0.9433026909828186,
+      "entailed": true
+    },
+    {
+      "disease": "dementia",
+      "symptom": "word finding difficulty",
+      "source": "MedlinePlus",
+      "pmid": "20065792",
+      "score": 0.4845682978630066,
+      "entailed": false
+    },
+    {
+      "disease": "dementia",
+      "symptom": "memory loss",
+      "source": "MedlinePlus",
+      "pmid": "35921394",
+      "score": 0.07102419435977936,
+      "entailed": false
+    },
+    {
+      "disease": "dementia",
+      "symptom": "needing help with daily tasks",
+      "source": "MedlinePlus",
+      "pmid": "40845330",
+      "score": 0.9648739099502563,
+      "entailed": true
+    },
+    {
+      "disease": "dementia",
+      "symptom": "forgetting familiar names",
+      "source": "MedlinePlus",
+      "pmid": "33857770",
+      "score": 0.021290775388479233,
+      "entailed": false
+    },
+    {
+      "disease": "diabetic heart disease",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "37712339",
+      "score": 0.413499116897583,
+      "entailed": false
+    },
+    {
+      "disease": "diabetic heart disease",
+      "symptom": "dizziness",
+      "source": "MedlinePlus",
+      "pmid": "35029940",
+      "score": 0.11778055876493454,
+      "entailed": false
+    },
+    {
+      "disease": "diabetic heart disease",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "32749493",
+      "score": 0.03507491573691368,
+      "entailed": false
+    },
+    {
+      "disease": "diabetic heart disease",
+      "symptom": "swollen feet",
+      "source": "MedlinePlus",
+      "pmid": "39382008",
+      "score": 0.8778775334358215,
+      "entailed": true
+    },
+    {
+      "disease": "diabetic heart disease",
+      "symptom": "arrhythmia",
+      "source": "MedlinePlus",
+      "pmid": "38666446",
+      "score": 0.06355554610490799,
+      "entailed": false
+    },
+    {
+      "disease": "diabetic heart disease",
+      "symptom": "swollen ankles",
+      "source": "MedlinePlus",
+      "pmid": "39382008",
+      "score": 0.8576543927192688,
+      "entailed": true
+    },
+    {
+      "disease": "diabetic heart disease",
+      "symptom": "fainting",
+      "source": "MedlinePlus",
+      "pmid": "33886735",
+      "score": 0.04885663837194443,
+      "entailed": false
+    },
+    {
+      "disease": "dislocated shoulder",
+      "symptom": "weakness in arm",
+      "source": "MedlinePlus",
+      "pmid": "27327391",
+      "score": 0.5800814628601074,
+      "entailed": true
+    },
+    {
+      "disease": "dislocated shoulder",
+      "symptom": "shoulder bruising",
+      "source": "MedlinePlus",
+      "pmid": "26359844",
+      "score": 0.4493449330329895,
+      "entailed": false
+    },
+    {
+      "disease": "dislocated shoulder",
+      "symptom": "severe shoulder pain",
+      "source": "MedlinePlus",
+      "pmid": "30847445",
+      "score": 0.4177161753177643,
+      "entailed": false
+    },
+    {
+      "disease": "dislocated shoulder",
+      "symptom": "numbness in arm",
+      "source": "MedlinePlus",
+      "pmid": "36882314",
+      "score": 0.9410693049430847,
+      "entailed": true
+    },
+    {
+      "disease": "dislocated shoulder",
+      "symptom": "shoulder swelling",
+      "source": "MedlinePlus",
+      "pmid": "40545326",
+      "score": 0.059484995901584625,
+      "entailed": false
+    },
+    {
+      "disease": "diverticulosis and diverticulitis",
+      "symptom": "constipation",
+      "source": "MedlinePlus",
+      "pmid": "23207598",
+      "score": 0.9003209471702576,
+      "entailed": true
+    },
+    {
+      "disease": "diverticulosis and diverticulitis",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "37013200",
+      "score": 0.661257803440094,
+      "entailed": true
+    },
+    {
+      "disease": "diverticulosis and diverticulitis",
+      "symptom": "abdominal cramping",
+      "source": "MedlinePlus",
+      "pmid": "31696504",
+      "score": 0.13738349080085754,
+      "entailed": false
+    },
+    {
+      "disease": "diverticulosis and diverticulitis",
+      "symptom": "bloating",
+      "source": "MedlinePlus",
+      "pmid": "27622369",
+      "score": 0.6432453989982605,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "vomiting",
+      "source": "MedlinePlus",
+      "pmid": "26033924",
+      "score": 0.7092611193656921,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "abdominal pain",
+      "source": "MedlinePlus",
+      "pmid": "26033924",
+      "score": 0.7849185466766357,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "loss of appetite",
+      "source": "MedlinePlus",
+      "pmid": "25995207",
+      "score": 0.36357808113098145,
+      "entailed": false
+    },
+    {
+      "disease": "ebola",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "37355146",
+      "score": 0.6943965554237366,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "headache",
+      "source": "MedlinePlus",
+      "pmid": "37355146",
+      "score": 0.6469357013702393,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "joint pain",
+      "source": "MedlinePlus",
+      "pmid": "35588755",
+      "score": 0.2101692110300064,
+      "entailed": false
+    },
+    {
+      "disease": "ebola",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "32080199",
+      "score": 0.9174034595489502,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "weakness",
+      "source": "MedlinePlus",
+      "pmid": "35668457",
+      "score": 0.7409895062446594,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "unexplained bleeding",
+      "source": "MedlinePlus",
+      "pmid": "30706470",
+      "score": 0.6241834163665771,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "26033924",
+      "score": 0.6898294687271118,
+      "entailed": true
+    },
+    {
+      "disease": "ebola",
+      "symptom": "muscle aches",
+      "source": "MedlinePlus",
+      "pmid": "32487785",
+      "score": 0.0026309979148209095,
+      "entailed": false
+    },
+    {
+      "disease": "ebola",
+      "symptom": "sore throat",
+      "source": "MedlinePlus",
+      "pmid": "39186506",
+      "score": 0.41299840807914734,
+      "entailed": false
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "chills",
+      "source": "MedlinePlus",
+      "pmid": "39410513",
+      "score": 0.8829459547996521,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "cough",
+      "source": "MedlinePlus",
+      "pmid": "39193425",
+      "score": 0.8636966347694397,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "35940971",
+      "score": 0.8813468217849731,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "back pain",
+      "source": "MedlinePlus",
+      "pmid": "32742906",
+      "score": 0.9526577591896057,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "muscle pain",
+      "source": "MedlinePlus",
+      "pmid": "9009973",
+      "score": 0.8961510062217712,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "joint pain",
+      "source": "MedlinePlus",
+      "pmid": "37065189",
+      "score": 0.6925838589668274,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "36099377",
+      "score": 0.8087878227233887,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "39494227",
+      "score": 0.8281695246696472,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "38510192",
+      "score": 0.5147369503974915,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "skin changes",
+      "source": "MedlinePlus",
+      "pmid": "32476525",
+      "score": 0.6857960224151611,
+      "entailed": true
+    },
+    {
+      "disease": "endocarditis",
+      "symptom": "heart murmur",
+      "source": "MedlinePlus",
+      "pmid": "39179154",
+      "score": 0.9324521422386169,
+      "entailed": true
+    },
+    {
+      "disease": "endometriosis",
+      "symptom": "pelvic pain",
+      "source": "MedlinePlus",
+      "pmid": "40323608",
+      "score": 0.9541885256767273,
+      "entailed": true
+    },
+    {
+      "disease": "endometriosis",
+      "symptom": "infertility",
+      "source": "MedlinePlus",
+      "pmid": "36387918",
+      "score": 0.9624178409576416,
+      "entailed": true
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "urine dribbling",
+      "source": "MedlinePlus",
+      "pmid": "34941196",
+      "score": 0.6979426741600037,
+      "entailed": true
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "urinary incontinence",
+      "source": "MedlinePlus",
+      "pmid": "27147135",
+      "score": 0.6356529593467712,
+      "entailed": true
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "difficulty starting urination",
+      "source": "MedlinePlus",
+      "pmid": "35237936",
+      "score": 0.7808838486671448,
+      "entailed": true
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "urgent urination",
+      "source": "MedlinePlus",
+      "pmid": "34557463",
+      "score": 0.0018032857915386558,
+      "entailed": false
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "incomplete bladder emptying",
+      "source": "MedlinePlus",
+      "pmid": "38378462",
+      "score": 0.04022851213812828,
+      "entailed": false
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "frequent urination",
+      "source": "MedlinePlus",
+      "pmid": "35237936",
+      "score": 0.6605579257011414,
+      "entailed": true
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "weak urine stream",
+      "source": "MedlinePlus",
+      "pmid": "35237936",
+      "score": 0.5493029356002808,
+      "entailed": true
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "symptom": "nighttime urination",
+      "source": "MedlinePlus",
+      "pmid": "35080131",
+      "score": 0.005685426760464907,
+      "entailed": false
+    },
+    {
+      "disease": "fibromyalgia",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "32721388",
+      "score": 0.8699769377708435,
+      "entailed": true
+    },
+    {
+      "disease": "fibromyalgia",
+      "symptom": "chronic pain",
+      "source": "MedlinePlus",
+      "pmid": "37812528",
+      "score": 0.9740067720413208,
+      "entailed": true
+    },
+    {
+      "disease": "fibromyalgia",
+      "symptom": "trouble sleeping",
+      "source": "MedlinePlus",
+      "pmid": "41047726",
+      "score": 0.39415472745895386,
+      "entailed": false
+    },
+    {
+      "disease": "fibromyalgia",
+      "symptom": "stiffness",
+      "source": "MedlinePlus",
+      "pmid": "33648522",
+      "score": 0.702459990978241,
+      "entailed": true
+    },
+    {
+      "disease": "flu",
+      "symptom": "chills",
+      "source": "MedlinePlus",
+      "pmid": "31845781",
+      "score": 0.41981086134910583,
+      "entailed": false
+    },
+    {
+      "disease": "flu",
+      "symptom": "runny nose",
+      "source": "MedlinePlus",
+      "pmid": "36115379",
+      "score": 0.5250359177589417,
+      "entailed": true
+    },
+    {
+      "disease": "flu",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "36030813",
+      "score": 0.8081396818161011,
+      "entailed": true
+    },
+    {
+      "disease": "flu",
+      "symptom": "body aches",
+      "source": "MedlinePlus",
+      "pmid": "33522695",
+      "score": 0.9213491082191467,
+      "entailed": true
+    },
+    {
+      "disease": "flu",
+      "symptom": "muscle aches",
+      "source": "MedlinePlus",
+      "pmid": "36030813",
+      "score": 0.0019997567869722843,
+      "entailed": false
+    },
+    {
+      "disease": "flu",
+      "symptom": "sore throat",
+      "source": "MedlinePlus",
+      "pmid": "27641976",
+      "score": 0.6039543151855469,
+      "entailed": true
+    },
+    {
+      "disease": "flu",
+      "symptom": "stuffy nose",
+      "source": "MedlinePlus",
+      "pmid": "37994372",
+      "score": 0.7733542919158936,
+      "entailed": true
+    },
+    {
+      "disease": "fractures",
+      "symptom": "bruising",
+      "source": "MedlinePlus",
+      "pmid": "37689105",
+      "score": 0.8041236996650696,
+      "entailed": true
+    },
+    {
+      "disease": "fractures",
+      "symptom": "swelling",
+      "source": "MedlinePlus",
+      "pmid": "23152232",
+      "score": 0.011995883658528328,
+      "entailed": false
+    },
+    {
+      "disease": "fractures",
+      "symptom": "intense pain",
+      "source": "MedlinePlus",
+      "pmid": "36866917",
+      "score": 0.07655622065067291,
+      "entailed": false
+    },
+    {
+      "disease": "fractures",
+      "symptom": "difficulty moving injured area",
+      "source": "MedlinePlus",
+      "pmid": "11497092",
+      "score": 0.20642922818660736,
+      "entailed": false
+    },
+    {
+      "disease": "fractures",
+      "symptom": "deformity",
+      "source": "MedlinePlus",
+      "pmid": "39129237",
+      "score": 0.8614701628684998,
+      "entailed": true
+    },
+    {
+      "disease": "fractures",
+      "symptom": "tenderness",
+      "source": "MedlinePlus",
+      "pmid": "38435398",
+      "score": 0.7548606991767883,
+      "entailed": true
+    },
+    {
+      "disease": "head and neck cancer",
+      "symptom": "difficulty swallowing",
+      "source": "MedlinePlus",
+      "pmid": "27002678",
+      "score": 0.002260639565065503,
+      "entailed": false
+    },
+    {
+      "disease": "head and neck cancer",
+      "symptom": "voice changes",
+      "source": "MedlinePlus",
+      "pmid": "32435619",
+      "score": 0.005504667293280363,
+      "entailed": false
+    },
+    {
+      "disease": "head and neck cancer",
+      "symptom": "persistent sore throat",
+      "source": "MedlinePlus",
+      "pmid": "6954395",
+      "score": 0.7885542511940002,
+      "entailed": true
+    },
+    {
+      "disease": "head and neck cancer",
+      "symptom": "neck lump",
+      "source": "MedlinePlus",
+      "pmid": "36977627",
+      "score": 0.9484769701957703,
+      "entailed": true
+    },
+    {
+      "disease": "head and neck cancer",
+      "symptom": "non healing mouth sore",
+      "source": "MedlinePlus",
+      "pmid": "32683386",
+      "score": 0.03057926334440708,
+      "entailed": false
+    },
+    {
+      "disease": "head and neck cancer",
+      "symptom": "hoarseness",
+      "source": "MedlinePlus",
+      "pmid": "25313184",
+      "score": 0.9706332087516785,
+      "entailed": true
+    },
+    {
+      "disease": "head lice",
+      "symptom": "itching",
+      "source": "MedlinePlus",
+      "pmid": "26557439",
+      "score": 0.0900656133890152,
+      "entailed": false
+    },
+    {
+      "disease": "heart valve diseases",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "1895809",
+      "score": 0.9548593163490295,
+      "entailed": true
+    },
+    {
+      "disease": "heart valve diseases",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "33111998",
+      "score": 0.4748381972312927,
+      "entailed": false
+    },
+    {
+      "disease": "heart valve diseases",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "32871100",
+      "score": 0.020616909489035606,
+      "entailed": false
+    },
+    {
+      "disease": "heart valve diseases",
+      "symptom": "fainting",
+      "source": "MedlinePlus",
+      "pmid": "29655825",
+      "score": 0.00405530072748661,
+      "entailed": false
+    },
+    {
+      "disease": "heart valve diseases",
+      "symptom": "swelling in ankles",
+      "source": "MedlinePlus",
+      "pmid": "36898521",
+      "score": 0.6626671552658081,
+      "entailed": true
+    },
+    {
+      "disease": "heart valve diseases",
+      "symptom": "swelling in feet",
+      "source": "MedlinePlus",
+      "pmid": "33820896",
+      "score": 0.8322725892066956,
+      "entailed": true
+    },
+    {
+      "disease": "heart valve diseases",
+      "symptom": "swelling in abdomen",
+      "source": "MedlinePlus",
+      "pmid": "35626920",
+      "score": 0.7464132905006409,
+      "entailed": true
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "blood in urine",
+      "source": "MedlinePlus",
+      "pmid": "39024543",
+      "score": 0.4548155963420868,
+      "entailed": false
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "blood in stool",
+      "source": "MedlinePlus",
+      "pmid": "39024543",
+      "score": 0.32532501220703125,
+      "entailed": false
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "gum bleeding",
+      "source": "MedlinePlus",
+      "pmid": "32685260",
+      "score": 0.944170355796814,
+      "entailed": true
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "bleeding after tooth loss",
+      "source": "MedlinePlus",
+      "pmid": "25922858",
+      "score": 0.006117681972682476,
+      "entailed": false
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "bleeding after vaccination",
+      "source": "MedlinePlus",
+      "pmid": "39066347",
+      "score": 0.9246498346328735,
+      "entailed": true
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "muscle bleeding",
+      "source": "MedlinePlus",
+      "pmid": "31437138",
+      "score": 0.9608941674232483,
+      "entailed": true
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "skin bruising",
+      "source": "MedlinePlus",
+      "pmid": "41488453",
+      "score": 0.9701143503189087,
+      "entailed": true
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "bleeding after circumcision",
+      "source": "MedlinePlus",
+      "pmid": "22866674",
+      "score": 0.8432185649871826,
+      "entailed": true
+    },
+    {
+      "disease": "hemophilia",
+      "symptom": "frequent nosebleeds",
+      "source": "MedlinePlus",
+      "pmid": "41496702",
+      "score": 0.9012205004692078,
+      "entailed": true
+    },
+    {
+      "disease": "hemorrhagic stroke",
+      "symptom": "loss of balance",
+      "source": "MedlinePlus",
+      "pmid": "38144172",
+      "score": 0.7850738167762756,
+      "entailed": true
+    },
+    {
+      "disease": "hemorrhagic stroke",
+      "symptom": "dizziness",
+      "source": "MedlinePlus",
+      "pmid": "40759192",
+      "score": 0.007980440743267536,
+      "entailed": false
+    },
+    {
+      "disease": "hemorrhagic stroke",
+      "symptom": "sudden severe headache",
+      "source": "MedlinePlus",
+      "pmid": "23271855",
+      "score": 0.03357291221618652,
+      "entailed": false
+    },
+    {
+      "disease": "hemorrhagic stroke",
+      "symptom": "sudden confusion",
+      "source": "MedlinePlus",
+      "pmid": "16148626",
+      "score": 0.7976362705230713,
+      "entailed": true
+    },
+    {
+      "disease": "hemorrhagic stroke",
+      "symptom": "sudden numbness",
+      "source": "MedlinePlus",
+      "pmid": "27999514",
+      "score": 0.7577958703041077,
+      "entailed": true
+    },
+    {
+      "disease": "hidradenitis suppurativa",
+      "symptom": "slow healing abscesses",
+      "source": "MedlinePlus",
+      "pmid": "40279454",
+      "score": 0.9243977069854736,
+      "entailed": true
+    },
+    {
+      "disease": "hidradenitis suppurativa",
+      "symptom": "scarring",
+      "source": "MedlinePlus",
+      "pmid": "39862870",
+      "score": 0.8861088156700134,
+      "entailed": true
+    },
+    {
+      "disease": "hidradenitis suppurativa",
+      "symptom": "skin tunnels",
+      "source": "MedlinePlus",
+      "pmid": "39862870",
+      "score": 0.9463292360305786,
+      "entailed": true
+    },
+    {
+      "disease": "histoplasmosis",
+      "symptom": "chills",
+      "source": "MedlinePlus",
+      "pmid": "36051652",
+      "score": 0.02396552637219429,
+      "entailed": false
+    },
+    {
+      "disease": "histoplasmosis",
+      "symptom": "cough",
+      "source": "MedlinePlus",
+      "pmid": "28070050",
+      "score": 0.6102960705757141,
+      "entailed": true
+    },
+    {
+      "disease": "histoplasmosis",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "31352234",
+      "score": 0.002285949420183897,
+      "entailed": false
+    },
+    {
+      "disease": "histoplasmosis",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "32256121",
+      "score": 0.1814826875925064,
+      "entailed": false
+    },
+    {
+      "disease": "histoplasmosis",
+      "symptom": "headache",
+      "source": "MedlinePlus",
+      "pmid": "31826579",
+      "score": 0.20407815277576447,
+      "entailed": false
+    },
+    {
+      "disease": "histoplasmosis",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "31811751",
+      "score": 0.6178838610649109,
+      "entailed": true
+    },
+    {
+      "disease": "histoplasmosis",
+      "symptom": "body aches",
+      "source": "MedlinePlus",
+      "pmid": "38947682",
+      "score": 0.7927709221839905,
+      "entailed": true
+    },
+    {
+      "disease": "hiv",
+      "symptom": "chills",
+      "source": "MedlinePlus",
+      "pmid": "36678489",
+      "score": 0.2333642989397049,
+      "entailed": false
+    },
+    {
+      "disease": "hiv",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "12942681",
+      "score": 0.9752910733222961,
+      "entailed": true
+    },
+    {
+      "disease": "hiv",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "35042469",
+      "score": 0.47583115100860596,
+      "entailed": false
+    },
+    {
+      "disease": "hiv",
+      "symptom": "swollen lymph nodes",
+      "source": "MedlinePlus",
+      "pmid": "40989183",
+      "score": 0.8407689929008484,
+      "entailed": true
+    },
+    {
+      "disease": "hiv",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "32996756",
+      "score": 0.1986628919839859,
+      "entailed": false
+    },
+    {
+      "disease": "hiv",
+      "symptom": "muscle aches",
+      "source": "MedlinePlus",
+      "pmid": "16039337",
+      "score": 0.013545675203204155,
+      "entailed": false
+    },
+    {
+      "disease": "hiv",
+      "symptom": "sore throat",
+      "source": "MedlinePlus",
+      "pmid": "25051184",
+      "score": 0.0187786053866148,
+      "entailed": false
+    },
+    {
+      "disease": "hiv",
+      "symptom": "mouth ulcers",
+      "source": "MedlinePlus",
+      "pmid": "8737328",
+      "score": 0.029678411781787872,
+      "entailed": false
+    },
+    {
+      "disease": "hodgkin lymphoma",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "34612771",
+      "score": 0.8591289520263672,
+      "entailed": true
+    },
+    {
+      "disease": "hodgkin lymphoma",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "39566932",
+      "score": 0.9594166874885559,
+      "entailed": true
+    },
+    {
+      "disease": "hodgkin lymphoma",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "37664388",
+      "score": 0.5187551975250244,
+      "entailed": true
+    },
+    {
+      "disease": "hodgkin lymphoma",
+      "symptom": "itchy skin",
+      "source": "MedlinePlus",
+      "pmid": "38767173",
+      "score": 0.03543812036514282,
+      "entailed": false
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "37526456",
+      "score": 0.8114838004112244,
+      "entailed": true
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "body aches",
+      "source": "MedlinePlus",
+      "pmid": "27347865",
+      "score": 0.08736448734998703,
+      "entailed": false
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "rash",
+      "source": "MedlinePlus",
+      "pmid": "36756024",
+      "score": 0.9350067973136902,
+      "entailed": true
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "sore throat",
+      "source": "MedlinePlus",
+      "pmid": "26424648",
+      "score": 0.9779258966445923,
+      "entailed": true
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "swollen liver",
+      "source": "MedlinePlus",
+      "pmid": "20718181",
+      "score": 0.0014859889633953571,
+      "entailed": false
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "extreme fatigue",
+      "source": "MedlinePlus",
+      "pmid": "37526456",
+      "score": 0.6136552095413208,
+      "entailed": true
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "swollen lymph glands",
+      "source": "MedlinePlus",
+      "pmid": "37526456",
+      "score": 0.04249317944049835,
+      "entailed": false
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "symptom": "swollen spleen",
+      "source": "MedlinePlus",
+      "pmid": "24266247",
+      "score": 0.7917935848236084,
+      "entailed": true
+    },
+    {
+      "disease": "insomnia",
+      "symptom": "difficulty falling asleep",
+      "source": "MedlinePlus",
+      "pmid": "41475385",
+      "score": 0.9907135963439941,
+      "entailed": true
+    },
+    {
+      "disease": "insomnia",
+      "symptom": "short sleep periods",
+      "source": "MedlinePlus",
+      "pmid": "38016484",
+      "score": 0.8159303069114685,
+      "entailed": true
+    },
+    {
+      "disease": "insomnia",
+      "symptom": "early waking",
+      "source": "MedlinePlus",
+      "pmid": "29852897",
+      "score": 0.03784136846661568,
+      "entailed": false
+    },
+    {
+      "disease": "insomnia",
+      "symptom": "feeling unrested",
+      "source": "MedlinePlus",
+      "pmid": "29979840",
+      "score": 0.8036725521087646,
+      "entailed": true
+    },
+    {
+      "disease": "insomnia",
+      "symptom": "frequent night waking",
+      "source": "MedlinePlus",
+      "pmid": "31738588",
+      "score": 0.9334811568260193,
+      "entailed": true
+    },
+    {
+      "disease": "ischemic stroke",
+      "symptom": "loss of balance",
+      "source": "MedlinePlus",
+      "pmid": "39930815",
+      "score": 0.8568827509880066,
+      "entailed": true
+    },
+    {
+      "disease": "ischemic stroke",
+      "symptom": "dizziness",
+      "source": "MedlinePlus",
+      "pmid": "35367974",
+      "score": 0.949000358581543,
+      "entailed": true
+    },
+    {
+      "disease": "ischemic stroke",
+      "symptom": "speech difficulty",
+      "source": "MedlinePlus",
+      "pmid": "39840204",
+      "score": 0.721630334854126,
+      "entailed": true
+    },
+    {
+      "disease": "kaposi sarcoma",
+      "symptom": "abdominal pain",
+      "source": "MedlinePlus",
+      "pmid": "37416496",
+      "score": 0.9056326150894165,
+      "entailed": true
+    },
+    {
+      "disease": "kaposi sarcoma",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "35671149",
+      "score": 0.005463651847094297,
+      "entailed": false
+    },
+    {
+      "disease": "kaposi sarcoma",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "17058981",
+      "score": 0.5745849013328552,
+      "entailed": true
+    },
+    {
+      "disease": "kaposi sarcoma",
+      "symptom": "leg swelling",
+      "source": "MedlinePlus",
+      "pmid": "42326193",
+      "score": 0.745374321937561,
+      "entailed": true
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "high fever",
+      "source": "MedlinePlus",
+      "pmid": "39534969",
+      "score": 0.9009114503860474,
+      "entailed": true
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "swollen lymph nodes",
+      "source": "MedlinePlus",
+      "pmid": "39299749",
+      "score": 0.016024425625801086,
+      "entailed": false
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "rash",
+      "source": "MedlinePlus",
+      "pmid": "39299749",
+      "score": 0.9415664076805115,
+      "entailed": true
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "swollen feet",
+      "source": "MedlinePlus",
+      "pmid": "36695415",
+      "score": 0.544577419757843,
+      "entailed": true
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "red tongue",
+      "source": "MedlinePlus",
+      "pmid": "36695415",
+      "score": 0.25560277700424194,
+      "entailed": false
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "swollen hands",
+      "source": "MedlinePlus",
+      "pmid": "36695415",
+      "score": 0.8126670122146606,
+      "entailed": true
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "red soles",
+      "source": "MedlinePlus",
+      "pmid": "2733077",
+      "score": 0.4259495437145233,
+      "entailed": false
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "red palms",
+      "source": "MedlinePlus",
+      "pmid": "33115450",
+      "score": 0.549339234828949,
+      "entailed": true
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "red lips",
+      "source": "MedlinePlus",
+      "pmid": "39076265",
+      "score": 0.7641530632972717,
+      "entailed": true
+    },
+    {
+      "disease": "kawasaki disease",
+      "symptom": "pink eye",
+      "source": "MedlinePlus",
+      "pmid": "39299749",
+      "score": 0.0024139212910085917,
+      "entailed": false
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "loss of appetite",
+      "source": "MedlinePlus",
+      "pmid": "27647842",
+      "score": 0.002357822610065341,
+      "entailed": false
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "36943212",
+      "score": 0.7659494876861572,
+      "entailed": true
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "11870175",
+      "score": 0.7478383779525757,
+      "entailed": true
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "petechiae",
+      "source": "MedlinePlus",
+      "pmid": "30032928",
+      "score": 0.07923354208469391,
+      "entailed": false
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "easy bruising",
+      "source": "MedlinePlus",
+      "pmid": "34868692",
+      "score": 0.9616739749908447,
+      "entailed": true
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "15613905",
+      "score": 0.7918610572814941,
+      "entailed": true
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "easy bleeding",
+      "source": "MedlinePlus",
+      "pmid": "34862352",
+      "score": 0.07281041145324707,
+      "entailed": false
+    },
+    {
+      "disease": "leukemia",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "36943212",
+      "score": 0.7025594711303711,
+      "entailed": true
+    },
+    {
+      "disease": "leukodystrophies",
+      "symptom": "vision problems",
+      "source": "MedlinePlus",
+      "pmid": "36003149",
+      "score": 0.7126929759979248,
+      "entailed": true
+    },
+    {
+      "disease": "leukodystrophies",
+      "symptom": "speech difficulty",
+      "source": "MedlinePlus",
+      "pmid": "36003149",
+      "score": 0.6730340719223022,
+      "entailed": true
+    },
+    {
+      "disease": "leukodystrophies",
+      "symptom": "behavior changes",
+      "source": "MedlinePlus",
+      "pmid": "28638987",
+      "score": 0.09484647214412689,
+      "entailed": false
+    },
+    {
+      "disease": "leukodystrophies",
+      "symptom": "walking difficulty",
+      "source": "MedlinePlus",
+      "pmid": "39919255",
+      "score": 0.6389240026473999,
+      "entailed": true
+    },
+    {
+      "disease": "leukodystrophies",
+      "symptom": "hearing problems",
+      "source": "MedlinePlus",
+      "pmid": "33942428",
+      "score": 0.8142486810684204,
+      "entailed": true
+    },
+    {
+      "disease": "leukodystrophies",
+      "symptom": "mobility problems",
+      "source": "MedlinePlus",
+      "pmid": "35851549",
+      "score": 0.5652629137039185,
+      "entailed": true
+    },
+    {
+      "disease": "lewy body dementia",
+      "symptom": "dementia",
+      "source": "MedlinePlus",
+      "pmid": "39620839",
+      "score": 0.9679195284843445,
+      "entailed": true
+    },
+    {
+      "disease": "lewy body dementia",
+      "symptom": "visual hallucinations",
+      "source": "MedlinePlus",
+      "pmid": "27042903",
+      "score": 0.8078422546386719,
+      "entailed": true
+    },
+    {
+      "disease": "lyme disease",
+      "symptom": "chills",
+      "source": "MedlinePlus",
+      "pmid": "10585798",
+      "score": 0.05361045524477959,
+      "entailed": false
+    },
+    {
+      "disease": "lyme disease",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "20513553",
+      "score": 0.14234012365341187,
+      "entailed": false
+    },
+    {
+      "disease": "lyme disease",
+      "symptom": "headache",
+      "source": "MedlinePlus",
+      "pmid": "3554839",
+      "score": 0.9593959450721741,
+      "entailed": true
+    },
+    {
+      "disease": "lyme disease",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "26601457",
+      "score": 0.63795006275177,
+      "entailed": true
+    },
+    {
+      "disease": "lyme disease",
+      "symptom": "swollen lymph nodes",
+      "source": "MedlinePlus",
+      "pmid": "38651851",
+      "score": 0.010321507230401039,
+      "entailed": false
+    },
+    {
+      "disease": "lyme disease",
+      "symptom": "muscle aches",
+      "source": "MedlinePlus",
+      "pmid": "10987718",
+      "score": 0.0028001307509839535,
+      "entailed": false
+    },
+    {
+      "disease": "lyme disease",
+      "symptom": "joint aches",
+      "source": "MedlinePlus",
+      "pmid": "2668764",
+      "score": 0.29229938983917236,
+      "entailed": false
+    },
+    {
+      "disease": "menopause",
+      "symptom": "irregular periods",
+      "source": "MedlinePlus",
+      "pmid": "37802711",
+      "score": 0.013566090725362301,
+      "entailed": false
+    },
+    {
+      "disease": "menopause",
+      "symptom": "changed period length",
+      "source": "MedlinePlus",
+      "pmid": "38749864",
+      "score": 0.03382892161607742,
+      "entailed": false
+    },
+    {
+      "disease": "menopause",
+      "symptom": "changed period flow",
+      "source": "MedlinePlus",
+      "pmid": "36737407",
+      "score": 0.7937395572662354,
+      "entailed": true
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "31538328",
+      "score": 0.004488962236791849,
+      "entailed": false
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "irritability",
+      "source": "MedlinePlus",
+      "pmid": "33132854",
+      "score": 0.7810578346252441,
+      "entailed": true
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "mood swings",
+      "source": "MedlinePlus",
+      "pmid": "40837786",
+      "score": 0.8823384642601013,
+      "entailed": true
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "breast tenderness",
+      "source": "MedlinePlus",
+      "pmid": "38393671",
+      "score": 0.7940979599952698,
+      "entailed": true
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "abdominal cramping",
+      "source": "MedlinePlus",
+      "pmid": "35523674",
+      "score": 0.9666942358016968,
+      "entailed": true
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "bloating",
+      "source": "MedlinePlus",
+      "pmid": "30561655",
+      "score": 0.5927696824073792,
+      "entailed": true
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "headaches",
+      "source": "MedlinePlus",
+      "pmid": "35523674",
+      "score": 0.8732960820198059,
+      "entailed": true
+    },
+    {
+      "disease": "menstruation",
+      "symptom": "lower back pain",
+      "source": "MedlinePlus",
+      "pmid": "3054962",
+      "score": 0.4802373945713043,
+      "entailed": false
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "cough",
+      "source": "MedlinePlus",
+      "pmid": "30825902",
+      "score": 0.4097153842449188,
+      "entailed": false
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "1895809",
+      "score": 0.9614561796188354,
+      "entailed": true
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "779595",
+      "score": 0.4598671495914459,
+      "entailed": false
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "dizziness",
+      "source": "MedlinePlus",
+      "pmid": "12626313",
+      "score": 0.9467830657958984,
+      "entailed": true
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "anxiety",
+      "source": "MedlinePlus",
+      "pmid": "21881100",
+      "score": 0.8791064620018005,
+      "entailed": true
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "37518971",
+      "score": 0.011569628491997719,
+      "entailed": false
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "migraines",
+      "source": "MedlinePlus",
+      "pmid": "26166644",
+      "score": 0.42501118779182434,
+      "entailed": false
+    },
+    {
+      "disease": "mitral valve prolapse",
+      "symptom": "heart palpitations",
+      "source": "MedlinePlus",
+      "pmid": "3308381",
+      "score": 0.6808196902275085,
+      "entailed": true
+    },
+    {
+      "disease": "mpox",
+      "symptom": "chills",
+      "source": "MedlinePlus",
+      "pmid": "37056203",
+      "score": 0.5691217184066772,
+      "entailed": true
+    },
+    {
+      "disease": "mpox",
+      "symptom": "cough",
+      "source": "MedlinePlus",
+      "pmid": "36991570",
+      "score": 0.5175486207008362,
+      "entailed": true
+    },
+    {
+      "disease": "mpox",
+      "symptom": "headache",
+      "source": "MedlinePlus",
+      "pmid": "39401235",
+      "score": 0.31173935532569885,
+      "entailed": false
+    },
+    {
+      "disease": "mpox",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "39401235",
+      "score": 0.5763638615608215,
+      "entailed": true
+    },
+    {
+      "disease": "mpox",
+      "symptom": "swollen lymph nodes",
+      "source": "MedlinePlus",
+      "pmid": "39401235",
+      "score": 0.014835042878985405,
+      "entailed": false
+    },
+    {
+      "disease": "mpox",
+      "symptom": "muscle aches",
+      "source": "MedlinePlus",
+      "pmid": "37056203",
+      "score": 0.005950586870312691,
+      "entailed": false
+    },
+    {
+      "disease": "mpox",
+      "symptom": "sore throat",
+      "source": "MedlinePlus",
+      "pmid": "38883515",
+      "score": 0.0009516268037259579,
+      "entailed": false
+    },
+    {
+      "disease": "mpox",
+      "symptom": "back ache",
+      "source": "MedlinePlus",
+      "pmid": "36992234",
+      "score": 0.04600691795349121,
+      "entailed": false
+    },
+    {
+      "disease": "mpox",
+      "symptom": "nasal congestion",
+      "source": "MedlinePlus",
+      "pmid": "36396927",
+      "score": 0.9377545118331909,
+      "entailed": true
+    },
+    {
+      "disease": "mpox",
+      "symptom": "exhaustion",
+      "source": "MedlinePlus",
+      "pmid": "37056203",
+      "score": 0.5117324590682983,
+      "entailed": true
+    },
+    {
+      "disease": "myalgic encephalomyelitis chronic fatigue syndrome",
+      "symptom": "post exertional malaise",
+      "source": "MedlinePlus",
+      "pmid": "39240417",
+      "score": 0.9616343975067139,
+      "entailed": true
+    },
+    {
+      "disease": "myalgic encephalomyelitis chronic fatigue syndrome",
+      "symptom": "sleep problems",
+      "source": "MedlinePlus",
+      "pmid": "38504389",
+      "score": 0.1896866261959076,
+      "entailed": false
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "39202282",
+      "score": 0.005453033838421106,
+      "entailed": false
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "difficulty swallowing",
+      "source": "MedlinePlus",
+      "pmid": "30497698",
+      "score": 0.9614849090576172,
+      "entailed": true
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "facial expression changes",
+      "source": "MedlinePlus",
+      "pmid": "35302338",
+      "score": 0.004760558716952801,
+      "entailed": false
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "limb weakness",
+      "source": "MedlinePlus",
+      "pmid": "38494283",
+      "score": 0.8920576572418213,
+      "entailed": true
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "blurred vision",
+      "source": "MedlinePlus",
+      "pmid": "32322981",
+      "score": 0.9264578819274902,
+      "entailed": true
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "eye muscle weakness",
+      "source": "MedlinePlus",
+      "pmid": "35976295",
+      "score": 0.8558125495910645,
+      "entailed": true
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "drooping eyelid",
+      "source": "MedlinePlus",
+      "pmid": "31048702",
+      "score": 0.0026652200613170862,
+      "entailed": false
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "double vision",
+      "source": "MedlinePlus",
+      "pmid": "38494283",
+      "score": 0.0031567271798849106,
+      "entailed": false
+    },
+    {
+      "disease": "myasthenia gravis",
+      "symptom": "speech problems",
+      "source": "MedlinePlus",
+      "pmid": "8059551",
+      "score": 0.8810299634933472,
+      "entailed": true
+    },
+    {
+      "disease": "obsessive-compulsive disorder",
+      "symptom": "aggressive thoughts",
+      "source": "MedlinePlus",
+      "pmid": "34512758",
+      "score": 0.79628986120224,
+      "entailed": true
+    },
+    {
+      "disease": "obsessive-compulsive disorder",
+      "symptom": "intrusive worries",
+      "source": "MedlinePlus",
+      "pmid": "28822003",
+      "score": 0.904751718044281,
+      "entailed": true
+    },
+    {
+      "disease": "obsessive-compulsive disorder",
+      "symptom": "unwanted thoughts",
+      "source": "MedlinePlus",
+      "pmid": "35617698",
+      "score": 0.9398151636123657,
+      "entailed": true
+    },
+    {
+      "disease": "obsessive-compulsive disorder",
+      "symptom": "fear of losing things",
+      "source": "MedlinePlus",
+      "pmid": "21077294",
+      "score": 0.886879563331604,
+      "entailed": true
+    },
+    {
+      "disease": "obsessive-compulsive disorder",
+      "symptom": "need for symmetry",
+      "source": "MedlinePlus",
+      "pmid": "40727850",
+      "score": 0.010985528118908405,
+      "entailed": false
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "difficulty swallowing",
+      "source": "MedlinePlus",
+      "pmid": "37501570",
+      "score": 0.008382752537727356,
+      "entailed": false
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "sore throat",
+      "source": "MedlinePlus",
+      "pmid": "35644166",
+      "score": 0.002221333794295788,
+      "entailed": false
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "neck lump",
+      "source": "MedlinePlus",
+      "pmid": "35339298",
+      "score": 0.0031160316430032253,
+      "entailed": false
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "non healing mouth sore",
+      "source": "MedlinePlus",
+      "pmid": "40102607",
+      "score": 0.669571042060852,
+      "entailed": true
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "mouth bleeding",
+      "source": "MedlinePlus",
+      "pmid": "32370133",
+      "score": 0.47436633706092834,
+      "entailed": false
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "mouth pain",
+      "source": "MedlinePlus",
+      "pmid": "20400366",
+      "score": 0.9375029802322388,
+      "entailed": true
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "jaw swelling",
+      "source": "MedlinePlus",
+      "pmid": "39611265",
+      "score": 0.8936942219734192,
+      "entailed": true
+    },
+    {
+      "disease": "oral cancer",
+      "symptom": "mouth numbness",
+      "source": "MedlinePlus",
+      "pmid": "35692731",
+      "score": 0.6401272416114807,
+      "entailed": true
+    },
+    {
+      "disease": "ovarian disorders",
+      "symptom": "nausea",
+      "source": "MedlinePlus",
+      "pmid": "31562799",
+      "score": 0.00145195540972054,
+      "entailed": false
+    },
+    {
+      "disease": "ovarian disorders",
+      "symptom": "abnormal vaginal bleeding",
+      "source": "MedlinePlus",
+      "pmid": "34339416",
+      "score": 0.0017571409698575735,
+      "entailed": false
+    },
+    {
+      "disease": "ovarian disorders",
+      "symptom": "pelvic pain",
+      "source": "MedlinePlus",
+      "pmid": "34899597",
+      "score": 0.00657343165948987,
+      "entailed": false
+    },
+    {
+      "disease": "ovarian disorders",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "36884323",
+      "score": 0.0022352959495037794,
+      "entailed": false
+    },
+    {
+      "disease": "ovarian disorders",
+      "symptom": "painful menstrual cramps",
+      "source": "MedlinePlus",
+      "pmid": "39724866",
+      "score": 0.04523785039782524,
+      "entailed": false
+    },
+    {
+      "disease": "ovarian disorders",
+      "symptom": "vaginal discharge",
+      "source": "MedlinePlus",
+      "pmid": "37996138",
+      "score": 0.9267200827598572,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "1895809",
+      "score": 0.9731484651565552,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "stomach pain",
+      "source": "MedlinePlus",
+      "pmid": "12420022",
+      "score": 0.7883922457695007,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "nausea",
+      "source": "MedlinePlus",
+      "pmid": "25831960",
+      "score": 0.032618917524814606,
+      "entailed": false
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "dizziness",
+      "source": "MedlinePlus",
+      "pmid": "38014714",
+      "score": 0.753354012966156,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "sweating",
+      "source": "MedlinePlus",
+      "pmid": "38014714",
+      "score": 0.7070902585983276,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "weakness",
+      "source": "MedlinePlus",
+      "pmid": "34139247",
+      "score": 0.25246772170066833,
+      "entailed": false
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "fear of death",
+      "source": "MedlinePlus",
+      "pmid": "27441462",
+      "score": 0.9108155965805054,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "racing heart",
+      "source": "MedlinePlus",
+      "pmid": "38014714",
+      "score": 0.9332136511802673,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "avoidance behavior",
+      "source": "MedlinePlus",
+      "pmid": "23278473",
+      "score": 0.6203130483627319,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "panic attacks",
+      "source": "MedlinePlus",
+      "pmid": "34871964",
+      "score": 0.9372751712799072,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "difficulty breathing",
+      "source": "MedlinePlus",
+      "pmid": "40669111",
+      "score": 0.13674022257328033,
+      "entailed": false
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "trembling",
+      "source": "MedlinePlus",
+      "pmid": "25831960",
+      "score": 0.6452943086624146,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "choking feeling",
+      "source": "MedlinePlus",
+      "pmid": "39729646",
+      "score": 0.6973616480827332,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "fear of losing control",
+      "source": "MedlinePlus",
+      "pmid": "41668511",
+      "score": 0.7537398934364319,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "worry about future attacks",
+      "source": "MedlinePlus",
+      "pmid": "33554746",
+      "score": 0.6939646005630493,
+      "entailed": true
+    },
+    {
+      "disease": "panic disorder",
+      "symptom": "shaking",
+      "source": "MedlinePlus",
+      "pmid": "38014714",
+      "score": 0.2515602707862854,
+      "entailed": false
+    },
+    {
+      "disease": "pelvic inflammatory disease",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "32052831",
+      "score": 0.3337502181529999,
+      "entailed": false
+    },
+    {
+      "disease": "pelvic inflammatory disease",
+      "symptom": "pain during sex",
+      "source": "MedlinePlus",
+      "pmid": "31524362",
+      "score": 0.9101619720458984,
+      "entailed": true
+    },
+    {
+      "disease": "pelvic inflammatory disease",
+      "symptom": "bleeding between periods",
+      "source": "MedlinePlus",
+      "pmid": "30878687",
+      "score": 0.014699136838316917,
+      "entailed": false
+    },
+    {
+      "disease": "pelvic inflammatory disease",
+      "symptom": "foul smelling discharge",
+      "source": "MedlinePlus",
+      "pmid": "41789190",
+      "score": 0.9638999104499817,
+      "entailed": true
+    },
+    {
+      "disease": "pelvic inflammatory disease",
+      "symptom": "painful urination",
+      "source": "MedlinePlus",
+      "pmid": "41552286",
+      "score": 0.011964277364313602,
+      "entailed": false
+    },
+    {
+      "disease": "pneumocystis infections",
+      "symptom": "chills",
+      "source": "MedlinePlus",
+      "pmid": "39381601",
+      "score": 0.0028232664335519075,
+      "entailed": false
+    },
+    {
+      "disease": "pneumocystis infections",
+      "symptom": "cough",
+      "source": "MedlinePlus",
+      "pmid": "32000290",
+      "score": 0.8406776785850525,
+      "entailed": true
+    },
+    {
+      "disease": "pneumocystis infections",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "34277314",
+      "score": 0.7731478214263916,
+      "entailed": true
+    },
+    {
+      "disease": "pneumocystis infections",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "39381601",
+      "score": 0.002136087045073509,
+      "entailed": false
+    },
+    {
+      "disease": "pneumocystis infections",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "32000290",
+      "score": 0.686762809753418,
+      "entailed": true
+    },
+    {
+      "disease": "pneumocystis infections",
+      "symptom": "difficulty breathing",
+      "source": "MedlinePlus",
+      "pmid": "32000290",
+      "score": 0.022345449775457382,
+      "entailed": false
+    },
+    {
+      "disease": "polio and post-polio syndrome",
+      "symptom": "stomach pain",
+      "source": "MedlinePlus",
+      "pmid": "38707147",
+      "score": 0.4663642644882202,
+      "entailed": false
+    },
+    {
+      "disease": "polio and post-polio syndrome",
+      "symptom": "nausea",
+      "source": "MedlinePlus",
+      "pmid": "29506301",
+      "score": 0.9470369219779968,
+      "entailed": true
+    },
+    {
+      "disease": "polio and post-polio syndrome",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "25879413",
+      "score": 0.9051001071929932,
+      "entailed": true
+    },
+    {
+      "disease": "polio and post-polio syndrome",
+      "symptom": "headache",
+      "source": "MedlinePlus",
+      "pmid": "28902845",
+      "score": 0.0016300351126119494,
+      "entailed": false
+    },
+    {
+      "disease": "polio and post-polio syndrome",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "28902845",
+      "score": 0.022105619311332703,
+      "entailed": false
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "cough",
+      "source": "MedlinePlus",
+      "pmid": "37061399",
+      "score": 0.5324745774269104,
+      "entailed": true
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "chest pain",
+      "source": "MedlinePlus",
+      "pmid": "36379497",
+      "score": 0.6473469734191895,
+      "entailed": true
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "stomach pain",
+      "source": "MedlinePlus",
+      "pmid": "41092926",
+      "score": 0.0011291421251371503,
+      "entailed": false
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "37793728",
+      "score": 0.6970998048782349,
+      "entailed": true
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "39624957",
+      "score": 0.7795272469520569,
+      "entailed": true
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "diarrhea",
+      "source": "MedlinePlus",
+      "pmid": "36813431",
+      "score": 0.03311442956328392,
+      "entailed": false
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "headaches",
+      "source": "MedlinePlus",
+      "pmid": "38642570",
+      "score": 0.0013851025141775608,
+      "entailed": false
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "sleep problems",
+      "source": "MedlinePlus",
+      "pmid": "37227000",
+      "score": 0.0035459271166473627,
+      "entailed": false
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "difficulty breathing",
+      "source": "MedlinePlus",
+      "pmid": "34312178",
+      "score": 0.008669848553836346,
+      "entailed": false
+    },
+    {
+      "disease": "post-covid conditions (long covid)",
+      "symptom": "brain fog",
+      "source": "MedlinePlus",
+      "pmid": "37555926",
+      "score": 0.006959108170121908,
+      "entailed": false
+    },
+    {
+      "disease": "post-traumatic stress disorder",
+      "symptom": "nightmares",
+      "source": "MedlinePlus",
+      "pmid": "40764082",
+      "score": 0.9610275626182556,
+      "entailed": true
+    },
+    {
+      "disease": "post-traumatic stress disorder",
+      "symptom": "frightening thoughts",
+      "source": "MedlinePlus",
+      "pmid": "35352034",
+      "score": 0.7080724835395813,
+      "entailed": true
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "symptom": "irritability",
+      "source": "MedlinePlus",
+      "pmid": "39669254",
+      "score": 0.0038749142549932003,
+      "entailed": false
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "symptom": "night sweats",
+      "source": "MedlinePlus",
+      "pmid": "38458217",
+      "score": 0.8010895252227783,
+      "entailed": true
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "symptom": "pain during sex",
+      "source": "MedlinePlus",
+      "pmid": "38523311",
+      "score": 0.9224435091018677,
+      "entailed": true
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "symptom": "decreased sex drive",
+      "source": "MedlinePlus",
+      "pmid": "31363339",
+      "score": 0.7118350863456726,
+      "entailed": true
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "symptom": "hot flashes",
+      "source": "MedlinePlus",
+      "pmid": "40410629",
+      "score": 0.6629614233970642,
+      "entailed": true
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "symptom": "poor concentration",
+      "source": "MedlinePlus",
+      "pmid": "36682889",
+      "score": 0.5238773226737976,
+      "entailed": true
+    },
+    {
+      "disease": "primary ovarian insufficiency",
+      "symptom": "vaginal dryness",
+      "source": "MedlinePlus",
+      "pmid": "38458217",
+      "score": 0.010673950426280499,
+      "entailed": false
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "loss of balance",
+      "source": "MedlinePlus",
+      "pmid": "7496773",
+      "score": 0.7821713089942932,
+      "entailed": true
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "depression",
+      "source": "MedlinePlus",
+      "pmid": "36933007",
+      "score": 0.9746567010879517,
+      "entailed": true
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "difficulty swallowing",
+      "source": "MedlinePlus",
+      "pmid": "39957197",
+      "score": 0.0033053397201001644,
+      "entailed": false
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "blurred vision",
+      "source": "MedlinePlus",
+      "pmid": "31216016",
+      "score": 0.816792368888855,
+      "entailed": true
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "speech problems",
+      "source": "MedlinePlus",
+      "pmid": "12654952",
+      "score": 0.5284754633903503,
+      "entailed": true
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "apathy",
+      "source": "MedlinePlus",
+      "pmid": "34761056",
+      "score": 0.9620307683944702,
+      "entailed": true
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "mood changes",
+      "source": "MedlinePlus",
+      "pmid": "38908985",
+      "score": 0.005317062605172396,
+      "entailed": false
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "symptom": "eye movement problems",
+      "source": "MedlinePlus",
+      "pmid": "40415458",
+      "score": 0.8856902718544006,
+      "entailed": true
+    },
+    {
+      "disease": "prostate cancer",
+      "symptom": "blood in urine",
+      "source": "MedlinePlus",
+      "pmid": "36768533",
+      "score": 0.5213924050331116,
+      "entailed": true
+    },
+    {
+      "disease": "prostate cancer",
+      "symptom": "frequent urination",
+      "source": "MedlinePlus",
+      "pmid": "28482433",
+      "score": 0.8072806000709534,
+      "entailed": true
+    },
+    {
+      "disease": "prostate cancer",
+      "symptom": "weak urine stream",
+      "source": "MedlinePlus",
+      "pmid": "24904833",
+      "score": 0.0018172884592786431,
+      "entailed": false
+    },
+    {
+      "disease": "prostate cancer",
+      "symptom": "painful urination",
+      "source": "MedlinePlus",
+      "pmid": "33025917",
+      "score": 0.011423798277974129,
+      "entailed": false
+    },
+    {
+      "disease": "prostate cancer",
+      "symptom": "blood in semen",
+      "source": "MedlinePlus",
+      "pmid": "41511367",
+      "score": 0.7729629278182983,
+      "entailed": true
+    },
+    {
+      "disease": "prostate diseases",
+      "symptom": "frequent urination",
+      "source": "MedlinePlus",
+      "pmid": "35176814",
+      "score": 0.2969517707824707,
+      "entailed": false
+    },
+    {
+      "disease": "prostate diseases",
+      "symptom": "weak urine stream",
+      "source": "MedlinePlus",
+      "pmid": "34331700",
+      "score": 0.41459569334983826,
+      "entailed": false
+    },
+    {
+      "disease": "prostate diseases",
+      "symptom": "urine leakage",
+      "source": "MedlinePlus",
+      "pmid": "29187923",
+      "score": 0.5849279761314392,
+      "entailed": true
+    },
+    {
+      "disease": "prostate diseases",
+      "symptom": "urinary urgency",
+      "source": "MedlinePlus",
+      "pmid": "27147135",
+      "score": 0.832079291343689,
+      "entailed": true
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "weight loss",
+      "source": "MedlinePlus",
+      "pmid": "9212767",
+      "score": 0.7237645387649536,
+      "entailed": true
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "irritability",
+      "source": "MedlinePlus",
+      "pmid": "40066936",
+      "score": 0.026401177048683167,
+      "entailed": false
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "wheezing",
+      "source": "MedlinePlus",
+      "pmid": "10495334",
+      "score": 0.8174096941947937,
+      "entailed": true
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "coughing",
+      "source": "MedlinePlus",
+      "pmid": "30182358",
+      "score": 0.01534956507384777,
+      "entailed": false
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "breathing difficulty",
+      "source": "MedlinePlus",
+      "pmid": "38114317",
+      "score": 0.24588073790073395,
+      "entailed": false
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "back arching",
+      "source": "MedlinePlus",
+      "pmid": "41612404",
+      "score": 0.896966278553009,
+      "entailed": true
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "swallowing difficulty",
+      "source": "MedlinePlus",
+      "pmid": "38116947",
+      "score": 0.0038714224938303232,
+      "entailed": false
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "poor eating",
+      "source": "MedlinePlus",
+      "pmid": "37905785",
+      "score": 0.011220961809158325,
+      "entailed": false
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "crying",
+      "source": "MedlinePlus",
+      "pmid": "30182358",
+      "score": 0.6077004671096802,
+      "entailed": true
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "frequent vomiting",
+      "source": "MedlinePlus",
+      "pmid": "33494153",
+      "score": 0.6063645482063293,
+      "entailed": true
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "gagging",
+      "source": "MedlinePlus",
+      "pmid": "30080479",
+      "score": 0.18864570558071136,
+      "entailed": false
+    },
+    {
+      "disease": "reflux in infants",
+      "symptom": "forceful vomiting",
+      "source": "MedlinePlus",
+      "pmid": "23322552",
+      "score": 0.9520261287689209,
+      "entailed": true
+    },
+    {
+      "disease": "respiratory syncytial virus infections",
+      "symptom": "cough",
+      "source": "MedlinePlus",
+      "pmid": "37440737",
+      "score": 0.8438053131103516,
+      "entailed": true
+    },
+    {
+      "disease": "respiratory syncytial virus infections",
+      "symptom": "runny nose",
+      "source": "MedlinePlus",
+      "pmid": "37440737",
+      "score": 0.07110578566789627,
+      "entailed": false
+    },
+    {
+      "disease": "respiratory syncytial virus infections",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "39265602",
+      "score": 0.3197561204433441,
+      "entailed": false
+    },
+    {
+      "disease": "respiratory syncytial virus infections",
+      "symptom": "wheezing",
+      "source": "MedlinePlus",
+      "pmid": "35950255",
+      "score": 0.004010472446680069,
+      "entailed": false
+    },
+    {
+      "disease": "respiratory syncytial virus infections",
+      "symptom": "decreased appetite",
+      "source": "MedlinePlus",
+      "pmid": "34260483",
+      "score": 0.5307599306106567,
+      "entailed": true
+    },
+    {
+      "disease": "respiratory syncytial virus infections",
+      "symptom": "sneezing",
+      "source": "MedlinePlus",
+      "pmid": "29997985",
+      "score": 0.834999680519104,
+      "entailed": true
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "shivering",
+      "source": "MedlinePlus",
+      "pmid": "39347671",
+      "score": 0.813487708568573,
+      "entailed": true
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "37866135",
+      "score": 0.9201396703720093,
+      "entailed": true
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "shortness of breath",
+      "source": "MedlinePlus",
+      "pmid": "32648899",
+      "score": 0.5421852469444275,
+      "entailed": true
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "rapid breathing",
+      "source": "MedlinePlus",
+      "pmid": "26903335",
+      "score": 0.0014551717322319746,
+      "entailed": false
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "rapid heart rate",
+      "source": "MedlinePlus",
+      "pmid": "28117397",
+      "score": 0.015725215896964073,
+      "entailed": false
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "confusion",
+      "source": "MedlinePlus",
+      "pmid": "34291398",
+      "score": 0.6467760801315308,
+      "entailed": true
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "disorientation",
+      "source": "MedlinePlus",
+      "pmid": "34291398",
+      "score": 0.16191667318344116,
+      "entailed": false
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "extreme pain",
+      "source": "MedlinePlus",
+      "pmid": "41765030",
+      "score": 0.009768407791852951,
+      "entailed": false
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "feeling cold",
+      "source": "MedlinePlus",
+      "pmid": "24814500",
+      "score": 0.06666039675474167,
+      "entailed": false
+    },
+    {
+      "disease": "sepsis",
+      "symptom": "clammy skin",
+      "source": "MedlinePlus",
+      "pmid": "33365323",
+      "score": 0.9240089654922485,
+      "entailed": true
+    },
+    {
+      "disease": "sickle cell disease",
+      "symptom": "fatigue",
+      "source": "MedlinePlus",
+      "pmid": "21342421",
+      "score": 0.9507522583007812,
+      "entailed": true
+    },
+    {
+      "disease": "sickle cell disease",
+      "symptom": "painful hand swelling",
+      "source": "MedlinePlus",
+      "pmid": "32286203",
+      "score": 0.03238813579082489,
+      "entailed": false
+    },
+    {
+      "disease": "sickle cell disease",
+      "symptom": "jaundice",
+      "source": "MedlinePlus",
+      "pmid": "37556033",
+      "score": 0.9432675242424011,
+      "entailed": true
+    },
+    {
+      "disease": "sickle cell disease",
+      "symptom": "painful feet swelling",
+      "source": "MedlinePlus",
+      "pmid": "8172044",
+      "score": 0.866854727268219,
+      "entailed": true
+    },
+    {
+      "disease": "sleep disorders",
+      "symptom": "difficulty falling asleep",
+      "source": "MedlinePlus",
+      "pmid": "39622332",
+      "score": 0.990844190120697,
+      "entailed": true
+    },
+    {
+      "disease": "sleep disorders",
+      "symptom": "sudden muscle weakness",
+      "source": "MedlinePlus",
+      "pmid": "38663202",
+      "score": 0.1411544531583786,
+      "entailed": false
+    },
+    {
+      "disease": "sleep disorders",
+      "symptom": "dreamlike experiences",
+      "source": "MedlinePlus",
+      "pmid": "27569701",
+      "score": 0.7720252871513367,
+      "entailed": true
+    },
+    {
+      "disease": "sleep disorders",
+      "symptom": "frequent naps",
+      "source": "MedlinePlus",
+      "pmid": "25213642",
+      "score": 0.8137565851211548,
+      "entailed": true
+    },
+    {
+      "disease": "sleep disorders",
+      "symptom": "sleep paralysis",
+      "source": "MedlinePlus",
+      "pmid": "40919623",
+      "score": 0.9666184782981873,
+      "entailed": true
+    },
+    {
+      "disease": "sleep disorders",
+      "symptom": "excessive daytime sleepiness",
+      "source": "MedlinePlus",
+      "pmid": "36115367",
+      "score": 0.9449487924575806,
+      "entailed": true
+    },
+    {
+      "disease": "sleep disorders",
+      "symptom": "leg jerking",
+      "source": "MedlinePlus",
+      "pmid": "36324989",
+      "score": 0.9312683939933777,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "loss of balance",
+      "source": "MedlinePlus",
+      "pmid": "36426303",
+      "score": 0.9485844373703003,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "dizziness",
+      "source": "MedlinePlus",
+      "pmid": "37327306",
+      "score": 0.9874182939529419,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "speech difficulty",
+      "source": "MedlinePlus",
+      "pmid": "32434313",
+      "score": 0.9520798325538635,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "sudden weakness",
+      "source": "MedlinePlus",
+      "pmid": "25884860",
+      "score": 0.9079113602638245,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "sudden severe headache",
+      "source": "MedlinePlus",
+      "pmid": "25884860",
+      "score": 0.9546152353286743,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "sudden confusion",
+      "source": "MedlinePlus",
+      "pmid": "27984255",
+      "score": 0.011854813434183598,
+      "entailed": false
+    },
+    {
+      "disease": "stroke",
+      "symptom": "sudden numbness",
+      "source": "MedlinePlus",
+      "pmid": "33058599",
+      "score": 0.910816490650177,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "sudden vision trouble",
+      "source": "MedlinePlus",
+      "pmid": "37809206",
+      "score": 0.6106592416763306,
+      "entailed": true
+    },
+    {
+      "disease": "stroke",
+      "symptom": "sudden walking difficulty",
+      "source": "MedlinePlus",
+      "pmid": "38905925",
+      "score": 0.9075755476951599,
+      "entailed": true
+    },
+    {
+      "disease": "teen depression",
+      "symptom": "irritability",
+      "source": "MedlinePlus",
+      "pmid": "38419494",
+      "score": 0.03988893702626228,
+      "entailed": false
+    },
+    {
+      "disease": "teen depression",
+      "symptom": "anger",
+      "source": "MedlinePlus",
+      "pmid": "26931289",
+      "score": 0.003463566768914461,
+      "entailed": false
+    },
+    {
+      "disease": "teen depression",
+      "symptom": "frustration",
+      "source": "MedlinePlus",
+      "pmid": "32864293",
+      "score": 0.00383199006319046,
+      "entailed": false
+    },
+    {
+      "disease": "teen depression",
+      "symptom": "sadness",
+      "source": "MedlinePlus",
+      "pmid": "27322353",
+      "score": 0.004978862125426531,
+      "entailed": false
+    },
+    {
+      "disease": "teen depression",
+      "symptom": "hopelessness",
+      "source": "MedlinePlus",
+      "pmid": "31397111",
+      "score": 0.002754374872893095,
+      "entailed": false
+    },
+    {
+      "disease": "teen depression",
+      "symptom": "emptiness",
+      "source": "MedlinePlus",
+      "pmid": "38579178",
+      "score": 0.0009812676580622792,
+      "entailed": false
+    },
+    {
+      "disease": "testicular cancer",
+      "symptom": "groin ache",
+      "source": "MedlinePlus",
+      "pmid": "30563561",
+      "score": 0.8698650598526001,
+      "entailed": true
+    },
+    {
+      "disease": "testicular cancer",
+      "symptom": "testicular lump",
+      "source": "MedlinePlus",
+      "pmid": "38686073",
+      "score": 0.8998663425445557,
+      "entailed": true
+    },
+    {
+      "disease": "thyroid cancer",
+      "symptom": "difficulty swallowing",
+      "source": "MedlinePlus",
+      "pmid": "36052013",
+      "score": 0.5363851189613342,
+      "entailed": true
+    },
+    {
+      "disease": "thyroid cancer",
+      "symptom": "neck lump",
+      "source": "MedlinePlus",
+      "pmid": "33145090",
+      "score": 0.9046927690505981,
+      "entailed": true
+    },
+    {
+      "disease": "thyroid cancer",
+      "symptom": "hoarseness",
+      "source": "MedlinePlus",
+      "pmid": "37972015",
+      "score": 0.3698566257953644,
+      "entailed": false
+    },
+    {
+      "disease": "thyroid cancer",
+      "symptom": "difficulty breathing",
+      "source": "MedlinePlus",
+      "pmid": "33050286",
+      "score": 0.002523136092349887,
+      "entailed": false
+    },
+    {
+      "disease": "thyroid cancer",
+      "symptom": "painful swallowing",
+      "source": "MedlinePlus",
+      "pmid": "36052013",
+      "score": 0.46490564942359924,
+      "entailed": false
+    },
+    {
+      "disease": "tonsillitis",
+      "symptom": "fever",
+      "source": "MedlinePlus",
+      "pmid": "36689967",
+      "score": 0.22209207713603973,
+      "entailed": false
+    },
+    {
+      "disease": "tonsillitis",
+      "symptom": "difficulty swallowing",
+      "source": "MedlinePlus",
+      "pmid": "40840949",
+      "score": 0.0023957903031259775,
+      "entailed": false
+    },
+    {
+      "disease": "tonsillitis",
+      "symptom": "sore throat",
+      "source": "MedlinePlus",
+      "pmid": "24710788",
+      "score": 0.1311424821615219,
+      "entailed": false
+    },
+    {
+      "disease": "tonsillitis",
+      "symptom": "swollen tonsils",
+      "source": "MedlinePlus",
+      "pmid": "35784692",
+      "score": 0.5823994278907776,
+      "entailed": true
+    },
+    {
+      "disease": "tonsillitis",
+      "symptom": "red tonsils",
+      "source": "MedlinePlus",
+      "pmid": "37493159",
+      "score": 0.12254505604505539,
+      "entailed": false
+    },
+    {
+      "disease": "tonsillitis",
+      "symptom": "white coating on tonsils",
+      "source": "MedlinePlus",
+      "pmid": "12830756",
+      "score": 0.3486490547657013,
+      "entailed": false
+    },
+    {
+      "disease": "tonsillitis",
+      "symptom": "bad breath",
+      "source": "MedlinePlus",
+      "pmid": "33219085",
+      "score": 0.0038259553257375956,
+      "entailed": false
+    },
+    {
+      "disease": "tremor",
+      "symptom": "shaky voice",
+      "source": "MedlinePlus",
+      "pmid": "42366318",
+      "score": 0.8627492785453796,
+      "entailed": true
+    },
+    {
+      "disease": "tremor",
+      "symptom": "rhythmic shaking",
+      "source": "MedlinePlus",
+      "pmid": "29193359",
+      "score": 0.36875832080841064,
+      "entailed": false
+    },
+    {
+      "disease": "tremor",
+      "symptom": "difficulty writing",
+      "source": "MedlinePlus",
+      "pmid": "34446992",
+      "score": 0.9326472282409668,
+      "entailed": true
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "pain during sex",
+      "source": "MedlinePlus",
+      "pmid": "35415708",
+      "score": 0.3885897397994995,
+      "entailed": false
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "abdominal fullness",
+      "source": "MedlinePlus",
+      "pmid": "39170990",
+      "score": 0.9065262675285339,
+      "entailed": true
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "frequent urination",
+      "source": "MedlinePlus",
+      "pmid": "37921154",
+      "score": 0.6772252321243286,
+      "entailed": true
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "lower back pain",
+      "source": "MedlinePlus",
+      "pmid": "28084714",
+      "score": 0.8429005146026611,
+      "entailed": true
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "bleeding between periods",
+      "source": "MedlinePlus",
+      "pmid": "36989026",
+      "score": 0.9727338552474976,
+      "entailed": true
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "pregnancy complications",
+      "source": "MedlinePlus",
+      "pmid": "38723935",
+      "score": 0.927814245223999,
+      "entailed": true
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "painful periods",
+      "source": "MedlinePlus",
+      "pmid": "34441389",
+      "score": 0.05186320096254349,
+      "entailed": false
+    },
+    {
+      "disease": "uterine fibroids",
+      "symptom": "heavy periods",
+      "source": "MedlinePlus",
+      "pmid": "36116480",
+      "score": 0.9531887173652649,
+      "entailed": true
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "constipation",
+      "source": "MedlinePlus",
+      "pmid": "36989026",
+      "score": 0.802721381187439,
+      "entailed": true
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "blood in urine",
+      "source": "MedlinePlus",
+      "pmid": "31345526",
+      "score": 0.062199439853429794,
+      "entailed": false
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "blood in stool",
+      "source": "MedlinePlus",
+      "pmid": "28555888",
+      "score": 0.2586464583873749,
+      "entailed": false
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "abnormal vaginal bleeding",
+      "source": "MedlinePlus",
+      "pmid": "35044676",
+      "score": 0.8791713118553162,
+      "entailed": true
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "pelvic pain",
+      "source": "MedlinePlus",
+      "pmid": "41421901",
+      "score": 0.6436321139335632,
+      "entailed": true
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "pain during sex",
+      "source": "MedlinePlus",
+      "pmid": "32014450",
+      "score": 0.5805368423461914,
+      "entailed": true
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "painful urination",
+      "source": "MedlinePlus",
+      "pmid": "28640166",
+      "score": 0.03786017373204231,
+      "entailed": false
+    },
+    {
+      "disease": "vaginal cancer",
+      "symptom": "vaginal lump",
+      "source": "MedlinePlus",
+      "pmid": "40606952",
+      "score": 0.8090760111808777,
+      "entailed": true
+    }
+  ]
+}

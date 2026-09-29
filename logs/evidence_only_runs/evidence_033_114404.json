@@ -1,0 +1,370 @@
+{
+  "symptoms": [
+    "throat irritation",
+    "avoidance behavior",
+    "mild fever"
+  ],
+  "resolved_symptoms": [
+    "avoidance behavior",
+    "mild fever",
+    "throat irritation"
+  ],
+  "diseases": [
+    {
+      "disease": "panic disorder",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "talk therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "stomach pain",
+          "pmid": "12420022",
+          "title": "Pain in patients with panic disorder: relation to symptoms, cognitive characteristics and treatment outcome.",
+          "year": "2002",
+          "confidence": 0.9382,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7872386457869299,
+          "abstract_snippet": "Although there has been a link between certain types of pain, notably chest pain, and panic disorder, the relation between pain and panic disorder has not been systematically evaluated. In the present study, the relation between pain symptoms (headache, chest pain, stomach pain, joint pain) and the"
+        },
+        {
+          "symptom": "dizziness",
+          "pmid": "38014714",
+          "title": "Pharmacological treatments in panic disorder in adults: a network meta-analysis.",
+          "year": "2023",
+          "confidence": 0.9238,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8506143835525712,
+          "abstract_snippet": "A panic attack is a discrete period of fear or anxiety that has a rapid onset and reaches a peak within 10 minutes. The main symptoms involve bodily systems, such as racing heart, chest pain, sweating, shaking, dizziness, flushing, churning stomach, faintness and breathlessness. Other recognised pan"
+        },
+        {
+          "symptom": "racing heart",
+          "pmid": "38014714",
+          "title": "Pharmacological treatments in panic disorder in adults: a network meta-analysis.",
+          "year": "2023",
+          "confidence": 0.9192,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7521046585129136,
+          "abstract_snippet": "A panic attack is a discrete period of fear or anxiety that has a rapid onset and reaches a peak within 10 minutes. The main symptoms involve bodily systems, such as racing heart, chest pain, sweating, shaking, dizziness, flushing, churning stomach, faintness and breathlessness. Other recognised pan"
+        },
+        {
+          "symptom": "sweating",
+          "pmid": "38014714",
+          "title": "Pharmacological treatments in panic disorder in adults: a network meta-analysis.",
+          "year": "2023",
+          "confidence": 0.9164,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6281594341100804,
+          "abstract_snippet": "A panic attack is a discrete period of fear or anxiety that has a rapid onset and reaches a peak within 10 minutes. The main symptoms involve bodily systems, such as racing heart, chest pain, sweating, shaking, dizziness, flushing, churning stomach, faintness and breathlessness. Other recognised pan"
+        },
+        {
+          "symptom": "nausea",
+          "pmid": "25831960",
+          "title": "Clinical symptoms associated with suicidality in patients with panic disorder.",
+          "year": "2015",
+          "confidence": 0.9099,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.45492915576304765,
+          "abstract_snippet": "Patients with panic disorder have higher rates of suicide than the general population. Among panic disorder subjects, early onset, female gender, alcohol abuse, and mood disorder increase the risk of suicidality. However, less is known about the unique relationships between discrete DSM-IV panic sym"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "panic disorder",
+          "text": "Panic disorder is not life-threatening, but it can be upsetting and affect your quality of life. And if it is not treated, it can sometimes lead to other health conditions, including depression and substance use disorders.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        },
+        {
+          "question": "panic disorder",
+          "text": "What are the treatments for panic disorder? \n Treatment for panic disorder usually includes one or more of the following:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        },
+        {
+          "question": "panic disorder",
+          "text": "What is panic disorder? \n Panic disorder is a type of anxiety disorder . It causes repeated panic attacks, which are sudden periods of intense fear, discomfort, or a sense of losing control. These attacks happen even though there is no real danger. They often cause physical symptoms. For example, you may have a rapid or pounding heartbeat and feel like you are having a heart attack .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        },
+        {
+          "question": "panic disorder",
+          "text": "If you have panic attacks, it doesn't mean you will develop a panic disorder. Many people only have one or two panic attacks in their lifetime and get better without treatment.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        },
+        {
+          "question": "panic disorder",
+          "text": "But some of the people who have panic attacks do develop panic disorder. They have repeated panic attacks. The attacks can happen as often as several times a day or as rarely as a few times a year. People with panic disorder often worry about having another attack. It may cause them to avoid places and situations where they had panic attacks in the past.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        },
+        {
+          "question": "panic disorder",
+          "text": "What causes panic disorder? \n The cause of panic disorder is unknown. Researchers think that certain factors may play a role:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        },
+        {
+          "question": "panic disorder",
+          "text": "Genetics - panic disorder sometimes runs in families. But no one knows for sure why some family members have it while others don't. \n Brain biology and chemistry. \n Your environment. \n Major stress .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        },
+        {
+          "question": "panic disorder",
+          "text": "Who is more likely to develop panic disorder? \n Panic disorder is more common in women than men. It often starts in the late teens or early adulthood. Sometimes it starts when a person is under a lot of stress. People who have had trauma, especially in childhood, are more likely to develop panic disorder.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/panicdisorder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "panic disorder",
+          "text": "Panic disorder is not life-threatening, but it can be upsetting and affect your quality of life. And if it is not treated, it can sometimes lead to other health conditions, including depression and substance use disorders.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "panic disorder",
+          "text": "What are the treatments for panic disorder? \n Treatment for panic disorder usually includes one or more of the following:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "panic disorder",
+          "text": "What is panic disorder? \n Panic disorder is a type of anxiety disorder . It causes repeated panic attacks, which are sudden periods of intense fear, discomfort, or a sense of losing control. These attacks happen even though there is no real danger. They often cause physical symptoms. For example, you may have a rapid or pounding heartbeat and feel like you are having a heart attack .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "panic disorder",
+          "text": "If you have panic attacks, it doesn't mean you will develop a panic disorder. Many people only have one or two panic attacks in their lifetime and get better without treatment.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "panic disorder",
+          "text": "But some of the people who have panic attacks do develop panic disorder. They have repeated panic attacks. The attacks can happen as often as several times a day or as rarely as a few times a year. People with panic disorder often worry about having another attack. It may cause them to avoid places and situations where they had panic attacks in the past.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "panic disorder",
+          "text": "What causes panic disorder? \n The cause of panic disorder is unknown. Researchers think that certain factors may play a role:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "panic disorder",
+          "text": "Genetics - panic disorder sometimes runs in families. But no one knows for sure why some family members have it while others don't. \n Brain biology and chemistry. \n Your environment. \n Major stress .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "panic disorder",
+          "text": "Who is more likely to develop panic disorder? \n Panic disorder is more common in women than men. It often starts in the late teens or early adulthood. Sometimes it starts when a person is under a lot of stress. People who have had trauma, especially in childhood, are more likely to develop panic disorder.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "common cold",
+      "drugs": [
+        "paracetamol",
+        "pseudoephedrine",
+        "dextromethorphan"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "cough",
+          "pmid": "16428695",
+          "title": "Cough and the common cold: ACCP evidence-based clinical practice guidelines.",
+          "year": "2006",
+          "confidence": 0.9338,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3406918466328149,
+          "abstract_snippet": "To review the literature on cough and the common cold. MEDLINE was searched through May 2004 for studies published in the English language since 1980 on human subjects using the medical subject heading terms \"cough\" and \"common cold.\" Selected case series and prospective descriptive clinical trials"
+        },
+        {
+          "symptom": "runny nose",
+          "pmid": "28516442",
+          "title": "Vaccines for the common cold.",
+          "year": "2017",
+          "confidence": 0.9226,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7153452270043078,
+          "abstract_snippet": "The common cold is a spontaneously remitting infection of the upper respiratory tract, characterised by a runny nose, nasal congestion, sneezing, cough, malaise, sore throat, and fever (usually &lt; 37.8&#xba; C). The widespread morbidity caused by the common cold worldwide is related to its ubiquit"
+        },
+        {
+          "symptom": "malaise",
+          "pmid": "28516442",
+          "title": "Vaccines for the common cold.",
+          "year": "2017",
+          "confidence": 0.9221,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.4527886673087615,
+          "abstract_snippet": "The common cold is a spontaneously remitting infection of the upper respiratory tract, characterised by a runny nose, nasal congestion, sneezing, cough, malaise, sore throat, and fever (usually &lt; 37.8&#xba; C). The widespread morbidity caused by the common cold worldwide is related to its ubiquit"
+        },
+        {
+          "symptom": "chills",
+          "pmid": "12357708",
+          "title": "Acute cooling of the body surface and the common cold.",
+          "year": "2002",
+          "confidence": 0.9191,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8177818658849196,
+          "abstract_snippet": "There is a widely held belief that acute viral respiratory infections are the result of a \"chill\" and that the onset of a respiratory infection such as the common cold is often associated with acute cooling of the body surface, especially as the result of wet clothes and hair. However, experiments i"
+        },
+        {
+          "symptom": "throat irritation",
+          "pmid": "28650326",
+          "title": "To evaluate the efficacy and safety of CofNovex plus (EMA) syrup.",
+          "year": "2017",
+          "confidence": 0.9118,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8362770369873589,
+          "abstract_snippet": "The cough and cold are very widespread conditions and a common purpose for advice in general practice. Utmost often the sign and symptoms of cough are produced by acute viral airway infection and the course is frequently benign. But it can be converted into bacterial super-infection and can cause ac"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Summary : Sneezing, sore throat, a stuffy nose, coughing -- everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.     What can you do for your cold or cough symptoms? Besides drinking plenty of fluids and getting plenty of rest, you may want to take medicines. There are lots of different cold and cough medicines, and they do different things.       - Nasal decongestants - unclog a stuffy nose    - Cough suppressants - quiet a cough    - Expectorants - loosen mucus so you can cough it up     - Antihistamines - stop runny noses and sneezing    - Pain relievers - ease fever, headaches, and minor aches and pains       Here are some other things to keep in mind about cold and cough medicines. Read labels, because many cold and cough medicines contain the same active ingredients. Taking too much of certain pain relievers can lead to serious injury. Do not give cough medicines to children under four, and don't give aspirin to children. Finally, antibiotics won't help a cold.    Food and Drug Administration",
+          "question": "Do you have information about Cold and Cough Medicines",
+          "score": 0.028423422947525978,
+          "rerank_score": 3.5297164916992188,
+          "trust_score": 0.8141061076373444
+        },
+        {
+          "text": "How might cold urticaria be treated? The treatment of cold urticaria generally consists of patient education, avoiding scenarios that may trigger a reaction (i.e. cold temperatures, cold water), and/or medications. Prophylactic treatment with high-dose antihistimines may be recommended when exposure to cold is expected and can not be avoided. Additionally, affected people are often told to carry an epinephrine autoinjector due to the increased risk of anaphylaxis. Several other therapies have reportedly been used to treat cold urticaria with varying degrees of success. These include: Leukotriene antagonists Ciclosporin Systemic corticosteroids Dapsone Oral antibiotics Synthetic hormones Danazol",
+          "question": "What are the treatments for Cold urticaria ?",
+          "score": 0.03533360734581947,
+          "rerank_score": 1.974189043045044,
+          "trust_score": 0.5046028679722226
+        },
+        {
+          "text": "Sneezing, sore throat, a stuffy nose, coughing - everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.    You can get a cold by touching your eyes or nose after you touch surfaces with cold germs on them. You can also inhale the germs. Symptoms usually begin 2 or 3 days after infection and last 2 to 14 days. Washing your hands and staying away from people with colds will help you avoid colds.     There is no cure for the common cold. For relief, try       -  Getting plenty of rest     -  Drinking fluids    -  Gargling with warm salt water     -  Using cough drops or throat sprays    -  Taking over-the-counter pain or cold medicines       However, do not give aspirin to children. And do not give cough medicine to children under four.     NIH: National Institute of Allergy and Infectious Diseases",
+          "question": "What is (are) Common Cold ?",
+          "score": 0.031066548079252243,
+          "rerank_score": 5.676638603210449,
+          "trust_score": 0.066808507110521
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "Do you have information about Cold and Cough Medicines",
+          "text": "Summary : Sneezing, sore throat, a stuffy nose, coughing -- everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.     What can you do for your cold or cough symptoms? Besides drinking plenty of fluids and getting plenty of rest, you may want to take medicines. There are lots of different cold and cough medicines, and they do different things.       - Nasal decongestants - unclog a stuffy nose    - Cough suppressants - quiet a cough    - Expectorants - loosen mucus so you can cough it up     - Antihistamines - stop runny noses and sneezing    - Pain relievers - ease fever, headaches, and minor aches and pains       Here are some other things to keep in mind about cold and cough medicines. Read labels, because many cold and cough medicines contain the same active ingredients. Taking too much of certain pain relievers can lead to serious injury. Do not give cough medicines to children under four, and don't give aspirin to children. Finally, antibiotics won't help a cold.    Food and Drug Administration",
+          "trust_score": 0.8141061076373444
+        },
+        {
+          "question": "What are the treatments for Cold urticaria ?",
+          "text": "How might cold urticaria be treated? The treatment of cold urticaria generally consists of patient education, avoiding scenarios that may trigger a reaction (i.e. cold temperatures, cold water), and/or medications. Prophylactic treatment with high-dose antihistimines may be recommended when exposure to cold is expected and can not be avoided. Additionally, affected people are often told to carry an epinephrine autoinjector due to the increased risk of anaphylaxis. Several other therapies have reportedly been used to treat cold urticaria with varying degrees of success. These include: Leukotriene antagonists Ciclosporin Systemic corticosteroids Dapsone Oral antibiotics Synthetic hormones Danazol",
+          "trust_score": 0.5046028679722226
+        },
+        {
+          "question": "What is (are) Common Cold ?",
+          "text": "Sneezing, sore throat, a stuffy nose, coughing - everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.    You can get a cold by touching your eyes or nose after you touch surfaces with cold germs on them. You can also inhale the germs. Symptoms usually begin 2 or 3 days after infection and last 2 to 14 days. Washing your hands and staying away from people with colds will help you avoid colds.     There is no cure for the common cold. For relief, try       -  Getting plenty of rest     -  Drinking fluids    -  Gargling with warm salt water     -  Using cough drops or throat sprays    -  Taking over-the-counter pain or cold medicines       However, do not give aspirin to children. And do not give cough medicine to children under four.     NIH: National Institute of Allergy and Infectious Diseases",
+          "trust_score": 0.066808507110521
+        }
+      ]
+    },
+    {
+      "disease": "chicken pox",
+      "drugs": [
+        "acyclovir",
+        "valacyclovir"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "headache",
+          "pmid": "41018329",
+          "title": "Zoster Sine Herpete: An Unusual Presentation.",
+          "year": "2025",
+          "confidence": 0.9155,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8236347061998508,
+          "abstract_snippet": "Varicella zoster virus (VZV) commonly causes chicken pox, following which the virus becomes latent in the ganglionic neurons across the entire neuroaxis. Reactivation of VZV typically causes herpes zoster (shingles), with its characteristic dermatomal distribution and post-herpetic neuralgia, as its"
+        },
+        {
+          "symptom": "skin rash",
+          "pmid": "36718910",
+          "title": "How to differentiate skin rash in covid, mononucleosis, chickenpox, sixth disease and measles.",
+          "year": "2023",
+          "confidence": 0.9107,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.790585478545413,
+          "abstract_snippet": "Skin rashes seen during COVID-19 usually feature maculopapular or vesicular morphology, thus mimicking cutaneous eruptions occurring in other common infectious dermatoses, such as mononucleosis, chickenpox, sixth disease and measles, with possible diagnostic mistakes. In this review article, we soug"
+        },
+        {
+          "symptom": "high fever",
+          "pmid": "34806766",
+          "title": "Vaccines for measles, mumps, rubella, and varicella in children.",
+          "year": "2021",
+          "confidence": 0.8928,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.751616464374179,
+          "abstract_snippet": "Measles, mumps, rubella, and varicella (chickenpox) are serious diseases that can lead to serious complications, disability, and death. However, public debate over the safety of the trivalent MMR vaccine and the resultant drop in vaccination coverage in several countries persists, despite its almost"
+        },
+        {
+          "symptom": "loss of appetite",
+          "pmid": "6276348",
+          "title": "Avian pox in blue-fronted Amazon parrots.",
+          "year": "1981",
+          "confidence": 0.886,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.9792495414304506,
+          "abstract_snippet": "During a 1-month period at a quarantine station, an epornitic of avian pox occurred in blue-fronted Amazon parrots (Amazona aestiva). Clinical signs included conjunctivitis, blepharitis, and varying degrees of anorexia and respiratory distress. Lesions included periocular ulcerations and scabs and n"
+        },
+        {
+          "symptom": "lethargy",
+          "pmid": "15054573",
+          "title": "[Varicella associated necrotizing fasciitis in a child].",
+          "year": "2004",
+          "confidence": 0.8812,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7260356165727292,
+          "abstract_snippet": "We present a rare case of necrotizing fasciitis in an 5-year-old infant with preexisting varicella infection. Initially, the patient showed acute pain and swelling of the left thorax with high inflammatory parameters and varicella-specific skin affections. MRT presented diffuse soft tissue swelling"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Chickenpox is an infection caused by the varicella-zoster virus. Most cases are in children under age 15, but older children and adults can get it. It spreads very easily from one person to another.    The classic symptom of chickenpox is an uncomfortable, itchy rash. The rash turns into fluid-filled blisters and eventually into scabs. It usually shows up on the face, chest, and back and then spreads to the rest of the body. Other symptoms include       - Fever    - Headache    - Tiredness    - Loss of appetite       Chickenpox is usually mild and lasts 5 to 10 days. Calamine lotions and oatmeal baths can help with itching. Acetaminophen can treat the fever. Do not use aspirin for chickenpox; that combination can cause Reye syndrome.    Chickenpox can sometimes cause serious problems. Adults, babies, teenagers, pregnant women, and those with weak immune systems tend to get sicker from it. They may need to take antiviral medicines.    Once you catch chickenpox, the virus usually stays in your body. You probably will not get chickenpox again, but the virus can cause shingles in adults. A chickenpox vaccine can help prevent most cases of chickenpox, or make it less severe if you do get it.    Centers for Disease Control and Prevention",
+          "question": "What is (are) Chickenpox ?",
+          "score": 0.02950761467218399,
+          "rerank_score": 8.53923225402832,
+          "trust_score": 0.5016575627842271
+        },
+        {
+          "text": "Shingles -- also called varicella-zoster -- is a painful skin disease caused by a reactivation of the chickenpox virus. It is distinctive because it affects only one side of the body. The early signs of shingles usually develop in three stages: severe pain or tingling, possibly itchy rash, and blisters that look like chickenpox. (Watch the video to learn more about shingles. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.)",
+          "question": "What is (are) Shingles ?",
+          "score": 0.028341999277472496,
+          "rerank_score": 2.7663745880126953,
+          "trust_score": 0.0048081222773829245
+        },
+        {
+          "text": "Safe and effective prescription drugs are available to treat both Trichinella infection and the symptoms that occur as a result of infection. Treatment should begin as soon as possible; a doctor will make the decision to treat based upon symptoms, exposure to raw or undercooked meat, and laboratory test results.\n    \nMore on: Resources For Health Professionals: Treatment",
+          "question": "What are the treatments for Parasites - Trichinellosis (also known as Trichinosis) ?",
+          "score": 0.024944011121988297,
+          "rerank_score": -8.093477249145508,
+          "trust_score": 9.151472717400079e-05
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What is (are) Chickenpox ?",
+          "text": "Chickenpox is an infection caused by the varicella-zoster virus. Most cases are in children under age 15, but older children and adults can get it. It spreads very easily from one person to another.    The classic symptom of chickenpox is an uncomfortable, itchy rash. The rash turns into fluid-filled blisters and eventually into scabs. It usually shows up on the face, chest, and back and then spreads to the rest of the body. Other symptoms include       - Fever    - Headache    - Tiredness    - Loss of appetite       Chickenpox is usually mild and lasts 5 to 10 days. Calamine lotions and oatmeal baths can help with itching. Acetaminophen can treat the fever. Do not use aspirin for chickenpox; that combination can cause Reye syndrome.    Chickenpox can sometimes cause serious problems. Adults, babies, teenagers, pregnant women, and those with weak immune systems tend to get sicker from it. They may need to take antiviral medicines.    Once you catch chickenpox, the virus usually stays in your body. You probably will not get chickenpox again, but the virus can cause shingles in adults. A chickenpox vaccine can help prevent most cases of chickenpox, or make it less severe if you do get it.    Centers for Disease Control and Prevention",
+          "trust_score": 0.5016575627842271
+        },
+        {
+          "question": "What is (are) Shingles ?",
+          "text": "Shingles -- also called varicella-zoster -- is a painful skin disease caused by a reactivation of the chickenpox virus. It is distinctive because it affects only one side of the body. The early signs of shingles usually develop in three stages: severe pain or tingling, possibly itchy rash, and blisters that look like chickenpox. (Watch the video to learn more about shingles. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.)",
+          "trust_score": 0.0048081222773829245
+        },
+        {
+          "question": "What are the treatments for Parasites - Trichinellosis (also known as Trichinosis) ?",
+          "text": "Safe and effective prescription drugs are available to treat both Trichinella infection and the symptoms that occur as a result of infection. Treatment should begin as soon as possible; a doctor will make the decision to treat based upon symptoms, exposure to raw or undercooked meat, and laboratory test results.\n    \nMore on: Resources For Health Professionals: Treatment",
+          "trust_score": 9.151472717400079e-05
+        }
+      ]
+    }
+  ]
+}

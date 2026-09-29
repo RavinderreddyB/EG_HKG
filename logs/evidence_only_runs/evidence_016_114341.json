@@ -1,0 +1,431 @@
+{
+  "symptoms": [
+    "behavior changes",
+    "distention of abdomen",
+    "swollen lymph glands"
+  ],
+  "resolved_symptoms": [
+    "behavior changes",
+    "distention of abdomen",
+    "swollen lymph glands"
+  ],
+  "diseases": [
+    {
+      "disease": "alcoholic hepatitis",
+      "drugs": [
+        "prednisolone",
+        "pentoxifylline"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "history of alcohol consumption",
+          "pmid": "31496843",
+          "title": "Severe alcoholic hepatitis: current perspectives.",
+          "year": "2019",
+          "confidence": 0.9213,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6920554667779175,
+          "abstract_snippet": "Severe acute alcoholic hepatitis (AH) is a catastrophic disease in the natural history of alcoholic liver disease with a very high 180-day mortality. It can present as acute on chronic liver failure with worse prognosis in the presence of infections and higher grades of liver disease severity. The c"
+        },
+        {
+          "symptom": "vomiting",
+          "pmid": "28075092",
+          "title": "Diabetes Mellitus: Management of Gastrointestinal Complications.",
+          "year": "2016",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8417237847444523,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Hepatitis B is not usually treated unless it becomes chronic. Chronic hepatitis B is treated with medicines that slow or stop the virus from damaging the liver.\n                \nMedicines for Chronic Hepatitis B\n                \nYour doctor will choose medicines or a combination of medicines that are likely to work for you. The doctor will closely watch your symptoms and schedule regular blood tests to make sure treatment is working.\n                \nMedicines given by shots include\n                \n- interferon  - peginterferon\n                \nMedicines taken by mouth include\n                \n- adefovir  - entecavir  - lamivudine  - telbivudine  - tenofovir\n                \nThe length of treatment varies. Talk with your doctor before taking other prescription medicines and over-the-counter medicines.\n                \nLiver Transplant\n                \nA liver transplant may be necessary if chronic hepatitis B causes severe liver damage that leads to liver failure. Symptoms of severe liver damage include the symptoms of hepatitis B and\n                \n- generalized itching  - a longer than usual amount of time for bleeding to stop  - easy bruising  - swollen stomach or ankles  - spiderlike blood vessels, called spider angiomas, that develop on the skin\n                \nLiver transplant is surgery to remove a diseased or injured liver and replace it with a healthy one from another person, called a donor. If your doctors tell you that you need a transplant, you should talk with them about the long-term demands of living with a liver transplant.\n                \nA team of surgeonsdoctors who specialize in surgeryperforms a liver transplant in a hospital. You will learn how to take care of yourself after you go home and about the medicines youll need to take to protect your new liver. Medicines taken after liver transplant surgery can prevent hepatitis B from coming back.\n                \nTesting for Liver Cancer\n                \nHaving hepatitis B increases your risk for getting liver cancer, so your doctor may suggest an ultrasound test of the liver every 6 to 12 months. Finding cancer early makes it more treatable. Ultrasound is a machine that uses sound waves to create a picture of your liver. Ultrasound is performed at a hospital or radiology center by a specially trained technician. The image, called a sonogram, can show the livers size and the presence of cancerous tumors.",
+          "question": "What are the treatments for What I need to know about Hepatitis B ?",
+          "score": 0.028405731543898582,
+          "rerank_score": -3.548431873321533,
+          "trust_score": 0.006180555467109432
+        },
+        {
+          "text": "If you have hepatitis A, you should do things to take care of yourself, including eating a healthy diet. Avoid drinking alcohol, which can harm the liver. Talk with your doctor before taking vitamins and other supplements.",
+          "question": "What to do for What I need to know about Hepatitis A ?",
+          "score": 0.026282060891389847,
+          "rerank_score": -5.376289367675781,
+          "trust_score": 0.0011622458348051654
+        },
+        {
+          "text": "If you have chronic hepatitis B, you should do things to take care of yourself, including eating a healthy diet. Avoid drinking alcohol, which can harm the liver. Talk with your doctor before taking vitamins and other supplements.",
+          "question": "What to do for What I need to know about Hepatitis B ?",
+          "score": 0.02337741106748581,
+          "rerank_score": -5.886808395385742,
+          "trust_score": 0.0007247218060985183
+        },
+        {
+          "text": "Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Hepatitis is an inflammation of the liver.     Viruses cause most cases of hepatitis. The type of hepatitis is named for the virus that causes it; for example, hepatitis A, hepatitis B or hepatitis C. Drug or alcohol use can also cause hepatitis. In other cases, your body mistakenly attacks healthy cells in the liver.    Some people who have hepatitis have no symptoms. Others may have       - Loss of appetite    - Nausea and vomiting    - Diarrhea    - Dark-colored urine and pale bowel movements    - Stomach pain    - Jaundice, yellowing of skin and eyes       Some forms of hepatitis are mild, and others can be serious. Some can lead to scarring, called cirrhosis, or to liver cancer.    Sometimes hepatitis goes away by itself. If it does not, it can be treated with drugs. Sometimes hepatitis lasts a lifetime. Vaccines can help prevent some viral forms.",
+          "question": "What is (are) Hepatitis ?",
+          "score": 0.03064775839447975,
+          "rerank_score": 0.6692618131637573,
+          "trust_score": 0.0006801154800703028
+        },
+        {
+          "text": "Nonalcoholic steatohepatitis, or NASH, is a common, often silent liver disease. It resembles alcoholic liver disease, but occurs in people who drink little or no alcohol. The major feature in NASH is fat in the liver, along with inflammation and damage. Most people with NASH feel well and are not aware that they have a liver problem. Nevertheless, NASH can be severe and can lead to cirrhosis, in which the liver is permanently damaged and scarred and no longer able to work properly. NASH most often occurs in people who are middle aged and overweight or obese. Affected individuals may also have elevated levels of blood lipids (such as cholesterol and triglycerides) and many have diabetes or prediabetes. Treatment is centered around working towards a healthy lifestyle, including weight reduction, dietary modification, increased activity and avoidance of alcohol and unnecessary medications. The underlying cause of NASH remains unclear.",
+          "question": "What is (are) Nonalcoholic steatohepatitis ?",
+          "score": 0.028519803658127785,
+          "rerank_score": -2.24068546295166,
+          "trust_score": 4.5548106684524616e-05
+        },
+        {
+          "text": "How might hyper IgD syndrome be treated? There is no cure for hyper IgD syndrome and currently no established treatment.  Management is focused on supportive care. Some patients have responded to high-dose prednisone. Simvastatin, Anakinria (an IL-1 receptor antagonist) and TNF inhibitors have recently shown some success in controlling inflammatory attacks.   Consultations with the following specialists may be helpful: dermatologist, rheumatologist, and infectious disease specialist (to evaluate periodic fever).",
+          "question": "What are the treatments for Hyper-IgD syndrome ?",
+          "score": 0.028210217133164406,
+          "rerank_score": -9.973736763000488,
+          "trust_score": 1.6168704630052035e-05
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for What I need to know about Hepatitis B ?",
+          "text": "Hepatitis B is not usually treated unless it becomes chronic. Chronic hepatitis B is treated with medicines that slow or stop the virus from damaging the liver.\n                \nMedicines for Chronic Hepatitis B\n                \nYour doctor will choose medicines or a combination of medicines that are likely to work for you. The doctor will closely watch your symptoms and schedule regular blood tests to make sure treatment is working.\n                \nMedicines given by shots include\n                \n- interferon  - peginterferon\n                \nMedicines taken by mouth include\n                \n- adefovir  - entecavir  - lamivudine  - telbivudine  - tenofovir\n                \nThe length of treatment varies. Talk with your doctor before taking other prescription medicines and over-the-counter medicines.\n                \nLiver Transplant\n                \nA liver transplant may be necessary if chronic hepatitis B causes severe liver damage that leads to liver failure. Symptoms of severe liver damage include the symptoms of hepatitis B and\n                \n- generalized itching  - a longer than usual amount of time for bleeding to stop  - easy bruising  - swollen stomach or ankles  - spiderlike blood vessels, called spider angiomas, that develop on the skin\n                \nLiver transplant is surgery to remove a diseased or injured liver and replace it with a healthy one from another person, called a donor. If your doctors tell you that you need a transplant, you should talk with them about the long-term demands of living with a liver transplant.\n                \nA team of surgeonsdoctors who specialize in surgeryperforms a liver transplant in a hospital. You will learn how to take care of yourself after you go home and about the medicines youll need to take to protect your new liver. Medicines taken after liver transplant surgery can prevent hepatitis B from coming back.\n                \nTesting for Liver Cancer\n                \nHaving hepatitis B increases your risk for getting liver cancer, so your doctor may suggest an ultrasound test of the liver every 6 to 12 months. Finding cancer early makes it more treatable. Ultrasound is a machine that uses sound waves to create a picture of your liver. Ultrasound is performed at a hospital or radiology center by a specially trained technician. The image, called a sonogram, can show the livers size and the presence of cancerous tumors.",
+          "trust_score": 0.006180555467109432
+        },
+        {
+          "question": "What to do for What I need to know about Hepatitis A ?",
+          "text": "If you have hepatitis A, you should do things to take care of yourself, including eating a healthy diet. Avoid drinking alcohol, which can harm the liver. Talk with your doctor before taking vitamins and other supplements.",
+          "trust_score": 0.0011622458348051654
+        },
+        {
+          "question": "What to do for What I need to know about Hepatitis B ?",
+          "text": "If you have chronic hepatitis B, you should do things to take care of yourself, including eating a healthy diet. Avoid drinking alcohol, which can harm the liver. Talk with your doctor before taking vitamins and other supplements.",
+          "trust_score": 0.0007247218060985183
+        },
+        {
+          "question": "What is (are) Hepatitis ?",
+          "text": "Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Hepatitis is an inflammation of the liver.     Viruses cause most cases of hepatitis. The type of hepatitis is named for the virus that causes it; for example, hepatitis A, hepatitis B or hepatitis C. Drug or alcohol use can also cause hepatitis. In other cases, your body mistakenly attacks healthy cells in the liver.    Some people who have hepatitis have no symptoms. Others may have       - Loss of appetite    - Nausea and vomiting    - Diarrhea    - Dark-colored urine and pale bowel movements    - Stomach pain    - Jaundice, yellowing of skin and eyes       Some forms of hepatitis are mild, and others can be serious. Some can lead to scarring, called cirrhosis, or to liver cancer.    Sometimes hepatitis goes away by itself. If it does not, it can be treated with drugs. Sometimes hepatitis lasts a lifetime. Vaccines can help prevent some viral forms.",
+          "trust_score": 0.0006801154800703028
+        },
+        {
+          "question": "What is (are) Nonalcoholic steatohepatitis ?",
+          "text": "Nonalcoholic steatohepatitis, or NASH, is a common, often silent liver disease. It resembles alcoholic liver disease, but occurs in people who drink little or no alcohol. The major feature in NASH is fat in the liver, along with inflammation and damage. Most people with NASH feel well and are not aware that they have a liver problem. Nevertheless, NASH can be severe and can lead to cirrhosis, in which the liver is permanently damaged and scarred and no longer able to work properly. NASH most often occurs in people who are middle aged and overweight or obese. Affected individuals may also have elevated levels of blood lipids (such as cholesterol and triglycerides) and many have diabetes or prediabetes. Treatment is centered around working towards a healthy lifestyle, including weight reduction, dietary modification, increased activity and avoidance of alcohol and unnecessary medications. The underlying cause of NASH remains unclear.",
+          "trust_score": 4.5548106684524616e-05
+        },
+        {
+          "question": "What are the treatments for Hyper-IgD syndrome ?",
+          "text": "How might hyper IgD syndrome be treated? There is no cure for hyper IgD syndrome and currently no established treatment.  Management is focused on supportive care. Some patients have responded to high-dose prednisone. Simvastatin, Anakinria (an IL-1 receptor antagonist) and TNF inhibitors have recently shown some success in controlling inflammatory attacks.   Consultations with the following specialists may be helpful: dermatologist, rheumatologist, and infectious disease specialist (to evaluate periodic fever).",
+          "trust_score": 1.6168704630052035e-05
+        }
+      ]
+    },
+    {
+      "disease": "infectious mononucleosis",
+      "drugs": [],
+      "treatment_modalities": [
+        "pain relievers",
+        "rest",
+        "fluids"
+      ],
+      "citations": [
+        {
+          "symptom": "sore throat",
+          "pmid": "26424648",
+          "title": "Infectious Mononucleosis.",
+          "year": "2015",
+          "confidence": 0.9497,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6053837634338414,
+          "abstract_snippet": "Infectious mononucleosis is a clinical entity characterized by sore throat, cervical lymph node enlargement, fatigue, and fever most often seen in adolescents and young adults and lasting several weeks. It can be caused by a number of pathogens, but this chapter only discusses infectious mononucleos"
+        },
+        {
+          "symptom": "fever",
+          "pmid": "37526456",
+          "title": "Infectious Mononucleosis: An Updated Review.",
+          "year": "2024",
+          "confidence": 0.9362,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3677136487792223,
+          "abstract_snippet": "Infectious mononucleosis is common among adolescents and young adults. Although the majority of cases resolve spontaneously, life-threatening manifestations, and complications have been recognised. The purpose of this article is to familiarize clinicians with the clinical manifestations, evaluation,"
+        },
+        {
+          "symptom": "extreme fatigue",
+          "pmid": "37526456",
+          "title": "Infectious Mononucleosis: An Updated Review.",
+          "year": "2024",
+          "confidence": 0.9297,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7833048105917721,
+          "abstract_snippet": "Infectious mononucleosis is common among adolescents and young adults. Although the majority of cases resolve spontaneously, life-threatening manifestations, and complications have been recognised. The purpose of this article is to familiarize clinicians with the clinical manifestations, evaluation,"
+        },
+        {
+          "symptom": "body aches",
+          "pmid": "27347865",
+          "title": "Exercise and the Athlete With Infectious Mononucleosis.",
+          "year": "2017",
+          "confidence": 0.9274,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8008778902471317,
+          "abstract_snippet": "To determine appropriate management of the active individual with infectious mononucleosis (IM), including issues of diagnosis, the determination of splenomegaly, and other measures of disease status, the relationship of the disease to chronic fatigue syndrome (CFS), and the risks of exercise at var"
+        },
+        {
+          "symptom": "rash",
+          "pmid": "36756024",
+          "title": "Eosinophilia in Amoxicillin-Induced Rash in Infectious Mononucleosis.",
+          "year": "2023",
+          "confidence": 0.9264,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6765398193264018,
+          "abstract_snippet": "A link between amoxicillin-induced rash in infectious mononucleosis and allergy has been previously reported. However, the pathophysiological cause and aspects are unclear. Additionally, the complex immunological interaction between the host and Epstein-Barr virus needs to be studied. This article r"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the treatments for infectious mononucleosis (mono)?",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "If you have severe symptoms, your provider may suggest additional treatment based on which organs in your body are affected by the mono.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Antibiotics don't treat viral infections, so they do not help with mono. Some people do get bacterial infections such as strep throat along with mono. In that case, you probably need antibiotics to treat the bacterial infection. But you should not take penicillin antibiotics like ampicillin or amoxicillin. Those antibiotics can cause a rash in people who have mono.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What is infectious mononucleosis (mono)? \n Infectious mononucleosis (mono) is a disease caused by viruses .The most common cause is the Epstein-Barr virus (EBV). Mono is contagious, which means it can spread from person to person. It is common among teenagers and young adults, especially college students.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What causes infectious mononucleosis (mono)? \n Mono can be caused by many different viruses. But it is most often caused by the Epstein-Barr virus (EBV). EBV is found all over the world. Most people get an EBV infection at some point in their lives, but only some of them will get the symptoms of mono. EBV infections often happen during childhood or when someone is a young adult. EBV infections in children usually do not cause symptoms. And when they do, it's hard to tell the difference between the symptoms of mono and the symptoms of other common childhood illnesses such as the flu . Teens and young adults who get EBV are more likely to have symptoms that are typical of mono.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "EBV and the other viruses that cause mono are usually spread through body fluids, especially saliva (spit). This means that you can get it through kissing. That's why mono is sometimes called \"the kissing disease.\" But you can also get these viruses if you share food, drinks, forks, spoons, or lip balm with someone who has mono. Other less common ways of getting an infection are through blood transfusions , organ transplants , and blood and semen during sexual contact.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the symptoms of infectious mononucleosis (mono)? \n The symptoms of mono usually start four to six weeks after you get the infection. But they may start sooner in young children. The symptoms often develop slowly, and they may not all happen at the same time. They can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Extreme fatigue \n Fever \n Sore throat \n Head and body aches \n Swollen lymph glands in your neck and armpits \n Rash \n Swollen liver, spleen, or both (these are less common symptoms)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the treatments for infectious mononucleosis (mono)?",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "If you have severe symptoms, your provider may suggest additional treatment based on which organs in your body are affected by the mono.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Antibiotics don't treat viral infections, so they do not help with mono. Some people do get bacterial infections such as strep throat along with mono. In that case, you probably need antibiotics to treat the bacterial infection. But you should not take penicillin antibiotics like ampicillin or amoxicillin. Those antibiotics can cause a rash in people who have mono.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What is infectious mononucleosis (mono)? \n Infectious mononucleosis (mono) is a disease caused by viruses .The most common cause is the Epstein-Barr virus (EBV). Mono is contagious, which means it can spread from person to person. It is common among teenagers and young adults, especially college students.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What causes infectious mononucleosis (mono)? \n Mono can be caused by many different viruses. But it is most often caused by the Epstein-Barr virus (EBV). EBV is found all over the world. Most people get an EBV infection at some point in their lives, but only some of them will get the symptoms of mono. EBV infections often happen during childhood or when someone is a young adult. EBV infections in children usually do not cause symptoms. And when they do, it's hard to tell the difference between the symptoms of mono and the symptoms of other common childhood illnesses such as the flu . Teens and young adults who get EBV are more likely to have symptoms that are typical of mono.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "EBV and the other viruses that cause mono are usually spread through body fluids, especially saliva (spit). This means that you can get it through kissing. That's why mono is sometimes called \"the kissing disease.\" But you can also get these viruses if you share food, drinks, forks, spoons, or lip balm with someone who has mono. Other less common ways of getting an infection are through blood transfusions , organ transplants , and blood and semen during sexual contact.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the symptoms of infectious mononucleosis (mono)? \n The symptoms of mono usually start four to six weeks after you get the infection. But they may start sooner in young children. The symptoms often develop slowly, and they may not all happen at the same time. They can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Extreme fatigue \n Fever \n Sore throat \n Head and body aches \n Swollen lymph glands in your neck and armpits \n Rash \n Swollen liver, spleen, or both (these are less common symptoms)",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "leukodystrophies",
+      "drugs": [],
+      "treatment_modalities": [
+        "physical therapy",
+        "occupational therapy",
+        "medicines",
+        "speech therapy",
+        "nutritional therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "vision problems",
+          "pmid": "36003149",
+          "title": "Emerging cellular themes in leukodystrophies.",
+          "year": "2022",
+          "confidence": 0.9329,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8237516532191517,
+          "abstract_snippet": "Leukodystrophies are a broad spectrum of neurological disorders that are characterized primarily by deficiencies in myelin formation. Clinical manifestations of leukodystrophies usually appear during childhood and common symptoms include lack of motor coordination, difficulty with or loss of ambulat"
+        },
+        {
+          "symptom": "speech difficulty",
+          "pmid": "36003149",
+          "title": "Emerging cellular themes in leukodystrophies.",
+          "year": "2022",
+          "confidence": 0.9327,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8670455590980425,
+          "abstract_snippet": "Leukodystrophies are a broad spectrum of neurological disorders that are characterized primarily by deficiencies in myelin formation. Clinical manifestations of leukodystrophies usually appear during childhood and common symptoms include lack of motor coordination, difficulty with or loss of ambulat"
+        },
+        {
+          "symptom": "behavior changes",
+          "pmid": "28638987",
+          "title": "Leukodystrophies: a proposed classification system based on pathological changes and pathogenetic mechanisms.",
+          "year": "2017",
+          "confidence": 0.9199,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8185220927836171,
+          "abstract_snippet": "Leukodystrophies are genetically determined disorders characterized by the selective involvement of the central nervous system white matter. Onset may be at any age, from prenatal life to senescence. Many leukodystrophies are degenerative in nature, but some only impair white matter function. The cl"
+        },
+        {
+          "symptom": "walking difficulty",
+          "pmid": "39919255",
+          "title": "Disease Burden in Female Patients With X-Linked Adrenoleukodystrophy.",
+          "year": "2025",
+          "confidence": 0.889,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7566899363390547,
+          "abstract_snippet": "X-linked adrenoleukodystrophy (ALD) is a neurodegenerative disease primarily affecting male patients. Female patients with ALD are also affected in adulthood, yet their disease course and symptom burden remain poorly defined. In this single-site study, we set out to characterize disease burden in fe"
+        },
+        {
+          "symptom": "hearing problems",
+          "pmid": "33942428",
+          "title": "Bi-allelic KARS1 pathogenic variants affecting functions of cytosolic and mitochondrial isoforms are associated with a progressive and multisystem disease.",
+          "year": "2021",
+          "confidence": 0.8859,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8886893496946191,
+          "abstract_snippet": "KARS1 encodes a lysyl-transfer RNA synthetase (LysRS) that links lysine to its cognate transfer RNA. Two different KARS1 isoforms exert functional effects in cytosol and mitochondria. Bi-allelic pathogenic variants in KARS1 have been associated to sensorineural hearing and visual loss, neuropathy, s"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "leukodystrophies",
+          "text": "What are the treatments for leukodystrophies? \n There is no cure for leukodystrophies. Treatment focuses on relieving symptoms and providing support. It may include: \n Medicines to manage muscle tone, seizures, and spasticity (muscle stiffness) \n Physical, occupational, and speech therapies to improve mobility, function, and cognitive problems \n Nutritional therapy for eating and swallowing problems \n Educational and recreational programs",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "One type of leukodystrophy, CTX, is treatable if it is diagnosed early. It is treated with chenodeoxycholic acid (CDCA) replacement therapy.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are leukodystrophies? \n Leukodystrophies are a group of rare genetic disorders that affect the central nervous system (CNS). The CNS is made up of your brain and spinal cord. Leukodystrophies damage the white matter of your CNS. The white matter includes: \n Nerve fibers, also called axons, which connect your nerve cells \n Myelin, a layer of proteins and fatty materials that covers and protects the nerve fibers. It also helps speed up signals between the nerve cells.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "When the white matter is damaged, it can slow down or block the signals between nerve cells. This can cause many different symptoms, including trouble with movement , vision , hearing , and thinking.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There are over 50 types of leukodystrophies. Some types are present at birth, while others may not cause symptoms until a child becomes a toddler. A few types mainly affect adults. Most types get worse over time.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What causes leukodystrophies? \n Leukodystrophies are caused by genetic changes. These changes are usually inherited, meaning that they are passed from parent to child.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are the symptoms of leukodystrophies? \n The symptoms of leukodystrophies depend on the type; they can include a gradual loss of: \n Muscle tone \n Balance and mobility \n Walking \n Speech \n Ability to eat \n Vision \n Hearing \n Behavior",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There can also be other symptoms, such as: \n Learning disabilities \n Bladder issues \n Breathing problems \n Developmental disabilities \n Muscle control disorders \n Seizures",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "leukodystrophies",
+          "text": "What are the treatments for leukodystrophies? \n There is no cure for leukodystrophies. Treatment focuses on relieving symptoms and providing support. It may include: \n Medicines to manage muscle tone, seizures, and spasticity (muscle stiffness) \n Physical, occupational, and speech therapies to improve mobility, function, and cognitive problems \n Nutritional therapy for eating and swallowing problems \n Educational and recreational programs",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "One type of leukodystrophy, CTX, is treatable if it is diagnosed early. It is treated with chenodeoxycholic acid (CDCA) replacement therapy.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are leukodystrophies? \n Leukodystrophies are a group of rare genetic disorders that affect the central nervous system (CNS). The CNS is made up of your brain and spinal cord. Leukodystrophies damage the white matter of your CNS. The white matter includes: \n Nerve fibers, also called axons, which connect your nerve cells \n Myelin, a layer of proteins and fatty materials that covers and protects the nerve fibers. It also helps speed up signals between the nerve cells.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "When the white matter is damaged, it can slow down or block the signals between nerve cells. This can cause many different symptoms, including trouble with movement , vision , hearing , and thinking.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There are over 50 types of leukodystrophies. Some types are present at birth, while others may not cause symptoms until a child becomes a toddler. A few types mainly affect adults. Most types get worse over time.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What causes leukodystrophies? \n Leukodystrophies are caused by genetic changes. These changes are usually inherited, meaning that they are passed from parent to child.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are the symptoms of leukodystrophies? \n The symptoms of leukodystrophies depend on the type; they can include a gradual loss of: \n Muscle tone \n Balance and mobility \n Walking \n Speech \n Ability to eat \n Vision \n Hearing \n Behavior",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There can also be other symptoms, such as: \n Learning disabilities \n Bladder issues \n Breathing problems \n Developmental disabilities \n Muscle control disorders \n Seizures",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

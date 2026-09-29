@@ -1,0 +1,386 @@
+{
+  "symptoms": [
+    "weakness in limbs",
+    "changed period flow",
+    "intrusive worries"
+  ],
+  "resolved_symptoms": [
+    "changed period flow",
+    "intrusive worries",
+    "weakness in limbs"
+  ],
+  "diseases": [
+    {
+      "disease": "menopause",
+      "drugs": [],
+      "treatment_modalities": [
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "irregular periods",
+          "pmid": "37802711",
+          "title": "Premature ovarian insufficiency, early menopause, and induced menopause.",
+          "year": "2024",
+          "confidence": 0.9009,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7721579696469978,
+          "abstract_snippet": "Premature ovarian insufficiency (POI) is a condition in which there is a decline in ovarian function in women who are younger than 40 years resulting in a hypo-oestrogenic state with elevated gonadotrophins and oligomenorrhoea/amenorrhoea. This leads to short term complications of menopausal symptom"
+        },
+        {
+          "symptom": "changed period flow",
+          "pmid": "36737407",
+          "title": "Evolution of sleep-disordered breathing and blood pressure during menopausal transition.",
+          "year": "2023",
+          "confidence": 0.8947,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6816517167404765,
+          "abstract_snippet": "The purpose of this study was to investigate how the blood pressure increase observed during menopausal transition is affected by sleep-disordered breathing and the menopause itself. Further, we aimed to find new sleep-disordered breathing related markers that would predict the development of hypert"
+        },
+        {
+          "symptom": "changed period length",
+          "pmid": "38749864",
+          "title": "Effect of fezolinetant on sleep disturbance and impairment during treatment of vasomotor symptoms due to menopause.",
+          "year": "2024",
+          "confidence": 0.8686,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7341585417327229,
+          "abstract_snippet": "To analyse the effect of fezolinetant on patient-reported sleep disturbance and impairment in individuals with vasomotor symptoms (VMS) using pooled data from the SKYLIGHT 1 and 2 studies. The SKYLIGHT studies were phase-3, double-blind investigations. Individuals (&#x2265;40-&#x2264;65&#xa0;years)"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "menopause",
+          "text": "What are the treatments for the symptoms of menopause? \n You may not need treatment for the symptoms of menopause. But if you do, there are several different types of treatments:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        },
+        {
+          "question": "menopause",
+          "text": "Non-hormone treatments \n There are various non-hormone treatments for menopause symptoms, such as:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        },
+        {
+          "question": "menopause",
+          "text": "Hormone treatments \nAnother treatment for menopause symptoms is menopausal hormone therapy (MHT). It may also be called hormone replacement therapy (HRT). This treatment is usually with estrogen or estrogen plus progestin (a type of progesterone that's made in a lab). MHT can be given in pills, skin patches, rings, implants, gels, or creams. It may be used to treat symptoms such as hot flashes and vaginal dryness and to help prevent osteoporosis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        },
+        {
+          "question": "menopause",
+          "text": "What is menopause? \n Menopause is the time in your life when you stop having your period and can no longer get pregnant. You have reached menopause when you have not had a period for 12 months.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        },
+        {
+          "question": "menopause",
+          "text": "The time leading up to menopause is called the menopausal transition, or perimenopause. This transition usually begins when you are in your 40s, but sometimes it can start earlier. It can last for several years. The most common age for reaching menopause is between 45 and 55 years old.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        },
+        {
+          "question": "menopause",
+          "text": "What is early and premature menopause? \n Early and premature menopause happens when your ovaries stop making hormones and your periods stop at a younger age than usual. When menopause happens before age 40, it's called premature menopause. If menopause happens before age 45, it's called early menopause. This can happen on its own (with no known cause). It can also happen because of surgery to remove the ovaries. Surgery to remove the uterus alone will cause your periods to stop, but it does not cause menopause unless the ovaries are also removed. Medical treatments such as chemotherapy or hormone therapy used to treat breast cancer may also cause menopause to start earlier than usual.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        },
+        {
+          "question": "menopause",
+          "text": "A condition called primary ovarian insufficiency (POI) happens when your ovaries stop working normally before you are age 40. But this condition is different from early menopause. If you have POI, you may still have periods, even though they might not come regularly. And you might still be able to get pregnant.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        },
+        {
+          "question": "menopause",
+          "text": "Other reasons for early or premature menopause can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/menopause.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "menopause",
+          "text": "What are the treatments for the symptoms of menopause? \n You may not need treatment for the symptoms of menopause. But if you do, there are several different types of treatments:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "menopause",
+          "text": "Non-hormone treatments \n There are various non-hormone treatments for menopause symptoms, such as:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "menopause",
+          "text": "Hormone treatments \nAnother treatment for menopause symptoms is menopausal hormone therapy (MHT). It may also be called hormone replacement therapy (HRT). This treatment is usually with estrogen or estrogen plus progestin (a type of progesterone that's made in a lab). MHT can be given in pills, skin patches, rings, implants, gels, or creams. It may be used to treat symptoms such as hot flashes and vaginal dryness and to help prevent osteoporosis.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "menopause",
+          "text": "What is menopause? \n Menopause is the time in your life when you stop having your period and can no longer get pregnant. You have reached menopause when you have not had a period for 12 months.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "menopause",
+          "text": "The time leading up to menopause is called the menopausal transition, or perimenopause. This transition usually begins when you are in your 40s, but sometimes it can start earlier. It can last for several years. The most common age for reaching menopause is between 45 and 55 years old.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "menopause",
+          "text": "What is early and premature menopause? \n Early and premature menopause happens when your ovaries stop making hormones and your periods stop at a younger age than usual. When menopause happens before age 40, it's called premature menopause. If menopause happens before age 45, it's called early menopause. This can happen on its own (with no known cause). It can also happen because of surgery to remove the ovaries. Surgery to remove the uterus alone will cause your periods to stop, but it does not cause menopause unless the ovaries are also removed. Medical treatments such as chemotherapy or hormone therapy used to treat breast cancer may also cause menopause to start earlier than usual.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "menopause",
+          "text": "A condition called primary ovarian insufficiency (POI) happens when your ovaries stop working normally before you are age 40. But this condition is different from early menopause. If you have POI, you may still have periods, even though they might not come regularly. And you might still be able to get pregnant.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "menopause",
+          "text": "Other reasons for early or premature menopause can include:",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "cervical spondylosis",
+      "drugs": [
+        "ibuprofen",
+        "naproxen",
+        "cyclobenzaprine"
+      ],
+      "treatment_modalities": [],
+      "citations": [],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "How might ankylosing spondylitis be treated? The main goal of treatment for people with ankylosing spondylitis (AS) is to maximize long-term quality of life. This may involve easing symptoms of pain and stiffness; retaining function; preventing complications (such as contractures); and minimizing the effects of associated conditions. Education, exercise, and medications are all very important in managing AS. An exercise program is recommended for all affected people, and some may need individual physical therapy. Affected people are encouraged to speak with their health care provider before instituting any changes to an exercise regime. Video demonstrations of exercises tailored for ankylosing spondylitis are available for viewing through the National Ankylosing Spondylitis Society in the UK. Medications may include nonsteroidal anti-inflammatory drugs (NSAIDs); pain relievers; sulfasalazine; and anti-tumor necrosis factor drugs. Steroid injections may be helpful for some people. Most people don't need surgery, but it may be indicated when there is severe, persistent pain or severe limitation in mobility and quality of life. Smoking creates additional problems for people with AS, so affected people who smoke should quit. More detailed information about the treatment of ankylosing spondylitis is available on Medscape's Web site. You may need to register to view the article, but registration is free.",
+          "question": "What are the treatments for Ankylosing spondylitis ?",
+          "score": 0.028046630322933197,
+          "rerank_score": 1.0510298013687134,
+          "trust_score": 0.30050769747619804
+        },
+        {
+          "text": "Penicillin, an antibiotic, is used to treat syphilis. Individuals with neurosyphilis can be treated with penicillin given by vein, or by daily intramuscular injections for 10  14 days. If they are treated with daily penicillin injections, individuals must also take probenecid by mouth four times a day. Some medical professionals recommend another antibiotic called ceftriaxone for neurosyphilis treatment. This drug is usually given daily by vein, but it can also be given by intramuscular injection. Individuals who receive ceftriaxone are also treated for 10 - 14 days. People with HIV/AIDS who get treated for neurosyphilis may have different outcomes than individuals without HIV/AIDS.",
+          "question": "What are the treatments for Neurosyphilis ?",
+          "score": 0.02841312065720558,
+          "rerank_score": -3.2773537635803223,
+          "trust_score": 0.00779768827360149
+        },
+        {
+          "text": "Spondyloperipheral dysplasia is a disorder that impairs bone growth. This condition is characterized by flattened bones of the spine (platyspondyly) and unusually short fingers and toes (brachydactyly), with the exception of the first (big) toes. Other skeletal abnormalities associated with spondyloperipheral dysplasia include short stature, shortened long bones of the arms and legs, exaggerated curvature of the lower back (lordosis), and an inward- and upward-turning foot (clubfoot). Additionally, some affected individuals have nearsightedness (myopia), hearing loss, and intellectual disability.",
+          "question": "What is (are) spondyloperipheral dysplasia ?",
+          "score": 0.030580230057239532,
+          "rerank_score": 2.5077075958251953,
+          "trust_score": 0.003786994104807742
+        },
+        {
+          "text": "Ankylosing spondylitis is a form of ongoing joint inflammation (chronic inflammatory arthritis) that primarily affects the spine. This condition is characterized by back pain and stiffness that typically appear in adolescence or early adulthood. Over time, back movement gradually becomes limited as the bones of the spine (vertebrae) fuse together. This progressive bony fusion is called ankylosis.  The earliest symptoms of ankylosing spondylitis result from inflammation of the joints between the pelvic bones (the ilia) and the base of the spine (the sacrum). These joints are called sacroiliac joints, and inflammation of these joints is known as sacroiliitis. The inflammation gradually spreads to the joints between the vertebrae, causing a condition called spondylitis. Ankylosing spondylitis can involve other joints as well, including the shoulders, hips, and, less often, the knees. As the disease progresses, it can affect the joints between the spine and ribs, restricting movement of the chest and making it difficult to breathe deeply. People with advanced disease are also more prone to fractures of the vertebrae.  Ankylosing spondylitis affects the eyes in up to 40 percent of cases, leading to episodes of eye inflammation called acute iritis. Acute iritis causes eye pain and increased sensitivity to light (photophobia). Rarely, ankylosing spondylitis can also cause serious complications involving the heart, lungs, and nervous system.",
+          "question": "What is (are) ankylosing spondylitis ?",
+          "score": 0.02954544872045517,
+          "rerank_score": 2.427236318588257,
+          "trust_score": 0.0035161264882660357
+        },
+        {
+          "text": "What are the signs and symptoms of Spondylocostal dysostosis 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Spondylocostal dysostosis 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal form of the vertebral bodies 90% Abnormality of immune system physiology 90% Abnormality of the intervertebral disk 90% Abnormality of the ribs 90% Intrauterine growth retardation 90% Respiratory insufficiency 90% Scoliosis 90% Short neck 90% Short stature 90% Short thorax 90% Vertebral segmentation defect 90% Kyphosis 50% Abnormality of female internal genitalia 7.5% Abnormality of the ureter 7.5% Anomalous pulmonary venous return 7.5% Anteverted nares 7.5% Broad forehead 7.5% Camptodactyly of finger 7.5% Cleft palate 7.5% Cognitive impairment 7.5% Congenital diaphragmatic hernia 7.5% Cryptorchidism 7.5% Depressed nasal bridge 7.5% Displacement of the external urethral meatus 7.5% Finger syndactyly 7.5% Long philtrum 7.5% Low-set, posteriorly rotated ears 7.5% Macrocephaly 7.5% Meningocele 7.5% Microcephaly 7.5% Prominent occiput 7.5% Spina bifida occulta 7.5% Umbilical hernia 7.5% Urogenital fistula 7.5% Abnormality of the odontoid process - Autosomal recessive inheritance - Block vertebrae - Death in infancy - Disproportionate short-trunk short stature - Hemivertebrae - Recurrent respiratory infections - Rib fusion - Severe short stature - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "question": "What are the symptoms of Spondylocostal dysostosis 1 ?",
+          "score": 0.019295496866106987,
+          "rerank_score": -4.922159194946289,
+          "trust_score": 3.8997486782566e-06
+        },
+        {
+          "text": "What are the signs and symptoms of spondylothoracic dysostosis? Signs and symptoms of spondylothoracic dysostosis, include spine and vertebral abnormalities which result in a shortened spine, neck, and trunk, as well as rib anomalies including fused ribs which in combination with the spine anomalies result in a \"crab-like\" appearance to the rib cage. The shortened spine and rib cage anomalies can cause serious breathing problems and recurring lung infections. These complications result in a 32% death rate in early childhood. Other complications of spondylothoracic dysostosis, include shortened stature (due to the spine and vertebral defects) and limited neck motion. Symptom and symptom severity may vary from patient to patient, however symptoms tend to be the worse for children who carry two \"E230X\" mutations in the MESP2 gene. Most patients with spondylothoracic dysostosis have normal intelligence and neurological problems are infrequent.",
+          "question": "What are the symptoms of Spondylothoracic dysostosis ?",
+          "score": 0.021004898473620415,
+          "rerank_score": -5.578852653503418,
+          "trust_score": 2.1222186685099856e-06
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Ankylosing spondylitis ?",
+          "text": "How might ankylosing spondylitis be treated? The main goal of treatment for people with ankylosing spondylitis (AS) is to maximize long-term quality of life. This may involve easing symptoms of pain and stiffness; retaining function; preventing complications (such as contractures); and minimizing the effects of associated conditions. Education, exercise, and medications are all very important in managing AS. An exercise program is recommended for all affected people, and some may need individual physical therapy. Affected people are encouraged to speak with their health care provider before instituting any changes to an exercise regime. Video demonstrations of exercises tailored for ankylosing spondylitis are available for viewing through the National Ankylosing Spondylitis Society in the UK. Medications may include nonsteroidal anti-inflammatory drugs (NSAIDs); pain relievers; sulfasalazine; and anti-tumor necrosis factor drugs. Steroid injections may be helpful for some people. Most people don't need surgery, but it may be indicated when there is severe, persistent pain or severe limitation in mobility and quality of life. Smoking creates additional problems for people with AS, so affected people who smoke should quit. More detailed information about the treatment of ankylosing spondylitis is available on Medscape's Web site. You may need to register to view the article, but registration is free.",
+          "trust_score": 0.30050769747619804
+        },
+        {
+          "question": "What are the treatments for Neurosyphilis ?",
+          "text": "Penicillin, an antibiotic, is used to treat syphilis. Individuals with neurosyphilis can be treated with penicillin given by vein, or by daily intramuscular injections for 10  14 days. If they are treated with daily penicillin injections, individuals must also take probenecid by mouth four times a day. Some medical professionals recommend another antibiotic called ceftriaxone for neurosyphilis treatment. This drug is usually given daily by vein, but it can also be given by intramuscular injection. Individuals who receive ceftriaxone are also treated for 10 - 14 days. People with HIV/AIDS who get treated for neurosyphilis may have different outcomes than individuals without HIV/AIDS.",
+          "trust_score": 0.00779768827360149
+        },
+        {
+          "question": "What is (are) spondyloperipheral dysplasia ?",
+          "text": "Spondyloperipheral dysplasia is a disorder that impairs bone growth. This condition is characterized by flattened bones of the spine (platyspondyly) and unusually short fingers and toes (brachydactyly), with the exception of the first (big) toes. Other skeletal abnormalities associated with spondyloperipheral dysplasia include short stature, shortened long bones of the arms and legs, exaggerated curvature of the lower back (lordosis), and an inward- and upward-turning foot (clubfoot). Additionally, some affected individuals have nearsightedness (myopia), hearing loss, and intellectual disability.",
+          "trust_score": 0.003786994104807742
+        },
+        {
+          "question": "What is (are) ankylosing spondylitis ?",
+          "text": "Ankylosing spondylitis is a form of ongoing joint inflammation (chronic inflammatory arthritis) that primarily affects the spine. This condition is characterized by back pain and stiffness that typically appear in adolescence or early adulthood. Over time, back movement gradually becomes limited as the bones of the spine (vertebrae) fuse together. This progressive bony fusion is called ankylosis.  The earliest symptoms of ankylosing spondylitis result from inflammation of the joints between the pelvic bones (the ilia) and the base of the spine (the sacrum). These joints are called sacroiliac joints, and inflammation of these joints is known as sacroiliitis. The inflammation gradually spreads to the joints between the vertebrae, causing a condition called spondylitis. Ankylosing spondylitis can involve other joints as well, including the shoulders, hips, and, less often, the knees. As the disease progresses, it can affect the joints between the spine and ribs, restricting movement of the chest and making it difficult to breathe deeply. People with advanced disease are also more prone to fractures of the vertebrae.  Ankylosing spondylitis affects the eyes in up to 40 percent of cases, leading to episodes of eye inflammation called acute iritis. Acute iritis causes eye pain and increased sensitivity to light (photophobia). Rarely, ankylosing spondylitis can also cause serious complications involving the heart, lungs, and nervous system.",
+          "trust_score": 0.0035161264882660357
+        },
+        {
+          "question": "What are the symptoms of Spondylocostal dysostosis 1 ?",
+          "text": "What are the signs and symptoms of Spondylocostal dysostosis 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Spondylocostal dysostosis 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal form of the vertebral bodies 90% Abnormality of immune system physiology 90% Abnormality of the intervertebral disk 90% Abnormality of the ribs 90% Intrauterine growth retardation 90% Respiratory insufficiency 90% Scoliosis 90% Short neck 90% Short stature 90% Short thorax 90% Vertebral segmentation defect 90% Kyphosis 50% Abnormality of female internal genitalia 7.5% Abnormality of the ureter 7.5% Anomalous pulmonary venous return 7.5% Anteverted nares 7.5% Broad forehead 7.5% Camptodactyly of finger 7.5% Cleft palate 7.5% Cognitive impairment 7.5% Congenital diaphragmatic hernia 7.5% Cryptorchidism 7.5% Depressed nasal bridge 7.5% Displacement of the external urethral meatus 7.5% Finger syndactyly 7.5% Long philtrum 7.5% Low-set, posteriorly rotated ears 7.5% Macrocephaly 7.5% Meningocele 7.5% Microcephaly 7.5% Prominent occiput 7.5% Spina bifida occulta 7.5% Umbilical hernia 7.5% Urogenital fistula 7.5% Abnormality of the odontoid process - Autosomal recessive inheritance - Block vertebrae - Death in infancy - Disproportionate short-trunk short stature - Hemivertebrae - Recurrent respiratory infections - Rib fusion - Severe short stature - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "trust_score": 3.8997486782566e-06
+        },
+        {
+          "question": "What are the symptoms of Spondylothoracic dysostosis ?",
+          "text": "What are the signs and symptoms of spondylothoracic dysostosis? Signs and symptoms of spondylothoracic dysostosis, include spine and vertebral abnormalities which result in a shortened spine, neck, and trunk, as well as rib anomalies including fused ribs which in combination with the spine anomalies result in a \"crab-like\" appearance to the rib cage. The shortened spine and rib cage anomalies can cause serious breathing problems and recurring lung infections. These complications result in a 32% death rate in early childhood. Other complications of spondylothoracic dysostosis, include shortened stature (due to the spine and vertebral defects) and limited neck motion. Symptom and symptom severity may vary from patient to patient, however symptoms tend to be the worse for children who carry two \"E230X\" mutations in the MESP2 gene. Most patients with spondylothoracic dysostosis have normal intelligence and neurological problems are infrequent.",
+          "trust_score": 2.1222186685099856e-06
+        }
+      ]
+    },
+    {
+      "disease": "obsessive-compulsive disorder",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "exposure and response prevention"
+      ],
+      "citations": [
+        {
+          "symptom": "unwanted thoughts",
+          "pmid": "35617698",
+          "title": "Neurocircuit models of obsessive-compulsive disorder: limitations and future directions for research.",
+          "year": "2022",
+          "confidence": 0.9382,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7548592381522228,
+          "abstract_snippet": "Obsessive-compulsive disorder (OCD) is a common psychiatric condition classically characterized by obsessions (recurrent, intrusive and unwanted thoughts) and compulsions (excessive, repetitive and ritualistic behaviors or mental acts). OCD is heterogeneous in its clinical presentation and not all p"
+        },
+        {
+          "symptom": "intrusive worries",
+          "pmid": "28822003",
+          "title": "Pedophilia-Themed Obsessive-Compulsive Disorder: Assessment, Differential Diagnosis, and Treatment with Exposure and Response Prevention.",
+          "year": "2018",
+          "confidence": 0.919,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6979679739394308,
+          "abstract_snippet": "Fears of sexually harming children are fairly common among clients suffering from obsessive-compulsive disorder (OCD), yet these symptoms are largely unrecognized and frequently misdiagnosed by mental health professionals. Specifically, clients with pedophilia-themed OCD (P-OCD) experience excessive"
+        },
+        {
+          "symptom": "need for symmetry",
+          "pmid": "40727850",
+          "title": "Clinical characteristics of obsessive-compulsive disorder comorbid with obsessive -compulsive personality disorder: subtype implications.",
+          "year": "2025",
+          "confidence": 0.9085,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7600557431547509,
+          "abstract_snippet": "Obsessive-compulsive disorder (OCD) is a psychiatric condition characterized by persistent obsessions and compulsions that lead to significant distress and functional impairment. Obsessive-compulsive personality disorder (OCPD) frequently co-occurs in individuals with OCD and has been identified in"
+        },
+        {
+          "symptom": "fear of losing things",
+          "pmid": "21077294",
+          "title": "[Clinical features of obsessive-compulsive disorder with pervasive developmental disorder].",
+          "year": "2010",
+          "confidence": 0.8903,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7178354825132582,
+          "abstract_snippet": "Recently, psychiatrists have been paying attention to the presence of PDD (Pervasive Developmental Disorder) in difficult cases of mental disorder. We have found that patients with treatment-resistant OCD (Obsessive-Compulsive Disorder) are very likely to have PDD. If the presence of PDD can be reco"
+        },
+        {
+          "symptom": "aggressive thoughts",
+          "pmid": "34512758",
+          "title": "The Behavior of Patients with Obsessive-Compulsive Disorder in Dental Clinics.",
+          "year": "2021",
+          "confidence": 0.883,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.711800896983638,
+          "abstract_snippet": "This review documents published obsessive-compulsive disorder (OCD) cases with dental and oral conditions with potential impact on the dental procedure. The research question was, what are the psychiatric and behavioral features of people with OCD that might affect dental sessions? This review follo"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the treatments for obsessive-compulsive disorder (OCD)? \n The main treatments for obsessive-compulsive disorder (OCD) are cognitive behavioral therapy, medicines, or both: \n Cognitive behavioral therapy (CBT) is a type of psychotherapy. It teaches you different ways of thinking, behaving, and reacting to your obsessions and compulsions.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "If you have severe OCD that does not get better with these treatments, your provider may suggest a treatment called repetitive transcranial magnetic stimulation (rTMS). It is a brain stimulation procedure that uses magnetic waves. It can target specific brain areas associated with OCD.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What is obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) is a mental disorder in which you have thoughts (obsessions) and rituals (compulsions) over and over. They interfere with your life, but you cannot control or stop them.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What causes obsessive-compulsive disorder (OCD)? \n The cause of obsessive-compulsive disorder (OCD) is unknown. Factors such as genetics, brain biology and chemistry, and your environment may play a role.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Who is at risk for obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) usually begins when you are a teen or young adult. Boys often develop OCD at a younger age than girls.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Risk factors for OCD include: \n Family history. People with a first-degree relative (such as a parent, sibling, or child) who has OCD are at higher risk. This is especially true if the relative developed OCD as a child or teen. \n Brain structure and functioning. Imaging studies have shown that people with OCD have differences in certain parts of the brain. Researchers need to do more studies to understand the connection between the brain differences and OCD. \n Childhood trauma, such as child abuse . Some studies have found a link between trauma in childhood and OCD. More research is needed to understand this relationship better.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "In some cases, children may develop OCD or OCD symptoms following a streptococcal infection . This is called Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the symptoms of obsessive-compulsive disorder (OCD)? \n People with OCD may have symptoms of obsessions, compulsions, or both: \n Obsessions are repeated thoughts, urges, or mental images that cause anxiety . They may involve things such as",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the treatments for obsessive-compulsive disorder (OCD)? \n The main treatments for obsessive-compulsive disorder (OCD) are cognitive behavioral therapy, medicines, or both: \n Cognitive behavioral therapy (CBT) is a type of psychotherapy. It teaches you different ways of thinking, behaving, and reacting to your obsessions and compulsions.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "If you have severe OCD that does not get better with these treatments, your provider may suggest a treatment called repetitive transcranial magnetic stimulation (rTMS). It is a brain stimulation procedure that uses magnetic waves. It can target specific brain areas associated with OCD.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What is obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) is a mental disorder in which you have thoughts (obsessions) and rituals (compulsions) over and over. They interfere with your life, but you cannot control or stop them.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What causes obsessive-compulsive disorder (OCD)? \n The cause of obsessive-compulsive disorder (OCD) is unknown. Factors such as genetics, brain biology and chemistry, and your environment may play a role.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Who is at risk for obsessive-compulsive disorder (OCD)? \n Obsessive-compulsive disorder (OCD) usually begins when you are a teen or young adult. Boys often develop OCD at a younger age than girls.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "Risk factors for OCD include: \n Family history. People with a first-degree relative (such as a parent, sibling, or child) who has OCD are at higher risk. This is especially true if the relative developed OCD as a child or teen. \n Brain structure and functioning. Imaging studies have shown that people with OCD have differences in certain parts of the brain. Researchers need to do more studies to understand the connection between the brain differences and OCD. \n Childhood trauma, such as child abuse . Some studies have found a link between trauma in childhood and OCD. More research is needed to understand this relationship better.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "In some cases, children may develop OCD or OCD symptoms following a streptococcal infection . This is called Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "obsessive-compulsive disorder",
+          "text": "What are the symptoms of obsessive-compulsive disorder (OCD)? \n People with OCD may have symptoms of obsessions, compulsions, or both: \n Obsessions are repeated thoughts, urges, or mental images that cause anxiety . They may involve things such as",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

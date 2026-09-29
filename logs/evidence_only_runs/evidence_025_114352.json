@@ -1,0 +1,445 @@
+{
+  "symptoms": [
+    "urine dribbling",
+    "urine leakage",
+    "irregular sugar level"
+  ],
+  "resolved_symptoms": [
+    "irregular sugar level",
+    "urine dribbling",
+    "urine leakage"
+  ],
+  "diseases": [
+    {
+      "disease": "prostate diseases",
+      "drugs": [],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "urinary urgency",
+          "pmid": "27147135",
+          "title": "Benign prostatic hyperplasia.",
+          "year": "2016",
+          "confidence": 0.9396,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6943876051434253,
+          "abstract_snippet": "Benign prostatic hyperplasia (BPH), which causes lower urinary tract symptoms (LUTS), is a common diagnosis among the ageing male population with increasing prevalence. Many risks factors, both modifiable and non-modifiable, can increase the risk of development and progression of BPH and LUTS. The s"
+        },
+        {
+          "symptom": "weak urine stream",
+          "pmid": "34331700",
+          "title": "Curcumin for the Treatment of Prostate Diseases: A Systematic Review of Controlled Clinical Trials.",
+          "year": "2021",
+          "confidence": 0.9062,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.0,
+          "abstract_snippet": "Prostate cancer is one of the significant causes of morbidity and mortality worldwide. Benign prostatic hyperplasia is another condition of the prostate which, like prostate cancer, is more common among ageing men and is linked to inflammation. In this study, a systematic review was undertaken to es"
+        },
+        {
+          "symptom": "frequent urination",
+          "pmid": "35176814",
+          "title": "Prostatitis and prostatic abscessation in dogs: retrospective study of 82 cases.",
+          "year": "2022",
+          "confidence": 0.8904,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6909281213785954,
+          "abstract_snippet": "To describe clinical signs, diagnostics, treatments and outcomes of prostatitis and prostatic abscesses of dogs in a referral population. Eighty-two dogs diagnosed with prostatitis and/or prostatic abscesses from three referral hospitals. Retrospective case series. A total of 82 dogs were included,"
+        },
+        {
+          "symptom": "urine leakage",
+          "pmid": "29187923",
+          "title": "[IIA2-Y-type urethral duplication].",
+          "year": "2017",
+          "confidence": 0.8676,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7028420393030291,
+          "abstract_snippet": "Urethral duplications are extremely rare congenital malformations. The most used classification is that of Effmann and Lebowitz, describing 6 types of urethral duplications. The under type IIA2-Y is one of the most rare duplications corresponding to duplicated urethra originating from the bladder ne"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "prostate diseases",
+          "text": "Treatment depends on what prostate disease you have and which symptoms bother you most.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        },
+        {
+          "question": "prostate diseases",
+          "text": "What is the prostate? \n The prostate is a gland in the male reproductive system. It lies just below the bladder. It makes fluid that is part of semen.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        },
+        {
+          "question": "prostate diseases",
+          "text": "What are prostate diseases? \n There are many types of prostate diseases:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Prostatitis is inflammation (swelling and pain) in the prostate gland. It's the most common type of prostate problem in people under than age 50. There are different types:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Chronic prostatitis is also called chronic pelvic pain syndrome. It's the most common type of prostatitis. \n Acute bacterial prostatitis starts suddenly from a bacterial infection and is treated with antibiotics . It is not common. \n Chronic bacterial prostatitis happens when a bacterial infection keeps coming back. The symptoms usually start slowly. It may take longer to treat than acute bacterial prostatitis. \n Asymptomatic prostatitis has no symptoms and usually doesn't need treatment. You may learn you have it after having tests for other health problems.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Enlarged prostate is also called benign prostatic hyperplasia (BPH) . The prostate gland tends to grow larger with age. That's why enlarged prostate is very common in older people and rare in those who are under age 40. When the prostate grows larger, it may press on your urethra and cause problems with urination . \n Prostate cancer happens when cancer cells form in the prostate gland. Prostate cancer is a common type of cancer in those aged 50 and older. Most prostate cancers grow slowly and may never cause health problems. But certain prostate cancers are serious.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Who is more likely to develop prostate diseases? \n Anyone with a prostate can develop prostate problems. But some people are at higher risk.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        },
+        {
+          "question": "prostate diseases",
+          "text": "You may be more likely to develop prostatitis if you have:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/prostatediseases.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "prostate diseases",
+          "text": "Treatment depends on what prostate disease you have and which symptoms bother you most.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "prostate diseases",
+          "text": "What is the prostate? \n The prostate is a gland in the male reproductive system. It lies just below the bladder. It makes fluid that is part of semen.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "prostate diseases",
+          "text": "What are prostate diseases? \n There are many types of prostate diseases:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Prostatitis is inflammation (swelling and pain) in the prostate gland. It's the most common type of prostate problem in people under than age 50. There are different types:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Chronic prostatitis is also called chronic pelvic pain syndrome. It's the most common type of prostatitis. \n Acute bacterial prostatitis starts suddenly from a bacterial infection and is treated with antibiotics . It is not common. \n Chronic bacterial prostatitis happens when a bacterial infection keeps coming back. The symptoms usually start slowly. It may take longer to treat than acute bacterial prostatitis. \n Asymptomatic prostatitis has no symptoms and usually doesn't need treatment. You may learn you have it after having tests for other health problems.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Enlarged prostate is also called benign prostatic hyperplasia (BPH) . The prostate gland tends to grow larger with age. That's why enlarged prostate is very common in older people and rare in those who are under age 40. When the prostate grows larger, it may press on your urethra and cause problems with urination . \n Prostate cancer happens when cancer cells form in the prostate gland. Prostate cancer is a common type of cancer in those aged 50 and older. Most prostate cancers grow slowly and may never cause health problems. But certain prostate cancers are serious.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "prostate diseases",
+          "text": "Who is more likely to develop prostate diseases? \n Anyone with a prostate can develop prostate problems. But some people are at higher risk.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "prostate diseases",
+          "text": "You may be more likely to develop prostatitis if you have:",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "enlarged prostate (bph)",
+      "drugs": [],
+      "treatment_modalities": [
+        "lifestyle changes",
+        "bladder training"
+      ],
+      "citations": [
+        {
+          "symptom": "urinary incontinence",
+          "pmid": "27147135",
+          "title": "Benign prostatic hyperplasia.",
+          "year": "2016",
+          "confidence": 0.9531,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7329292853594385,
+          "abstract_snippet": "Benign prostatic hyperplasia (BPH), which causes lower urinary tract symptoms (LUTS), is a common diagnosis among the ageing male population with increasing prevalence. Many risks factors, both modifiable and non-modifiable, can increase the risk of development and progression of BPH and LUTS. The s"
+        },
+        {
+          "symptom": "urgent urination",
+          "pmid": "34557463",
+          "title": "Epidemiology of Frequent/Urgent Urination in Older Adults in China: A Multicenter, Cross-Sectional Study.",
+          "year": "2021",
+          "confidence": 0.9304,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6478556988342172,
+          "abstract_snippet": "<b>Background:</b> Frequent/urgent urination is an event of multifactorial origin where involuntary leakage of urine occurs. Epidemiological study of this condition is of high importance due to its negative impact on the psychological, physical, and social well-being of the victims. <b>Objective:</b"
+        },
+        {
+          "symptom": "urine dribbling",
+          "pmid": "34941196",
+          "title": "Efficacy and safety of moxibustion for benign prostatic hyperplasia: A protocol of systematic review and meta-analysis.",
+          "year": "2021",
+          "confidence": 0.9301,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6298478865346605,
+          "abstract_snippet": "Benign prostatic hyperplasia (BPH) is a non-malignant enlargement of the prostate gland that is common in older men. The clinical manifestations of BPH are frequent urination, urgency, incomplete dribbling of urine, and urinary retention. Moxibustion, as a convenient, safe and effective method, has"
+        },
+        {
+          "symptom": "nighttime urination",
+          "pmid": "35080131",
+          "title": "Freeflow: The novel portable uroflowmeter can help to realize practical urinary conditions at home.",
+          "year": "2022",
+          "confidence": 0.9049,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6987912570885706,
+          "abstract_snippet": "To evaluate the effectiveness of a novel portable urine flowmeter, Freeflow, for examining the actual state of urination at home. Forty-three patients with benign prostatic hyperplasia used the Freeflow uroflowmeter in the hospital and at home without accumulating urine. We created a nomogram for ea"
+        },
+        {
+          "symptom": "weak urine stream",
+          "pmid": "35237936",
+          "title": "Hexanic Extract of Serenoa repens (Permixon(\u00ae)): A Review in Symptomatic Benign Prostatic Hyperplasia.",
+          "year": "2022",
+          "confidence": 0.9,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8550329522093619,
+          "abstract_snippet": "The hexanic extract (HE) of Serenoa repens (Permixon<sup>&#xae;</sup>) is indicated for the symptomatic treatment of benign prostatic hyperplasia (BPH). The drug is the n-hexane lipidosterolic extract of the American dwarf palm tree (also known as saw palmetto). The anti-inflammatory activity of HE"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What are the treatments for BPH? \n Not everyone needs treatment for BPH. Treatment options depend on how much your symptoms bother you, your health, age, and the size of your prostate:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Surgery may be helpful when symptoms are severe, other treatments haven't helped, or you have another problem, such as bladder damage. Different types of surgery are used to:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Your provider can explain the possible benefits and side effects of your treatment options so you can decide what's best for you.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What is the prostate? \n The prostate is a gland in the male reproductive system. It lies just below the bladder. It makes fluid that is part of semen.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What is an enlarged prostate (BPH)? \n An enlarged prostate is when your prostate gland becomes larger than normal. It's also called benign prostatic hyperplasia or BPH for short. Benign means not cancer. And hyperplasia means too much cell growth. BPH isn't cancer and it doesn't increase your risk of getting prostate cancer . \n Usually, the prostate gland continues to grow during adult life. That's why BPH is the most common prostate condition in people over age 50. As the prostate gets bigger, it may press against the bladder and pinch the urethra. This can slow or block the flow of urine out of your bladder. \n Over time, the bladder muscle may become weak from trying to pass urine through a narrow urethra. When this happens, your bladder may not empty completely when you urinate. A narrowed urethra and weak bladder cause many of the urinary problems you may have with BPH.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What causes an enlarged prostate (BPH)? \n Researchers aren't sure why the prostate keeps growing. Some researchers think changes in hormones with aging may cause the prostate to get bigger.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Who is more likely to develop BPH? \n You're more likely to develop BPH if you:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Are age 40 or older. The chance of getting BPH increases as you get older. \n Have family members who have had BPH. \n Have certain health conditions such as:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/enlargedprostatebph.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What are the treatments for BPH? \n Not everyone needs treatment for BPH. Treatment options depend on how much your symptoms bother you, your health, age, and the size of your prostate:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Surgery may be helpful when symptoms are severe, other treatments haven't helped, or you have another problem, such as bladder damage. Different types of surgery are used to:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Your provider can explain the possible benefits and side effects of your treatment options so you can decide what's best for you.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What is the prostate? \n The prostate is a gland in the male reproductive system. It lies just below the bladder. It makes fluid that is part of semen.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What is an enlarged prostate (BPH)? \n An enlarged prostate is when your prostate gland becomes larger than normal. It's also called benign prostatic hyperplasia or BPH for short. Benign means not cancer. And hyperplasia means too much cell growth. BPH isn't cancer and it doesn't increase your risk of getting prostate cancer . \n Usually, the prostate gland continues to grow during adult life. That's why BPH is the most common prostate condition in people over age 50. As the prostate gets bigger, it may press against the bladder and pinch the urethra. This can slow or block the flow of urine out of your bladder. \n Over time, the bladder muscle may become weak from trying to pass urine through a narrow urethra. When this happens, your bladder may not empty completely when you urinate. A narrowed urethra and weak bladder cause many of the urinary problems you may have with BPH.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "What causes an enlarged prostate (BPH)? \n Researchers aren't sure why the prostate keeps growing. Some researchers think changes in hormones with aging may cause the prostate to get bigger.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Who is more likely to develop BPH? \n You're more likely to develop BPH if you:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "enlarged prostate (bph)",
+          "text": "Are age 40 or older. The chance of getting BPH increases as you get older. \n Have family members who have had BPH. \n Have certain health conditions such as:",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "diabetes",
+      "drugs": [
+        "metformin",
+        "insulin",
+        "glimepiride"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "fatigue",
+          "pmid": "20630261",
+          "title": "Fatigue in patients with diabetes: a review.",
+          "year": "2010",
+          "confidence": 0.9558,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6364771118573179,
+          "abstract_snippet": "Fatigue is a common and distressing complaint among people with diabetes and likely to hinder the ability to perform daily diabetes self-management tasks. A review of the literature about diabetes-related fatigue was conducted with an eye toward creating a framework for beginning to conduct more foc"
+        },
+        {
+          "symptom": "obesity",
+          "pmid": "35893888",
+          "title": "Association between Obesity and Intake of Different Food Groups among Japanese with Type 2 Diabetes Mellitus-Japan Diabetes Clinical Data Management Study (JDDM68).",
+          "year": "2022",
+          "confidence": 0.919,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7280790867344729,
+          "abstract_snippet": "We investigated the association between various food groups and obesity in Japanese patients with type 2 diabetes. 2070 patients with type 2 diabetes who attended 26 diabetes clinics throughout Japan were analyzed and were divided into obese and non-obese groups. Intakes of food groups determined by"
+        },
+        {
+          "symptom": "blurred and distorted vision",
+          "pmid": "37020489",
+          "title": "Overall Clinical Features of Type 2 Diabetes Mellitus With Respect to Gender.",
+          "year": "2023",
+          "confidence": 0.9122,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6178770464385873,
+          "abstract_snippet": "Introduction Since patients with type 2 diabetes are frequently misdiagnosed, provided inappropriate management, or&#xa0;poorly controlled, it is important to comprehend the wide range of clinical signs and symptoms associated with diabetes. Therefore, this study evaluated the overall clinical manif"
+        },
+        {
+          "symptom": "polyuria",
+          "pmid": "35771962",
+          "title": "Diagnosis and Management of Central Diabetes Insipidus in Adults.",
+          "year": "2022",
+          "confidence": 0.9048,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7309538354027983,
+          "abstract_snippet": "Central diabetes insipidus (CDI) is a clinical syndrome which results from loss or impaired function of vasopressinergic neurons in the hypothalamus/posterior pituitary, resulting in impaired synthesis and/or secretion of arginine vasopressin (AVP). AVP deficiency leads to the inability to concentra"
+        },
+        {
+          "symptom": "lethargy",
+          "pmid": "27887750",
+          "title": "Chronic Kidney Disease.",
+          "year": "2017",
+          "confidence": 0.8816,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8037810403344303,
+          "abstract_snippet": "The definition and classification of chronic kidney disease (CKD) have evolved over time, but current international guidelines define this condition as decreased kidney function shown by glomerular filtration rate (GFR) of less than 60 mL/min per 1&#xb7;73 m<sup>2</sup>, or markers of kidney damage,"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Diabetes is a complex group of diseases with a variety of causes. People with diabetes have high blood glucose, also called high blood sugar or hyperglycemia.\n                \nDiabetes is a disorder of metabolism the way the body uses digested food for energy. The digestive tract breaks down carbohydratessugars and starches found in many foodsinto glucose, a form of sugar that enters the bloodstream. With the help of the hormone insulin, cells throughout the body absorb glucose and use it for energy.\n                \nInsulin is made in the pancreas, an organ located behind the stomach and below the liver. As blood glucose levels rise after a meal, the pancreas is triggered to release insulin. The pancreas contains clusters of cells called pancreatic islets. Beta cells within the pancreatic islets make insulin and release it into the blood.\n                \nDiabetes develops when the body doesnt make enough insulin, is not able to use insulin effectively, or both. As a result, glucose builds up in the blood instead of being absorbed by cells in the body. The bodys cells are then starved of energy despite high blood glucose levels.",
+          "question": "What is (are) Diabetic Kidney Disease ?",
+          "score": 0.04080585762858391,
+          "rerank_score": 9.160123825073242,
+          "trust_score": 0.6432885186305717
+        },
+        {
+          "text": "Diabetes is a disorder of metabolismthe way our bodies use digested food for energy. Most of the food we eat is broken down into glucose, the form of sugar in the blood. Glucose is the body's main source of fuel.\n                \nAfter digestion, glucose enters the bloodstream. Then glucose goes to cells throughout the body where it is used for energy. However, a hormone called insulin must be present to allow glucose to enter the cells. Insulin is a hormone produced by the pancreas, a large gland behind the stomach.\n                \nIn people who do not have diabetes, the pancreas automatically produces the right amount of insulin to move glucose from blood into the cells. However, diabetes develops when the pancreas does not make enough insulin, or the cells in the muscles, liver, and fat do not use insulin properly, or both. As a result, the amount of glucose in the blood increases while the cells are starved of energy.\n                \nOver time, high blood glucose levels damage nerves and blood vessels, leading to complications such as heart disease and stroke, the leading causes of death among people with diabetes. Uncontrolled diabetes can eventually lead to other health problems as well, such as vision loss, kidney failure, and amputations.",
+          "question": "What is (are) Diabetes, Heart Disease, and Stroke ?",
+          "score": 0.041647762060165405,
+          "rerank_score": 8.752426147460938,
+          "trust_score": 0.5527855010799516
+        },
+        {
+          "text": "The treatment for nerve damage from diabetes is based on your symptoms. No treatment can reverse nerve damage; however, it can help you feel better. Your doctor might suggest taking low doses of medicines that both treat other health problems and help the pain of neuropathy. Some of these medicines include\n                \n- antidepressants  - anticonvulsants, or anti-seizure medicines\n                \nOther treatment options include\n                \n- creams or patches on your skin for burning pain  - over-the-counter pain medicines  - acupuncture, a form of pain treatment that uses needles inserted into your body at certain pressure points  - physical therapy, which helps with muscle weakness and loss of balance  - relaxation exercises, such as yoga  - special shoes to fit softly around sore feet or feet that have changed shape\n                \nYour doctor also can prescribe medicines to help with problems caused by nerve damage in other areas of your body, such as poor digestion, dizziness, sexual problems, and lack of bladder control.\n                \nStopping smoking and drinking alcoholic beverages also may help with symptoms.",
+          "question": "What are the treatments for Prevent diabetes problems: Keep your nervous system healthy ?",
+          "score": 0.027216963469982147,
+          "rerank_score": 0.9737986326217651,
+          "trust_score": 0.28919370547955847
+        },
+        {
+          "text": "The first treatment step is to bring blood glucose levels within the normal range to help prevent further nerve damage. Blood glucose monitoring, meal planning, physical activity, and diabetes medicines or insulin will help control blood glucose levels. Symptoms may get worse when blood glucose is first brought under control, but over time, maintaining lower blood glucose levels helps lessen symptoms. Good blood glucose control may also help prevent or delay the onset of further problems. As scientists learn more about the underlying causes of neuropathy, new treatments may become available to help slow, prevent, or even reverse nerve damage.\n                \nAs described in the following sections, additional treatment depends on the type of nerve problem and symptom.\n                \nPain Relief\n                \nDoctors usually treat painful diabetic neuropathy with oral medications, although other types of treatments may help some people. People with severe nerve pain may benefit from a combination of medications or treatments and should consider talking with a health care provider about treatment options.\n                \nMedications used to help relieve diabetic nerve pain include\n                \n- tricyclic antidepressants, such as amitriptyline, imipramine, and desipramine (Norpramin, Pertofrane)  - other types of antidepressants, such as duloxetine (Cymbalta), venlafaxine, bupropion (Wellbutrin), paroxetine (Paxil), and citalopram (Celexa)  - anticonvulsants, such as pregabalin (Lyrica), gabapentin (Gabarone, Neurontin), carbamazepine, and lamotrigine (Lamictal)  - opioids and opioidlike drugs, such as controlled-release oxycodone, an opioid; and tramadol (Ultram), an opioid that also acts as an antidepressant\n                \nDuloxetine and pregabalin are approved by the U.S. Food and Drug Administration specifically for treating painful diabetic peripheral neuropathy.\n                \nPeople do not have to be depressed for an antidepressant to help relieve their nerve pain. All medications have side effects, and some are not recommended for use in older adults or those with heart disease. Because over-the-counter pain medicines such as acetaminophen and ibuprofen may not work well for treating most nerve pain and can have serious side effects, some experts recommend avoiding these medications.\n                \nTreatments that are applied to the skintypically to the feetinclude capsaicin cream and lidocaine patches (Lidoderm, Lidopain). Studies suggest that nitrate sprays or patches for the feet may relieve pain. Studies of alpha-lipoic acid, an antioxidant, and evening primrose oil suggest they may help relieve symptoms and improve nerve function in some patients.\n                \nA device called a bed cradle can keep sheets and blankets from touching sensitive feet and legs. Acupuncture, biofeedback, or physical therapy may help relieve pain in some people. Treatments that involve electrical nerve stimulation, magnetic therapy, and laser or light therapy may be helpful but need further study. Researchers are also studying several new therapies in clinical trials.\n                \nGastrointestinal Problems\n                \nTo relieve mild symptoms of gastroparesisindigestion, belching, nausea, or vomitingdoctors suggest eating small, frequent meals; avoiding fats; and eating less fiber. When symptoms are severe, doctors may prescribe erythromycin to speed digestion, metoclopramide to speed digestion and help relieve nausea, or other medications to help regulate digestion or reduce stomach acid secretion.\n                \nTo relieve diarrhea or other bowel problems, doctors may prescribe an antibiotic such as tetracycline, or other medications as appropriate.\n                \nDizziness and Weakness\n                \nSitting or standing slowly may help prevent the light-headedness, dizziness, or fainting associated with blood pressure and circulation problems. Raising the head of the bed or wearing elastic stockings may also help. Some people benefit from increased salt in the diet and treatment with salt-retaining hormones. Others benefit from high blood pressure medications. Physical therapy can help when muscle weakness or loss of coordination is a problem.\n                \nUrinary and Sexual Problems\n                \nTo clear up a urinary tract infection, the doctor will probably prescribe an antibiotic. Drinking plenty of fluids will help prevent another infection. People who have incontinence should try to urinate at regular intervalsevery 3 hours, for examplebecause they may not be able to tell when the bladder is full.\n                \nTo treat erectile dysfunction in men, the doctor will first do tests to rule out a hormonal cause. Several methods are available to treat erectile dysfunction caused by neuropathy. Medicines are available to help men have and maintain erections by increasing blood flow to the penis. Some are oral medications and others are injected into the penis or inserted into the urethra at the tip of the penis. Mechanical vacuum devices can also increase blood flow to the penis. Another option is to surgically implant an inflatable or semirigid device in the penis.\n                \nVaginal lubricants may be useful for women when neuropathy causes vaginal dryness. To treat problems with arousal and orgasm, the doctor may refer women to a gynecologist.\n                \nFoot Care\n                \nPeople with neuropathy need to take special care of their feet. The nerves to the feet are the longest in the body and are the ones most often affected by neuropathy. Loss of sensation in the feet means that sores or injuries may not be noticed and may become ulcerated or infected. Circulation problems also increase the risk of foot ulcers. Smoking increases the risk of foot problems and amputation. A health care provider may be able to provide help with quitting smoking.\n                \nMore than 60 percent of all nontraumatic lower-limb amputations in the United States occur in people with diabetes. Nontraumatic amputations are those not caused by trauma such as severe injuries from an accident. In 2004, about 71,000 nontraumatic amputations were performed in people with diabetes. Comprehensive foot care programs can reduce amputation rates by 45 to 85 percent.\n                \nCareful foot care involves\n                \n- cleaning the feet daily using warmnot hotwater and a mild soap. Soaking the feet should be avoided. A soft towel can be used to dry the feet and between the toes.  - inspecting the feet and toes every day for cuts, blisters, redness, swelling, calluses, or other problems. Using a mirrorhandheld or placed on the floormay be helpful in checking the bottoms of the feet, or another person can help check the feet. A health care provider should be notified of any problems.  - using lotion to moisturize the feet. Getting lotion between the toes should be avoided.  - filing corns and calluses gently with a pumice stone after a bath or shower.  - cutting toenails to the shape of the toes and filing the edges with an emery board each week or when needed.  - always wearing shoes or slippers to protect feet from injuries. Wearing thick, soft, seamless socks can prevent skin irritation.  - wearing shoes that fit well and allow the toes to move. New shoes can be broken in gradually by first wearing them for only an hour at a time.  - looking shoes over carefully before putting them on and feeling the insides to make sure the shoes are free of tears, sharp edges, or objects that might injure the feet.\n                \nPeople who need help taking care of their feet should consider making an appointment to see a foot doctor, also called a podiatrist.",
+          "question": "What are the treatments for Diabetic Neuropathies: The Nerve Damage of Diabetes ?",
+          "score": 0.02593383751809597,
+          "rerank_score": -0.4984777867794037,
+          "trust_score": 0.0920610648453074
+        },
+        {
+          "text": "The two most common forms of diabetes are type 1 and type 2. Currently, there is no way to delay or prevent type 1 diabetes. However, research has shown that type 2 diabetes can be prevented or delayed in people at risk for the disease. Preventing type 2 diabetes can mean a healthier and longer life without serious complications from the disease such as heart disease, stroke, blindness, kidney failure, and amputations. Preventing Type 2 Diabetes Before people develop type 2 diabetes, they usually have prediabetes -- a condition in which blood glucose levels are higher than normal, but not yet high enough for a diagnosis of diabetes. The good news is that if you have prediabetes, there are ways to reduce your risk of getting type 2 diabetes. With modest weight loss and moderate physical activity, you can delay or prevent type 2 diabetes Benefits of Weight Loss and Exercise  The Diabetes Prevention Program (DPP) is a landmark study by the National Institute of Diabetes and Digestive and Kidney Diseases. DPP researchers found that adults at high risk for type 2 diabetes were able to cut their risk in half by losing a modest amount of weight and being active almost every day. This means losing 5 to 7 percent of body weight (that's 10 pounds if you weigh 200 pounds) and getting 150 minutes of physical activity a week. The drug metformin reduced the risk of type 2 diabetes by 34 percent but was more effective in younger and heavier adults. (Watch the video to learn more about preventing type 2 diabetes. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.) The benefits of weight loss and regular exercise have long-lasting value. In a DPP follow-up trial known as the Diabetes Prevention Program Outcome Study (DPPOS), people at risk of type 2 diabetes who kept off the weight they had lost and who continued to exercise regularly delayed the onset of type 2 diabetes by about 4 years. The DPP study also showed that modest weight loss (achieved by following a low calorie, low-fat diet) and moderate physical activity were especially effective in preventing or delaying the development of diabetes in older people. In fact, people over the age of 60 were able to reduce their risk for developing type 2 diabetes by 71 percent. How to Lower Your Risk Making modest lifestyle changes can help prevent or delay type 2 diabetes in people who are at risk. Here are some tips. Reach and Maintain a Reasonable Body Weight Your weight affects your health in many ways. Being overweight can keep your body from making and using insulin properly. It can also cause high blood pressure. The Body Mass Index chart  (seen here) can be used to find out whether someone is normal weight, overweight, or obese. Body mass index is a measurement of body weight relative to height for adults age 20 or older. To use the chart -  find the person's height in the left-hand column   -  move across the row to find the number closest to the person's weight   -  find the number at the top of that column   - The number at the top of the column is the persons BMI. find the person's height in the left-hand column move across the row to find the number closest to the person's weight find the number at the top of that column The number at the top of the column is the persons BMI. The words above the BMI number indicate whether the person is normal weight, overweight, or obese. People who are overweight or obese should consider talking with a health care provider about ways to lose weight and reduce the risk of diabetes. The BMI has certain limitations. The BMI may overestimate body fat in athletes and others who have a muscular build and underestimate body fat in older adults and others who have lost muscle.  Waist Measurement. In addition to weight, the location of excess fat on the body can be important. A waist measurement of 40 inches or more for men and 35 inches or more for women is linked to insulin resistance and increases a persons risk for type 2 diabetes. This is true even if a persons body mass index (BMI) falls within the normal range. To measure the waist, a person should - place a tape measure around the bare abdomen just above the hip bone  - make sure the tape is snug but isnt digging into the skin and is parallel to the floor  - relax, exhale, and measure. place a tape measure around the bare abdomen just above the hip bone make sure the tape is snug but isnt digging into the skin and is parallel to the floor relax, exhale, and measure. Make Healthy Food Choices What you eat has a big impact on your weight and overall health. By developing healthy eating habits, you can help manage your body weight, blood pressure, and cholesterol. Reducing portion size, increasing the amount of fiber you consume (by eating more fruits and vegetables) and limiting fatty and salty foods are key to a healthy diet. Here are more tips for eating well with diabetes. - Make a diabetes meal plan with help from your health care team.   - Choose foods that are lower in calories, saturated fat, trans fat, sugar, and salt.   - Eat foods with more fiber, such as whole grain cereals, breads, crackers, rice, or pasta.   - Choose foods such as fruits, vegetables, whole grains, bread and cereals, and low-fat or skim milk and cheese.   - Drink water instead of juice and regular soda.   - When eating a meal, fill half of your plate with fruits and vegetables, one quarter with a lean protein, such as beans, or chicken or turkey without the skin, and one quarter with a whole grain, such as brown rice or whole wheat pasta. Make a diabetes meal plan with help from your health care team. Choose foods that are lower in calories, saturated fat, trans fat, sugar, and salt. Eat foods with more fiber, such as whole grain cereals, breads, crackers, rice, or pasta. Choose foods such as fruits, vegetables, whole grains, bread and cereals, and low-fat or skim milk and cheese. Drink water instead of juice and regular soda. When eating a meal, fill half of your plate with fruits and vegetables, one quarter with a lean protein, such as beans, or chicken or turkey without the skin, and one quarter with a whole grain, such as brown rice or whole wheat pasta. For more about healthy eating and older adults see  \"Eating Well as You Get Older.\" Be Physically Active Get at least 30 minutes of exercise at least five days a week. Regular exercise reduces diabetes risk in several ways. It - helps you lose weight  - controls your cholesterol and blood pressure  -  improves your body's use of insulin.  helps you lose weight controls your cholesterol and blood pressure improves your body's use of insulin. Many people make walking part of their daily routine because its easy, fun and convenient. But you can choose any activity that gets you moving. Its fine to break up your 30 minutes of exercise into smaller increments, such as three 10-minute periods. Check with your doctor before beginning any exercise program. Many people make walking part of their daily routine because its easy, fun and convenient. But you can choose any activity that gets you moving. Its fine to break up your 30 minutes of exercise into smaller increments, such as three 10-minute periods. Check with your doctor before beginning any exercise program. For more information on exercise and older adults, see  Exercises to Try or visit Go4Life, the exercise and physical activity campaign for older adults from the National Institute on Aging.",
+          "question": "How to prevent Diabetes ?",
+          "score": 0.019221710041165352,
+          "rerank_score": -1.5488295555114746,
+          "trust_score": 0.038469469477685606
+        },
+        {
+          "text": "Diabetes treatment plans are designed to match the dose and timing of medication to a person's usual schedule of meals and activities. Mismatches could result in hypoglycemia. For example, taking a dose of insulinor other medication that increases insulin levelsbut then skipping a meal could result in hypoglycemia.\n                \nTo help prevent hypoglycemia, people with diabetes should always consider the following:\n                \n- Their diabetes medications. A health care provider can explain which diabetes medications can cause hypoglycemia and explain how and when to take medications. For good diabetes management, people with diabetes should take diabetes medications in the recommended doses at the recommended times. In some cases, health care providers may suggest that patients learn how to adjust medications to match changes in their schedule or routine.  - Their meal plan. A registered dietitian can help design a meal plan that fits one's personal preferences and lifestyle. Following one's meal plan is important for managing diabetes. People with diabetes should eat regular meals, have enough food at each meal, and try not to skip meals or snacks. Snacks are particularly important for some people before going to sleep or exercising. Some snacks may be more effective than others in preventing hypoglycemia overnight. The dietitian can make recommendations for snacks.  - Their daily activity. To help prevent hypoglycemia caused by physical activity, health care providers may advise      - checking blood glucose before sports, exercise, or other physical activity and having a snack if the level is below 100 milligrams per deciliter (mg/dL)    - adjusting medication before physical activity    - checking blood glucose at regular intervals during extended periods of physical activity and having snacks as needed    - checking blood glucose periodically after physical activity    - Their use of alcoholic beverages. Drinking alcoholic beverages, especially on an empty stomach, can cause hypoglycemia, even a day or two later. Heavy drinking can be particularly dangerous for people taking insulin or medications that increase insulin production. Alcoholic beverages should always be consumed with a snack or meal at the same time. A health care provider can suggest how to safely include alcohol in a meal plan.  - Their diabetes management plan. Intensive diabetes managementkeeping blood glucose as close to the normal range as possible to prevent long-term complicationscan increase the risk of hypoglycemia. Those whose goal is tight control should talk with a health care provider about ways to prevent hypoglycemia and how best to treat it if it occurs.\n                \nWhat to Ask the Doctor about Diabetes Medications\n                \nPeople who take diabetes medications should ask their doctor or health care provider\n                \n- whether their diabetes medications could cause hypoglycemia  - when they should take their diabetes medications  - how much medication they should take  - whether they should keep taking their diabetes medications when they are sick  - whether they should adjust their medications before physical activity  - whether they should adjust their medications if they skip a meal",
+          "question": "How to prevent Hypoglycemia ?",
+          "score": 0.020048247650265694,
+          "rerank_score": -2.5317585468292236,
+          "trust_score": 0.01557559611231798
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What is (are) Diabetic Kidney Disease ?",
+          "text": "Diabetes is a complex group of diseases with a variety of causes. People with diabetes have high blood glucose, also called high blood sugar or hyperglycemia.\n                \nDiabetes is a disorder of metabolism the way the body uses digested food for energy. The digestive tract breaks down carbohydratessugars and starches found in many foodsinto glucose, a form of sugar that enters the bloodstream. With the help of the hormone insulin, cells throughout the body absorb glucose and use it for energy.\n                \nInsulin is made in the pancreas, an organ located behind the stomach and below the liver. As blood glucose levels rise after a meal, the pancreas is triggered to release insulin. The pancreas contains clusters of cells called pancreatic islets. Beta cells within the pancreatic islets make insulin and release it into the blood.\n                \nDiabetes develops when the body doesnt make enough insulin, is not able to use insulin effectively, or both. As a result, glucose builds up in the blood instead of being absorbed by cells in the body. The bodys cells are then starved of energy despite high blood glucose levels.",
+          "trust_score": 0.6432885186305717
+        },
+        {
+          "question": "What is (are) Diabetes, Heart Disease, and Stroke ?",
+          "text": "Diabetes is a disorder of metabolismthe way our bodies use digested food for energy. Most of the food we eat is broken down into glucose, the form of sugar in the blood. Glucose is the body's main source of fuel.\n                \nAfter digestion, glucose enters the bloodstream. Then glucose goes to cells throughout the body where it is used for energy. However, a hormone called insulin must be present to allow glucose to enter the cells. Insulin is a hormone produced by the pancreas, a large gland behind the stomach.\n                \nIn people who do not have diabetes, the pancreas automatically produces the right amount of insulin to move glucose from blood into the cells. However, diabetes develops when the pancreas does not make enough insulin, or the cells in the muscles, liver, and fat do not use insulin properly, or both. As a result, the amount of glucose in the blood increases while the cells are starved of energy.\n                \nOver time, high blood glucose levels damage nerves and blood vessels, leading to complications such as heart disease and stroke, the leading causes of death among people with diabetes. Uncontrolled diabetes can eventually lead to other health problems as well, such as vision loss, kidney failure, and amputations.",
+          "trust_score": 0.5527855010799516
+        },
+        {
+          "question": "What are the treatments for Prevent diabetes problems: Keep your nervous system healthy ?",
+          "text": "The treatment for nerve damage from diabetes is based on your symptoms. No treatment can reverse nerve damage; however, it can help you feel better. Your doctor might suggest taking low doses of medicines that both treat other health problems and help the pain of neuropathy. Some of these medicines include\n                \n- antidepressants  - anticonvulsants, or anti-seizure medicines\n                \nOther treatment options include\n                \n- creams or patches on your skin for burning pain  - over-the-counter pain medicines  - acupuncture, a form of pain treatment that uses needles inserted into your body at certain pressure points  - physical therapy, which helps with muscle weakness and loss of balance  - relaxation exercises, such as yoga  - special shoes to fit softly around sore feet or feet that have changed shape\n                \nYour doctor also can prescribe medicines to help with problems caused by nerve damage in other areas of your body, such as poor digestion, dizziness, sexual problems, and lack of bladder control.\n                \nStopping smoking and drinking alcoholic beverages also may help with symptoms.",
+          "trust_score": 0.28919370547955847
+        },
+        {
+          "question": "What are the treatments for Diabetic Neuropathies: The Nerve Damage of Diabetes ?",
+          "text": "The first treatment step is to bring blood glucose levels within the normal range to help prevent further nerve damage. Blood glucose monitoring, meal planning, physical activity, and diabetes medicines or insulin will help control blood glucose levels. Symptoms may get worse when blood glucose is first brought under control, but over time, maintaining lower blood glucose levels helps lessen symptoms. Good blood glucose control may also help prevent or delay the onset of further problems. As scientists learn more about the underlying causes of neuropathy, new treatments may become available to help slow, prevent, or even reverse nerve damage.\n                \nAs described in the following sections, additional treatment depends on the type of nerve problem and symptom.\n                \nPain Relief\n                \nDoctors usually treat painful diabetic neuropathy with oral medications, although other types of treatments may help some people. People with severe nerve pain may benefit from a combination of medications or treatments and should consider talking with a health care provider about treatment options.\n                \nMedications used to help relieve diabetic nerve pain include\n                \n- tricyclic antidepressants, such as amitriptyline, imipramine, and desipramine (Norpramin, Pertofrane)  - other types of antidepressants, such as duloxetine (Cymbalta), venlafaxine, bupropion (Wellbutrin), paroxetine (Paxil), and citalopram (Celexa)  - anticonvulsants, such as pregabalin (Lyrica), gabapentin (Gabarone, Neurontin), carbamazepine, and lamotrigine (Lamictal)  - opioids and opioidlike drugs, such as controlled-release oxycodone, an opioid; and tramadol (Ultram), an opioid that also acts as an antidepressant\n                \nDuloxetine and pregabalin are approved by the U.S. Food and Drug Administration specifically for treating painful diabetic peripheral neuropathy.\n                \nPeople do not have to be depressed for an antidepressant to help relieve their nerve pain. All medications have side effects, and some are not recommended for use in older adults or those with heart disease. Because over-the-counter pain medicines such as acetaminophen and ibuprofen may not work well for treating most nerve pain and can have serious side effects, some experts recommend avoiding these medications.\n                \nTreatments that are applied to the skintypically to the feetinclude capsaicin cream and lidocaine patches (Lidoderm, Lidopain). Studies suggest that nitrate sprays or patches for the feet may relieve pain. Studies of alpha-lipoic acid, an antioxidant, and evening primrose oil suggest they may help relieve symptoms and improve nerve function in some patients.\n                \nA device called a bed cradle can keep sheets and blankets from touching sensitive feet and legs. Acupuncture, biofeedback, or physical therapy may help relieve pain in some people. Treatments that involve electrical nerve stimulation, magnetic therapy, and laser or light therapy may be helpful but need further study. Researchers are also studying several new therapies in clinical trials.\n                \nGastrointestinal Problems\n                \nTo relieve mild symptoms of gastroparesisindigestion, belching, nausea, or vomitingdoctors suggest eating small, frequent meals; avoiding fats; and eating less fiber. When symptoms are severe, doctors may prescribe erythromycin to speed digestion, metoclopramide to speed digestion and help relieve nausea, or other medications to help regulate digestion or reduce stomach acid secretion.\n                \nTo relieve diarrhea or other bowel problems, doctors may prescribe an antibiotic such as tetracycline, or other medications as appropriate.\n                \nDizziness and Weakness\n                \nSitting or standing slowly may help prevent the light-headedness, dizziness, or fainting associated with blood pressure and circulation problems. Raising the head of the bed or wearing elastic stockings may also help. Some people benefit from increased salt in the diet and treatment with salt-retaining hormones. Others benefit from high blood pressure medications. Physical therapy can help when muscle weakness or loss of coordination is a problem.\n                \nUrinary and Sexual Problems\n                \nTo clear up a urinary tract infection, the doctor will probably prescribe an antibiotic. Drinking plenty of fluids will help prevent another infection. People who have incontinence should try to urinate at regular intervalsevery 3 hours, for examplebecause they may not be able to tell when the bladder is full.\n                \nTo treat erectile dysfunction in men, the doctor will first do tests to rule out a hormonal cause. Several methods are available to treat erectile dysfunction caused by neuropathy. Medicines are available to help men have and maintain erections by increasing blood flow to the penis. Some are oral medications and others are injected into the penis or inserted into the urethra at the tip of the penis. Mechanical vacuum devices can also increase blood flow to the penis. Another option is to surgically implant an inflatable or semirigid device in the penis.\n                \nVaginal lubricants may be useful for women when neuropathy causes vaginal dryness. To treat problems with arousal and orgasm, the doctor may refer women to a gynecologist.\n                \nFoot Care\n                \nPeople with neuropathy need to take special care of their feet. The nerves to the feet are the longest in the body and are the ones most often affected by neuropathy. Loss of sensation in the feet means that sores or injuries may not be noticed and may become ulcerated or infected. Circulation problems also increase the risk of foot ulcers. Smoking increases the risk of foot problems and amputation. A health care provider may be able to provide help with quitting smoking.\n                \nMore than 60 percent of all nontraumatic lower-limb amputations in the United States occur in people with diabetes. Nontraumatic amputations are those not caused by trauma such as severe injuries from an accident. In 2004, about 71,000 nontraumatic amputations were performed in people with diabetes. Comprehensive foot care programs can reduce amputation rates by 45 to 85 percent.\n                \nCareful foot care involves\n                \n- cleaning the feet daily using warmnot hotwater and a mild soap. Soaking the feet should be avoided. A soft towel can be used to dry the feet and between the toes.  - inspecting the feet and toes every day for cuts, blisters, redness, swelling, calluses, or other problems. Using a mirrorhandheld or placed on the floormay be helpful in checking the bottoms of the feet, or another person can help check the feet. A health care provider should be notified of any problems.  - using lotion to moisturize the feet. Getting lotion between the toes should be avoided.  - filing corns and calluses gently with a pumice stone after a bath or shower.  - cutting toenails to the shape of the toes and filing the edges with an emery board each week or when needed.  - always wearing shoes or slippers to protect feet from injuries. Wearing thick, soft, seamless socks can prevent skin irritation.  - wearing shoes that fit well and allow the toes to move. New shoes can be broken in gradually by first wearing them for only an hour at a time.  - looking shoes over carefully before putting them on and feeling the insides to make sure the shoes are free of tears, sharp edges, or objects that might injure the feet.\n                \nPeople who need help taking care of their feet should consider making an appointment to see a foot doctor, also called a podiatrist.",
+          "trust_score": 0.0920610648453074
+        },
+        {
+          "question": "How to prevent Diabetes ?",
+          "text": "The two most common forms of diabetes are type 1 and type 2. Currently, there is no way to delay or prevent type 1 diabetes. However, research has shown that type 2 diabetes can be prevented or delayed in people at risk for the disease. Preventing type 2 diabetes can mean a healthier and longer life without serious complications from the disease such as heart disease, stroke, blindness, kidney failure, and amputations. Preventing Type 2 Diabetes Before people develop type 2 diabetes, they usually have prediabetes -- a condition in which blood glucose levels are higher than normal, but not yet high enough for a diagnosis of diabetes. The good news is that if you have prediabetes, there are ways to reduce your risk of getting type 2 diabetes. With modest weight loss and moderate physical activity, you can delay or prevent type 2 diabetes Benefits of Weight Loss and Exercise  The Diabetes Prevention Program (DPP) is a landmark study by the National Institute of Diabetes and Digestive and Kidney Diseases. DPP researchers found that adults at high risk for type 2 diabetes were able to cut their risk in half by losing a modest amount of weight and being active almost every day. This means losing 5 to 7 percent of body weight (that's 10 pounds if you weigh 200 pounds) and getting 150 minutes of physical activity a week. The drug metformin reduced the risk of type 2 diabetes by 34 percent but was more effective in younger and heavier adults. (Watch the video to learn more about preventing type 2 diabetes. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.) The benefits of weight loss and regular exercise have long-lasting value. In a DPP follow-up trial known as the Diabetes Prevention Program Outcome Study (DPPOS), people at risk of type 2 diabetes who kept off the weight they had lost and who continued to exercise regularly delayed the onset of type 2 diabetes by about 4 years. The DPP study also showed that modest weight loss (achieved by following a low calorie, low-fat diet) and moderate physical activity were especially effective in preventing or delaying the development of diabetes in older people. In fact, people over the age of 60 were able to reduce their risk for developing type 2 diabetes by 71 percent. How to Lower Your Risk Making modest lifestyle changes can help prevent or delay type 2 diabetes in people who are at risk. Here are some tips. Reach and Maintain a Reasonable Body Weight Your weight affects your health in many ways. Being overweight can keep your body from making and using insulin properly. It can also cause high blood pressure. The Body Mass Index chart  (seen here) can be used to find out whether someone is normal weight, overweight, or obese. Body mass index is a measurement of body weight relative to height for adults age 20 or older. To use the chart -  find the person's height in the left-hand column   -  move across the row to find the number closest to the person's weight   -  find the number at the top of that column   - The number at the top of the column is the persons BMI. find the person's height in the left-hand column move across the row to find the number closest to the person's weight find the number at the top of that column The number at the top of the column is the persons BMI. The words above the BMI number indicate whether the person is normal weight, overweight, or obese. People who are overweight or obese should consider talking with a health care provider about ways to lose weight and reduce the risk of diabetes. The BMI has certain limitations. The BMI may overestimate body fat in athletes and others who have a muscular build and underestimate body fat in older adults and others who have lost muscle.  Waist Measurement. In addition to weight, the location of excess fat on the body can be important. A waist measurement of 40 inches or more for men and 35 inches or more for women is linked to insulin resistance and increases a persons risk for type 2 diabetes. This is true even if a persons body mass index (BMI) falls within the normal range. To measure the waist, a person should - place a tape measure around the bare abdomen just above the hip bone  - make sure the tape is snug but isnt digging into the skin and is parallel to the floor  - relax, exhale, and measure. place a tape measure around the bare abdomen just above the hip bone make sure the tape is snug but isnt digging into the skin and is parallel to the floor relax, exhale, and measure. Make Healthy Food Choices What you eat has a big impact on your weight and overall health. By developing healthy eating habits, you can help manage your body weight, blood pressure, and cholesterol. Reducing portion size, increasing the amount of fiber you consume (by eating more fruits and vegetables) and limiting fatty and salty foods are key to a healthy diet. Here are more tips for eating well with diabetes. - Make a diabetes meal plan with help from your health care team.   - Choose foods that are lower in calories, saturated fat, trans fat, sugar, and salt.   - Eat foods with more fiber, such as whole grain cereals, breads, crackers, rice, or pasta.   - Choose foods such as fruits, vegetables, whole grains, bread and cereals, and low-fat or skim milk and cheese.   - Drink water instead of juice and regular soda.   - When eating a meal, fill half of your plate with fruits and vegetables, one quarter with a lean protein, such as beans, or chicken or turkey without the skin, and one quarter with a whole grain, such as brown rice or whole wheat pasta. Make a diabetes meal plan with help from your health care team. Choose foods that are lower in calories, saturated fat, trans fat, sugar, and salt. Eat foods with more fiber, such as whole grain cereals, breads, crackers, rice, or pasta. Choose foods such as fruits, vegetables, whole grains, bread and cereals, and low-fat or skim milk and cheese. Drink water instead of juice and regular soda. When eating a meal, fill half of your plate with fruits and vegetables, one quarter with a lean protein, such as beans, or chicken or turkey without the skin, and one quarter with a whole grain, such as brown rice or whole wheat pasta. For more about healthy eating and older adults see  \"Eating Well as You Get Older.\" Be Physically Active Get at least 30 minutes of exercise at least five days a week. Regular exercise reduces diabetes risk in several ways. It - helps you lose weight  - controls your cholesterol and blood pressure  -  improves your body's use of insulin.  helps you lose weight controls your cholesterol and blood pressure improves your body's use of insulin. Many people make walking part of their daily routine because its easy, fun and convenient. But you can choose any activity that gets you moving. Its fine to break up your 30 minutes of exercise into smaller increments, such as three 10-minute periods. Check with your doctor before beginning any exercise program. Many people make walking part of their daily routine because its easy, fun and convenient. But you can choose any activity that gets you moving. Its fine to break up your 30 minutes of exercise into smaller increments, such as three 10-minute periods. Check with your doctor before beginning any exercise program. For more information on exercise and older adults, see  Exercises to Try or visit Go4Life, the exercise and physical activity campaign for older adults from the National Institute on Aging.",
+          "trust_score": 0.038469469477685606
+        },
+        {
+          "question": "How to prevent Hypoglycemia ?",
+          "text": "Diabetes treatment plans are designed to match the dose and timing of medication to a person's usual schedule of meals and activities. Mismatches could result in hypoglycemia. For example, taking a dose of insulinor other medication that increases insulin levelsbut then skipping a meal could result in hypoglycemia.\n                \nTo help prevent hypoglycemia, people with diabetes should always consider the following:\n                \n- Their diabetes medications. A health care provider can explain which diabetes medications can cause hypoglycemia and explain how and when to take medications. For good diabetes management, people with diabetes should take diabetes medications in the recommended doses at the recommended times. In some cases, health care providers may suggest that patients learn how to adjust medications to match changes in their schedule or routine.  - Their meal plan. A registered dietitian can help design a meal plan that fits one's personal preferences and lifestyle. Following one's meal plan is important for managing diabetes. People with diabetes should eat regular meals, have enough food at each meal, and try not to skip meals or snacks. Snacks are particularly important for some people before going to sleep or exercising. Some snacks may be more effective than others in preventing hypoglycemia overnight. The dietitian can make recommendations for snacks.  - Their daily activity. To help prevent hypoglycemia caused by physical activity, health care providers may advise      - checking blood glucose before sports, exercise, or other physical activity and having a snack if the level is below 100 milligrams per deciliter (mg/dL)    - adjusting medication before physical activity    - checking blood glucose at regular intervals during extended periods of physical activity and having snacks as needed    - checking blood glucose periodically after physical activity    - Their use of alcoholic beverages. Drinking alcoholic beverages, especially on an empty stomach, can cause hypoglycemia, even a day or two later. Heavy drinking can be particularly dangerous for people taking insulin or medications that increase insulin production. Alcoholic beverages should always be consumed with a snack or meal at the same time. A health care provider can suggest how to safely include alcohol in a meal plan.  - Their diabetes management plan. Intensive diabetes managementkeeping blood glucose as close to the normal range as possible to prevent long-term complicationscan increase the risk of hypoglycemia. Those whose goal is tight control should talk with a health care provider about ways to prevent hypoglycemia and how best to treat it if it occurs.\n                \nWhat to Ask the Doctor about Diabetes Medications\n                \nPeople who take diabetes medications should ask their doctor or health care provider\n                \n- whether their diabetes medications could cause hypoglycemia  - when they should take their diabetes medications  - how much medication they should take  - whether they should keep taking their diabetes medications when they are sick  - whether they should adjust their medications before physical activity  - whether they should adjust their medications if they skip a meal",
+          "trust_score": 0.01557559611231798
+        }
+      ]
+    }
+  ]
+}

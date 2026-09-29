@@ -1,0 +1,478 @@
+{
+  "symptoms": [
+    "vision problems",
+    "back pain",
+    "vaginal lump"
+  ],
+  "resolved_symptoms": [
+    "back pain",
+    "vaginal lump",
+    "vision problems"
+  ],
+  "diseases": [
+    {
+      "disease": "vaginal cancer",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "surgery"
+      ],
+      "citations": [
+        {
+          "symptom": "abnormal vaginal bleeding",
+          "pmid": "35044676",
+          "title": "Risk assessment for endometrial cancer in women with abnormal vaginal bleeding: Results from the prospective IETA-1 cohort study.",
+          "year": "2022",
+          "confidence": 0.9217,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6338802913603718,
+          "abstract_snippet": "To investigate the association between personal history, anthropometric features and lifestyle characteristics and endometrial malignancy in women with abnormal vaginal bleeding. Prospective observational cohort assessed by descriptive and multivariable logistic regression analyses. Three features-a"
+        },
+        {
+          "symptom": "pain during sex",
+          "pmid": "32014450",
+          "title": "Vaginal Dilators: Issues and Answers.",
+          "year": "2021",
+          "confidence": 0.9145,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6913702527117687,
+          "abstract_snippet": "Vaginal dilators are often prescribed to facilitate an adaptive brain-body connection to decrease anxiety and pain that can be experienced in anticipation of sexual intercourse among populations of women with sexual pain syndromes. Postmenopausal women, cancer survivors, and women with a wide variet"
+        },
+        {
+          "symptom": "vaginal lump",
+          "pmid": "40606952",
+          "title": "An overview of the presentation and management of vulvovaginal cancers at the NSIA-LUTH Cancer Centre.",
+          "year": "2025",
+          "confidence": 0.9131,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7584513016501583,
+          "abstract_snippet": "Vulvovaginal cancer (VVC) are two rare malignancies in women which are less prevalent than other gynecological cancer. This study seeks to investigate the evaluation of the presentation and management of VVC cases at our institution, aiming to contribute to a deeper understanding of VVC within sub-S"
+        },
+        {
+          "symptom": "painful urination",
+          "pmid": "28640166",
+          "title": "Missing documentation in breast cancer survivors: genitourinary syndrome of menopause.",
+          "year": "2017",
+          "confidence": 0.9072,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6886199690854135,
+          "abstract_snippet": "Breast cancer survivors often take hormonal treatments to prevent the recurrence of breast cancer, particularly aromatase inhibitors that can worsen the symptoms of genitourinary syndrome of menopause (GSM) such as dyspareunia, dysuria, and urinary incontinence, all of which may adversely affect sur"
+        },
+        {
+          "symptom": "blood in stool",
+          "pmid": "28555888",
+          "title": "Computerized detection of leukocytes in microscopic leukorrhea images.",
+          "year": "2017",
+          "confidence": 0.901,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.30899586305885907,
+          "abstract_snippet": "Detection of leukocytes is critical for the routine leukorrhea exam, which is widely used in gynecological examinations. An elevated vaginal leukocyte count in women with bacterial vaginosis is a strong predictor of vaginal or cervical infections. In the routine leukorrhea exam, the counting of leuk"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "vaginal cancer",
+          "text": "What are the treatments for vaginal cancer? \n Vaginal cancer can often be cured if it is found early. Treatments for vaginal cancer may include surgery, radiation therapy , and/or chemotherapy .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "What is vaginal cancer? \n Vaginal cancer is a rare type of cancer that starts in the vagina. The vagina is the canal leading from your cervix (the opening of your uterus) to the outside of your body.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "Who is more likely to develop vaginal cancer? \n You are more likely to develop vaginal cancer if:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "You're age 60 or older. \n You've had certain types of human papillomavirus ( HPV ) infections. \n You were exposed to a medicine called DES (diethylstilbestrol) before you were born. Between 1940-1971, DES was sometimes prescribed to prevent miscarriages. DES was later linked to different health problems, including vaginal cancer. \n You have had abnormal cells in your vagina , cervix , or uterus .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "What are the symptoms of vaginal cancer? \n Vaginal cancer often doesn't have early symptoms. However, see your health care provider if you notice:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "Vaginal bleeding that is not your period \n A vaginal lump \n Pelvic pain \n Pain during sex \n Pain while urinating (peeing) \n Constipation or blood in your stool (poop) or urine (pee)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "How is vaginal cancer diagnosed? \n To find out if you have vaginal cancer, your provider will use tests that examine the vagina and other organs in your pelvis. These tests may include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "A pelvic exam . Your provider may also do a Pap test and/or an HPV test during your pelvic exam. \n Colposcopy , a procedure to examine your cervix, vagina, and vulva. \n Biopsy , a procedure to remove some cells so they can be checked for cancer.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/vaginalcancer.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "vaginal cancer",
+          "text": "What are the treatments for vaginal cancer? \n Vaginal cancer can often be cured if it is found early. Treatments for vaginal cancer may include surgery, radiation therapy , and/or chemotherapy .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "What is vaginal cancer? \n Vaginal cancer is a rare type of cancer that starts in the vagina. The vagina is the canal leading from your cervix (the opening of your uterus) to the outside of your body.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "Who is more likely to develop vaginal cancer? \n You are more likely to develop vaginal cancer if:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "You're age 60 or older. \n You've had certain types of human papillomavirus ( HPV ) infections. \n You were exposed to a medicine called DES (diethylstilbestrol) before you were born. Between 1940-1971, DES was sometimes prescribed to prevent miscarriages. DES was later linked to different health problems, including vaginal cancer. \n You have had abnormal cells in your vagina , cervix , or uterus .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "What are the symptoms of vaginal cancer? \n Vaginal cancer often doesn't have early symptoms. However, see your health care provider if you notice:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "Vaginal bleeding that is not your period \n A vaginal lump \n Pelvic pain \n Pain during sex \n Pain while urinating (peeing) \n Constipation or blood in your stool (poop) or urine (pee)",
+          "trust_score": 1.0
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "How is vaginal cancer diagnosed? \n To find out if you have vaginal cancer, your provider will use tests that examine the vagina and other organs in your pelvis. These tests may include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "vaginal cancer",
+          "text": "A pelvic exam . Your provider may also do a Pap test and/or an HPV test during your pelvic exam. \n Colposcopy , a procedure to examine your cervix, vagina, and vulva. \n Biopsy , a procedure to remove some cells so they can be checked for cancer.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "leukodystrophies",
+      "drugs": [],
+      "treatment_modalities": [
+        "physical therapy",
+        "occupational therapy",
+        "medicines",
+        "speech therapy",
+        "nutritional therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "vision problems",
+          "pmid": "36003149",
+          "title": "Emerging cellular themes in leukodystrophies.",
+          "year": "2022",
+          "confidence": 0.9329,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8237516532191517,
+          "abstract_snippet": "Leukodystrophies are a broad spectrum of neurological disorders that are characterized primarily by deficiencies in myelin formation. Clinical manifestations of leukodystrophies usually appear during childhood and common symptoms include lack of motor coordination, difficulty with or loss of ambulat"
+        },
+        {
+          "symptom": "speech difficulty",
+          "pmid": "36003149",
+          "title": "Emerging cellular themes in leukodystrophies.",
+          "year": "2022",
+          "confidence": 0.9327,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8670455590980425,
+          "abstract_snippet": "Leukodystrophies are a broad spectrum of neurological disorders that are characterized primarily by deficiencies in myelin formation. Clinical manifestations of leukodystrophies usually appear during childhood and common symptoms include lack of motor coordination, difficulty with or loss of ambulat"
+        },
+        {
+          "symptom": "behavior changes",
+          "pmid": "28638987",
+          "title": "Leukodystrophies: a proposed classification system based on pathological changes and pathogenetic mechanisms.",
+          "year": "2017",
+          "confidence": 0.9199,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8185220927836171,
+          "abstract_snippet": "Leukodystrophies are genetically determined disorders characterized by the selective involvement of the central nervous system white matter. Onset may be at any age, from prenatal life to senescence. Many leukodystrophies are degenerative in nature, but some only impair white matter function. The cl"
+        },
+        {
+          "symptom": "walking difficulty",
+          "pmid": "39919255",
+          "title": "Disease Burden in Female Patients With X-Linked Adrenoleukodystrophy.",
+          "year": "2025",
+          "confidence": 0.889,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7566899363390547,
+          "abstract_snippet": "X-linked adrenoleukodystrophy (ALD) is a neurodegenerative disease primarily affecting male patients. Female patients with ALD are also affected in adulthood, yet their disease course and symptom burden remain poorly defined. In this single-site study, we set out to characterize disease burden in fe"
+        },
+        {
+          "symptom": "hearing problems",
+          "pmid": "33942428",
+          "title": "Bi-allelic KARS1 pathogenic variants affecting functions of cytosolic and mitochondrial isoforms are associated with a progressive and multisystem disease.",
+          "year": "2021",
+          "confidence": 0.8859,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8886893496946191,
+          "abstract_snippet": "KARS1 encodes a lysyl-transfer RNA synthetase (LysRS) that links lysine to its cognate transfer RNA. Two different KARS1 isoforms exert functional effects in cytosol and mitochondria. Bi-allelic pathogenic variants in KARS1 have been associated to sensorineural hearing and visual loss, neuropathy, s"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "leukodystrophies",
+          "text": "What are the treatments for leukodystrophies? \n There is no cure for leukodystrophies. Treatment focuses on relieving symptoms and providing support. It may include: \n Medicines to manage muscle tone, seizures, and spasticity (muscle stiffness) \n Physical, occupational, and speech therapies to improve mobility, function, and cognitive problems \n Nutritional therapy for eating and swallowing problems \n Educational and recreational programs",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "One type of leukodystrophy, CTX, is treatable if it is diagnosed early. It is treated with chenodeoxycholic acid (CDCA) replacement therapy.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are leukodystrophies? \n Leukodystrophies are a group of rare genetic disorders that affect the central nervous system (CNS). The CNS is made up of your brain and spinal cord. Leukodystrophies damage the white matter of your CNS. The white matter includes: \n Nerve fibers, also called axons, which connect your nerve cells \n Myelin, a layer of proteins and fatty materials that covers and protects the nerve fibers. It also helps speed up signals between the nerve cells.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "When the white matter is damaged, it can slow down or block the signals between nerve cells. This can cause many different symptoms, including trouble with movement , vision , hearing , and thinking.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There are over 50 types of leukodystrophies. Some types are present at birth, while others may not cause symptoms until a child becomes a toddler. A few types mainly affect adults. Most types get worse over time.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What causes leukodystrophies? \n Leukodystrophies are caused by genetic changes. These changes are usually inherited, meaning that they are passed from parent to child.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are the symptoms of leukodystrophies? \n The symptoms of leukodystrophies depend on the type; they can include a gradual loss of: \n Muscle tone \n Balance and mobility \n Walking \n Speech \n Ability to eat \n Vision \n Hearing \n Behavior",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There can also be other symptoms, such as: \n Learning disabilities \n Bladder issues \n Breathing problems \n Developmental disabilities \n Muscle control disorders \n Seizures",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/leukodystrophies.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "leukodystrophies",
+          "text": "What are the treatments for leukodystrophies? \n There is no cure for leukodystrophies. Treatment focuses on relieving symptoms and providing support. It may include: \n Medicines to manage muscle tone, seizures, and spasticity (muscle stiffness) \n Physical, occupational, and speech therapies to improve mobility, function, and cognitive problems \n Nutritional therapy for eating and swallowing problems \n Educational and recreational programs",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "One type of leukodystrophy, CTX, is treatable if it is diagnosed early. It is treated with chenodeoxycholic acid (CDCA) replacement therapy.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are leukodystrophies? \n Leukodystrophies are a group of rare genetic disorders that affect the central nervous system (CNS). The CNS is made up of your brain and spinal cord. Leukodystrophies damage the white matter of your CNS. The white matter includes: \n Nerve fibers, also called axons, which connect your nerve cells \n Myelin, a layer of proteins and fatty materials that covers and protects the nerve fibers. It also helps speed up signals between the nerve cells.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "When the white matter is damaged, it can slow down or block the signals between nerve cells. This can cause many different symptoms, including trouble with movement , vision , hearing , and thinking.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There are over 50 types of leukodystrophies. Some types are present at birth, while others may not cause symptoms until a child becomes a toddler. A few types mainly affect adults. Most types get worse over time.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What causes leukodystrophies? \n Leukodystrophies are caused by genetic changes. These changes are usually inherited, meaning that they are passed from parent to child.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "What are the symptoms of leukodystrophies? \n The symptoms of leukodystrophies depend on the type; they can include a gradual loss of: \n Muscle tone \n Balance and mobility \n Walking \n Speech \n Ability to eat \n Vision \n Hearing \n Behavior",
+          "trust_score": 1.0
+        },
+        {
+          "question": "leukodystrophies",
+          "text": "There can also be other symptoms, such as: \n Learning disabilities \n Bladder issues \n Breathing problems \n Developmental disabilities \n Muscle control disorders \n Seizures",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "blood clots",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "blood thinners",
+        "thrombolytics"
+      ],
+      "citations": [
+        {
+          "symptom": "chest pain",
+          "pmid": "28159870",
+          "title": "A 17-Year-Old With Chest Pain.",
+          "year": "2017",
+          "confidence": 0.9196,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7619322654797579,
+          "abstract_snippet": "A 17-year-old male subject with a history of deep venous thrombosis presented with acute unilateral severe chest pain. His examination was nonspecific, and vital signs were normal. His initial laboratory evaluation revealed mild thrombocytopenia, elevated troponin levels, and critically elevated act"
+        },
+        {
+          "symptom": "abdominal pain",
+          "pmid": "36849315",
+          "title": "Mesenteric venous thrombosis.",
+          "year": "2023",
+          "confidence": 0.9127,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.836522029059425,
+          "abstract_snippet": "Mesenteric vein thrombosis (MVT) is a rare condition that can present acutely, subacutely, or chronically. MVT can be isolated or within a splanchnic thrombosis (spleno-porto-mesenteric). Symptomatic cases usually present as nonspecific abdominal pain, with or without signs of intestinal ischemia, a"
+        },
+        {
+          "symptom": "limb pain",
+          "pmid": "37680629",
+          "title": "Neutrophil extracellular traps mediate deep vein thrombosis: from mechanism to therapy.",
+          "year": "2023",
+          "confidence": 0.9095,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8618878375457928,
+          "abstract_snippet": "Deep venous thrombosis (DVT) is a part of venous thromboembolism (VTE) that clinically manifests as swelling and pain in the lower limbs. The most serious clinical complication of DVT is pulmonary embolism (PE), which has a high mortality rate. To date, its underlying mechanisms are not fully unders"
+        },
+        {
+          "symptom": "seizures",
+          "pmid": "38284265",
+          "title": "Diagnosis and Management of Cerebral Venous Thrombosis: A Scientific Statement From the American Heart Association.",
+          "year": "2024",
+          "confidence": 0.9013,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.78676119168058,
+          "abstract_snippet": "Cerebral venous thrombosis accounts for 0.5% to 3% of all strokes. The most vulnerable populations include young individuals, women of reproductive age, and patients with a prothrombotic state. The clinical presentation of cerebral venous thrombosis is diverse (eg, headaches, seizures), requiring a"
+        },
+        {
+          "symptom": "speech difficulty",
+          "pmid": "39840204",
+          "title": "Clinical Insights on My Acute Ischemic Stroke Caused by a Carotid Web.",
+          "year": "2024",
+          "confidence": 0.8991,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8463316166386013,
+          "abstract_snippet": "Acute ischemic stroke, a medical emergency caused by reduced cerebral blood flow, results in brain cell damage. While commonly associated with older individuals, strokes can also occur in young and middle-aged adults, posing significant socio-economic and health challenges due to the long-term impac"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "blood clots",
+          "text": "What are the treatments for blood clots? \n Treatments for blood clots depend on where the blood clot is located and how severe it is. Treatments may include: \n Blood thinners . \n Other medicines, including thrombolytics. Thrombolytics are medicines that dissolve blood clots. They are usually used where the blood clots are severe. \n Surgery and other procedures to remove the blood clots",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        },
+        {
+          "question": "blood clots",
+          "text": "What is a blood clot? \n A blood clot is a mass of blood that forms when platelets , proteins, and cells in the blood stick together. When you get hurt, your body forms a blood clot to stop the bleeding . After the bleeding stops and healing takes place, your body usually breaks down and removes the blood clot. But sometimes the blood clots form where they shouldn't, your body makes too many blood clots or abnormal blood clots, or the blood clots don't break down like they should. These blood clots can be dangerous and may cause other health problems. \n Blood clots can form in, or travel to, the blood vessels in the limbs, lungs, brain, heart, and kidneys. The types of problems blood clots can cause will depend on where they are: \n Deep vein thrombosis (DVT) is a blood clot in a deep vein, usually in the lower leg, thigh, or pelvis. It can block a vein and cause damage to your leg. \n A pulmonary embolism (PE) can happen when a DVT breaks off and travels through the bloodstream to the lungs. A PE, especially if it is large, can damage your lungs and prevent your other organs from getting enough oxygen. \n Cerebral venous sinus thrombosis (CVST) is a rare blood clot in the venous sinuses in your brain. Normally the venous sinuses drain blood from your brain. CVST blocks the blood from draining and can cause a hemorrhagic stroke . \n Blood clots in other parts of the body can cause problems such as an ischemic stroke , a heart attack , kidney problems , kidney failure , and pregnancy-related problems .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        },
+        {
+          "question": "blood clots",
+          "text": "Who is more likely to develop blood clots? \n Certain factors can raise your risk of developing blood clots: \n Atherosclerosis \n Atrial fibrillation \n Being overweight or having obesity \n Cancer and cancer treatments \n Certain genetic disorders \n Certain surgeries \n COVID-19 \n Diabetes \n Family history of blood clots \n Overweight and obesity \n Pregnancy and giving birth \n Serious injuries \n Some medicines, including birth control pills \n Smoking \n Staying in one position for a long time, such as being in the hospital or taking a long car or plane ride",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        },
+        {
+          "question": "blood clots",
+          "text": "What are the symptoms of blood clots? \n The symptoms for blood clots can be different, depending on where the blood clot is: \n In the abdomen: Abdominal pain , nausea and vomiting \n In an arm or leg: Sudden or gradual pain, swelling, tenderness, and warmth \n In the lungs: Shortness of breath, pain with deep breathing, rapid breathing, and increased heart rate \n In the brain: Trouble speaking , vision problems , seizures , weakness on one side of the body, and sudden severe headache \n In the heart: Chest pain , sweating, shortness of breath, and pain in the left arm",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        },
+        {
+          "question": "blood clots",
+          "text": "How are blood clots diagnosed? \n To find out if you have one or more blood clots, your health care provider: \n Will do a physical exam. \n Will take your medical history, which includes asking about your symptoms. \n May order blood tests, including a D-dimer test . \n May order imaging tests , such as",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        },
+        {
+          "question": "blood clots",
+          "text": "Ultrasound . \n X-rays of the veins (venography) or blood vessels (angiography) that are taken after you get an injection of special dye. The dye shows up on the x-ray and allows the provider to see how the blood flows. \n CT Scan .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        },
+        {
+          "question": "blood clots",
+          "text": "Can blood clots be prevented? \n You may be able to help prevent blood clots by: \n Moving around as soon as possible after having been confined to your bed, such as after surgery, illness, or injury \n Getting up and moving around every few hours when you have to sit for long periods of time, for example if you are on a long flight or car trip \n Wearing compression stockings after surgery or during a long flight \n Regular physical activity \n Not smoking \n Staying at a healthy weight",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        },
+        {
+          "question": "blood clots",
+          "text": "Some people at high risk may need to take blood thinners to prevent blood clots.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/bloodclots.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "blood clots",
+          "text": "What are the treatments for blood clots? \n Treatments for blood clots depend on where the blood clot is located and how severe it is. Treatments may include: \n Blood thinners . \n Other medicines, including thrombolytics. Thrombolytics are medicines that dissolve blood clots. They are usually used where the blood clots are severe. \n Surgery and other procedures to remove the blood clots",
+          "trust_score": 1.0
+        },
+        {
+          "question": "blood clots",
+          "text": "What is a blood clot? \n A blood clot is a mass of blood that forms when platelets , proteins, and cells in the blood stick together. When you get hurt, your body forms a blood clot to stop the bleeding . After the bleeding stops and healing takes place, your body usually breaks down and removes the blood clot. But sometimes the blood clots form where they shouldn't, your body makes too many blood clots or abnormal blood clots, or the blood clots don't break down like they should. These blood clots can be dangerous and may cause other health problems. \n Blood clots can form in, or travel to, the blood vessels in the limbs, lungs, brain, heart, and kidneys. The types of problems blood clots can cause will depend on where they are: \n Deep vein thrombosis (DVT) is a blood clot in a deep vein, usually in the lower leg, thigh, or pelvis. It can block a vein and cause damage to your leg. \n A pulmonary embolism (PE) can happen when a DVT breaks off and travels through the bloodstream to the lungs. A PE, especially if it is large, can damage your lungs and prevent your other organs from getting enough oxygen. \n Cerebral venous sinus thrombosis (CVST) is a rare blood clot in the venous sinuses in your brain. Normally the venous sinuses drain blood from your brain. CVST blocks the blood from draining and can cause a hemorrhagic stroke . \n Blood clots in other parts of the body can cause problems such as an ischemic stroke , a heart attack , kidney problems , kidney failure , and pregnancy-related problems .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "blood clots",
+          "text": "Who is more likely to develop blood clots? \n Certain factors can raise your risk of developing blood clots: \n Atherosclerosis \n Atrial fibrillation \n Being overweight or having obesity \n Cancer and cancer treatments \n Certain genetic disorders \n Certain surgeries \n COVID-19 \n Diabetes \n Family history of blood clots \n Overweight and obesity \n Pregnancy and giving birth \n Serious injuries \n Some medicines, including birth control pills \n Smoking \n Staying in one position for a long time, such as being in the hospital or taking a long car or plane ride",
+          "trust_score": 1.0
+        },
+        {
+          "question": "blood clots",
+          "text": "What are the symptoms of blood clots? \n The symptoms for blood clots can be different, depending on where the blood clot is: \n In the abdomen: Abdominal pain , nausea and vomiting \n In an arm or leg: Sudden or gradual pain, swelling, tenderness, and warmth \n In the lungs: Shortness of breath, pain with deep breathing, rapid breathing, and increased heart rate \n In the brain: Trouble speaking , vision problems , seizures , weakness on one side of the body, and sudden severe headache \n In the heart: Chest pain , sweating, shortness of breath, and pain in the left arm",
+          "trust_score": 1.0
+        },
+        {
+          "question": "blood clots",
+          "text": "How are blood clots diagnosed? \n To find out if you have one or more blood clots, your health care provider: \n Will do a physical exam. \n Will take your medical history, which includes asking about your symptoms. \n May order blood tests, including a D-dimer test . \n May order imaging tests , such as",
+          "trust_score": 1.0
+        },
+        {
+          "question": "blood clots",
+          "text": "Ultrasound . \n X-rays of the veins (venography) or blood vessels (angiography) that are taken after you get an injection of special dye. The dye shows up on the x-ray and allows the provider to see how the blood flows. \n CT Scan .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "blood clots",
+          "text": "Can blood clots be prevented? \n You may be able to help prevent blood clots by: \n Moving around as soon as possible after having been confined to your bed, such as after surgery, illness, or injury \n Getting up and moving around every few hours when you have to sit for long periods of time, for example if you are on a long flight or car trip \n Wearing compression stockings after surgery or during a long flight \n Regular physical activity \n Not smoking \n Staying at a healthy weight",
+          "trust_score": 1.0
+        },
+        {
+          "question": "blood clots",
+          "text": "Some people at high risk may need to take blood thinners to prevent blood clots.",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

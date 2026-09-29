@@ -1,0 +1,357 @@
+{
+  "symptoms": [
+    "nausea",
+    "itching",
+    "heart murmur"
+  ],
+  "resolved_symptoms": [
+    "heart murmur",
+    "itching",
+    "nausea"
+  ],
+  "diseases": [
+    {
+      "disease": "chronic cholestasis",
+      "drugs": [
+        "ursodeoxycholic acid"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "abdominal pain",
+          "pmid": "34233488",
+          "title": "Modern imaging of cholangitis.",
+          "year": "2021",
+          "confidence": 0.9238,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.742350919102138,
+          "abstract_snippet": "Cholangitis refers to inflammation of the bile ducts with or without accompanying infection. When intermittent or persistent inflammation lasts 6 months or more, the condition is classified as chronic cholangitis. Otherwise, it is considered an acute cholangitis. Cholangitis can also be classified a"
+        },
+        {
+          "symptom": "loss of appetite",
+          "pmid": "40944111",
+          "title": "Nutritional Management in Chronic Pancreatitis: From Exocrine Pancreatic Insufficiency to Precision Therapy.",
+          "year": "2025",
+          "confidence": 0.9115,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.42034028479940544,
+          "abstract_snippet": "Chronic pancreatitis (CP) precipitates complex malnutrition through synergistic mechanisms: exocrine pancreatic insufficiency-driven maldigestion, duodenal or pancreatobiliary strictures limiting nutrient flow, cholestasis impairing micelle formation, alcohol-related anorexia, pain-induced hypophagi"
+        },
+        {
+          "symptom": "itching",
+          "pmid": "39216494",
+          "title": "Primary biliary cholangitis.",
+          "year": "2024",
+          "confidence": 0.8971,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.006271462910551163,
+          "abstract_snippet": "Primary biliary cholangitis is a chronic, autoimmune, cholestatic disease that mainly affects women aged 40-70 years. Recent epidemiological studies have shown an increasing incidence worldwide despite geographical heterogeneity and a decrease in the female-to-male ratio of those the disease affects"
+        },
+        {
+          "symptom": "nausea",
+          "pmid": "37962077",
+          "title": "Efficacy and Safety of Elafibranor in Primary Biliary Cholangitis.",
+          "year": "2024",
+          "confidence": 0.8861,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.44709776281545416,
+          "abstract_snippet": "Primary biliary cholangitis is a rare, chronic cholestatic liver disease characterized by the destruction of interlobular bile ducts, leading to cholestasis and liver fibrosis. Whether elafibranor, an oral, dual peroxisome proliferator-activated receptor (PPAR) &#x3b1; and &#x3b4; agonist, may have"
+        },
+        {
+          "symptom": "vomiting",
+          "pmid": "37962077",
+          "title": "Efficacy and Safety of Elafibranor in Primary Biliary Cholangitis.",
+          "year": "2024",
+          "confidence": 0.8776,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.2102294512452053,
+          "abstract_snippet": "Primary biliary cholangitis is a rare, chronic cholestatic liver disease characterized by the destruction of interlobular bile ducts, leading to cholestasis and liver fibrosis. Whether elafibranor, an oral, dual peroxisome proliferator-activated receptor (PPAR) &#x3b1; and &#x3b4; agonist, may have"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "How might intrahepatic cholestasis of pregnancy be treated?  Treatment for intrahepatic cholestasis of pregnancy aims to relieve itching and prevent complications. Medications utilized to relieve itching might include ursodiol (Actigall, Urso), which helps decrease the level of bile in the mother's bloodstream, relieves itchiness and may reduce complications for the baby. To prevent pregnancy complications, close monitoring of the baby might be recommended. Even if prenatal tests appear normal, induction of early labor might be recommended.",
+          "question": "What are the treatments for Intrahepatic cholestasis of pregnancy ?",
+          "score": 0.028105905279517174,
+          "rerank_score": 3.0851993560791016,
+          "trust_score": 0.7420411879353387
+        },
+        {
+          "text": "Treatment for primary biliary cirrhosis depends on how early a health care provider diagnoses the disease and whether complications are present. In the early stages of primary biliary cirrhosis, treatment can slow the progression of liver damage to cirrhosis. In the early stages of cirrhosis, the goals of treatment are to slow the progression of tissue scarring in the liver and prevent complications. As cirrhosis progresses, a person may need additional treatments and hospitalization to manage complications.\n                \nMedications\n                \nHealth care providers prescribe ursodiol (Actigall, Urso) to treat primary biliary cirrhosis. Ursodiol is a nontoxic bile acid that people can take orally. Ursodiol replaces the bile acids that are normally produced by the liver, which are more toxic and can harm the liver. Treatment with ursodiol can reduce levels of bilirubin and liver enzymes in the blood. Early treatment with this medication reduces the likelihood of needing a liver transplant and improves survival.3 Early treatment provides the most benefit; however, ursodiol treatment late in the course of the disease can still slow the progression of liver damage. While ursodiol treatment improves the outcome of primary biliary cirrhosis, it does not cure the disease.\n                \nResearchers are studying the effects of several other medications on the progression of primary biliary cirrhosis. To date, none has shown the positive effects of ursodiol.\n                \nAvoiding Alcohol and Other Substances\n                \nPeople with cirrhosis should not drink any alcohol or take any illegal substances, as both will cause more liver damage. People with cirrhosis should avoid complementary and alternative medications, such as herbs. People with cirrhosis should be careful about starting new medications and should consult a health care provider before taking prescription medications, over-the-counter medications, or vitamins. Many vitamins and prescription and over-the-counter medications can affect liver function.\n                \nTreatment of Symptoms and Complications\n                \nHealth care providers treat symptoms and complications as follows:\n                \nItching. Antihistamines may help with mild itching. However, antihistamines often cause drowsiness, and a person should take antihistamines just before bedtime to help with nighttime itching. A health care provider will treat more problematic itching with cholestyramine (Locholest, Questran), which reduces cholesterol in the blood. Experts believe high levels of cholesterol let substances that cause itching build up in tissues.\n                \nDry eyes and mouth. Health care providers usually treat dry eyes and mouth with artificial tears and saliva substitutes, respectively. These products are available without a prescription. A health care provider may treat people whose symptoms do not improve with pilocarpine (Salagen) or cevimeline (Evoxac). People who have difficulty with dry eyes should see an ophthalmologista doctor who diagnoses and treats all eye diseases and eye disordersregularly. People with dry mouth should have regular dental exams.\n                \nPortal hypertension. A health care provider may prescribe a beta-blocker or nitrate to treat portal hypertension. Beta-blockers lower blood pressure by helping the heart beat slower and with less force, and nitrates relax and widen blood vessels to let more blood flow to the heart and reduce the hearts workload.\n                \nVarices. Beta-blockers can lower the pressure in varices and reduce the likelihood of bleeding. Bleeding in the stomach or esophagus requires an immediate upper endoscopy. This procedure involves using an endoscope to look for varices. The health care provider may use the endoscope to perform a band ligation, a procedure that involves placing a special rubber band around the varices that causes the tissue to die and fall off. A gastroenterologist performs the procedure at a hospital or an outpatient center. People who have had varices in the past may need to take medication to prevent future episodes.\n                \nEdema and ascites. Health care providers prescribe diureticsmedications that remove fluid from the bodyto treat edema and ascites. A health care provider may remove large amounts of ascitic fluid from the abdomen and check for spontaneous bacterial peritonitis. A health care provider may prescribe bacteria-fighting medications called antibiotics to prevent infection. He or she may prescribe oral antibiotics; however, severe infection with ascites requires intravenous (IV) antibiotics.\n                \nHepatic encephalopathy. A health care provider will treat hepatic encephalopathy by cleansing the bowel with lactulose, a laxative given orally or as an enemaa liquid put into the rectum. A health care provider may also add antibiotics to the treatment. Hepatic encephalopathy may improve as other complications of cirrhosis are controlled.\n                \nOsteoporosis. A health care provider may prescribe bisphosphonate medications to improve bone density.\n                \nGallstones and bile duct stones. A health care provider may use surgery to remove gallstones. He or she may use endoscopic retrograde cholangiopancreatography, which uses balloons and basketlike devices, to retrieve the bile duct stones.\n                \nLiver cancer. A health care provider may recommend screening tests every 6 to 12 months to check for signs of liver cancer. Screening tests can find cancer before the person has symptoms of the disease. Cancer treatment is usually more effective when the health care provider finds the disease early. Health care providers use blood tests, ultrasound, or both to screen for liver cancer in people with cirrhosis. He or she may treat cancer with a combination of surgery, radiation, and chemotherapy.",
+          "question": "What are the treatments for Primary Biliary Cirrhosis ?",
+          "score": 0.028899231925606728,
+          "rerank_score": -2.724431276321411,
+          "trust_score": 0.012837692406530064
+        },
+        {
+          "text": "Primary biliary cirrhosis is a chronic, or long lasting, disease that causes the small bile ducts in the liver to become inflamed and damaged and ultimately disappear.\n                \nThe bile ducts carry a fluid called bile from the liver to the gallbladder, where it is stored. When food enters the stomach after a meal, the gallbladder contracts, and the bile ducts carry bile to the duodenum, the first part of the small intestine, for use in digestion. The liver makes bile, which is made up of bile acids, cholesterol, fats, and fluids. Bile helps the body absorb fats, cholesterol, and fat-soluble vitamins. Bile also carries cholesterol, toxins, and waste products to the intestines, where the body removes them. When chronic inflammation, or swelling, damages the bile ducts, bile and toxic wastes build up in the liver, damaging liver tissue.\n                \nThis damage to the liver tissue can lead to cirrhosis, a condition in which the liver slowly deteriorates and is unable to function normally. In cirrhosis, scar tissue replaces healthy liver tissue, partially blocking the flow of blood through the liver.\n                \nThe liver is the bodys largest internal organ. The liver is called the bodys metabolic factory because of the important role it plays in metabolismthe way cells change food into energy after food is digested and absorbed into the blood. The liver has many functions, including\n                \n- taking up, storing, and processing nutrients from foodincluding fat, sugar, and proteinand delivering them to the rest of the body when needed  - making new proteins, such as clotting factors and immune factors  - producing bile  - removing waste products the kidneys cannot remove, such as fats, cholesterol, toxins, and medications\n                \nA healthy liver is necessary for survival. The liver can regenerate most of its own cells when they become damaged. However, if injury to the liver is too severe or long lasting, regeneration is incomplete, and the liver creates scar tissue. Scarring of the liver may lead to cirrhosis.\n                \nThe buildup of scar tissue that causes cirrhosis is usually a slow and gradual process. In the early stages of cirrhosis, the liver continues to function. However, as cirrhosis gets worse and scar tissue replaces more healthy tissue, the liver will begin to fail. Chronic liver failure, which is also called end-stage liver disease, progresses over months, years, or even decades. With end-stage liver disease, the liver can no longer perform important functions or effectively replace damaged cells.\n                \nPrimary biliary cirrhosis usually occurs between the ages of 30 and 65 and affects women more often than men.1",
+          "question": "What is (are) Primary Biliary Cirrhosis ?",
+          "score": 0.027678387239575386,
+          "rerank_score": -2.7140960693359375,
+          "trust_score": 2.9884814253491635e-05
+        },
+        {
+          "text": "What are the signs and symptoms of Cholestasis, progressive familial intrahepatic 4? The Human Phenotype Ontology provides the following list of signs and symptoms for Cholestasis, progressive familial intrahepatic 4. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Elevated hepatic transaminases 90% Hepatomegaly 90% Abnormality of coagulation 50% Gastrointestinal hemorrhage 50% Splenomegaly 50% Cirrhosis 7.5% Nyctalopia 7.5% Peripheral neuropathy 7.5% Pruritus 7.5% Reduced bone mineral density 7.5% Abnormality of the coagulation cascade - Acholic stools - Autosomal recessive inheritance - Diarrhea - Failure to thrive - Giant cell hepatitis - Hepatic failure - Hyperbilirubinemia - Hypocholesterolemia - Intrahepatic cholestasis - Jaundice - Neonatal onset - Steatorrhea - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "question": "What are the symptoms of Cholestasis, progressive familial intrahepatic 4 ?",
+          "score": 0.020854772999882698,
+          "rerank_score": -3.600447654724121,
+          "trust_score": 1.3266168750998696e-05
+        },
+        {
+          "text": "If you have chronic hepatitis C, you should do things to take care of yourself, including eating a healthy diet. Avoid drinking alcohol, which can harm the liver. Talk with your doctor before taking vitamins and other supplements.",
+          "question": "What to do for What I need to know about Hepatitis C ?",
+          "score": 0.021192943677306175,
+          "rerank_score": -10.677069664001465,
+          "trust_score": 8.576523860870606e-06
+        },
+        {
+          "text": "Chronic hepatitis C is a long-lasting infection with the hepatitis C virus. Chronic hepatitis C occurs when the body cant get rid of the hepatitis C virus. Most hepatitis C infections become chronic.\n                \nWithout treatment, chronic hepatitis C can cause liver cancer or severe liver damage that leads to liver failure. Liver failure occurs when the liver stops working properly.",
+          "question": "What is (are) What I need to know about Hepatitis C ?",
+          "score": 0.029076814651489258,
+          "rerank_score": -5.422342300415039,
+          "trust_score": 2.410630642616339e-06
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Intrahepatic cholestasis of pregnancy ?",
+          "text": "How might intrahepatic cholestasis of pregnancy be treated?  Treatment for intrahepatic cholestasis of pregnancy aims to relieve itching and prevent complications. Medications utilized to relieve itching might include ursodiol (Actigall, Urso), which helps decrease the level of bile in the mother's bloodstream, relieves itchiness and may reduce complications for the baby. To prevent pregnancy complications, close monitoring of the baby might be recommended. Even if prenatal tests appear normal, induction of early labor might be recommended.",
+          "trust_score": 0.7420411879353387
+        },
+        {
+          "question": "What are the treatments for Primary Biliary Cirrhosis ?",
+          "text": "Treatment for primary biliary cirrhosis depends on how early a health care provider diagnoses the disease and whether complications are present. In the early stages of primary biliary cirrhosis, treatment can slow the progression of liver damage to cirrhosis. In the early stages of cirrhosis, the goals of treatment are to slow the progression of tissue scarring in the liver and prevent complications. As cirrhosis progresses, a person may need additional treatments and hospitalization to manage complications.\n                \nMedications\n                \nHealth care providers prescribe ursodiol (Actigall, Urso) to treat primary biliary cirrhosis. Ursodiol is a nontoxic bile acid that people can take orally. Ursodiol replaces the bile acids that are normally produced by the liver, which are more toxic and can harm the liver. Treatment with ursodiol can reduce levels of bilirubin and liver enzymes in the blood. Early treatment with this medication reduces the likelihood of needing a liver transplant and improves survival.3 Early treatment provides the most benefit; however, ursodiol treatment late in the course of the disease can still slow the progression of liver damage. While ursodiol treatment improves the outcome of primary biliary cirrhosis, it does not cure the disease.\n                \nResearchers are studying the effects of several other medications on the progression of primary biliary cirrhosis. To date, none has shown the positive effects of ursodiol.\n                \nAvoiding Alcohol and Other Substances\n                \nPeople with cirrhosis should not drink any alcohol or take any illegal substances, as both will cause more liver damage. People with cirrhosis should avoid complementary and alternative medications, such as herbs. People with cirrhosis should be careful about starting new medications and should consult a health care provider before taking prescription medications, over-the-counter medications, or vitamins. Many vitamins and prescription and over-the-counter medications can affect liver function.\n                \nTreatment of Symptoms and Complications\n                \nHealth care providers treat symptoms and complications as follows:\n                \nItching. Antihistamines may help with mild itching. However, antihistamines often cause drowsiness, and a person should take antihistamines just before bedtime to help with nighttime itching. A health care provider will treat more problematic itching with cholestyramine (Locholest, Questran), which reduces cholesterol in the blood. Experts believe high levels of cholesterol let substances that cause itching build up in tissues.\n                \nDry eyes and mouth. Health care providers usually treat dry eyes and mouth with artificial tears and saliva substitutes, respectively. These products are available without a prescription. A health care provider may treat people whose symptoms do not improve with pilocarpine (Salagen) or cevimeline (Evoxac). People who have difficulty with dry eyes should see an ophthalmologista doctor who diagnoses and treats all eye diseases and eye disordersregularly. People with dry mouth should have regular dental exams.\n                \nPortal hypertension. A health care provider may prescribe a beta-blocker or nitrate to treat portal hypertension. Beta-blockers lower blood pressure by helping the heart beat slower and with less force, and nitrates relax and widen blood vessels to let more blood flow to the heart and reduce the hearts workload.\n                \nVarices. Beta-blockers can lower the pressure in varices and reduce the likelihood of bleeding. Bleeding in the stomach or esophagus requires an immediate upper endoscopy. This procedure involves using an endoscope to look for varices. The health care provider may use the endoscope to perform a band ligation, a procedure that involves placing a special rubber band around the varices that causes the tissue to die and fall off. A gastroenterologist performs the procedure at a hospital or an outpatient center. People who have had varices in the past may need to take medication to prevent future episodes.\n                \nEdema and ascites. Health care providers prescribe diureticsmedications that remove fluid from the bodyto treat edema and ascites. A health care provider may remove large amounts of ascitic fluid from the abdomen and check for spontaneous bacterial peritonitis. A health care provider may prescribe bacteria-fighting medications called antibiotics to prevent infection. He or she may prescribe oral antibiotics; however, severe infection with ascites requires intravenous (IV) antibiotics.\n                \nHepatic encephalopathy. A health care provider will treat hepatic encephalopathy by cleansing the bowel with lactulose, a laxative given orally or as an enemaa liquid put into the rectum. A health care provider may also add antibiotics to the treatment. Hepatic encephalopathy may improve as other complications of cirrhosis are controlled.\n                \nOsteoporosis. A health care provider may prescribe bisphosphonate medications to improve bone density.\n                \nGallstones and bile duct stones. A health care provider may use surgery to remove gallstones. He or she may use endoscopic retrograde cholangiopancreatography, which uses balloons and basketlike devices, to retrieve the bile duct stones.\n                \nLiver cancer. A health care provider may recommend screening tests every 6 to 12 months to check for signs of liver cancer. Screening tests can find cancer before the person has symptoms of the disease. Cancer treatment is usually more effective when the health care provider finds the disease early. Health care providers use blood tests, ultrasound, or both to screen for liver cancer in people with cirrhosis. He or she may treat cancer with a combination of surgery, radiation, and chemotherapy.",
+          "trust_score": 0.012837692406530064
+        },
+        {
+          "question": "What is (are) Primary Biliary Cirrhosis ?",
+          "text": "Primary biliary cirrhosis is a chronic, or long lasting, disease that causes the small bile ducts in the liver to become inflamed and damaged and ultimately disappear.\n                \nThe bile ducts carry a fluid called bile from the liver to the gallbladder, where it is stored. When food enters the stomach after a meal, the gallbladder contracts, and the bile ducts carry bile to the duodenum, the first part of the small intestine, for use in digestion. The liver makes bile, which is made up of bile acids, cholesterol, fats, and fluids. Bile helps the body absorb fats, cholesterol, and fat-soluble vitamins. Bile also carries cholesterol, toxins, and waste products to the intestines, where the body removes them. When chronic inflammation, or swelling, damages the bile ducts, bile and toxic wastes build up in the liver, damaging liver tissue.\n                \nThis damage to the liver tissue can lead to cirrhosis, a condition in which the liver slowly deteriorates and is unable to function normally. In cirrhosis, scar tissue replaces healthy liver tissue, partially blocking the flow of blood through the liver.\n                \nThe liver is the bodys largest internal organ. The liver is called the bodys metabolic factory because of the important role it plays in metabolismthe way cells change food into energy after food is digested and absorbed into the blood. The liver has many functions, including\n                \n- taking up, storing, and processing nutrients from foodincluding fat, sugar, and proteinand delivering them to the rest of the body when needed  - making new proteins, such as clotting factors and immune factors  - producing bile  - removing waste products the kidneys cannot remove, such as fats, cholesterol, toxins, and medications\n                \nA healthy liver is necessary for survival. The liver can regenerate most of its own cells when they become damaged. However, if injury to the liver is too severe or long lasting, regeneration is incomplete, and the liver creates scar tissue. Scarring of the liver may lead to cirrhosis.\n                \nThe buildup of scar tissue that causes cirrhosis is usually a slow and gradual process. In the early stages of cirrhosis, the liver continues to function. However, as cirrhosis gets worse and scar tissue replaces more healthy tissue, the liver will begin to fail. Chronic liver failure, which is also called end-stage liver disease, progresses over months, years, or even decades. With end-stage liver disease, the liver can no longer perform important functions or effectively replace damaged cells.\n                \nPrimary biliary cirrhosis usually occurs between the ages of 30 and 65 and affects women more often than men.1",
+          "trust_score": 2.9884814253491635e-05
+        },
+        {
+          "question": "What are the symptoms of Cholestasis, progressive familial intrahepatic 4 ?",
+          "text": "What are the signs and symptoms of Cholestasis, progressive familial intrahepatic 4? The Human Phenotype Ontology provides the following list of signs and symptoms for Cholestasis, progressive familial intrahepatic 4. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Elevated hepatic transaminases 90% Hepatomegaly 90% Abnormality of coagulation 50% Gastrointestinal hemorrhage 50% Splenomegaly 50% Cirrhosis 7.5% Nyctalopia 7.5% Peripheral neuropathy 7.5% Pruritus 7.5% Reduced bone mineral density 7.5% Abnormality of the coagulation cascade - Acholic stools - Autosomal recessive inheritance - Diarrhea - Failure to thrive - Giant cell hepatitis - Hepatic failure - Hyperbilirubinemia - Hypocholesterolemia - Intrahepatic cholestasis - Jaundice - Neonatal onset - Steatorrhea - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "trust_score": 1.3266168750998696e-05
+        },
+        {
+          "question": "What to do for What I need to know about Hepatitis C ?",
+          "text": "If you have chronic hepatitis C, you should do things to take care of yourself, including eating a healthy diet. Avoid drinking alcohol, which can harm the liver. Talk with your doctor before taking vitamins and other supplements.",
+          "trust_score": 8.576523860870606e-06
+        },
+        {
+          "question": "What is (are) What I need to know about Hepatitis C ?",
+          "text": "Chronic hepatitis C is a long-lasting infection with the hepatitis C virus. Chronic hepatitis C occurs when the body cant get rid of the hepatitis C virus. Most hepatitis C infections become chronic.\n                \nWithout treatment, chronic hepatitis C can cause liver cancer or severe liver damage that leads to liver failure. Liver failure occurs when the liver stops working properly.",
+          "trust_score": 2.410630642616339e-06
+        }
+      ]
+    },
+    {
+      "disease": "fungal infection",
+      "drugs": [
+        "fluconazole",
+        "itraconazole",
+        "clotrimazole",
+        "terbinafine"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "skin rash",
+          "pmid": "26280141",
+          "title": "Common Skin Rashes in Children.",
+          "year": "2015",
+          "confidence": 0.9156,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6525305962639246,
+          "abstract_snippet": "Because childhood rashes may be difficult to differentiate by appearance alone, it is important to consider the entire clinical presentation to help make the appropriate diagnosis. Considerations include the appearance and location of the rash; the clinical course; and associated symptoms, such as p"
+        },
+        {
+          "symptom": "itching",
+          "pmid": "26280141",
+          "title": "Common Skin Rashes in Children.",
+          "year": "2015",
+          "confidence": 0.9005,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.40464193746365545,
+          "abstract_snippet": "Because childhood rashes may be difficult to differentiate by appearance alone, it is important to consider the entire clinical presentation to help make the appropriate diagnosis. Considerations include the appearance and location of the rash; the clinical course; and associated symptoms, such as p"
+        },
+        {
+          "symptom": "nodal skin eruptions",
+          "pmid": "26728811",
+          "title": "Isolated cutaneous involvement in a child with nodal anaplastic large cell lymphoma.",
+          "year": "2016",
+          "confidence": 0.8965,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6311759512058849,
+          "abstract_snippet": "Non-Hodgkin lymphoma is a common childhood T-cell and B-cell neoplasm that originates primarily from lymphoid tissue. Cutaneous involvement can be in the form of a primary extranodal lymphoma, or secondary to metastasis from a non-cutaneous location. The latter is uncommon, and isolated cutaneous in"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "How might aspergillosis be treated? If the infection is widespread or the person appears seriously ill, treatment is started immediately. Voriconazole is currently first-line treatment for invasive aspergillosis and is usually given intravenously. There are other antifungal drugs that can be used to treat invasive aspergillosis in patients who cannot take voriconazole or who have not responded to voriconazole. These include itraconazole, lipid amphotericin formulations, caspofungin, micafungin, and posaconazole. Whenever possible, immunosuppressive medications should be discontinued or decreased. A fungus ball usually does not require treatment unless bleeding into the lung tissue is associated with the infection, then surgery is required. Antifungal agents do not help people with allergic aspergillosis. Allergic aspergillosis is treated with prednisone taken by mouth.",
+          "question": "What are the treatments for Aspergillosis ?",
+          "score": 0.04267650097608566,
+          "rerank_score": 1.8052568435668945,
+          "trust_score": 0.46542336365888076
+        },
+        {
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "score": 0.02787945047020912,
+          "rerank_score": -0.33745837211608887,
+          "trust_score": 0.10691918512943283
+        },
+        {
+          "text": "If you have ever had athlete's foot or a yeast infection, you can blame a fungus. A fungus is a primitive organism. Mushrooms, mold and mildew are examples. Fungi live in air, in soil, on plants and in water. Some live in the human body. Only about half of all types of fungi are harmful.    Some fungi reproduce through tiny spores in the air. You can inhale the spores or they can land on you. As a result, fungal infections often start in the lungs or on the skin. You are more likely to get a fungal infection if you have a weakened immune system or take antibiotics.    Fungi can be difficult to kill. For skin and nail infections, you can apply medicine directly to the infected area. Oral antifungal medicines are also available for serious infections.    NIH: National Institute of Allergy and Infectious Diseases",
+          "question": "What is (are) Fungal Infections ?",
+          "score": 0.033567991107702255,
+          "rerank_score": 5.2063703536987305,
+          "trust_score": 0.043892971249618495
+        },
+        {
+          "text": "Phaeohyphomycosis refers to fungal infections caused by dematiaceous (darkly, pigmented fungi). It can be associated with a variety of clinical syndromes including invasive sinusitis; nodules or abscesses beneath the skin; keratitis; lung masses; osteomyelitis; mycotic arthritis; endocarditis; brain abscess; and wide-spread infection. Although the condition can affect all people, it is most commonly diagnosed in immunocompetent and immunosuppressed people and can even be life-threatening in these populations. Treatment depends on the signs and symptoms present in each person but may include surgery and/or various medications.",
+          "question": "What is (are) Phaeohyphomycosis ?",
+          "score": 0.029270287603139877,
+          "rerank_score": 4.963683128356934,
+          "trust_score": 0.03479891798258277
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Aspergillosis ?",
+          "text": "How might aspergillosis be treated? If the infection is widespread or the person appears seriously ill, treatment is started immediately. Voriconazole is currently first-line treatment for invasive aspergillosis and is usually given intravenously. There are other antifungal drugs that can be used to treat invasive aspergillosis in patients who cannot take voriconazole or who have not responded to voriconazole. These include itraconazole, lipid amphotericin formulations, caspofungin, micafungin, and posaconazole. Whenever possible, immunosuppressive medications should be discontinued or decreased. A fungus ball usually does not require treatment unless bleeding into the lung tissue is associated with the infection, then surgery is required. Antifungal agents do not help people with allergic aspergillosis. Allergic aspergillosis is treated with prednisone taken by mouth.",
+          "trust_score": 0.46542336365888076
+        },
+        {
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "trust_score": 0.10691918512943283
+        },
+        {
+          "question": "What is (are) Fungal Infections ?",
+          "text": "If you have ever had athlete's foot or a yeast infection, you can blame a fungus. A fungus is a primitive organism. Mushrooms, mold and mildew are examples. Fungi live in air, in soil, on plants and in water. Some live in the human body. Only about half of all types of fungi are harmful.    Some fungi reproduce through tiny spores in the air. You can inhale the spores or they can land on you. As a result, fungal infections often start in the lungs or on the skin. You are more likely to get a fungal infection if you have a weakened immune system or take antibiotics.    Fungi can be difficult to kill. For skin and nail infections, you can apply medicine directly to the infected area. Oral antifungal medicines are also available for serious infections.    NIH: National Institute of Allergy and Infectious Diseases",
+          "trust_score": 0.043892971249618495
+        },
+        {
+          "question": "What is (are) Phaeohyphomycosis ?",
+          "text": "Phaeohyphomycosis refers to fungal infections caused by dematiaceous (darkly, pigmented fungi). It can be associated with a variety of clinical syndromes including invasive sinusitis; nodules or abscesses beneath the skin; keratitis; lung masses; osteomyelitis; mycotic arthritis; endocarditis; brain abscess; and wide-spread infection. Although the condition can affect all people, it is most commonly diagnosed in immunocompetent and immunosuppressed people and can even be life-threatening in these populations. Treatment depends on the signs and symptoms present in each person but may include surgery and/or various medications.",
+          "trust_score": 0.03479891798258277
+        }
+      ]
+    },
+    {
+      "disease": "head lice",
+      "drugs": [],
+      "treatment_modalities": [
+        "topical treatment"
+      ],
+      "citations": [
+        {
+          "symptom": "itching",
+          "pmid": "26557439",
+          "title": "Laboratory and clinical trials of cocamide diethanolamine lotion against head lice.",
+          "year": "2015",
+          "confidence": 0.879,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6746313155716269,
+          "abstract_snippet": "Context. During the late 1990s, insecticide resistance had rendered a number of treatment products ineffective; some companies saw this as an opportunity to develop alternative types of treatment. We investigated the possibility that a surfactant-based lotion containing 10% cocamide diethanolamine ("
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "head lice",
+          "text": "What are the treatments for head lice? \n Treatments for head lice include both over-the-counter and prescription shampoos, creams, and lotions. If you want to use an over-the-counter treatment and you aren't sure which one to use or how to use one, ask your health care provider or pharmacist. You should also check with your health care provider first if you are pregnant or nursing, or if you want to use a treatment on a young child.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        },
+        {
+          "question": "head lice",
+          "text": "Follow these steps when using a head lice treatment: \n Apply the product according to the instructions. Only apply it to the scalp and the hair attached to the scalp. You should not use it on other body hair. \n Use only one product at a time, unless your health care provider tells you to use two different kinds at once \n Pay attention to what the instructions say about how long you should leave the medicine on the hair and on how you should rinse it out \n After rinsing, use a fine-toothed comb or special \"nit comb\" to remove dead lice and nits \n After each treatment, check your hair for lice and nits. You should comb your hair to remove nits and lice every 2-3 days. Do this for 2-3 weeks to be sure that all lice and nits are gone.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        },
+        {
+          "question": "head lice",
+          "text": "All household members and other close contacts should be checked and treated if necessary. If an over-the-counter treatment does not work for you, you can ask your health care provider for a prescription product.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        },
+        {
+          "question": "head lice",
+          "text": "What are head lice? \n Head lice are tiny insects that live on people's heads. Adult lice are about the size of sesame seeds. The eggs, called nits, are even smaller - about the size of a dandruff flake. Lice and nits are found on or near the scalp, most often at the neckline and behind the ears.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        },
+        {
+          "question": "head lice",
+          "text": "Head lice are parasites, and they need to feed on human blood to survive. They are one of the three types of lice that live on humans. The other two types are body lice and pubic lice . Each type of lice is different, and getting one type does not mean that you will get another type.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        },
+        {
+          "question": "head lice",
+          "text": "How do head lice spread? \n Lice move by crawling, because they cannot hop or fly. They spread by close person-to-person contact. Rarely, they can spread through sharing personal belongings such as hats or hairbrushes. Personal hygiene and cleanliness have nothing to do with getting head lice. You also cannot get pubic lice from animals. Head lice do not spread disease.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        },
+        {
+          "question": "head lice",
+          "text": "Who is at risk for head lice? \n Children ages 3-11 and their families get head lice most often. This is because young children often have head-to-head contact while playing together.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        },
+        {
+          "question": "head lice",
+          "text": "What are the symptoms of head lice? \n The symptoms of head lice include: \n Tickling feeling in the hair \n Frequent itching, which is caused by an allergic reaction to the bites \n Sores from scratching. Sometimes the sores can become infected with bacteria. \n Trouble sleeping, because head lice are most active in the dark",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/headlice.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "head lice",
+          "text": "What are the treatments for head lice? \n Treatments for head lice include both over-the-counter and prescription shampoos, creams, and lotions. If you want to use an over-the-counter treatment and you aren't sure which one to use or how to use one, ask your health care provider or pharmacist. You should also check with your health care provider first if you are pregnant or nursing, or if you want to use a treatment on a young child.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "head lice",
+          "text": "Follow these steps when using a head lice treatment: \n Apply the product according to the instructions. Only apply it to the scalp and the hair attached to the scalp. You should not use it on other body hair. \n Use only one product at a time, unless your health care provider tells you to use two different kinds at once \n Pay attention to what the instructions say about how long you should leave the medicine on the hair and on how you should rinse it out \n After rinsing, use a fine-toothed comb or special \"nit comb\" to remove dead lice and nits \n After each treatment, check your hair for lice and nits. You should comb your hair to remove nits and lice every 2-3 days. Do this for 2-3 weeks to be sure that all lice and nits are gone.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "head lice",
+          "text": "All household members and other close contacts should be checked and treated if necessary. If an over-the-counter treatment does not work for you, you can ask your health care provider for a prescription product.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "head lice",
+          "text": "What are head lice? \n Head lice are tiny insects that live on people's heads. Adult lice are about the size of sesame seeds. The eggs, called nits, are even smaller - about the size of a dandruff flake. Lice and nits are found on or near the scalp, most often at the neckline and behind the ears.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "head lice",
+          "text": "Head lice are parasites, and they need to feed on human blood to survive. They are one of the three types of lice that live on humans. The other two types are body lice and pubic lice . Each type of lice is different, and getting one type does not mean that you will get another type.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "head lice",
+          "text": "How do head lice spread? \n Lice move by crawling, because they cannot hop or fly. They spread by close person-to-person contact. Rarely, they can spread through sharing personal belongings such as hats or hairbrushes. Personal hygiene and cleanliness have nothing to do with getting head lice. You also cannot get pubic lice from animals. Head lice do not spread disease.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "head lice",
+          "text": "Who is at risk for head lice? \n Children ages 3-11 and their families get head lice most often. This is because young children often have head-to-head contact while playing together.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "head lice",
+          "text": "What are the symptoms of head lice? \n The symptoms of head lice include: \n Tickling feeling in the hair \n Frequent itching, which is caused by an allergic reaction to the bites \n Sores from scratching. Sometimes the sores can become infected with bacteria. \n Trouble sleeping, because head lice are most active in the dark",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

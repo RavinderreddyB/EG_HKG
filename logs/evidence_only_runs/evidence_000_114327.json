@@ -1,0 +1,450 @@
+{
+  "symptoms": [
+    "unsteadiness",
+    "weakness in arm",
+    "blood in stool"
+  ],
+  "resolved_symptoms": [
+    "blood in stool",
+    "unsteadiness",
+    "weakness in arm"
+  ],
+  "diseases": [
+    {
+      "disease": "(vertigo) paroymsal  positional vertigo",
+      "drugs": [
+        "meclizine",
+        "betahistine"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "loss of balance",
+          "pmid": "28145669",
+          "title": "Dizziness: Approach to Evaluation and Management.",
+          "year": "2017",
+          "confidence": 0.9346,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7306899886072123,
+          "abstract_snippet": "Dizziness is a common yet imprecise symptom. It was traditionally divided into four categories based on the patient's history: vertigo, presyncope, disequilibrium, and light-headedness. However, the distinction between these symptoms is of limited clinical usefulness. Patients have difficulty descri"
+        },
+        {
+          "symptom": "headache",
+          "pmid": "38619053",
+          "title": "Vestibular migraine: an update.",
+          "year": "2024",
+          "confidence": 0.9215,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6651376042782561,
+          "abstract_snippet": "We performed a narrative review of the recent findings in epidemiology, clinical presentation, mechanisms and treatment of vestibular migraine. Vestibular migraine is an underdiagnosed condition that has a high prevalence among general, headache and neuro-otology clinics. Vestibular migraine has a b"
+        },
+        {
+          "symptom": "unsteadiness",
+          "pmid": "29036855",
+          "title": "Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): Consensus document of the committee for the Classification of Vestibular Disorders of the B\u00e1r\u00e1ny Society.",
+          "year": "2017",
+          "confidence": 0.9194,
+          "source_credibility": 0.003225166069803557,
+          "structural_confidence": 0.6826901585383914,
+          "abstract_snippet": "This paper presents diagnostic criteria for persistent postural-perceptual dizziness (PPPD) to be included in the International Classification of Vestibular Disorders (ICVD). The term PPPD is new, but the disorder is not. Its diagnostic criteria were derived by expert consensus from an exhaustive re"
+        },
+        {
+          "symptom": "nausea",
+          "pmid": "37358870",
+          "title": "The Semont-Plus Maneuver or the Epley Maneuver in Posterior Canal Benign Paroxysmal Positional Vertigo: A Randomized Clinical Study.",
+          "year": "2023",
+          "confidence": 0.9004,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7897919094858711,
+          "abstract_snippet": "Questions remain concerning treatment efficacy for the common condition of benign paroxysmal positional vertigo (BPPV). To compare the effectiveness of the Semont-plus maneuver (SM-plus) and the Epley maneuver (EM) for treatment of posterior canal benign paroxysmal positional vertigo (pcBPPV) canalo"
+        },
+        {
+          "symptom": "spinning movements",
+          "pmid": "29036855",
+          "title": "Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): Consensus document of the committee for the Classification of Vestibular Disorders of the B\u00e1r\u00e1ny Society.",
+          "year": "2017",
+          "confidence": 0.8917,
+          "source_credibility": 0.003225166069803557,
+          "structural_confidence": 0.7425923311634093,
+          "abstract_snippet": "This paper presents diagnostic criteria for persistent postural-perceptual dizziness (PPPD) to be included in the International Classification of Vestibular Disorders (ICVD). The term PPPD is new, but the disorder is not. Its diagnostic criteria were derived by expert consensus from an exhaustive re"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Some cases of herpes zoster oticus do not require treatment. When treatment is needed, medications such as antiviral drugs or corticosteroids may be prescribed. Vertigo may be treated with the drug diazepam",
+          "question": "What are the treatments for Herpes Zoster Oticus ?",
+          "score": 0.028263699263334274,
+          "rerank_score": 0.02901642583310604,
+          "trust_score": 0.14286828709106603
+        },
+        {
+          "text": "How might Mnire's disease be treated? At the present time there is no cure for Mnire's disease, but there are several safe and effective medical and surgical therapies that are available to help individuals cope with the symptoms. The symptoms of the disease are often controlled successfully by reducing the bodys retention of fluids through dietary changes (such as a low-salt or salt-free diet and no caffeine or alcohol). Medications such as antihistamines, anticholinergics, and diuretics may lower endolymphatic pressure by reducing the amount of endolymphatic fluid. Eliminating tobacco use and reducing stress levels may also help lessen the severity of symptoms. Symptoms such as dizziness, vertigo, and associated nausea and vomiting may respond to sedative/hypnotics, benzodiazepines like diazepam and anti-emetics. Different surgical procedures are an option for individuals with persistent, debilitating vertigo. Labyrinthectomy (removal of the inner ear sense organ) can effectively control vertigo, but sacrifices hearing and is reserved for patients with nonfunctional hearing in the affected ear. Vestibular neurectomy, selectively severing a nerve from the affected inner ear organ, usually controls the vertigo while preserving hearing but carries surgical risks. Recently, the administration of the ototoxic antibiotic gentamycin directly into the middle ear space has gained popularity worldwide for the control of vertigo associated with Mnire's disease. An article published in the journal Lancet in August 2008, written by Sajjadi and Paparella, reviews treatment options and strategies for individuals with Mnire's disease. Click here to view the abstract of this article. To obtain the complete article, the NLM Web site has a page for locating libraries in your area that can provide direct access to journals (print or online) or where you can get articles through interlibrary loan and Loansome Doc (an NLM document-ordering service). Click on NLM Web site to access this page or go to the following link: http://nnlm.gov/members/. You can also contact the NLM toll-free at 888-346-3656 to locate libraries in your area.",
+          "question": "What are the treatments for Mnire's disease ?",
+          "score": 0.030235949903726578,
+          "rerank_score": -3.1726558208465576,
+          "trust_score": 0.008584123174020443
+        },
+        {
+          "text": "What are the signs and symptoms of Benign paroxysmal positional vertigo? The Human Phenotype Ontology provides the following list of signs and symptoms for Benign paroxysmal positional vertigo. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Gait imbalance - Slow progression - Vertigo - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "question": "What are the symptoms of Benign paroxysmal positional vertigo ?",
+          "score": 0.02733655460178852,
+          "rerank_score": 2.9417006969451904,
+          "trust_score": 0.005651597904645967
+        },
+        {
+          "text": "There are many types of balance disorders. Three of the most common are BPPV (benign paroxysmal positional vertigo), labyrinthitis, and Menieres disease. BPPV (benign paroxysmal positional vertigo) is one of the most common balance disorders among older adults. With BPPV, you experience a brief, intense feeling of vertigo that occurs when you change the position of your head. You may also experience BPPV when rolling over to the left or right upon getting out of bed, or when looking up for an object on a high shelf. In BPPV, small calcium particles in the inner ear become displaced, causing dizziness. The reason the particles get displaced is not known, although it may result from an inner ear infection, head injury, or aging.  Labyrinthitis is  is another type of balance disorder. The labyrinth is an organ of the inner ear that helps you maintain your balance. When the labyrinth becomes infected or swollen, it is typically accompanied by vertigo and imbalance. Upper respiratory infections and other viral infections, and, less commonly, bacterial infections, can lead to labyrinthitis. Mnire's disease is a balance disorder that causes - vertigo  - hearing loss that comes and goes  - tinnitus, which is a ringing or roaring in the ears   - a feeling of fullness in the ear. vertigo hearing loss that comes and goes tinnitus, which is a ringing or roaring in the ears a feeling of fullness in the ear. Mnire's disease can affect adults of any age. The cause is unknown.  See a fuller list of balance disorders.",
+          "question": "What is (are) Balance Problems ?",
+          "score": 0.027577849105000496,
+          "rerank_score": 2.6736767292022705,
+          "trust_score": 0.004414412799401818
+        },
+        {
+          "text": "How might herpes zoster oticus be treated? Treatment for herpes zoster oticus typically includes anti-inflammatory drugs called steroids, which may reduce the inflammation of the nerves and help to ease the pain. Antiviral medications are usually prescribed, although whether antiviral medications are beneficial for treating this condition has not been confirmed. Strong pain medications may be prescribed if the pain continues. An eye patch may be recommended to prevent injury to the cornea (corneal abrasion) and damage to the eye if it does not close completely. Vertigo (feeling that the room is spinning) and dizziness may be treated with other medications.",
+          "question": "What are the treatments for Herpes zoster oticus ?",
+          "score": 0.02130538411438465,
+          "rerank_score": -10.900434494018555,
+          "trust_score": 6.6820111746887325e-06
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Herpes Zoster Oticus ?",
+          "text": "Some cases of herpes zoster oticus do not require treatment. When treatment is needed, medications such as antiviral drugs or corticosteroids may be prescribed. Vertigo may be treated with the drug diazepam",
+          "trust_score": 0.14286828709106603
+        },
+        {
+          "question": "What are the treatments for Mnire's disease ?",
+          "text": "How might Mnire's disease be treated? At the present time there is no cure for Mnire's disease, but there are several safe and effective medical and surgical therapies that are available to help individuals cope with the symptoms. The symptoms of the disease are often controlled successfully by reducing the bodys retention of fluids through dietary changes (such as a low-salt or salt-free diet and no caffeine or alcohol). Medications such as antihistamines, anticholinergics, and diuretics may lower endolymphatic pressure by reducing the amount of endolymphatic fluid. Eliminating tobacco use and reducing stress levels may also help lessen the severity of symptoms. Symptoms such as dizziness, vertigo, and associated nausea and vomiting may respond to sedative/hypnotics, benzodiazepines like diazepam and anti-emetics. Different surgical procedures are an option for individuals with persistent, debilitating vertigo. Labyrinthectomy (removal of the inner ear sense organ) can effectively control vertigo, but sacrifices hearing and is reserved for patients with nonfunctional hearing in the affected ear. Vestibular neurectomy, selectively severing a nerve from the affected inner ear organ, usually controls the vertigo while preserving hearing but carries surgical risks. Recently, the administration of the ototoxic antibiotic gentamycin directly into the middle ear space has gained popularity worldwide for the control of vertigo associated with Mnire's disease. An article published in the journal Lancet in August 2008, written by Sajjadi and Paparella, reviews treatment options and strategies for individuals with Mnire's disease. Click here to view the abstract of this article. To obtain the complete article, the NLM Web site has a page for locating libraries in your area that can provide direct access to journals (print or online) or where you can get articles through interlibrary loan and Loansome Doc (an NLM document-ordering service). Click on NLM Web site to access this page or go to the following link: http://nnlm.gov/members/. You can also contact the NLM toll-free at 888-346-3656 to locate libraries in your area.",
+          "trust_score": 0.008584123174020443
+        },
+        {
+          "question": "What are the symptoms of Benign paroxysmal positional vertigo ?",
+          "text": "What are the signs and symptoms of Benign paroxysmal positional vertigo? The Human Phenotype Ontology provides the following list of signs and symptoms for Benign paroxysmal positional vertigo. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Gait imbalance - Slow progression - Vertigo - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.",
+          "trust_score": 0.005651597904645967
+        },
+        {
+          "question": "What is (are) Balance Problems ?",
+          "text": "There are many types of balance disorders. Three of the most common are BPPV (benign paroxysmal positional vertigo), labyrinthitis, and Menieres disease. BPPV (benign paroxysmal positional vertigo) is one of the most common balance disorders among older adults. With BPPV, you experience a brief, intense feeling of vertigo that occurs when you change the position of your head. You may also experience BPPV when rolling over to the left or right upon getting out of bed, or when looking up for an object on a high shelf. In BPPV, small calcium particles in the inner ear become displaced, causing dizziness. The reason the particles get displaced is not known, although it may result from an inner ear infection, head injury, or aging.  Labyrinthitis is  is another type of balance disorder. The labyrinth is an organ of the inner ear that helps you maintain your balance. When the labyrinth becomes infected or swollen, it is typically accompanied by vertigo and imbalance. Upper respiratory infections and other viral infections, and, less commonly, bacterial infections, can lead to labyrinthitis. Mnire's disease is a balance disorder that causes - vertigo  - hearing loss that comes and goes  - tinnitus, which is a ringing or roaring in the ears   - a feeling of fullness in the ear. vertigo hearing loss that comes and goes tinnitus, which is a ringing or roaring in the ears a feeling of fullness in the ear. Mnire's disease can affect adults of any age. The cause is unknown.  See a fuller list of balance disorders.",
+          "trust_score": 0.004414412799401818
+        },
+        {
+          "question": "What are the treatments for Herpes zoster oticus ?",
+          "text": "How might herpes zoster oticus be treated? Treatment for herpes zoster oticus typically includes anti-inflammatory drugs called steroids, which may reduce the inflammation of the nerves and help to ease the pain. Antiviral medications are usually prescribed, although whether antiviral medications are beneficial for treating this condition has not been confirmed. Strong pain medications may be prescribed if the pain continues. An eye patch may be recommended to prevent injury to the cornea (corneal abrasion) and damage to the eye if it does not close completely. Vertigo (feeling that the room is spinning) and dizziness may be treated with other medications.",
+          "trust_score": 6.6820111746887325e-06
+        }
+      ]
+    },
+    {
+      "disease": "dislocated shoulder",
+      "drugs": [],
+      "treatment_modalities": [
+        "closed reduction",
+        "sling immobilization",
+        "rehabilitation"
+      ],
+      "citations": [
+        {
+          "symptom": "numbness in arm",
+          "pmid": "36882314",
+          "title": "Posttraumatic Ruptured Axillary Mononeuropathy Without Shoulder Dislocation in an American Football Player: A Case Report and Review of the Literature.",
+          "year": "2023",
+          "confidence": 0.911,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8048181694617204,
+          "abstract_snippet": "A high school-aged right-handed adolescent boy presented with a 5-mo history of persistent proximal right arm weakness and numbness after an American football stinger injury without a documented history of a shoulder dislocation or humeral fracture. He developed diffuse deltoid muscle atrophy, persi"
+        },
+        {
+          "symptom": "weakness in arm",
+          "pmid": "27327391",
+          "title": "Lap-tray and triangular sling are no more effective than a hemi-sling in preventing shoulder subluxation in those at risk early after stroke: a randomized trial.",
+          "year": "2017",
+          "confidence": 0.8951,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8075783577846082,
+          "abstract_snippet": "Shoulder subluxation is a common secondary impairment of the upper limb following stroke. A range of supportive devices are used in rehabilitation to prevent shoulder subluxation, including hemi-slings and firm supports, such as arm troughs, however, there is little evidence regarding their efficacy"
+        },
+        {
+          "symptom": "shoulder bruising",
+          "pmid": "26359844",
+          "title": "Common Shoulder Injuries in American Football Athletes.",
+          "year": "2015",
+          "confidence": 0.8803,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7448866407481841,
+          "abstract_snippet": "American football is a collision sport played by athletes at high speeds. Despite the padding and conditioning in these athletes, the shoulder is a vulnerable joint, and injuries to the shoulder girdle are common at all levels of competitive football. Some of the most common injuries in these athlet"
+        },
+        {
+          "symptom": "severe shoulder pain",
+          "pmid": "30847445",
+          "title": "Remifentanil versus Propofol/Fentanyl Combination in Procedural Sedation for Dislocated Shoulder Reduction; a Clinical Trial.",
+          "year": "2019",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.793956297376222,
+          "abstract_snippet": ""
+        },
+        {
+          "symptom": "shoulder swelling",
+          "pmid": "40545326",
+          "title": "Adhesive Capsulitis of the Shoulder.",
+          "year": "2025",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8017318421554147,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "dislocated shoulder",
+          "text": "If you are having these symptoms, get medical treatment right away.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the treatments for a dislocated shoulder? \n The treatment for dislocated shoulder usually involves three steps: \n The first step is a closed reduction, a procedure in which your health care provider puts the ball of your upper arm back into the socket. You may first get medicine to relieve the pain and relax your shoulder muscles. Once the joint is back in place, the severe pain should end. \n The second step is wearing a sling or other device to keep your shoulder in place. You will wear it for a few days to several weeks. \n The third step is rehabilitation, once the pain and swelling have improved. You will do exercises to improve your range of motion and strengthen your muscles.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What is a dislocated shoulder? \n Your shoulder joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder dislocation is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What causes a dislocated shoulder? \n Your shoulders are the most movable joints in your body. They are also the most commonly dislocated joints.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "The most common causes of shoulder dislocations are: \n Sports injuries \n Accidents, including traffic accidents \n Falling on your shoulder or outstretched arm \n Seizures and electric shocks, which can cause muscle contractions that pull the arm out of place",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "Who is at risk for a dislocated shoulder? \n A dislocated shoulder can happen to anyone, but they are more common in young men, who are more often involved in sports and other physical activities. Older adults, especially women, are also at higher risk because they are more likely to fall.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the symptoms of a dislocated shoulder? \n The symptoms of a dislocated shoulder include: \n Severe shoulder pain \n Swelling and bruising of your shoulder or upper arm \n Numbness and/or weakness in your arm, neck, hand, or fingers \n Trouble moving your arm \n Your arm seems to be out of place \n Muscle spasms in your shoulder",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "How is a dislocated shoulder diagnosed? \n To make a diagnosis, your health care provider will take a medical history and examine your shoulder. Your provider may also ask you to get an x-ray to confirm the diagnosis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/dislocatedshoulder.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "dislocated shoulder",
+          "text": "If you are having these symptoms, get medical treatment right away.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the treatments for a dislocated shoulder? \n The treatment for dislocated shoulder usually involves three steps: \n The first step is a closed reduction, a procedure in which your health care provider puts the ball of your upper arm back into the socket. You may first get medicine to relieve the pain and relax your shoulder muscles. Once the joint is back in place, the severe pain should end. \n The second step is wearing a sling or other device to keep your shoulder in place. You will wear it for a few days to several weeks. \n The third step is rehabilitation, once the pain and swelling have improved. You will do exercises to improve your range of motion and strengthen your muscles.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What is a dislocated shoulder? \n Your shoulder joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder dislocation is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What causes a dislocated shoulder? \n Your shoulders are the most movable joints in your body. They are also the most commonly dislocated joints.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "The most common causes of shoulder dislocations are: \n Sports injuries \n Accidents, including traffic accidents \n Falling on your shoulder or outstretched arm \n Seizures and electric shocks, which can cause muscle contractions that pull the arm out of place",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "Who is at risk for a dislocated shoulder? \n A dislocated shoulder can happen to anyone, but they are more common in young men, who are more often involved in sports and other physical activities. Older adults, especially women, are also at higher risk because they are more likely to fall.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "What are the symptoms of a dislocated shoulder? \n The symptoms of a dislocated shoulder include: \n Severe shoulder pain \n Swelling and bruising of your shoulder or upper arm \n Numbness and/or weakness in your arm, neck, hand, or fingers \n Trouble moving your arm \n Your arm seems to be out of place \n Muscle spasms in your shoulder",
+          "trust_score": 1.0
+        },
+        {
+          "question": "dislocated shoulder",
+          "text": "How is a dislocated shoulder diagnosed? \n To make a diagnosis, your health care provider will take a medical history and examine your shoulder. Your provider may also ask you to get an x-ray to confirm the diagnosis.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "cancer",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "stem cell transplant",
+        "surgery",
+        "hormone therapy",
+        "immunotherapy"
+      ],
+      "citations": [
+        {
+          "symptom": "difficulty swallowing",
+          "pmid": "37303210",
+          "title": "Difficulty swallowing and food bolus obstruction in advanced cancer: association with the cachexia-related quality of life.",
+          "year": "2023",
+          "confidence": 0.9304,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6285586053137145,
+          "abstract_snippet": "Swallowing disorders including difficulty swallowing and food bolus obstruction, result in reduced dietary intake-a common occurrence that leads to cachexia in patients with advanced cancer. This study examined the effects of swallowing difficulty and food bolus obstruction on cachexia-related quali"
+        },
+        {
+          "symptom": "blood in urine",
+          "pmid": "40698358",
+          "title": "Liquid Biopsy: Current advancements in clinical practice for bladder cancer.",
+          "year": "2025",
+          "confidence": 0.9173,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6832614089275684,
+          "abstract_snippet": "Bladder cancer is the ninth most common malignancy worldwide, with two clinically distinct forms: non-muscle-invasive disease, characterized by high recurrence and excellent long-term survival, and muscle-invasive disease, associated with poorer outcomes. Current surveillance-cystoscopy and urine cy"
+        },
+        {
+          "symptom": "blood in stool",
+          "pmid": "39137727",
+          "title": "Integrative plasma and fecal metabolomics identify functional metabolites in adenoma-colorectal cancer progression and as early diagnostic biomarkers.",
+          "year": "2024",
+          "confidence": 0.8882,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.688009815912265,
+          "abstract_snippet": "Changes in plasma and fecal metabolomes in colorectal cancer (CRC) progression (normal-adenoma-CRC) remain unclear. Here, plasma and fecal samples were collected from four independent cohorts of 1,251 individuals (422 CRC, 399 colorectal adenoma [CRA], and 430 normal controls [NC]). By metabolomic p"
+        },
+        {
+          "symptom": "unexplained bruising",
+          "pmid": "27647842",
+          "title": "Clinical presentation of childhood leukaemia: a systematic review and meta-analysis.",
+          "year": "2016",
+          "confidence": 0.8817,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.8047410798959362,
+          "abstract_snippet": "Leukaemia is the most common cancer of childhood, accounting for a third of cases. In order to assist clinicians in its early detection, we systematically reviewed all existing data on its clinical presentation and estimated the frequency of signs and symptoms presenting at or prior to diagnosis. We"
+        },
+        {
+          "symptom": "breast lump",
+          "pmid": "39013811",
+          "title": "[Implementation and development of endoscopic benign breast lump resection and breast-conserving surgery for cancer].",
+          "year": "2024",
+          "confidence": 0.8777,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7024176886901373,
+          "abstract_snippet": "To review the development of endoscopic techniques in breast surgery, focusing on their use in benign breast lump resection and breast-conserving surgery for cancer, and also summarize the development and application of these techniques in China, highlighting promotion and homogenization challenges"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "cancer",
+          "text": "What are the treatments for cancer? \n Treatment depends on the type of cancer and how advanced it is. Most treatment plans may include surgery, radiation , and/or chemotherapy . Some may involve hormone therapy, immunotherapy or other types of biological therapy, or stem cell transplantation .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        },
+        {
+          "question": "cancer",
+          "text": "What is cancer? \n Cancer is not just one disease but many diseases. Cancer begins in your cells, which are the building blocks of your body. Usually, your body forms new cells as needed, replacing old cells that die. Sometimes this process goes wrong. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor. \n Tumors can be benign or malignant. Benign tumors aren't cancer, while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of your body. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the type of cancer and how advanced it is.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        },
+        {
+          "question": "cancer",
+          "text": "What are the types of cancer? \n There are more than 100 different types of cancer. Cancer can start almost anywhere in your body. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast. \n Cancer may also be described by the type of cell that formed it, such as sarcoma if cancer begins in your bone and soft tissue. Carcinoma is the most common type of cancer. It is formed by epithelial cells, the cells that cover the inside and outside surfaces of your body.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        },
+        {
+          "question": "cancer",
+          "text": "How does cancer develop? \n Cancer is a genetic disease. That means changes in your genes cause it. Changes in your genes are also called gene variants or mutations. Genes are parts of DNA in your cells that you inherit from your parents. However, only some cancers are caused by genes passed down from your parents.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        },
+        {
+          "question": "cancer",
+          "text": "Genetic changes can occur to your genes over your lifetime that affect how your cells function. Usually, your body gets rid of damaged cells before they turn cancerous, but this ability goes down as you age. Other factors that may affect your risk of developing cancer can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        },
+        {
+          "question": "cancer",
+          "text": "Exposure to ultraviolet (UV) rays from the sun \n Smoking \n Your diet \n Physical inactivity",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        },
+        {
+          "question": "cancer",
+          "text": "What are the symptoms of cancer? \n Cancer symptoms depend on the type of cancer. For example, some of the symptoms that cancer may cause can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        },
+        {
+          "question": "cancer",
+          "text": "A lump in your breast \n Blood in your urine (pee) or stool (poop) \n Bleeding or bruising for no known reason \n A sore that doesn't heal \n Trouble swallowing \n A new mole or a change to a mole you already have",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/cancer.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "cancer",
+          "text": "What are the treatments for cancer? \n Treatment depends on the type of cancer and how advanced it is. Most treatment plans may include surgery, radiation , and/or chemotherapy . Some may involve hormone therapy, immunotherapy or other types of biological therapy, or stem cell transplantation .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cancer",
+          "text": "What is cancer? \n Cancer is not just one disease but many diseases. Cancer begins in your cells, which are the building blocks of your body. Usually, your body forms new cells as needed, replacing old cells that die. Sometimes this process goes wrong. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor. \n Tumors can be benign or malignant. Benign tumors aren't cancer, while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of your body. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the type of cancer and how advanced it is.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cancer",
+          "text": "What are the types of cancer? \n There are more than 100 different types of cancer. Cancer can start almost anywhere in your body. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast. \n Cancer may also be described by the type of cell that formed it, such as sarcoma if cancer begins in your bone and soft tissue. Carcinoma is the most common type of cancer. It is formed by epithelial cells, the cells that cover the inside and outside surfaces of your body.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cancer",
+          "text": "How does cancer develop? \n Cancer is a genetic disease. That means changes in your genes cause it. Changes in your genes are also called gene variants or mutations. Genes are parts of DNA in your cells that you inherit from your parents. However, only some cancers are caused by genes passed down from your parents.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cancer",
+          "text": "Genetic changes can occur to your genes over your lifetime that affect how your cells function. Usually, your body gets rid of damaged cells before they turn cancerous, but this ability goes down as you age. Other factors that may affect your risk of developing cancer can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cancer",
+          "text": "Exposure to ultraviolet (UV) rays from the sun \n Smoking \n Your diet \n Physical inactivity",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cancer",
+          "text": "What are the symptoms of cancer? \n Cancer symptoms depend on the type of cancer. For example, some of the symptoms that cancer may cause can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "cancer",
+          "text": "A lump in your breast \n Blood in your urine (pee) or stool (poop) \n Bleeding or bruising for no known reason \n A sore that doesn't heal \n Trouble swallowing \n A new mole or a change to a mole you already have",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "symptoms": [
+    "dull abdominal ache",
+    "delusions",
+    "feeling unrested"
+  ],
+  "resolved_symptoms": [
+    "delusions",
+    "dull abdominal ache",
+    "feeling unrested"
+  ],
+  "diseases": [
+    {
+      "disease": "insomnia",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "medicines",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "difficulty falling asleep",
+          "pmid": "41475385",
+          "title": "Pediatric Insomnia.",
+          "year": "2026",
+          "confidence": 0.9348,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7322465773008461,
+          "abstract_snippet": "Pediatric insomnia is a common condition that can significantly impact a patient's well-being. It typically involves difficulty falling asleep, staying asleep, or both. The prevalence of insomnia is notably higher among children with autism spectrum disorder (ASD) or attention-deficit hyperactivity"
+        },
+        {
+          "symptom": "early waking",
+          "pmid": "29852897",
+          "title": "Insomnia in the Elderly: A Review.",
+          "year": "2018",
+          "confidence": 0.912,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7779010229642179,
+          "abstract_snippet": "Insomnia remains one of the most common sleep disorders encountered in the geriatric clinic population, frequently characterized by the subjective complaint of difficulty falling or maintaining sleep, or nonrestorative sleep, producing significant daytime symptoms including difficulty concentrating"
+        },
+        {
+          "symptom": "short sleep periods",
+          "pmid": "38016484",
+          "title": "The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023.",
+          "year": "2023",
+          "confidence": 0.9069,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7823551530615716,
+          "abstract_snippet": "Progress in the field of insomnia since 2017 necessitated this update of the European Insomnia Guideline. Recommendations for the diagnostic procedure for insomnia and its comorbidities are: clinical interview (encompassing sleep and medical history); the use of sleep questionnaires and diaries (and"
+        },
+        {
+          "symptom": "frequent night waking",
+          "pmid": "31738588",
+          "title": "Insomnia Symptoms and Suicide-Related Ideation in U.S. Army Service Members.",
+          "year": "2020",
+          "confidence": 0.8831,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.73973667588599,
+          "abstract_snippet": "<b>Background</b>: Insomnia has been identified as a key risk factor for suicide, though most studies have been limited to global measures of these constructs. The aim of the present study was to evaluate the link between insomnia symptoms and five different aspects of suicide-related ideation. <b>P"
+        },
+        {
+          "symptom": "feeling unrested",
+          "pmid": "29979840",
+          "title": "Association between allergic rhinitis and poor sleep parameters in U.S. adults.",
+          "year": "2018",
+          "confidence": 0.8589,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8169299426494204,
+          "abstract_snippet": "Evidence suggests relationships between allergic rhinitis (AR) and poor sleep parameters, but population-based studies in the United States are lacking. This study investigates the relationship between AR and sleep parameters in a representative sample of U.S. adults. Cross-sectional study of 5563 p"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "testicular cancer",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "stem cell transplant",
+        "surgery",
+        "surveillance"
+      ],
+      "citations": [
+        {
+          "symptom": "groin ache",
+          "pmid": "30563561",
+          "title": "Exogenous estrogen therapy, testicular cancer, and the male to female transgender population: a case report.",
+          "year": "2018",
+          "confidence": 0.8807,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6809834480587571,
+          "abstract_snippet": "Over the last 40 years, there has been a significant increase in the incidence of testicular cancer. The epidemiologic evidence to understand this phenomenon is unclear, however exogenous estrogen exposure is thought to be a driver in the development of testicular cancer. This is of particular impor"
+        },
+        {
+          "symptom": "testicular lump",
+          "pmid": "38686073",
+          "title": "A case of testicular cancer in a long-term hydranencephaly survivor with undescended testes.",
+          "year": "2024",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.73828092416308,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "testicular cancer",
+          "text": "What are the treatments for testicular cancer? \n Testicular cancer can usually be cured.The treatment options include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        },
+        {
+          "question": "testicular cancer",
+          "text": "Some of the treatments may also cause infertility . If you may want to have children later on, you should consider sperm banking before treatment.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        },
+        {
+          "question": "testicular cancer",
+          "text": "After you have finished your treatment, you will need regular follow-up testing to make sure that the cancer has not come back. If you have had cancer in one testicle, you have a higher risk of getting cancer in the other testicle. So it's important to check the other testicle regularly and let your provider know if you notice any changes or unusual symptoms.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        },
+        {
+          "question": "testicular cancer",
+          "text": "What is testicular cancer? \n Testicular cancer is a cancer that develops in the tissues of one or both testicles. The testicles, or testes, are part of the male reproductive system. They make male hormones and sperm. They are two egg-shaped glands inside the scrotum, a sac of loose skin that lies below the penis. You can get cancer in one or both testicles.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        },
+        {
+          "question": "testicular cancer",
+          "text": "Who is most likely to develop testicular cancer? \n Testicular cancer is very rare. You can get it at any age, but it is most common in men between the ages of 20 and 39. It is also more common in those who:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        },
+        {
+          "question": "testicular cancer",
+          "text": "Have had abnormal testicle development \n Have had an undescended testicle, a condition in which one or both testicles fail to move into the scrotum before birth \n Have had testicle cancer before \n Have a family history of the cancer \n Are White",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        },
+        {
+          "question": "testicular cancer",
+          "text": "What are the symptoms of testicular cancer? \n The symptoms of testicular cancer may include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        },
+        {
+          "question": "testicular cancer",
+          "text": "A painless lump or swelling in either testicle \n A change in how the testicle feels \n A dull ache in the lower abdomen (belly) or the groin (the area where the thigh meets the abdomen) \n A sudden build-up of fluid in the scrotum \n Pain or discomfort in a testicle or in the scrotum",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/testicularcancer.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "testicular cancer",
+          "text": "What are the treatments for testicular cancer? \n Testicular cancer can usually be cured.The treatment options include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "testicular cancer",
+          "text": "Some of the treatments may also cause infertility . If you may want to have children later on, you should consider sperm banking before treatment.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "testicular cancer",
+          "text": "After you have finished your treatment, you will need regular follow-up testing to make sure that the cancer has not come back. If you have had cancer in one testicle, you have a higher risk of getting cancer in the other testicle. So it's important to check the other testicle regularly and let your provider know if you notice any changes or unusual symptoms.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "testicular cancer",
+          "text": "What is testicular cancer? \n Testicular cancer is a cancer that develops in the tissues of one or both testicles. The testicles, or testes, are part of the male reproductive system. They make male hormones and sperm. They are two egg-shaped glands inside the scrotum, a sac of loose skin that lies below the penis. You can get cancer in one or both testicles.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "testicular cancer",
+          "text": "Who is most likely to develop testicular cancer? \n Testicular cancer is very rare. You can get it at any age, but it is most common in men between the ages of 20 and 39. It is also more common in those who:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "testicular cancer",
+          "text": "Have had abnormal testicle development \n Have had an undescended testicle, a condition in which one or both testicles fail to move into the scrotum before birth \n Have had testicle cancer before \n Have a family history of the cancer \n Are White",
+          "trust_score": 1.0
+        },
+        {
+          "question": "testicular cancer",
+          "text": "What are the symptoms of testicular cancer? \n The symptoms of testicular cancer may include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "testicular cancer",
+          "text": "A painless lump or swelling in either testicle \n A change in how the testicle feels \n A dull ache in the lower abdomen (belly) or the groin (the area where the thigh meets the abdomen) \n A sudden build-up of fluid in the scrotum \n Pain or discomfort in a testicle or in the scrotum",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "delirium",
+      "drugs": [],
+      "treatment_modalities": [
+        "medicines",
+        "environmental modification",
+        "assistive devices"
+      ],
+      "citations": [
+        {
+          "symptom": "delusions",
+          "pmid": "35603676",
+          "title": "Prevalence, clinical features, and risk factors of delusions in patients with delirium.",
+          "year": "2022",
+          "confidence": 0.9292,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7692319074906118,
+          "abstract_snippet": "Delirium may be divided into multiple subtypes with different pathological factors. This study aimed to focus on the delirium subtype in which delusions are conspicuous and explore its prevalence, clinical characteristics, and risk factors. The subjects were 601 delirium cases referred to the depart"
+        },
+        {
+          "symptom": "confusion",
+          "pmid": "38683185",
+          "title": "Postoperative Delirium and the Older Adult: Untangling the Confusion.",
+          "year": "2024",
+          "confidence": 0.9151,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7472110224236362,
+          "abstract_snippet": "Postoperative delirium is one of the most prevalent postoperative complications, affecting mostly older adults. Its incidence is expected to rise because of surgical advances, shifting demographics, and increased life expectancy. Although an acute alteration in brain function, postoperative delirium"
+        },
+        {
+          "symptom": "altered alertness",
+          "pmid": "33981143",
+          "title": "Current Challenges in the Recognition and Management of Delirium Superimposed on Dementia.",
+          "year": "2021",
+          "confidence": 0.9061,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7722696659837995,
+          "abstract_snippet": "Delirium occurring in a patient with preexisting dementia is referred to as delirium superimposed on dementia (DSD). DSD commonly occurs in older hospitalized patients and is associated with worse outcomes, including higher rates of mortality and institutionalization, compared to inpatients with del"
+        },
+        {
+          "symptom": "changing consciousness",
+          "pmid": "40476568",
+          "title": "Advances in research on the pathogenesis and signaling pathways associated with postoperative delirium (Review).",
+          "year": "2025",
+          "confidence": 0.8976,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7896403556955526,
+          "abstract_snippet": "Postoperative delirium (POD) is a common postoperative complication, characterized by acute, transient and fluctuating declines in consciousness and attention, with an incidence that increases with age. POD is associated with various adverse postoperative outcomes, including prolonged hospital stays"
+        },
+        {
+          "symptom": "sleep disruption",
+          "pmid": "39982143",
+          "title": "A Focused Update to the Clinical Practice Guidelines for the Prevention and Management of Pain, Anxiety, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU.",
+          "year": "2025",
+          "confidence": 0.8946,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7900539662760596,
+          "abstract_snippet": "Critically ill adults are at risk for a variety of distressing and consequential symptoms both during and after an ICU stay. Management of these symptoms can directly influence outcomes. The objective was to update and expand the Society of Critical Care Medicine's 2018 Clinical Practice Guidelines"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "delirium",
+          "text": "What are the treatments for delirium? \n Treatment of delirium focuses on the causes and symptoms of delirium. The first step is to identify the cause. Often, treating the cause will lead to a full recovery. The recovery may take some time - weeks or sometimes even months. In the meantime, there may be treatments to manage the symptoms, such as: \n Controlling the environment, which includes making sure that the room is quiet and well-lit, having clocks or calendars in view, and having family members around \n Medicines, including those that control aggression or agitation and pain relievers if there is pain \n If needed, making sure that the person has a hearing aid, glasses, or other devices for communication",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        },
+        {
+          "question": "delirium",
+          "text": "Can delirium be prevented? \n Treating the conditions that can cause delirium may reduce the risk of getting it. Hospitals can help lower the risk of delirium by avoiding sedatives and making sure that hospital rooms are kept quiet, calm, and well-lit. It can also help to have family members around and to have the same staff members treat the person each day (if possible).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        },
+        {
+          "question": "delirium",
+          "text": "What is delirium? \n Delirium is a mental state in which you are confused, disoriented, and not able to think or remember clearly. It usually starts suddenly. It is often temporary and treatable.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        },
+        {
+          "question": "delirium",
+          "text": "There are three types of delirium: \n Hypoactive, when you are not active and seem sleepy, tired, or depressed \n Hyperactive, when you are restless or agitated \n Mixed, when you change back and forth between being hypoactive and hyperactive",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        },
+        {
+          "question": "delirium",
+          "text": "What causes delirium? \n There are many different problems that can cause delirium. Some of the more common causes include: \n Advanced cancer . \n Alcohol or drugs , either from intoxication or withdrawal. This includes a serious type of alcohol withdrawal syndrome called delirium tremens. It usually happens to people who stop drinking after years of alcohol use disorder (AUD) . \n Dehydration and electrolyte imbalances . \n Dementia . \n Hospitalization , especially in intensive care. \n Infections , such as urinary tract infections , pneumonia , and the flu . \n Medicines. This could be a side effect of a medicine, such as sedatives or opioids . Or it could be from withdrawal after stopping a medicine. \n Metabolic disorders . \n Organ failure , such as kidney or liver failure. \n Poisoning . \n Serious illnesses . \n Severe pain . \n Sleep deprivation . \n Surgeries , including reactions to anesthesia .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        },
+        {
+          "question": "delirium",
+          "text": "Who is more likely to get delirium? \n Certain factors put you at risk for delirium, including: \n Being in a hospital or nursing home \n Having dementia \n Having a serious illness or more than one illness \n Having an infection \n Older age \n Having surgery \n Taking medicines that affect the mind or behavior \n Taking high doses of pain medicines , such as opioids",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        },
+        {
+          "question": "delirium",
+          "text": "What are the symptoms of delirium? \n The symptoms of delirium usually start suddenly, over a few hours or a few days. They often come and go. The most common symptoms include: \n Changes in alertness (usually more alert in the morning, less at night) \n Changing levels of consciousness \n Confusion \n Disorganized thinking, talking in a way that doesn't make sense \n Disrupted sleep patterns, sleepiness \n Emotional changes: anger, agitation, depression , irritability, overexcitement \n Hallucinations and delusions \n Memory problems, especially with short-term memory \n Trouble concentrating",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        },
+        {
+          "question": "delirium",
+          "text": "How is delirium diagnosed? \n Your health care provider may use many tools to make a diagnosis: \n A medical history, which includes asking about your symptoms \n Physical and neurological exams \n Mental status testing, which checks for problems with your thinking and alertness \n Lab and diagnostic imaging tests",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/delirium.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "delirium",
+          "text": "What are the treatments for delirium? \n Treatment of delirium focuses on the causes and symptoms of delirium. The first step is to identify the cause. Often, treating the cause will lead to a full recovery. The recovery may take some time - weeks or sometimes even months. In the meantime, there may be treatments to manage the symptoms, such as: \n Controlling the environment, which includes making sure that the room is quiet and well-lit, having clocks or calendars in view, and having family members around \n Medicines, including those that control aggression or agitation and pain relievers if there is pain \n If needed, making sure that the person has a hearing aid, glasses, or other devices for communication",
+          "trust_score": 1.0
+        },
+        {
+          "question": "delirium",
+          "text": "Can delirium be prevented? \n Treating the conditions that can cause delirium may reduce the risk of getting it. Hospitals can help lower the risk of delirium by avoiding sedatives and making sure that hospital rooms are kept quiet, calm, and well-lit. It can also help to have family members around and to have the same staff members treat the person each day (if possible).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "delirium",
+          "text": "What is delirium? \n Delirium is a mental state in which you are confused, disoriented, and not able to think or remember clearly. It usually starts suddenly. It is often temporary and treatable.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "delirium",
+          "text": "There are three types of delirium: \n Hypoactive, when you are not active and seem sleepy, tired, or depressed \n Hyperactive, when you are restless or agitated \n Mixed, when you change back and forth between being hypoactive and hyperactive",
+          "trust_score": 1.0
+        },
+        {
+          "question": "delirium",
+          "text": "What causes delirium? \n There are many different problems that can cause delirium. Some of the more common causes include: \n Advanced cancer . \n Alcohol or drugs , either from intoxication or withdrawal. This includes a serious type of alcohol withdrawal syndrome called delirium tremens. It usually happens to people who stop drinking after years of alcohol use disorder (AUD) . \n Dehydration and electrolyte imbalances . \n Dementia . \n Hospitalization , especially in intensive care. \n Infections , such as urinary tract infections , pneumonia , and the flu . \n Medicines. This could be a side effect of a medicine, such as sedatives or opioids . Or it could be from withdrawal after stopping a medicine. \n Metabolic disorders . \n Organ failure , such as kidney or liver failure. \n Poisoning . \n Serious illnesses . \n Severe pain . \n Sleep deprivation . \n Surgeries , including reactions to anesthesia .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "delirium",
+          "text": "Who is more likely to get delirium? \n Certain factors put you at risk for delirium, including: \n Being in a hospital or nursing home \n Having dementia \n Having a serious illness or more than one illness \n Having an infection \n Older age \n Having surgery \n Taking medicines that affect the mind or behavior \n Taking high doses of pain medicines , such as opioids",
+          "trust_score": 1.0
+        },
+        {
+          "question": "delirium",
+          "text": "What are the symptoms of delirium? \n The symptoms of delirium usually start suddenly, over a few hours or a few days. They often come and go. The most common symptoms include: \n Changes in alertness (usually more alert in the morning, less at night) \n Changing levels of consciousness \n Confusion \n Disorganized thinking, talking in a way that doesn't make sense \n Disrupted sleep patterns, sleepiness \n Emotional changes: anger, agitation, depression , irritability, overexcitement \n Hallucinations and delusions \n Memory problems, especially with short-term memory \n Trouble concentrating",
+          "trust_score": 1.0
+        },
+        {
+          "question": "delirium",
+          "text": "How is delirium diagnosed? \n Your health care provider may use many tools to make a diagnosis: \n A medical history, which includes asking about your symptoms \n Physical and neurological exams \n Mental status testing, which checks for problems with your thinking and alertness \n Lab and diagnostic imaging tests",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

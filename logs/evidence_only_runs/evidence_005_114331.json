@@ -1,0 +1,422 @@
+{
+  "symptoms": [
+    "red palms",
+    "rectal bleeding",
+    "mild fever"
+  ],
+  "resolved_symptoms": [
+    "mild fever",
+    "rectal bleeding",
+    "red palms"
+  ],
+  "diseases": [
+    {
+      "disease": "anal cancer",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "radiation therapy",
+        "surgery"
+      ],
+      "citations": [
+        {
+          "symptom": "rectal bleeding",
+          "pmid": "27468181",
+          "title": "Anorectal emergencies.",
+          "year": "2016",
+          "confidence": 0.9109,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6474091521543968,
+          "abstract_snippet": "Anorectal emergencies refer to anorectal disorders presenting with some alarming symptoms such as acute anal pain and bleeding which might require an immediate management. This article deals with the diagnosis and management of common anorectal emergencies such as acutely thrombosed external hemorrh"
+        },
+        {
+          "symptom": "anal discharge",
+          "pmid": "39900565",
+          "title": "Sexual dysfunction after colorectal and anal cancer-treatment in nurse-led sexological clinics.",
+          "year": "2025",
+          "confidence": 0.8958,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7476375210430051,
+          "abstract_snippet": "Sexual dysfunction after colorectal and anal cancer is common but rarely identified and treated, although effective treatment options do exist. Therefore, we recently established nurse-led clinics for the treatment of sexual dysfunction after pelvic organ cancer at two Danish university hospitals. T"
+        },
+        {
+          "symptom": "anal pain",
+          "pmid": "27468181",
+          "title": "Anorectal emergencies.",
+          "year": "2016",
+          "confidence": 0.8956,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7473493301740136,
+          "abstract_snippet": "Anorectal emergencies refer to anorectal disorders presenting with some alarming symptoms such as acute anal pain and bleeding which might require an immediate management. This article deals with the diagnosis and management of common anorectal emergencies such as acutely thrombosed external hemorrh"
+        },
+        {
+          "symptom": "anal itching",
+          "pmid": "32077979",
+          "title": "[Differential diagnosis of hemorrhoidal disease].",
+          "year": "2020",
+          "confidence": 0.887,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.713904153325657,
+          "abstract_snippet": "Hemorrhoidal disease is one of the most common illnesses in industrialized nations. Up to 70% of adults suffer from the disease once in their lifetime. This underlines the necessity and importance of knowing about the differential diagnosis of hemorrhoids. One can differentiate between differential"
+        },
+        {
+          "symptom": "change in bowel habits",
+          "pmid": "30793858",
+          "title": "Factors influencing changing bowel habits in patients undergoing sphincter-saving surgery for rectal cancer.",
+          "year": "2019",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.674035482441658,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "anal cancer",
+          "text": "What are the treatments for anal cancer? \n The treatments for anal cancer include radiation therapy , chemotherapy , and surgery. Which treatment you get will depend on how advanced the cancer is, your overall health, and your preferences.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "What is anal cancer? \n Your anus is the opening at the end of your large intestine. It is where stool (poop) leaves your body. The anus is formed partly from your outer layers of skin and partly from your intestine. Anal cancer is a type of cancer that forms in the tissues of your anus.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "Who is more likely to develop anal cancer? \n Anyone can get anal cancer, but you are more likely to develop it if you:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "You have an infection with high-risk HPV , especially if you have certain types. Most anal cancers are related to HPV infection. \n Have a weakened immune system , from conditions such as HIV or because of medicines you need to take after an organ transplant . \n Have had vulvar , vaginal , or cervical cancer. \n Have many sexual partners. \n Have anal sex. \n Smoke cigarettes .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "What are the symptoms of anal cancer? \n The signs and symptoms of anal cancer may include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "Bleeding from the anus or rectum \n A lump near the anus \n Pain or pressure in the area around the anus \n Itching or discharge from the anus \n A change in bowel habits , such as narrower stools, having to go more often, or bowel incontinence",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "How is anal cancer diagnosed? \n To find out if you have anal cancer, your provider:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        },
+        {
+          "question": "anal cancer",
+          "text": "Will take your medical history, which includes asking about your symptoms. \n Will ask about your family health history. \n May do a digital rectal examination (DRE). A DRE is an exam of the anus and rectum. For the exam, your provider will insert a lubricated, gloved finger into the lower part of your rectum to feel for lumps or anything else that seems unusual. \n May order tests that examine the anus and rectum, such as:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/analcancer.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "anal cancer",
+          "text": "What are the treatments for anal cancer? \n The treatments for anal cancer include radiation therapy , chemotherapy , and surgery. Which treatment you get will depend on how advanced the cancer is, your overall health, and your preferences.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "What is anal cancer? \n Your anus is the opening at the end of your large intestine. It is where stool (poop) leaves your body. The anus is formed partly from your outer layers of skin and partly from your intestine. Anal cancer is a type of cancer that forms in the tissues of your anus.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "Who is more likely to develop anal cancer? \n Anyone can get anal cancer, but you are more likely to develop it if you:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "You have an infection with high-risk HPV , especially if you have certain types. Most anal cancers are related to HPV infection. \n Have a weakened immune system , from conditions such as HIV or because of medicines you need to take after an organ transplant . \n Have had vulvar , vaginal , or cervical cancer. \n Have many sexual partners. \n Have anal sex. \n Smoke cigarettes .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "What are the symptoms of anal cancer? \n The signs and symptoms of anal cancer may include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "Bleeding from the anus or rectum \n A lump near the anus \n Pain or pressure in the area around the anus \n Itching or discharge from the anus \n A change in bowel habits , such as narrower stools, having to go more often, or bowel incontinence",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "How is anal cancer diagnosed? \n To find out if you have anal cancer, your provider:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "anal cancer",
+          "text": "Will take your medical history, which includes asking about your symptoms. \n Will ask about your family health history. \n May do a digital rectal examination (DRE). A DRE is an exam of the anus and rectum. For the exam, your provider will insert a lubricated, gloved finger into the lower part of your rectum to feel for lumps or anything else that seems unusual. \n May order tests that examine the anus and rectum, such as:",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "kawasaki disease",
+      "drugs": [],
+      "treatment_modalities": [
+        "immunoglobulin therapy",
+        "aspirin"
+      ],
+      "citations": [
+        {
+          "symptom": "rash",
+          "pmid": "39299749",
+          "title": "Kawasaki disease: contemporary perspectives.",
+          "year": "2024",
+          "confidence": 0.9376,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7041845433511263,
+          "abstract_snippet": "Kawasaki disease is a paediatric vasculitis that presents with fever, rash, conjunctivitis, mucositis, lymphadenopathy, and extremity changes, and primarily affects children younger than 5 years. Coronary artery aneurysms are observed in approximately 20% of patients without treatment. Giant coronar"
+        },
+        {
+          "symptom": "high fever",
+          "pmid": "39534969",
+          "title": "Update on Diagnosis and Management of Kawasaki Disease: A Scientific Statement From the American Heart Association.",
+          "year": "2024",
+          "confidence": 0.9356,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8942920665886781,
+          "abstract_snippet": "Kawasaki disease (KD), an acute self-limited febrile illness that primarily affects children &lt;5 years old, is the leading cause of acquired heart disease in developed countries, with the potential of leading to coronary artery dilation and coronary artery aneurysms in 25% of untreated patients. T"
+        },
+        {
+          "symptom": "swollen hands",
+          "pmid": "36695415",
+          "title": "Intravenous immunoglobulin for the treatment of Kawasaki disease.",
+          "year": "2023",
+          "confidence": 0.9324,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8196181727553302,
+          "abstract_snippet": "Kawasaki disease (KD) is an acute systemic vasculitis (inflammation of the blood vessels) that mainly affects children. Symptoms include fever, chapped lips, strawberry tongue, red eyes (bulbar conjunctival injection), rash, redness, swollen hands and feet or skin peeling; and enlarged cervical lymp"
+        },
+        {
+          "symptom": "red tongue",
+          "pmid": "36695415",
+          "title": "Intravenous immunoglobulin for the treatment of Kawasaki disease.",
+          "year": "2023",
+          "confidence": 0.9272,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7756403654809154,
+          "abstract_snippet": "Kawasaki disease (KD) is an acute systemic vasculitis (inflammation of the blood vessels) that mainly affects children. Symptoms include fever, chapped lips, strawberry tongue, red eyes (bulbar conjunctival injection), rash, redness, swollen hands and feet or skin peeling; and enlarged cervical lymp"
+        },
+        {
+          "symptom": "swollen feet",
+          "pmid": "36695415",
+          "title": "Intravenous immunoglobulin for the treatment of Kawasaki disease.",
+          "year": "2023",
+          "confidence": 0.921,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7169709099062836,
+          "abstract_snippet": "Kawasaki disease (KD) is an acute systemic vasculitis (inflammation of the blood vessels) that mainly affects children. Symptoms include fever, chapped lips, strawberry tongue, red eyes (bulbar conjunctival injection), rash, redness, swollen hands and feet or skin peeling; and enlarged cervical lymp"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "kawasaki disease",
+          "text": "What are the treatments for Kawasaki disease? \n Kawasaki disease is usually treated in the hospital with an intravenous (IV) dose of immunoglobulin (IVIG) antibodies. Antibodies are proteins that your immune system makes to fight infections.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Aspirin may also be part of the treatment. But do not give your child aspirin unless the health care provider tells you to. Aspirin can cause Reye syndrome in children. This is a rare, serious illness that can affect the brain and liver.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Treatment usually works. But if it is not working well enough, the provider may also give your child other medicines to fight the inflammation. If the disease affects your child's heart, they might need additional medicines, surgery, or other medical procedures.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "What is Kawasaki disease? \n Kawasaki disease is a rare illness that usually affects small children. Other names for the disease are Kawasaki syndrome and mucocutaneous lymph node syndrome. It is a type of vasculitis , which is inflammation of the blood vessels. Kawasaki disease is serious, but most children can fully recover if they are treated right away.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "What causes Kawasaki disease? \n Kawasaki disease happens when the immune system injures the blood vessels by mistake. Researchers do not fully know why this happens. But when it does, the blood vessels become inflamed and can narrow or close off.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Genetics may play a role in Kawasaki disease. There may also be environmental factors, such as infections. It does not seem to be contagious. This means that it cannot be passed from one child to another.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Who is more likely to develop Kawasaki disease? \n Kawasaki disease usually affects children under the age of 5. But older children and adults can sometimes get it. It is more common in boys than girls. It can affect children of any race, but those with Asian or Pacific Islander descent are more likely to get it.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "What are the symptoms of Kawasaki disease? \n The symptoms of Kawasaki disease may include: \n High fever lasting at least five days \n A rash , often on the back, chest, and groin \n Swollen hands and feet \n Redness of the lips, lining of the mouth, tongue, palms of the hand, and soles of the feet \n Pink eye (conjunctivitis) \n Swollen lymph nodes in the neck",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/kawasakidisease.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "kawasaki disease",
+          "text": "What are the treatments for Kawasaki disease? \n Kawasaki disease is usually treated in the hospital with an intravenous (IV) dose of immunoglobulin (IVIG) antibodies. Antibodies are proteins that your immune system makes to fight infections.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Aspirin may also be part of the treatment. But do not give your child aspirin unless the health care provider tells you to. Aspirin can cause Reye syndrome in children. This is a rare, serious illness that can affect the brain and liver.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Treatment usually works. But if it is not working well enough, the provider may also give your child other medicines to fight the inflammation. If the disease affects your child's heart, they might need additional medicines, surgery, or other medical procedures.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "What is Kawasaki disease? \n Kawasaki disease is a rare illness that usually affects small children. Other names for the disease are Kawasaki syndrome and mucocutaneous lymph node syndrome. It is a type of vasculitis , which is inflammation of the blood vessels. Kawasaki disease is serious, but most children can fully recover if they are treated right away.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "What causes Kawasaki disease? \n Kawasaki disease happens when the immune system injures the blood vessels by mistake. Researchers do not fully know why this happens. But when it does, the blood vessels become inflamed and can narrow or close off.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Genetics may play a role in Kawasaki disease. There may also be environmental factors, such as infections. It does not seem to be contagious. This means that it cannot be passed from one child to another.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "Who is more likely to develop Kawasaki disease? \n Kawasaki disease usually affects children under the age of 5. But older children and adults can sometimes get it. It is more common in boys than girls. It can affect children of any race, but those with Asian or Pacific Islander descent are more likely to get it.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "kawasaki disease",
+          "text": "What are the symptoms of Kawasaki disease? \n The symptoms of Kawasaki disease may include: \n High fever lasting at least five days \n A rash , often on the back, chest, and groin \n Swollen hands and feet \n Redness of the lips, lining of the mouth, tongue, palms of the hand, and soles of the feet \n Pink eye (conjunctivitis) \n Swollen lymph nodes in the neck",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "chicken pox",
+      "drugs": [
+        "acyclovir",
+        "valacyclovir"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "headache",
+          "pmid": "41018329",
+          "title": "Zoster Sine Herpete: An Unusual Presentation.",
+          "year": "2025",
+          "confidence": 0.9155,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8236347061998508,
+          "abstract_snippet": "Varicella zoster virus (VZV) commonly causes chicken pox, following which the virus becomes latent in the ganglionic neurons across the entire neuroaxis. Reactivation of VZV typically causes herpes zoster (shingles), with its characteristic dermatomal distribution and post-herpetic neuralgia, as its"
+        },
+        {
+          "symptom": "skin rash",
+          "pmid": "36718910",
+          "title": "How to differentiate skin rash in covid, mononucleosis, chickenpox, sixth disease and measles.",
+          "year": "2023",
+          "confidence": 0.9107,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.790585478545413,
+          "abstract_snippet": "Skin rashes seen during COVID-19 usually feature maculopapular or vesicular morphology, thus mimicking cutaneous eruptions occurring in other common infectious dermatoses, such as mononucleosis, chickenpox, sixth disease and measles, with possible diagnostic mistakes. In this review article, we soug"
+        },
+        {
+          "symptom": "high fever",
+          "pmid": "34806766",
+          "title": "Vaccines for measles, mumps, rubella, and varicella in children.",
+          "year": "2021",
+          "confidence": 0.8928,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.751616464374179,
+          "abstract_snippet": "Measles, mumps, rubella, and varicella (chickenpox) are serious diseases that can lead to serious complications, disability, and death. However, public debate over the safety of the trivalent MMR vaccine and the resultant drop in vaccination coverage in several countries persists, despite its almost"
+        },
+        {
+          "symptom": "loss of appetite",
+          "pmid": "6276348",
+          "title": "Avian pox in blue-fronted Amazon parrots.",
+          "year": "1981",
+          "confidence": 0.886,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.9792495414304506,
+          "abstract_snippet": "During a 1-month period at a quarantine station, an epornitic of avian pox occurred in blue-fronted Amazon parrots (Amazona aestiva). Clinical signs included conjunctivitis, blepharitis, and varying degrees of anorexia and respiratory distress. Lesions included periocular ulcerations and scabs and n"
+        },
+        {
+          "symptom": "lethargy",
+          "pmid": "15054573",
+          "title": "[Varicella associated necrotizing fasciitis in a child].",
+          "year": "2004",
+          "confidence": 0.8812,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7260356165727292,
+          "abstract_snippet": "We present a rare case of necrotizing fasciitis in an 5-year-old infant with preexisting varicella infection. Initially, the patient showed acute pain and swelling of the left thorax with high inflammatory parameters and varicella-specific skin affections. MRT presented diffuse soft tissue swelling"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Chickenpox is an infection caused by the varicella-zoster virus. Most cases are in children under age 15, but older children and adults can get it. It spreads very easily from one person to another.    The classic symptom of chickenpox is an uncomfortable, itchy rash. The rash turns into fluid-filled blisters and eventually into scabs. It usually shows up on the face, chest, and back and then spreads to the rest of the body. Other symptoms include       - Fever    - Headache    - Tiredness    - Loss of appetite       Chickenpox is usually mild and lasts 5 to 10 days. Calamine lotions and oatmeal baths can help with itching. Acetaminophen can treat the fever. Do not use aspirin for chickenpox; that combination can cause Reye syndrome.    Chickenpox can sometimes cause serious problems. Adults, babies, teenagers, pregnant women, and those with weak immune systems tend to get sicker from it. They may need to take antiviral medicines.    Once you catch chickenpox, the virus usually stays in your body. You probably will not get chickenpox again, but the virus can cause shingles in adults. A chickenpox vaccine can help prevent most cases of chickenpox, or make it less severe if you do get it.    Centers for Disease Control and Prevention",
+          "question": "What is (are) Chickenpox ?",
+          "score": 0.02950761467218399,
+          "rerank_score": 8.53923225402832,
+          "trust_score": 0.5016575627842271
+        },
+        {
+          "text": "Shingles -- also called varicella-zoster -- is a painful skin disease caused by a reactivation of the chickenpox virus. It is distinctive because it affects only one side of the body. The early signs of shingles usually develop in three stages: severe pain or tingling, possibly itchy rash, and blisters that look like chickenpox. (Watch the video to learn more about shingles. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.)",
+          "question": "What is (are) Shingles ?",
+          "score": 0.028341999277472496,
+          "rerank_score": 2.7663745880126953,
+          "trust_score": 0.0048081222773829245
+        },
+        {
+          "text": "Safe and effective prescription drugs are available to treat both Trichinella infection and the symptoms that occur as a result of infection. Treatment should begin as soon as possible; a doctor will make the decision to treat based upon symptoms, exposure to raw or undercooked meat, and laboratory test results.\n    \nMore on: Resources For Health Professionals: Treatment",
+          "question": "What are the treatments for Parasites - Trichinellosis (also known as Trichinosis) ?",
+          "score": 0.024944011121988297,
+          "rerank_score": -8.093477249145508,
+          "trust_score": 9.151472717400079e-05
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What is (are) Chickenpox ?",
+          "text": "Chickenpox is an infection caused by the varicella-zoster virus. Most cases are in children under age 15, but older children and adults can get it. It spreads very easily from one person to another.    The classic symptom of chickenpox is an uncomfortable, itchy rash. The rash turns into fluid-filled blisters and eventually into scabs. It usually shows up on the face, chest, and back and then spreads to the rest of the body. Other symptoms include       - Fever    - Headache    - Tiredness    - Loss of appetite       Chickenpox is usually mild and lasts 5 to 10 days. Calamine lotions and oatmeal baths can help with itching. Acetaminophen can treat the fever. Do not use aspirin for chickenpox; that combination can cause Reye syndrome.    Chickenpox can sometimes cause serious problems. Adults, babies, teenagers, pregnant women, and those with weak immune systems tend to get sicker from it. They may need to take antiviral medicines.    Once you catch chickenpox, the virus usually stays in your body. You probably will not get chickenpox again, but the virus can cause shingles in adults. A chickenpox vaccine can help prevent most cases of chickenpox, or make it less severe if you do get it.    Centers for Disease Control and Prevention",
+          "trust_score": 0.5016575627842271
+        },
+        {
+          "question": "What is (are) Shingles ?",
+          "text": "Shingles -- also called varicella-zoster -- is a painful skin disease caused by a reactivation of the chickenpox virus. It is distinctive because it affects only one side of the body. The early signs of shingles usually develop in three stages: severe pain or tingling, possibly itchy rash, and blisters that look like chickenpox. (Watch the video to learn more about shingles. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.)",
+          "trust_score": 0.0048081222773829245
+        },
+        {
+          "question": "What are the treatments for Parasites - Trichinellosis (also known as Trichinosis) ?",
+          "text": "Safe and effective prescription drugs are available to treat both Trichinella infection and the symptoms that occur as a result of infection. Treatment should begin as soon as possible; a doctor will make the decision to treat based upon symptoms, exposure to raw or undercooked meat, and laboratory test results.\n    \nMore on: Resources For Health Professionals: Treatment",
+          "trust_score": 9.151472717400079e-05
+        }
+      ]
+    }
+  ]
+}

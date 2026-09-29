@@ -1,0 +1,393 @@
+{
+  "symptoms": [
+    "swelling in ankles",
+    "dehydration",
+    "frequent nosebleeds"
+  ],
+  "resolved_symptoms": [
+    "dehydration",
+    "frequent nosebleeds",
+    "swelling in ankles"
+  ],
+  "diseases": [
+    {
+      "disease": "heart valve diseases",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "medicines",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "chest pain",
+          "pmid": "1895809",
+          "title": "Mitral valve prolapse, panic disorder, and chest pain.",
+          "year": "1991",
+          "confidence": 0.9266,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8078910120606984,
+          "abstract_snippet": "Mitral valve prolapse is a common cardiac disorder that can readily be diagnosed by characteristic auscultatory and echocardiographic criteria. Although many diseases have been associated with mitral valve prolapse, most affected individuals have the primary form of the disorder. Mitral valve prolap"
+        },
+        {
+          "symptom": "swelling in feet",
+          "pmid": "33820896",
+          "title": "Infective endocarditis - why should rheumatologists be aware?",
+          "year": "2021",
+          "confidence": 0.9161,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6882982454486428,
+          "abstract_snippet": "Infective endocarditis has a wide range of clinical manifestations, making the diagnosis complex. Musculoskeletal symptoms whose prevalence is not negligible are often underestimated. This clinical case is about a 44-year-old female patient with previous aortic and mitral valvuloplasty for rheumatic"
+        },
+        {
+          "symptom": "shortness of breath",
+          "pmid": "32871100",
+          "title": "Mavacamten for treatment of symptomatic obstructive hypertrophic cardiomyopathy (EXPLORER-HCM): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+          "year": "2020",
+          "confidence": 0.9059,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.37396410895977655,
+          "abstract_snippet": "Cardiac muscle hypercontractility is a key pathophysiological abnormality in hypertrophic cardiomyopathy, and a major determinant of dynamic left ventricular outflow tract (LVOT) obstruction. Available pharmacological options for hypertrophic cardiomyopathy are inadequate or poorly tolerated and are"
+        },
+        {
+          "symptom": "swelling in ankles",
+          "pmid": "36898521",
+          "title": "The 4A classification for patients with tricuspid regurgitation.",
+          "year": "2023",
+          "confidence": 0.9037,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8134333461060163,
+          "abstract_snippet": "Significant tricuspid regurgitation (TR) is associated with increased morbidity and mortality. Clinical evaluation of TR patients is challenging. Our aim was to establish a new clinical classification specific for patients with TR, the 4A classification, and evaluate its prognostic performance. We i"
+        },
+        {
+          "symptom": "fatigue",
+          "pmid": "33111998",
+          "title": "European heart health survey 2019.",
+          "year": "2020",
+          "confidence": 0.8951,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7068298133274972,
+          "abstract_snippet": "Rising life expectancy in the western population is increasing the prevalence of heart valve diseases (HVD). The level of awareness and initial screening for HVD should be sufficient. The potential impact of HVD on the daily activities of the elderly population in Europe might affect our society. A"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "heart valve diseases",
+          "text": "Rheumatic fever. An untreated strep throat can become rheumatic fever, which can harm the heart valves. The damage may not show up for years. Today, most people take antibiotics to cure strep throat before it can cause heart valve damage. \n Endocarditis . This is a rare infection in the lining of the heart and heart valves. It is usually caused by bacteria in the bloodstream. \n A heart attack. \n Heart failure . \n Coronary artery disease , especially when it affects the aorta (the large artery that carries blood from the heart to the body). \n High blood pressure. \n High blood cholesterol . \n Diabetes . \n Obesity and overweight. \n Lack of physical activity .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "If you don't get treatment for heart valve disease, the symptoms and strain on your heart may keep getting worse.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "What are the treatments for heart valve diseases? \n Most heart valve problems can be treated successfully. Treatment may include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "Medicines to control your symptoms and keep your heart pumping well \n Heart-healthy lifestyle changes to treat other related heart conditions \n Surgery to repair or replace a valve",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "What are heart valve diseases? \n Heart valve disease happens when one or more of your heart valves don't work well. \n Your heart has four valves: the tricuspid, pulmonary, mitral, and aortic valves. The valves have flaps that open and close. The flaps make sure that blood flows in the right direction through your heart and to the rest of your body. When your heart beats, the flaps open to let blood through. Between heartbeats they close to stop the blood from flowing backwards. \n If one or more of your heart valves doesn't open or close correctly, it can affect your blood flow and strain your heart. Fortunately, treatment helps most valve diseases.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "What are the types of heart valve diseases? \n Heart valves can have three basic kinds of problems:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "Regurgitation , or backflow, happens when the flaps of a valve don't close tightly. This allows the blood to leak backwards. A common cause of regurgitation is prolapse, where the flaps of the valve flop or bulge back. Prolapse most often affects the mitral valve . \n Stenosis happens when the flaps of a valve become thick, stiff, or stuck together. This prevents the heart valve from opening all the way. Not enough blood can pass through the valve. Aortic valve stenosis is a common type of stenosis. It affects the valve that controls blood flow into the large artery that carries blood out of the heart to the body. \n Atresia happens when a heart valve did not form properly and does not have an opening for blood to pass through.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "Sometimes a valve can have both regurgitation and stenosis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/heartvalvediseases.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "heart valve diseases",
+          "text": "Rheumatic fever. An untreated strep throat can become rheumatic fever, which can harm the heart valves. The damage may not show up for years. Today, most people take antibiotics to cure strep throat before it can cause heart valve damage. \n Endocarditis . This is a rare infection in the lining of the heart and heart valves. It is usually caused by bacteria in the bloodstream. \n A heart attack. \n Heart failure . \n Coronary artery disease , especially when it affects the aorta (the large artery that carries blood from the heart to the body). \n High blood pressure. \n High blood cholesterol . \n Diabetes . \n Obesity and overweight. \n Lack of physical activity .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "If you don't get treatment for heart valve disease, the symptoms and strain on your heart may keep getting worse.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "What are the treatments for heart valve diseases? \n Most heart valve problems can be treated successfully. Treatment may include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "Medicines to control your symptoms and keep your heart pumping well \n Heart-healthy lifestyle changes to treat other related heart conditions \n Surgery to repair or replace a valve",
+          "trust_score": 1.0
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "What are heart valve diseases? \n Heart valve disease happens when one or more of your heart valves don't work well. \n Your heart has four valves: the tricuspid, pulmonary, mitral, and aortic valves. The valves have flaps that open and close. The flaps make sure that blood flows in the right direction through your heart and to the rest of your body. When your heart beats, the flaps open to let blood through. Between heartbeats they close to stop the blood from flowing backwards. \n If one or more of your heart valves doesn't open or close correctly, it can affect your blood flow and strain your heart. Fortunately, treatment helps most valve diseases.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "What are the types of heart valve diseases? \n Heart valves can have three basic kinds of problems:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "Regurgitation , or backflow, happens when the flaps of a valve don't close tightly. This allows the blood to leak backwards. A common cause of regurgitation is prolapse, where the flaps of the valve flop or bulge back. Prolapse most often affects the mitral valve . \n Stenosis happens when the flaps of a valve become thick, stiff, or stuck together. This prevents the heart valve from opening all the way. Not enough blood can pass through the valve. Aortic valve stenosis is a common type of stenosis. It affects the valve that controls blood flow into the large artery that carries blood out of the heart to the body. \n Atresia happens when a heart valve did not form properly and does not have an opening for blood to pass through.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "heart valve diseases",
+          "text": "Sometimes a valve can have both regurgitation and stenosis.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "hemophilia",
+      "drugs": [],
+      "treatment_modalities": [
+        "clotting factor replacement"
+      ],
+      "citations": [
+        {
+          "symptom": "skin bruising",
+          "pmid": "41488453",
+          "title": "Post-Infectious Acquired Hemophilia A: A Case Report and Review of the Literature.",
+          "year": "2025",
+          "confidence": 0.9329,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.647754503862414,
+          "abstract_snippet": "A 52-year-old man with no personal or family history of bleeding presented with extensive hematomas and skin bruising following prolonged antibiotic use. Initial laboratory evaluation revealed coagulopathy, with an elevated activated partial thromboplastin time and mild anemia. Mixing studies and fa"
+        },
+        {
+          "symptom": "gum bleeding",
+          "pmid": "32685260",
+          "title": "Evaluation of gum health status in hemophilia patients in Birjand (a case-control study).",
+          "year": "2020",
+          "confidence": 0.9212,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7464914402538562,
+          "abstract_snippet": "Gum bleeding in the absence of trauma or injury in adults with haemophilia is often reported. So hemophilic patients require special care and attention in various dentistry practices. The purpose of this study was to evaluate the gingival health status in patients with hemophilia in Birjand in 2018-"
+        },
+        {
+          "symptom": "muscle bleeding",
+          "pmid": "31437138",
+          "title": "Diagnosis and treatment of hemophilia.",
+          "year": "2019",
+          "confidence": 0.9207,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5613180072275644,
+          "abstract_snippet": "Hemophilia A and B are inherited bleeding disorders characterized by deficiency or dysfunction of coagulation protein factors VIII and IX, respectively. Recurrent joint and muscle bleeds are the major clinical manifestations. Replacement therapy with clotting factors, either at the time of bleeding"
+        },
+        {
+          "symptom": "bleeding after circumcision",
+          "pmid": "22866674",
+          "title": "Risk of bleeding and inhibitor development after circumcision of previously untreated or minimally treated severe hemophilia A children.",
+          "year": "2012",
+          "confidence": 0.9205,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7240704293137011,
+          "abstract_snippet": "Surgery and intensive factor VIII (FVIII) replacement may be risk factors for development of inhibitors. To evaluate time and rate of inhibitor development postcircumcision over 12-month period, and to assess bleeding of children with severe hemophilia A after low-dose FVIII replacement and local he"
+        },
+        {
+          "symptom": "bleeding after vaccination",
+          "pmid": "39066347",
+          "title": "Acquired Hemophilia A after SARS-CoV-2 Immunization: A Narrative Review of a Rare Side Effect.",
+          "year": "2024",
+          "confidence": 0.9036,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.763592316485365,
+          "abstract_snippet": "Acquired hemophilia A (AHA) is a rare bleeding disorder (1.4 per million inhabitants per year) caused by neutralizing antibodies against factor VIII. Although uncommon, these autoantibodies can cause a high rate of morbidity and mortality. Several conditions are linked with AHA; based on an EACH2 st"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "hemophilia",
+          "text": "What are the treatments for hemophilia? \n The best way to treat hemophilia is to replace the missing clotting factor so that your blood can clot properly. This is usually done by injecting replacement clotting factor into a vein. The replacement clotting factor may be made from donated human blood. Or it may be made in a lab; this kind is called a recombinant clotting factor. \n Replacement clotting factor can help treat a bleeding episode. In more severe cases of hemophilia, you might get the factor on a regular basis to prevent bleeding. You can learn how to inject the factor so that you can do it yourself at home. \n There are other medicines to treat hemophilia. They may work by releasing factor VIII (8) from where it is stored in the body tissues, replacing the function of factor VIII (8), or preventing clots from breaking down. \n If bleeding has damaged your joints, physical therapy may help them function better. \n Good quality medical care from healthcare professionals who know a lot about the disorder can help prevent some serious problems. Often the best choice for care is to visit a hemophilia treatment center (HTC) . \n Centers for Disease Control and Prevention",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What is hemophilia? \n Hemophilia is a rare bleeding disorder in which the blood does not clot properly. This can lead to problems with bleeding too much after an injury or surgery. You can also have sudden bleeding inside your body, such as in your joints, muscles, and organs.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Your blood contains many proteins called clotting factors that can help form clots to stop bleeding. People with hemophilia have low levels of one of these factors, usually either factor VIII (8) or factor IX (9). How severe the hemophilia is depends on the amount of factor in the blood. The lower the amount of the factor, the more likely it is that bleeding could happen and might lead to serious health problems.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What are the types of hemophilia? \n There are several different types of hemophilia. The most common are:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Hemophilia A (classic hemophilia), which is caused by a lack or decrease of clotting factor VIII (8) \n Hemophilia B (Christmas disease), which is caused by a lack or decrease of clotting factor IX (9)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What causes hemophilia? \n Most types of hemophilia are inherited. They are caused by change in one of the genes (also called a mutation) that provides instructions for making the clotting factor proteins. The change may mean that the clotting proteins don't work properly or that they are missing altogether. \n These genes are on the X chromosome. You may have one or two X chromosomes:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "People who are born male have one X chromosome (from the mother) and one Y chromosome (from the father). They can get hemophilia if their one X chromosome has the gene change. \n People who are born female have two X chromosomes, one from the father and one from the mother. They usually only get hemophilia if:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Both X chromosomes have the gene change OR \n One X chromosome has the gene change and the other X chromosome is missing or inactive.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "hemophilia",
+          "text": "What are the treatments for hemophilia? \n The best way to treat hemophilia is to replace the missing clotting factor so that your blood can clot properly. This is usually done by injecting replacement clotting factor into a vein. The replacement clotting factor may be made from donated human blood. Or it may be made in a lab; this kind is called a recombinant clotting factor. \n Replacement clotting factor can help treat a bleeding episode. In more severe cases of hemophilia, you might get the factor on a regular basis to prevent bleeding. You can learn how to inject the factor so that you can do it yourself at home. \n There are other medicines to treat hemophilia. They may work by releasing factor VIII (8) from where it is stored in the body tissues, replacing the function of factor VIII (8), or preventing clots from breaking down. \n If bleeding has damaged your joints, physical therapy may help them function better. \n Good quality medical care from healthcare professionals who know a lot about the disorder can help prevent some serious problems. Often the best choice for care is to visit a hemophilia treatment center (HTC) . \n Centers for Disease Control and Prevention",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What is hemophilia? \n Hemophilia is a rare bleeding disorder in which the blood does not clot properly. This can lead to problems with bleeding too much after an injury or surgery. You can also have sudden bleeding inside your body, such as in your joints, muscles, and organs.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Your blood contains many proteins called clotting factors that can help form clots to stop bleeding. People with hemophilia have low levels of one of these factors, usually either factor VIII (8) or factor IX (9). How severe the hemophilia is depends on the amount of factor in the blood. The lower the amount of the factor, the more likely it is that bleeding could happen and might lead to serious health problems.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What are the types of hemophilia? \n There are several different types of hemophilia. The most common are:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Hemophilia A (classic hemophilia), which is caused by a lack or decrease of clotting factor VIII (8) \n Hemophilia B (Christmas disease), which is caused by a lack or decrease of clotting factor IX (9)",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What causes hemophilia? \n Most types of hemophilia are inherited. They are caused by change in one of the genes (also called a mutation) that provides instructions for making the clotting factor proteins. The change may mean that the clotting proteins don't work properly or that they are missing altogether. \n These genes are on the X chromosome. You may have one or two X chromosomes:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "People who are born male have one X chromosome (from the mother) and one Y chromosome (from the father). They can get hemophilia if their one X chromosome has the gene change. \n People who are born female have two X chromosomes, one from the father and one from the mother. They usually only get hemophilia if:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Both X chromosomes have the gene change OR \n One X chromosome has the gene change and the other X chromosome is missing or inactive.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "gastroenteritis",
+      "drugs": [
+        "ondansetron",
+        "loperamide"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "vomiting",
+          "pmid": "28963679",
+          "title": "Clinical Practice: Nausea and vomiting in acute gastroenteritis: physiopathology and management.",
+          "year": "2018",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.562813377736605,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Most cases of viral gastroenteritis resolve over time without specific treatment. Antibiotics are not effective against viral infections. The primary goal of treatment is to reduce symptoms and prevent complications.\n                \nOver-the-counter medicines such as loperamide (Imodium) and bismuth subsalicylate (Pepto-Bismol) can help relieve symptoms in adults. These medicines are not recommended for children.",
+          "question": "What are the treatments for Viral Gastroenteritis ?",
+          "score": 0.040886301547288895,
+          "rerank_score": 6.755949974060059,
+          "trust_score": 0.9885284356837036
+        },
+        {
+          "text": "- Viral gastroenteritis is inflammation of the lining of the stomach, small intestine, and large intestine. Several different viruses can cause viral gastroenteritis, which is highly contagious and extremely common.  - The main symptoms of viral gastroenteritis are watery diarrhea and vomiting.  - Dehydration is the most common complication of viral gastroenteritis.  - When someone does not drink enough fluids to replace those that are lost through vomiting and diarrhea, dehydration can result. Signs of dehydration in adults are excessive thirst, infrequent urination, dark-colored urine, dry skin, and lethargy, dizziness, or faintness.  - Infants, young children, older adults, and people with weak immune systems have the greatest risk of becoming dehydrated.  - Viral gastroenteritis is transmitted from person to person.  - Diagnosis of viral gastroenteritis is usually based on symptoms alone.  - Most cases of viral gastroenteritis resolve over time without specific treatment. Antibiotics are not effective against viral infections. The primary goal of treatment is to reduce symptoms.  - Adults with viral gastroenteritis should drink plenty of liquids such as fruit juices, sports drinks, caffeine-free soft drinks, and broths to replace fluids and electrolytes.  - Children with viral gastroenteritis should be given oral rehydration solutions to prevent dehydration.  - People can reduce their chances of getting or spreading viral gastroenteritis if they wash their hands thoroughly with soap and warm water for 20 seconds after using the bathroom or changing diapers and before eating or handling food, disinfect contaminated surfaces, and avoid foods or liquids that might be contaminated.",
+          "question": "What to do for Viral Gastroenteritis ?",
+          "score": 0.031029626727104187,
+          "rerank_score": 4.43334436416626,
+          "trust_score": 0.9093170219590765
+        },
+        {
+          "text": "Viral gastroenteritis is usually diagnosed based on symptoms alone. People who have symptoms that are severe or last for more than a few days may want to see a health care provider for additional tests. A health care provider may ask for a stool sample to test for rotavirus or norovirus or to rule out bacteria or parasites as the cause of the gastroenteritis.\n                \nDuring an epidemic of viral gastroenteritis, health care providers or public health officials may test stool samples to find out which virus is responsible for the outbreak.",
+          "question": "How to diagnose Viral Gastroenteritis ?",
+          "score": 0.02881437912583351,
+          "rerank_score": 1.9199888706207275,
+          "trust_score": 0.5006858105814022
+        },
+        {
+          "text": "The following steps may help relieve the symptoms of viral gastroenteritis in adults:\n                \n- drinking plenty of liquids such as fruit juices, sports drinks, caffeine-free soft drinks, and broths to replace fluids and electrolytes  - sipping small amounts of clear liquids or sucking on ice chips if vomiting is still a problem  - gradually reintroducing food, starting with bland, easy-to-digest foods such as rice, potatoes, toast or bread, cereal, lean meat, applesauce, and bananas  - avoiding fatty foods, sugary foods, dairy products, caffeine, and alcohol until recovery is complete  - getting plenty of rest\n                \nChildren present special concerns. Because of their smaller body size, infants and children are likely to become dehydrated more quickly from diarrhea and vomiting. The following steps may help relieve symptoms of viral gastroenteritis and prevent dehydration in children:\n                \n- giving oral rehydration solutions such as Pedialyte, Naturalyte, Infalyte, and CeraLyte  - giving food as soon as the child is hungry  - giving infants breast milk or full strength formula, as usual, along with oral rehydration solutions\n                \nOlder adults and adults with weak immune systems should also drink oral rehydration solutions to prevent dehydration.",
+          "question": "What to do for Viral Gastroenteritis ?",
+          "score": 0.027562376111745834,
+          "rerank_score": -1.9826927185058594,
+          "trust_score": 0.026273959991049457
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Viral Gastroenteritis ?",
+          "text": "Most cases of viral gastroenteritis resolve over time without specific treatment. Antibiotics are not effective against viral infections. The primary goal of treatment is to reduce symptoms and prevent complications.\n                \nOver-the-counter medicines such as loperamide (Imodium) and bismuth subsalicylate (Pepto-Bismol) can help relieve symptoms in adults. These medicines are not recommended for children.",
+          "trust_score": 0.9885284356837036
+        },
+        {
+          "question": "What to do for Viral Gastroenteritis ?",
+          "text": "- Viral gastroenteritis is inflammation of the lining of the stomach, small intestine, and large intestine. Several different viruses can cause viral gastroenteritis, which is highly contagious and extremely common.  - The main symptoms of viral gastroenteritis are watery diarrhea and vomiting.  - Dehydration is the most common complication of viral gastroenteritis.  - When someone does not drink enough fluids to replace those that are lost through vomiting and diarrhea, dehydration can result. Signs of dehydration in adults are excessive thirst, infrequent urination, dark-colored urine, dry skin, and lethargy, dizziness, or faintness.  - Infants, young children, older adults, and people with weak immune systems have the greatest risk of becoming dehydrated.  - Viral gastroenteritis is transmitted from person to person.  - Diagnosis of viral gastroenteritis is usually based on symptoms alone.  - Most cases of viral gastroenteritis resolve over time without specific treatment. Antibiotics are not effective against viral infections. The primary goal of treatment is to reduce symptoms.  - Adults with viral gastroenteritis should drink plenty of liquids such as fruit juices, sports drinks, caffeine-free soft drinks, and broths to replace fluids and electrolytes.  - Children with viral gastroenteritis should be given oral rehydration solutions to prevent dehydration.  - People can reduce their chances of getting or spreading viral gastroenteritis if they wash their hands thoroughly with soap and warm water for 20 seconds after using the bathroom or changing diapers and before eating or handling food, disinfect contaminated surfaces, and avoid foods or liquids that might be contaminated.",
+          "trust_score": 0.9093170219590765
+        },
+        {
+          "question": "How to diagnose Viral Gastroenteritis ?",
+          "text": "Viral gastroenteritis is usually diagnosed based on symptoms alone. People who have symptoms that are severe or last for more than a few days may want to see a health care provider for additional tests. A health care provider may ask for a stool sample to test for rotavirus or norovirus or to rule out bacteria or parasites as the cause of the gastroenteritis.\n                \nDuring an epidemic of viral gastroenteritis, health care providers or public health officials may test stool samples to find out which virus is responsible for the outbreak.",
+          "trust_score": 0.5006858105814022
+        },
+        {
+          "question": "What to do for Viral Gastroenteritis ?",
+          "text": "The following steps may help relieve the symptoms of viral gastroenteritis in adults:\n                \n- drinking plenty of liquids such as fruit juices, sports drinks, caffeine-free soft drinks, and broths to replace fluids and electrolytes  - sipping small amounts of clear liquids or sucking on ice chips if vomiting is still a problem  - gradually reintroducing food, starting with bland, easy-to-digest foods such as rice, potatoes, toast or bread, cereal, lean meat, applesauce, and bananas  - avoiding fatty foods, sugary foods, dairy products, caffeine, and alcohol until recovery is complete  - getting plenty of rest\n                \nChildren present special concerns. Because of their smaller body size, infants and children are likely to become dehydrated more quickly from diarrhea and vomiting. The following steps may help relieve symptoms of viral gastroenteritis and prevent dehydration in children:\n                \n- giving oral rehydration solutions such as Pedialyte, Naturalyte, Infalyte, and CeraLyte  - giving food as soon as the child is hungry  - giving infants breast milk or full strength formula, as usual, along with oral rehydration solutions\n                \nOlder adults and adults with weak immune systems should also drink oral rehydration solutions to prevent dehydration.",
+          "trust_score": 0.026273959991049457
+        }
+      ]
+    }
+  ]
+}

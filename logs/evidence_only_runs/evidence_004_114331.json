@@ -1,0 +1,431 @@
+{
+  "symptoms": [
+    "visual hallucinations",
+    "sudden weakness",
+    "mucus producing cough"
+  ],
+  "resolved_symptoms": [
+    "mucus producing cough",
+    "sudden weakness",
+    "visual hallucinations"
+  ],
+  "diseases": [
+    {
+      "disease": "lewy body dementia",
+      "drugs": [],
+      "treatment_modalities": [
+        "physical therapy",
+        "occupational therapy",
+        "medicines",
+        "speech therapy",
+        "mental health counseling",
+        "music or art therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "dementia",
+          "pmid": "39620839",
+          "title": "Lewy Body Dementia.",
+          "year": "2024",
+          "confidence": 0.9431,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6186860095445474,
+          "abstract_snippet": "Lewy body dementia (LBD) is an umbrella term describing two closely related conditions: Parkinson disease dementia (PDD) and dementia with Lewy bodies (DLB). LBD is the second most common cause of neurodegenerative dementia but is often underrecognized in clinical practice. This review covers the ke"
+        },
+        {
+          "symptom": "visual hallucinations",
+          "pmid": "27042903",
+          "title": "Lewy Body Dementias: Dementia With Lewy Bodies and Parkinson Disease Dementia.",
+          "year": "2016",
+          "confidence": 0.9207,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.677755113657586,
+          "abstract_snippet": "This article provides an overview of the clinical features, neuropathologic findings, diagnostic criteria, and management of dementia with Lewy bodies (DLB) and Parkinson disease dementia (PDD), together known as the Lewy body dementias. DLB and PDD are common, clinically similar syndromes that shar"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "lewy body dementia",
+          "text": "It's also important to know which type of LBD a person has, so the doctor can treat that type's particular symptoms. It also helps the doctor understand how the disease will affect the person over time. The doctor makes a diagnosis based on when certain symptoms start: \n If cognitive symptoms start within a year of movement problems, the diagnosis is dementia with Lewy bodies \n If cognitive problems start more than a year after the movement problems, the diagnosis is Parkinson's disease dementia",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What are the treatments for Lewy body dementia (LBD)? \n There is no cure for LBD, but treatments can help with the symptoms: \n Medicines may help with some of the cognitive, movement, and psychiatric symptoms \n Physical therapy can help with movement problems \n Occupational therapy may help find ways to more easily do everyday activities \n Speech therapy may help with swallowing difficulties and trouble speaking loudly and clearly \n Mental health counseling can help people with LBD and their families learn how to manage difficult emotions and behaviors. It can also help them plan for the future. \n Music or art therapy may reduce anxiety and improve well-being",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What is Lewy body dementia (LBD)? \n Lewy body dementia (LBD) is one of the most common types of dementia in older adults. Dementia is a loss of mental functions that is severe enough to affect your daily life and activities. These functions include: \n Memory \n Language skills \n Visual perception (your ability to make sense of what you see) \n Problem solving \n Trouble with everyday tasks \n The ability to focus and pay attention",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What are the types of Lewy body dementia (LBD)? \n There are two types of LBD: dementia with Lewy bodies and Parkinson's disease dementia. \n Both types cause the same changes in the brain. And, over time, they can cause similar symptoms. The main difference is in when the cognitive (thinking) and movement symptoms start.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "Dementia with Lewy bodies causes problems with thinking ability that seem similar to Alzheimer's disease . Later, it also causes other symptoms, such as movement symptoms, visual hallucinations, and certain sleep disorders . It also causes more trouble with mental activities than with memory.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "Parkinson's disease dementia starts as a movement disorder. It first causes the symptoms of Parkinson's disease : slowed movement, muscle stiffness, tremor, and a shuffling walk. Later on, it causes dementia.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What causes Lewy body dementia (LBD)? \n LBD happens when Lewy bodies build up in parts of the brain that control memory, thinking, and movement. Lewy bodies are abnormal deposits of a protein called alpha-synuclein. Researchers don't know exactly why these deposits form. But they do know that other diseases, such as Parkinson's disease, also involve a build-up of that protein.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "Who is at risk for Lewy body dementia (LBD)? \n The biggest risk factor for LBD is age; most people who get it are over age 50. People who have a family history of LBD are also at higher risk.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/lewybodydementia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "lewy body dementia",
+          "text": "It's also important to know which type of LBD a person has, so the doctor can treat that type's particular symptoms. It also helps the doctor understand how the disease will affect the person over time. The doctor makes a diagnosis based on when certain symptoms start: \n If cognitive symptoms start within a year of movement problems, the diagnosis is dementia with Lewy bodies \n If cognitive problems start more than a year after the movement problems, the diagnosis is Parkinson's disease dementia",
+          "trust_score": 1.0
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What are the treatments for Lewy body dementia (LBD)? \n There is no cure for LBD, but treatments can help with the symptoms: \n Medicines may help with some of the cognitive, movement, and psychiatric symptoms \n Physical therapy can help with movement problems \n Occupational therapy may help find ways to more easily do everyday activities \n Speech therapy may help with swallowing difficulties and trouble speaking loudly and clearly \n Mental health counseling can help people with LBD and their families learn how to manage difficult emotions and behaviors. It can also help them plan for the future. \n Music or art therapy may reduce anxiety and improve well-being",
+          "trust_score": 1.0
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What is Lewy body dementia (LBD)? \n Lewy body dementia (LBD) is one of the most common types of dementia in older adults. Dementia is a loss of mental functions that is severe enough to affect your daily life and activities. These functions include: \n Memory \n Language skills \n Visual perception (your ability to make sense of what you see) \n Problem solving \n Trouble with everyday tasks \n The ability to focus and pay attention",
+          "trust_score": 1.0
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What are the types of Lewy body dementia (LBD)? \n There are two types of LBD: dementia with Lewy bodies and Parkinson's disease dementia. \n Both types cause the same changes in the brain. And, over time, they can cause similar symptoms. The main difference is in when the cognitive (thinking) and movement symptoms start.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "Dementia with Lewy bodies causes problems with thinking ability that seem similar to Alzheimer's disease . Later, it also causes other symptoms, such as movement symptoms, visual hallucinations, and certain sleep disorders . It also causes more trouble with mental activities than with memory.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "Parkinson's disease dementia starts as a movement disorder. It first causes the symptoms of Parkinson's disease : slowed movement, muscle stiffness, tremor, and a shuffling walk. Later on, it causes dementia.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "What causes Lewy body dementia (LBD)? \n LBD happens when Lewy bodies build up in parts of the brain that control memory, thinking, and movement. Lewy bodies are abnormal deposits of a protein called alpha-synuclein. Researchers don't know exactly why these deposits form. But they do know that other diseases, such as Parkinson's disease, also involve a build-up of that protein.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "lewy body dementia",
+          "text": "Who is at risk for Lewy body dementia (LBD)? \n The biggest risk factor for LBD is age; most people who get it are over age 50. People who have a family history of LBD are also at higher risk.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "chronic bronchitis",
+      "drugs": [],
+      "treatment_modalities": [
+        "smoking cessation",
+        "avoiding lung irritants",
+        "physical activity"
+      ],
+      "citations": [
+        {
+          "symptom": "mucus producing cough",
+          "pmid": "37942820",
+          "title": "Bronchoscopic interventions for chronic bronchitis.",
+          "year": "2024",
+          "confidence": 0.9496,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7013922542647774,
+          "abstract_snippet": "Chronic bronchitis is a phenotype of chronic obstructive pulmonary disease (COPD), characterized by chronic cough and sputum production, associated with an increased rate of COPD exacerbations and hospital admissions, a more rapid decline in lung function and reduced life expectancy. Despite optimal"
+        },
+        {
+          "symptom": "wheezing",
+          "pmid": "29206552",
+          "title": "Chronic bronchitis.",
+          "year": "1993",
+          "confidence": 0.9394,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.779491263759324,
+          "abstract_snippet": "Preview Wheezing, difficulty in breathing, and coughing that produces thick sputum are all symptoms of chronic bronchitis. Differentiating this very common disorder from other pulmonary diseases with similar symptoms can be difficult. What factors contribute to the disorder? What should be the focus"
+        },
+        {
+          "symptom": "frequent cough",
+          "pmid": "31212350",
+          "title": "[Feline asthma and chronic bronchitis - an overview of diagnostics and therapy].",
+          "year": "2019",
+          "confidence": 0.9179,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7333796507174402,
+          "abstract_snippet": "Feline asthma and feline chronic bronchitis are considered the most common chronic lower respiratory diseases in cats and are frequently referred to by the term chronic bronchial diseases. In feline asthma, a hypersensitivity reaction type I is suspected. For chronic bronchitis, the aetiology remain"
+        },
+        {
+          "symptom": "shortness of breath",
+          "pmid": "39557293",
+          "title": "Cough-Variant Asthma: A Review of Clinical Characteristics, Diagnosis, and Pathophysiology.",
+          "year": "2025",
+          "confidence": 0.9127,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8771777056498418,
+          "abstract_snippet": "Chronic cough is among the most common symptoms prompting medical care. Cough-variant asthma (CVA) is an asthma subset where cough is the primary symptom, without wheezing, chest tightness, or dyspnea. It is an important cause of chronic cough, estimated to account for 25% to 42% of cases, but likel"
+        },
+        {
+          "symptom": "chest tightness",
+          "pmid": "42511891",
+          "title": "Real-World Dupilumab in Type 2 Chronic Obstructive Pulmonary Disease (COPD): A Single-Centre Compassionate-Use Case Series.",
+          "year": "2026",
+          "confidence": 0.8763,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6952834431780089,
+          "abstract_snippet": "<b>Background</b>: Dupilumab, a monoclonal antibody blocking IL-4R&#x3b1;, has recently demonstrated efficacy in patients with type 2 (T2)-inflamed chronic obstructive pulmonary disease (COPD) in the BOREAS and NOTUS trials. Real-world experience in older patients with predominant chronic bronchitis"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the treatments for chronic bronchitis? \n There is no cure for chronic bronchitis. However, treatments can help with symptoms, slow the progress of the disease, and improve your ability to stay active. There are also treatments to prevent or treat complications of the disease. Treatments include: \n Lifestyle changes , such as",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Quitting smoking if you are a smoker. This is the most important step you can take to treat chronic bronchitis. \n Avoiding secondhand smoke and places where you might breathe in other lung irritants \n Ask your health care provider for an eating plan that will meet your nutritional needs. Also ask about how much physical activity you can do. Physical activity can strengthen the muscles that help you breathe and improve your overall wellness.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What is chronic bronchitis? \n Chronic bronchitis is a type of COPD (chronic obstructive pulmonary disease). COPD is a group of lung diseases that make it hard to breathe and get worse over time. The other main type of COPD is emphysema . Most people with COPD have both emphysema and chronic bronchitis, but how severe each type is can be different from person to person. \n Chronic bronchitis is inflammation (swelling) and irritation of the bronchial tubes. These tubes are the airways that carry air to and from the air sacs in your lungs. The irritation of the tubes causes mucus to build up. This mucus and the swelling of the tubes make it harder for your lungs to move oxygen in and carbon dioxide out of your body.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What causes chronic bronchitis? \n The cause of chronic bronchitis is usually long-term exposure to irritants that damage your lungs and airways. In the United States, cigarette smoke is the main cause. Pipe, cigar, and other types of tobacco smoke can also cause chronic bronchitis, especially if you inhale them. \n Exposure to other inhaled irritants can contribute to chronic bronchitis. These include secondhand smoke , air pollution , and chemical fumes or dusts from the environment or workplace. \n Rarely, a genetic condition called alpha-1 antitrypsin deficiency can play a role in causing chronic bronchitis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Who is at risk for chronic bronchitis? \n The risk factors for chronic bronchitis include: \n Smoking. This the main risk factor. Up to 75% of people who have chronic bronchitis smoke or used to smoke. \n Long-term exposure to other lung irritants , such as secondhand smoke, air pollution, and chemical fumes and dusts from the environment or workplace. \n Age. Most people who have chronic bronchitis are at least 40 years old when their symptoms begin. \n Genetics. This includes alpha-1 antitrypsin deficiency, which is a genetic condition. Also, smokers who get chronic bronchitis are more likely to get it if they have a family history of COPD.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the symptoms of chronic bronchitis? \n At first, you may have no symptoms or only mild symptoms. As the disease gets worse, your symptoms usually become more severe. They can include: \n Frequent coughing or a cough that produces a lot mucus \n Wheezing \n A whistling or squeaky sound when you breathe \n Shortness of breath, especially with physical activity \n Tightness in your chest",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Some people with chronic bronchitis get frequent respiratory infections such as colds and the flu . In severe cases, chronic bronchitis can cause weight loss, weakness in your lower muscles, and swelling in your ankles, feet, or legs.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "How is chronic bronchitis diagnosed? \n Your health care provider may use many tools to make a diagnosis: \n A medical history, which includes asking about your symptoms \n A family history \n Various tests, such as lung function tests , a chest x-ray or CT scan , and blood tests",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the treatments for chronic bronchitis? \n There is no cure for chronic bronchitis. However, treatments can help with symptoms, slow the progress of the disease, and improve your ability to stay active. There are also treatments to prevent or treat complications of the disease. Treatments include: \n Lifestyle changes , such as",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Quitting smoking if you are a smoker. This is the most important step you can take to treat chronic bronchitis. \n Avoiding secondhand smoke and places where you might breathe in other lung irritants \n Ask your health care provider for an eating plan that will meet your nutritional needs. Also ask about how much physical activity you can do. Physical activity can strengthen the muscles that help you breathe and improve your overall wellness.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What is chronic bronchitis? \n Chronic bronchitis is a type of COPD (chronic obstructive pulmonary disease). COPD is a group of lung diseases that make it hard to breathe and get worse over time. The other main type of COPD is emphysema . Most people with COPD have both emphysema and chronic bronchitis, but how severe each type is can be different from person to person. \n Chronic bronchitis is inflammation (swelling) and irritation of the bronchial tubes. These tubes are the airways that carry air to and from the air sacs in your lungs. The irritation of the tubes causes mucus to build up. This mucus and the swelling of the tubes make it harder for your lungs to move oxygen in and carbon dioxide out of your body.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What causes chronic bronchitis? \n The cause of chronic bronchitis is usually long-term exposure to irritants that damage your lungs and airways. In the United States, cigarette smoke is the main cause. Pipe, cigar, and other types of tobacco smoke can also cause chronic bronchitis, especially if you inhale them. \n Exposure to other inhaled irritants can contribute to chronic bronchitis. These include secondhand smoke , air pollution , and chemical fumes or dusts from the environment or workplace. \n Rarely, a genetic condition called alpha-1 antitrypsin deficiency can play a role in causing chronic bronchitis.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Who is at risk for chronic bronchitis? \n The risk factors for chronic bronchitis include: \n Smoking. This the main risk factor. Up to 75% of people who have chronic bronchitis smoke or used to smoke. \n Long-term exposure to other lung irritants , such as secondhand smoke, air pollution, and chemical fumes and dusts from the environment or workplace. \n Age. Most people who have chronic bronchitis are at least 40 years old when their symptoms begin. \n Genetics. This includes alpha-1 antitrypsin deficiency, which is a genetic condition. Also, smokers who get chronic bronchitis are more likely to get it if they have a family history of COPD.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "What are the symptoms of chronic bronchitis? \n At first, you may have no symptoms or only mild symptoms. As the disease gets worse, your symptoms usually become more severe. They can include: \n Frequent coughing or a cough that produces a lot mucus \n Wheezing \n A whistling or squeaky sound when you breathe \n Shortness of breath, especially with physical activity \n Tightness in your chest",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "Some people with chronic bronchitis get frequent respiratory infections such as colds and the flu . In severe cases, chronic bronchitis can cause weight loss, weakness in your lower muscles, and swelling in your ankles, feet, or legs.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "chronic bronchitis",
+          "text": "How is chronic bronchitis diagnosed? \n Your health care provider may use many tools to make a diagnosis: \n A medical history, which includes asking about your symptoms \n A family history \n Various tests, such as lung function tests , a chest x-ray or CT scan , and blood tests",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "ischemic stroke",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "blood thinners",
+        "thrombolytics",
+        "rehabilitation",
+        "stenting"
+      ],
+      "citations": [
+        {
+          "symptom": "dizziness",
+          "pmid": "35367974",
+          "title": "Vascular vertigo and dizziness: Diagnostic criteria.",
+          "year": "2022",
+          "confidence": 0.9149,
+          "source_credibility": 0.002020106195627142,
+          "structural_confidence": 0.8106642077561411,
+          "abstract_snippet": "This paper presents diagnostic criteria for vascular vertigo and dizziness as formulated by the Committee for the Classification of Vestibular Disorders of the B&#xe1;r&#xe1;ny Society. The classification includes vertigo/dizziness due to stroke or transient ischemic attack as well as isolated labyr"
+        },
+        {
+          "symptom": "loss of balance",
+          "pmid": "39930815",
+          "title": "The role of astrocyte metabolic reprogramming in ischemic stroke (Review).",
+          "year": "2025",
+          "confidence": 0.902,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3323229747312098,
+          "abstract_snippet": "Ischemic stroke, a leading cause of disability and mortality worldwide, is characterized by the sudden loss of blood flow in specific area of the brain. Intravenous thrombolysis with recombinant tissue plasminogen activator is the only approved pharmacological treatment for acute ischemic stroke; ho"
+        },
+        {
+          "symptom": "speech difficulty",
+          "pmid": "39840204",
+          "title": "Clinical Insights on My Acute Ischemic Stroke Caused by a Carotid Web.",
+          "year": "2024",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.20803001194649604,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

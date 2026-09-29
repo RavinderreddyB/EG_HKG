@@ -1,0 +1,400 @@
+{
+  "symptoms": [
+    "leg weakness",
+    "hip joint pain",
+    "drooping eyelid"
+  ],
+  "resolved_symptoms": [
+    "drooping eyelid",
+    "hip joint pain",
+    "leg weakness"
+  ],
+  "diseases": [
+    {
+      "disease": "acute flaccid myelitis",
+      "drugs": [],
+      "treatment_modalities": [
+        "physical therapy",
+        "occupational therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "arm weakness",
+          "pmid": "34175008",
+          "title": "Acute Flaccid Myelitis.",
+          "year": "2021",
+          "confidence": 0.9513,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6854822089573541,
+          "abstract_snippet": "Acute flaccid myelitis (AFM) is an incompletely understood neurologic disorder occurring in epidemic fashion causing weakness ranging from mild paresis to devastating paralysis in children and some adults. This article reviews the case definition of AFM as well as its epidemiology and association wi"
+        },
+        {
+          "symptom": "leg weakness",
+          "pmid": "34823462",
+          "title": "An Overview of Acute Flaccid Myelitis.",
+          "year": "2022",
+          "confidence": 0.9478,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7711830133738463,
+          "abstract_snippet": "Acute Flaccid Myelitis is defined by the presence of Acute Flaccid Paralysis (AFP) and a spinal cord lesion on magnetic resonance imaging that is primarily limited to the grey matter. AFM is a difficult situation to deal with when you have a neurologic illness. According to the Centers for Disease C"
+        },
+        {
+          "symptom": "loss of reflexes",
+          "pmid": "39163469",
+          "title": "Acute Flaccid Myelitis.",
+          "year": "2026",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7068906735110109,
+          "abstract_snippet": ""
+        },
+        {
+          "symptom": "loss of muscle tone",
+          "pmid": "39163469",
+          "title": "Acute Flaccid Myelitis.",
+          "year": "2026",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7175582703440379,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What are the treatments for acute flaccid myelitis (AFM)? \n There is no specific treatment for AFM. A doctor who specializes in treating brain and spinal cord illnesses (neurologist) may recommend treatments for specific symptoms. For example, physical and/or occupational therapy may help with arm or leg weakness. Researchers do not know the long-term outcomes of people who get AFM.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What is acute flaccid myelitis (AFM)? \n Acute flaccid myelitis (AFM) is a neurologic disease . It is rare, but serious. It affects an area of the spinal cord called gray matter. This can cause the muscles and reflexes in the body to become weak.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Because of these symptoms, some people call AFM a \"polio-like\" illness. But it is different from polio . AFM is not caused by polioviruses.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What causes acute flaccid myelitis (AFM)? \n AFM can be caused by several different viruses. Researchers think that enteroviruses have been causing the recent increases in the number of children with AFM. AFM can also be caused by other viruses, including flaviviruses, herpesviruses, and adenoviruses.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Most people with AFM had a mild respiratory illness or fever (like you would get from a viral infection ) before they got AFM.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Who is more likely to develop acute flaccid myelitis (AFM)? \n Anyone can get AFM, but most cases (more than 90%) have been in young children.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What are the symptoms of acute flaccid myelitis (AFM)? \n Most people with AFM will suddenly have: \n Arm or leg weakness \n A loss of muscle tone and reflexes",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Some people also have other symptoms, including: \n Facial drooping/weakness \n Trouble moving the eyes \n Drooping eyelids \n Trouble swallowing \n Slurred speech \n Pain in the arms, legs, back, or neck",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/acuteflaccidmyelitis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What are the treatments for acute flaccid myelitis (AFM)? \n There is no specific treatment for AFM. A doctor who specializes in treating brain and spinal cord illnesses (neurologist) may recommend treatments for specific symptoms. For example, physical and/or occupational therapy may help with arm or leg weakness. Researchers do not know the long-term outcomes of people who get AFM.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What is acute flaccid myelitis (AFM)? \n Acute flaccid myelitis (AFM) is a neurologic disease . It is rare, but serious. It affects an area of the spinal cord called gray matter. This can cause the muscles and reflexes in the body to become weak.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Because of these symptoms, some people call AFM a \"polio-like\" illness. But it is different from polio . AFM is not caused by polioviruses.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What causes acute flaccid myelitis (AFM)? \n AFM can be caused by several different viruses. Researchers think that enteroviruses have been causing the recent increases in the number of children with AFM. AFM can also be caused by other viruses, including flaviviruses, herpesviruses, and adenoviruses.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Most people with AFM had a mild respiratory illness or fever (like you would get from a viral infection ) before they got AFM.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Who is more likely to develop acute flaccid myelitis (AFM)? \n Anyone can get AFM, but most cases (more than 90%) have been in young children.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "What are the symptoms of acute flaccid myelitis (AFM)? \n Most people with AFM will suddenly have: \n Arm or leg weakness \n A loss of muscle tone and reflexes",
+          "trust_score": 1.0
+        },
+        {
+          "question": "acute flaccid myelitis",
+          "text": "Some people also have other symptoms, including: \n Facial drooping/weakness \n Trouble moving the eyes \n Drooping eyelids \n Trouble swallowing \n Slurred speech \n Pain in the arms, legs, back, or neck",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "osteoarthristis",
+      "drugs": [
+        "ibuprofen",
+        "paracetamol",
+        "diclofenac"
+      ],
+      "treatment_modalities": [],
+      "citations": [],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Osteoarthritis is the most common form of arthritis among older people. It affects hands, low back, neck, and weight-bearing joints such as knees, hips, and feet. Osteoarthritis occurs when cartilage, the tissue that cushions the ends of the bones within the joints, breaks down and wears away. This causes bones to rub together, causing pain, swelling, and loss of motion of the joint.",
+          "question": "What is (are) Osteoarthritis ?",
+          "score": 0.02812945283949375,
+          "rerank_score": 6.368967533111572,
+          "trust_score": 0.11970339506781773
+        },
+        {
+          "text": "Osteoarthritis is the most common form of arthritis. It causes pain, swelling, and reduced motion in your joints. It can occur in any joint, but usually it affects your hands, knees, hips or spine.    Osteoarthritis breaks down the cartilage in your joints. Cartilage is the slippery tissue that covers the ends of bones in a joint. Healthy cartilage absorbs the shock of movement. When you lose cartilage, your bones rub together. Over time, this rubbing can permanently damage the joint.    Risk factors for osteoarthritis include       -  Being overweight    -  Getting older    -  Injuring a joint        No single test can diagnose osteoarthritis. Most doctors use several methods, including medical history, a physical exam, x-rays, or lab tests.    Treatments include exercise, medicines, and sometimes surgery.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "question": "What is (are) Osteoarthritis ?",
+          "score": 0.030882615596055984,
+          "rerank_score": 5.59305477142334,
+          "trust_score": 0.061153041552269485
+        },
+        {
+          "text": "Warm towels, hot packs, or a warm bath or shower can provide temporary pain relief. Medications such as non-steroidal anti-inflammatory drugs, or NSAIDs, help reduce pain and inflammation that result from osteoarthritis. A doctor or physical therapist can recommend if heat or cold is the best treatment. For osteoarthritis in the knee, wearing insoles or cushioned shoes may reduce joint stress.",
+          "question": "What are the treatments for Osteoarthritis ?",
+          "score": 0.02048145979642868,
+          "rerank_score": -2.1457080841064453,
+          "trust_score": 0.021939457136677786
+        },
+        {
+          "text": "Warning signs of osteoarthritis include -  joint pain  -  swelling or tenderness in one or more joints  -  stiffness after getting out of bed or sitting for a long time  -  a crunching feeling or sound of bone rubbing on bone.  joint pain swelling or tenderness in one or more joints stiffness after getting out of bed or sitting for a long time a crunching feeling or sound of bone rubbing on bone. Not everyone with osteoarthritis develops symptoms. In fact, only a third of people with x-ray evidence of osteoarthritis report pain or other symptoms.",
+          "question": "What are the symptoms of Osteoarthritis ?",
+          "score": 0.02077510952949524,
+          "rerank_score": 2.956169605255127,
+          "trust_score": 0.005729683499416
+        },
+        {
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "score": 0.03136648237705231,
+          "rerank_score": -4.110466957092285,
+          "trust_score": 0.003618543202659269
+        },
+        {
+          "text": "How might SAPHO syndrome be treated? There is no specific treatment plan for SAPHO syndrome. It can be a chronic condition but sometimes eventually heals on its own. Joint pain may be managed with nonsteroidal anti-inflammatory drugs and prescription vitamin A is used to treat the acne. Other drugs that may be used include: Colchicine Topical corticosteroids Systemic corticosteroids Methotrexate Calcitonin Bisphosphonates Infliximab Etanercept.",
+          "question": "What are the treatments for SAPHO syndrome ?",
+          "score": 0.029606632888317108,
+          "rerank_score": -6.553265571594238,
+          "trust_score": 0.0003809817471488673
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What is (are) Osteoarthritis ?",
+          "text": "Osteoarthritis is the most common form of arthritis among older people. It affects hands, low back, neck, and weight-bearing joints such as knees, hips, and feet. Osteoarthritis occurs when cartilage, the tissue that cushions the ends of the bones within the joints, breaks down and wears away. This causes bones to rub together, causing pain, swelling, and loss of motion of the joint.",
+          "trust_score": 0.11970339506781773
+        },
+        {
+          "question": "What is (are) Osteoarthritis ?",
+          "text": "Osteoarthritis is the most common form of arthritis. It causes pain, swelling, and reduced motion in your joints. It can occur in any joint, but usually it affects your hands, knees, hips or spine.    Osteoarthritis breaks down the cartilage in your joints. Cartilage is the slippery tissue that covers the ends of bones in a joint. Healthy cartilage absorbs the shock of movement. When you lose cartilage, your bones rub together. Over time, this rubbing can permanently damage the joint.    Risk factors for osteoarthritis include       -  Being overweight    -  Getting older    -  Injuring a joint        No single test can diagnose osteoarthritis. Most doctors use several methods, including medical history, a physical exam, x-rays, or lab tests.    Treatments include exercise, medicines, and sometimes surgery.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "trust_score": 0.061153041552269485
+        },
+        {
+          "question": "What are the treatments for Osteoarthritis ?",
+          "text": "Warm towels, hot packs, or a warm bath or shower can provide temporary pain relief. Medications such as non-steroidal anti-inflammatory drugs, or NSAIDs, help reduce pain and inflammation that result from osteoarthritis. A doctor or physical therapist can recommend if heat or cold is the best treatment. For osteoarthritis in the knee, wearing insoles or cushioned shoes may reduce joint stress.",
+          "trust_score": 0.021939457136677786
+        },
+        {
+          "question": "What are the symptoms of Osteoarthritis ?",
+          "text": "Warning signs of osteoarthritis include -  joint pain  -  swelling or tenderness in one or more joints  -  stiffness after getting out of bed or sitting for a long time  -  a crunching feeling or sound of bone rubbing on bone.  joint pain swelling or tenderness in one or more joints stiffness after getting out of bed or sitting for a long time a crunching feeling or sound of bone rubbing on bone. Not everyone with osteoarthritis develops symptoms. In fact, only a third of people with x-ray evidence of osteoarthritis report pain or other symptoms.",
+          "trust_score": 0.005729683499416
+        },
+        {
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "trust_score": 0.003618543202659269
+        },
+        {
+          "question": "What are the treatments for SAPHO syndrome ?",
+          "text": "How might SAPHO syndrome be treated? There is no specific treatment plan for SAPHO syndrome. It can be a chronic condition but sometimes eventually heals on its own. Joint pain may be managed with nonsteroidal anti-inflammatory drugs and prescription vitamin A is used to treat the acne. Other drugs that may be used include: Colchicine Topical corticosteroids Systemic corticosteroids Methotrexate Calcitonin Bisphosphonates Infliximab Etanercept.",
+          "trust_score": 0.0003809817471488673
+        }
+      ]
+    },
+    {
+      "disease": "myasthenia gravis",
+      "drugs": [],
+      "treatment_modalities": [
+        "immunosuppressive medicine",
+        "monoclonal antibodies",
+        "anticholinesterase medicine",
+        "plasmapheresis",
+        "thymectomy"
+      ],
+      "citations": [
+        {
+          "symptom": "limb weakness",
+          "pmid": "38494283",
+          "title": "Myasthenia gravis-Pathophysiology, diagnosis, and treatment.",
+          "year": "2024",
+          "confidence": 0.9313,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7735570378656549,
+          "abstract_snippet": "Myasthenia gravis (MG) is an autoimmune disease characterized by dysfunction of the neuromuscular junction resulting in skeletal muscle weakness. It is equally prevalent in males and females, but debuts at a younger age in females and at an older age in males. Ptosis, diplopia, facial bulbar weaknes"
+        },
+        {
+          "symptom": "difficulty swallowing",
+          "pmid": "30497698",
+          "title": "Clinical features of laryngeal myasthenia gravis: A case series.",
+          "year": "2019",
+          "confidence": 0.9288,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3221822361535027,
+          "abstract_snippet": "Myasthenia gravis (MG) is an autoimmune disease. Dysarthria, dysphagia, and difficulty swallowing as exclusive initial and primary complaints in MG (laryngeal MG) are rare and seldom reported. Here we review and analyze the largest series of laryngeal MG patients. A total of 30 patients with larynge"
+        },
+        {
+          "symptom": "eye muscle weakness",
+          "pmid": "35976295",
+          "title": "Myasthenia gravis in clinical practice.",
+          "year": "2022",
+          "confidence": 0.9196,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8172451029330671,
+          "abstract_snippet": "Myasthenia gravis is largely a treatable disease, but it can result in significant morbidity and even mortality, which can usually be avoided, or at least mitigated, with timely diagnosis and appropriate treatment of the disease. Objective: this review aims to summarize the main practical aspects of"
+        },
+        {
+          "symptom": "speech problems",
+          "pmid": "8059551",
+          "title": "Myasthenia gravis in a young Papuan woman.",
+          "year": "1993",
+          "confidence": 0.909,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7492098617841366,
+          "abstract_snippet": "We report a case of myasthenia gravis in a young Melanesian woman. It is only the second case described from Papua New Guinea and the first in which antibodies to the acetylcholine receptor have been demonstrated. The patient's complaint of occasional dysarthria was initially dismissed as hysterical"
+        },
+        {
+          "symptom": "double vision",
+          "pmid": "38494283",
+          "title": "Myasthenia gravis-Pathophysiology, diagnosis, and treatment.",
+          "year": "2024",
+          "confidence": 0.9083,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7462389301591208,
+          "abstract_snippet": "Myasthenia gravis (MG) is an autoimmune disease characterized by dysfunction of the neuromuscular junction resulting in skeletal muscle weakness. It is equally prevalent in males and females, but debuts at a younger age in females and at an older age in males. Ptosis, diplopia, facial bulbar weaknes"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "myasthenia gravis",
+          "text": "What are the treatments for myasthenia gravis? \n There is no cure for myasthenia gravis, but treatments that can improve muscle weakness and help with symptoms. They include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What is myasthenia gravis? \n Myasthenia gravis, sometimes called MG, is a chronic (long-lasting) disease that causes weakness in your voluntary muscles. The voluntary muscles are the ones that you can control. They include the muscles you use for:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Eye and eyelid movement \n Facial expressions \n Chewing \n Talking \n Swallowing \n Breathing \n Moving your arms and legs",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Myasthenia gravis is a type of autoimmune disease. In autoimmune diseases , your immune system attacks the healthy cells of your organs and tissues by mistake.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What causes myasthenia gravis? \n Myasthenia gravis is caused by an error in how nerve signals are sent to muscles. These signals get blocked at the nerve-muscle junction. This junction is the place where the nerve endings connect with the muscles they control.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Normally, this is how the signals work:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "The signals travel down a nerve that controls movement in the muscle \n The nerve endings release a substance called acetylcholine \n Acetylcholine binds to the muscle tissue at the nerve-muscle junction \n This causes the muscle to contract (move)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "myasthenia gravis",
+          "text": "What are the treatments for myasthenia gravis? \n There is no cure for myasthenia gravis, but treatments that can improve muscle weakness and help with symptoms. They include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What is myasthenia gravis? \n Myasthenia gravis, sometimes called MG, is a chronic (long-lasting) disease that causes weakness in your voluntary muscles. The voluntary muscles are the ones that you can control. They include the muscles you use for:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Eye and eyelid movement \n Facial expressions \n Chewing \n Talking \n Swallowing \n Breathing \n Moving your arms and legs",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Myasthenia gravis is a type of autoimmune disease. In autoimmune diseases , your immune system attacks the healthy cells of your organs and tissues by mistake.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What causes myasthenia gravis? \n Myasthenia gravis is caused by an error in how nerve signals are sent to muscles. These signals get blocked at the nerve-muscle junction. This junction is the place where the nerve endings connect with the muscles they control.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Normally, this is how the signals work:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "The signals travel down a nerve that controls movement in the muscle \n The nerve endings release a substance called acetylcholine \n Acetylcholine binds to the muscle tissue at the nerve-muscle junction \n This causes the muscle to contract (move)",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

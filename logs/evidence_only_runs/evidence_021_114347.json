@@ -1,0 +1,382 @@
+{
+  "symptoms": [
+    "throat irritation",
+    "continuous sneezing",
+    "swollen feet"
+  ],
+  "resolved_symptoms": [
+    "continuous sneezing",
+    "swollen feet",
+    "throat irritation"
+  ],
+  "diseases": [
+    {
+      "disease": "common cold",
+      "drugs": [
+        "paracetamol",
+        "pseudoephedrine",
+        "dextromethorphan"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "cough",
+          "pmid": "16428695",
+          "title": "Cough and the common cold: ACCP evidence-based clinical practice guidelines.",
+          "year": "2006",
+          "confidence": 0.9338,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3406918466328149,
+          "abstract_snippet": "To review the literature on cough and the common cold. MEDLINE was searched through May 2004 for studies published in the English language since 1980 on human subjects using the medical subject heading terms \"cough\" and \"common cold.\" Selected case series and prospective descriptive clinical trials"
+        },
+        {
+          "symptom": "runny nose",
+          "pmid": "28516442",
+          "title": "Vaccines for the common cold.",
+          "year": "2017",
+          "confidence": 0.9226,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7153452270043078,
+          "abstract_snippet": "The common cold is a spontaneously remitting infection of the upper respiratory tract, characterised by a runny nose, nasal congestion, sneezing, cough, malaise, sore throat, and fever (usually &lt; 37.8&#xba; C). The widespread morbidity caused by the common cold worldwide is related to its ubiquit"
+        },
+        {
+          "symptom": "malaise",
+          "pmid": "28516442",
+          "title": "Vaccines for the common cold.",
+          "year": "2017",
+          "confidence": 0.9221,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.4527886673087615,
+          "abstract_snippet": "The common cold is a spontaneously remitting infection of the upper respiratory tract, characterised by a runny nose, nasal congestion, sneezing, cough, malaise, sore throat, and fever (usually &lt; 37.8&#xba; C). The widespread morbidity caused by the common cold worldwide is related to its ubiquit"
+        },
+        {
+          "symptom": "chills",
+          "pmid": "12357708",
+          "title": "Acute cooling of the body surface and the common cold.",
+          "year": "2002",
+          "confidence": 0.9191,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8177818658849196,
+          "abstract_snippet": "There is a widely held belief that acute viral respiratory infections are the result of a \"chill\" and that the onset of a respiratory infection such as the common cold is often associated with acute cooling of the body surface, especially as the result of wet clothes and hair. However, experiments i"
+        },
+        {
+          "symptom": "throat irritation",
+          "pmid": "28650326",
+          "title": "To evaluate the efficacy and safety of CofNovex plus (EMA) syrup.",
+          "year": "2017",
+          "confidence": 0.9118,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8362770369873589,
+          "abstract_snippet": "The cough and cold are very widespread conditions and a common purpose for advice in general practice. Utmost often the sign and symptoms of cough are produced by acute viral airway infection and the course is frequently benign. But it can be converted into bacterial super-infection and can cause ac"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Summary : Sneezing, sore throat, a stuffy nose, coughing -- everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.     What can you do for your cold or cough symptoms? Besides drinking plenty of fluids and getting plenty of rest, you may want to take medicines. There are lots of different cold and cough medicines, and they do different things.       - Nasal decongestants - unclog a stuffy nose    - Cough suppressants - quiet a cough    - Expectorants - loosen mucus so you can cough it up     - Antihistamines - stop runny noses and sneezing    - Pain relievers - ease fever, headaches, and minor aches and pains       Here are some other things to keep in mind about cold and cough medicines. Read labels, because many cold and cough medicines contain the same active ingredients. Taking too much of certain pain relievers can lead to serious injury. Do not give cough medicines to children under four, and don't give aspirin to children. Finally, antibiotics won't help a cold.    Food and Drug Administration",
+          "question": "Do you have information about Cold and Cough Medicines",
+          "score": 0.028423422947525978,
+          "rerank_score": 3.5297164916992188,
+          "trust_score": 0.8141061076373444
+        },
+        {
+          "text": "How might cold urticaria be treated? The treatment of cold urticaria generally consists of patient education, avoiding scenarios that may trigger a reaction (i.e. cold temperatures, cold water), and/or medications. Prophylactic treatment with high-dose antihistimines may be recommended when exposure to cold is expected and can not be avoided. Additionally, affected people are often told to carry an epinephrine autoinjector due to the increased risk of anaphylaxis. Several other therapies have reportedly been used to treat cold urticaria with varying degrees of success. These include: Leukotriene antagonists Ciclosporin Systemic corticosteroids Dapsone Oral antibiotics Synthetic hormones Danazol",
+          "question": "What are the treatments for Cold urticaria ?",
+          "score": 0.03533360734581947,
+          "rerank_score": 1.974189043045044,
+          "trust_score": 0.5046028679722226
+        },
+        {
+          "text": "Sneezing, sore throat, a stuffy nose, coughing - everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.    You can get a cold by touching your eyes or nose after you touch surfaces with cold germs on them. You can also inhale the germs. Symptoms usually begin 2 or 3 days after infection and last 2 to 14 days. Washing your hands and staying away from people with colds will help you avoid colds.     There is no cure for the common cold. For relief, try       -  Getting plenty of rest     -  Drinking fluids    -  Gargling with warm salt water     -  Using cough drops or throat sprays    -  Taking over-the-counter pain or cold medicines       However, do not give aspirin to children. And do not give cough medicine to children under four.     NIH: National Institute of Allergy and Infectious Diseases",
+          "question": "What is (are) Common Cold ?",
+          "score": 0.031066548079252243,
+          "rerank_score": 5.676638603210449,
+          "trust_score": 0.066808507110521
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "Do you have information about Cold and Cough Medicines",
+          "text": "Summary : Sneezing, sore throat, a stuffy nose, coughing -- everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.     What can you do for your cold or cough symptoms? Besides drinking plenty of fluids and getting plenty of rest, you may want to take medicines. There are lots of different cold and cough medicines, and they do different things.       - Nasal decongestants - unclog a stuffy nose    - Cough suppressants - quiet a cough    - Expectorants - loosen mucus so you can cough it up     - Antihistamines - stop runny noses and sneezing    - Pain relievers - ease fever, headaches, and minor aches and pains       Here are some other things to keep in mind about cold and cough medicines. Read labels, because many cold and cough medicines contain the same active ingredients. Taking too much of certain pain relievers can lead to serious injury. Do not give cough medicines to children under four, and don't give aspirin to children. Finally, antibiotics won't help a cold.    Food and Drug Administration",
+          "trust_score": 0.8141061076373444
+        },
+        {
+          "question": "What are the treatments for Cold urticaria ?",
+          "text": "How might cold urticaria be treated? The treatment of cold urticaria generally consists of patient education, avoiding scenarios that may trigger a reaction (i.e. cold temperatures, cold water), and/or medications. Prophylactic treatment with high-dose antihistimines may be recommended when exposure to cold is expected and can not be avoided. Additionally, affected people are often told to carry an epinephrine autoinjector due to the increased risk of anaphylaxis. Several other therapies have reportedly been used to treat cold urticaria with varying degrees of success. These include: Leukotriene antagonists Ciclosporin Systemic corticosteroids Dapsone Oral antibiotics Synthetic hormones Danazol",
+          "trust_score": 0.5046028679722226
+        },
+        {
+          "question": "What is (are) Common Cold ?",
+          "text": "Sneezing, sore throat, a stuffy nose, coughing - everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds.    You can get a cold by touching your eyes or nose after you touch surfaces with cold germs on them. You can also inhale the germs. Symptoms usually begin 2 or 3 days after infection and last 2 to 14 days. Washing your hands and staying away from people with colds will help you avoid colds.     There is no cure for the common cold. For relief, try       -  Getting plenty of rest     -  Drinking fluids    -  Gargling with warm salt water     -  Using cough drops or throat sprays    -  Taking over-the-counter pain or cold medicines       However, do not give aspirin to children. And do not give cough medicine to children under four.     NIH: National Institute of Allergy and Infectious Diseases",
+          "trust_score": 0.066808507110521
+        }
+      ]
+    },
+    {
+      "disease": "allergy",
+      "drugs": [
+        "cetirizine",
+        "loratadine",
+        "diphenhydramine"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "continuous sneezing",
+          "pmid": "28474799",
+          "title": "Non-allergic rhinitis: Position paper of the European Academy of Allergy and Clinical Immunology.",
+          "year": "2017",
+          "confidence": 0.9045,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8093306537350312,
+          "abstract_snippet": "This EAACI position paper aims at providing a state-of-the-art overview on nonallergic rhinitis (NAR). A significant number of patients suffering from persistent rhinitis are defined as nonallergic noninfectious rhinitis (NANIR) patients, often denominated in short as having NAR. NAR is defined as a"
+        },
+        {
+          "symptom": "shivering",
+          "pmid": "24270900",
+          "title": "Effect of parecoxib sodium on postoperative shivering: a randomised, double-blind clinical trial.",
+          "year": "2014",
+          "confidence": 0.8887,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6763138013115488,
+          "abstract_snippet": "Postoperative shivering is one of the most common complications in patients recovering from general anaesthesia. Although a variety of pharmacological therapies have been used to control postoperative shivering, no ideal drug has been found to date. The aim of this study was to compare the efficacy"
+        },
+        {
+          "symptom": "watering from eyes",
+          "pmid": "34418402",
+          "title": "Myelin-oligodendrocyte glycoprotein antibody-associated disease.",
+          "year": "2021",
+          "confidence": 0.8739,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7066773048676332,
+          "abstract_snippet": "Myelin-oligodendrocyte glycoprotein antibody-associated disease (MOGAD) is a recently identified autoimmune disorder that presents in both adults and children as CNS demyelination. Although there are clinical phenotypic overlaps between MOGAD, multiple sclerosis, and aquaporin-4 antibody-associated"
+        },
+        {
+          "symptom": "chills",
+          "pmid": "32663912",
+          "title": "An mRNA Vaccine against SARS-CoV-2 - Preliminary Report.",
+          "year": "2020",
+          "confidence": 0.839,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.78026311408671,
+          "abstract_snippet": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in late 2019 and spread globally, prompting an international effort to accelerate development of a vaccine. The candidate vaccine mRNA-1273 encodes the stabilized prefusion SARS-CoV-2 spike protein. We conducted a phase 1, dose"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "An allergy is a reaction by your immune system to something that does not bother most other people. People who have allergies often are sensitive to more than one thing. Substances that often cause reactions are       - Pollen    - Dust mites    - Mold spores    - Pet dander    - Food    - Insect stings    - Medicines       Normally, your immune system fights germs. It is your body's defense system. In most allergic reactions, however, it is responding to a false alarm. Genes and the environment probably both play a role.    Allergies can cause a variety of symptoms such as a runny nose, sneezing, itching, rashes, swelling, or asthma. Allergies can range from minor to severe. Anaphylaxis is a severe reaction that can be life-threatening. Doctors use skin and blood tests to diagnose allergies. Treatments include medicines, allergy shots, and avoiding the substances that cause the reactions.    NIH: National Institute of Allergy and Infectious Diseases",
+          "question": "What is (are) Allergy ?",
+          "score": 0.04559958726167679,
+          "rerank_score": 9.656831741333008,
+          "trust_score": 0.7373893430924824
+        },
+        {
+          "text": "Trimethoprim/sulfamethoxazole (TMP/SMX), sold under the trade names Bactrim*, Septra*, and Cotrim*, is the usual therapy for Cyclospora infection. No highly effective alternative antibiotic regimen has been identified yet for patients who do not respond to the standard treatment or have a sulfa allergy.\n    \nMore on: Resources for Health Professionals: Treatment\n    \nMost people who have healthy immune systems will recover without treatment. If not treated, the illness may last for a few days to a month or longer. Symptoms may seem to go away and then return one or more times (relapse). Anti-diarrheal medicine may help reduce diarrhea, but a health care provider should be consulted before such medicine is taken. People who are in poor health or who have weakened immune systems may be at higher risk for severe or prolonged illness.\n    \nMore on: Resources for Health Professionals FAQs\n    \n* Use of trade names is for identification only and does not imply endorsement by the Public Health Service or by the U.S. Department of Health and Human Services.",
+          "question": "What are the treatments for Parasites - Cyclosporiasis (Cyclospora Infection) ?",
+          "score": 0.02750931866466999,
+          "rerank_score": 1.9252057075500488,
+          "trust_score": 0.49337736292559764
+        },
+        {
+          "text": "Food allergy is an abnormal response to a food triggered by your body's immune system.    In adults, the foods that most often trigger allergic reactions include fish, shellfish, peanuts, and tree nuts, such as walnuts. Problem foods for children can include eggs, milk, peanuts, tree nuts, soy, and wheat.    The allergic reaction may be mild. In rare cases it can cause a severe reaction called anaphylaxis. Symptoms of food allergy include       - Itching or swelling in your mouth    - Vomiting, diarrhea, or abdominal cramps and pain    - Hives or eczema    - Tightening of the throat and trouble breathing    - Drop in blood pressure       Your health care provider may use a detailed history, elimination diet, and skin and blood tests to diagnose a food allergy.    When you have food allergies, you must be prepared to treat an accidental exposure. Wear a medical alert bracelet or necklace, and carry an auto-injector device containing epinephrine (adrenaline).    You can only prevent the symptoms of food allergy by avoiding the food. After you and your health care provider have identified the foods to which you are sensitive, you must remove them from your diet.    NIH: National Institute of Allergy and Infectious Diseases",
+          "question": "What is (are) Food Allergy ?",
+          "score": 0.034854717552661896,
+          "rerank_score": 6.209548473358154,
+          "trust_score": 0.10415677728798428
+        },
+        {
+          "text": "Summary : Healthcare workers are exposed to many job hazards. These can include        -  Infections    - Needle injuries    -  Back injuries    -  Allergy-causing substances    -  Violence    -  Stress       Follow good job safety and injury prevention practices. They can reduce your risk of health problems. Use protective equipment, follow infection control guidelines, learn the right way to lift heavy objects, and find ways to manage stress.     National Institute for Occupational Safety and Health",
+          "question": "Do you have information about Occupational Health for Healthcare Providers",
+          "score": 0.01849551312625408,
+          "rerank_score": -1.7722806930541992,
+          "trust_score": 0.03176586535173599
+        },
+        {
+          "text": "These resources address the diagnosis or management of allergic asthma:  - American Academy of Allergy Asthma and Immunology: Asthma Treatment and Management  - Genetic Testing Registry: Asthma, atopic  - Genetic Testing Registry: Asthma, susceptibility to   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+          "question": "What are the treatments for allergic asthma ?",
+          "score": 0.025289511308073997,
+          "rerank_score": -3.227888345718384,
+          "trust_score": 0.008161866877073147
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What is (are) Allergy ?",
+          "text": "An allergy is a reaction by your immune system to something that does not bother most other people. People who have allergies often are sensitive to more than one thing. Substances that often cause reactions are       - Pollen    - Dust mites    - Mold spores    - Pet dander    - Food    - Insect stings    - Medicines       Normally, your immune system fights germs. It is your body's defense system. In most allergic reactions, however, it is responding to a false alarm. Genes and the environment probably both play a role.    Allergies can cause a variety of symptoms such as a runny nose, sneezing, itching, rashes, swelling, or asthma. Allergies can range from minor to severe. Anaphylaxis is a severe reaction that can be life-threatening. Doctors use skin and blood tests to diagnose allergies. Treatments include medicines, allergy shots, and avoiding the substances that cause the reactions.    NIH: National Institute of Allergy and Infectious Diseases",
+          "trust_score": 0.7373893430924824
+        },
+        {
+          "question": "What are the treatments for Parasites - Cyclosporiasis (Cyclospora Infection) ?",
+          "text": "Trimethoprim/sulfamethoxazole (TMP/SMX), sold under the trade names Bactrim*, Septra*, and Cotrim*, is the usual therapy for Cyclospora infection. No highly effective alternative antibiotic regimen has been identified yet for patients who do not respond to the standard treatment or have a sulfa allergy.\n    \nMore on: Resources for Health Professionals: Treatment\n    \nMost people who have healthy immune systems will recover without treatment. If not treated, the illness may last for a few days to a month or longer. Symptoms may seem to go away and then return one or more times (relapse). Anti-diarrheal medicine may help reduce diarrhea, but a health care provider should be consulted before such medicine is taken. People who are in poor health or who have weakened immune systems may be at higher risk for severe or prolonged illness.\n    \nMore on: Resources for Health Professionals FAQs\n    \n* Use of trade names is for identification only and does not imply endorsement by the Public Health Service or by the U.S. Department of Health and Human Services.",
+          "trust_score": 0.49337736292559764
+        },
+        {
+          "question": "What is (are) Food Allergy ?",
+          "text": "Food allergy is an abnormal response to a food triggered by your body's immune system.    In adults, the foods that most often trigger allergic reactions include fish, shellfish, peanuts, and tree nuts, such as walnuts. Problem foods for children can include eggs, milk, peanuts, tree nuts, soy, and wheat.    The allergic reaction may be mild. In rare cases it can cause a severe reaction called anaphylaxis. Symptoms of food allergy include       - Itching or swelling in your mouth    - Vomiting, diarrhea, or abdominal cramps and pain    - Hives or eczema    - Tightening of the throat and trouble breathing    - Drop in blood pressure       Your health care provider may use a detailed history, elimination diet, and skin and blood tests to diagnose a food allergy.    When you have food allergies, you must be prepared to treat an accidental exposure. Wear a medical alert bracelet or necklace, and carry an auto-injector device containing epinephrine (adrenaline).    You can only prevent the symptoms of food allergy by avoiding the food. After you and your health care provider have identified the foods to which you are sensitive, you must remove them from your diet.    NIH: National Institute of Allergy and Infectious Diseases",
+          "trust_score": 0.10415677728798428
+        },
+        {
+          "question": "Do you have information about Occupational Health for Healthcare Providers",
+          "text": "Summary : Healthcare workers are exposed to many job hazards. These can include        -  Infections    - Needle injuries    -  Back injuries    -  Allergy-causing substances    -  Violence    -  Stress       Follow good job safety and injury prevention practices. They can reduce your risk of health problems. Use protective equipment, follow infection control guidelines, learn the right way to lift heavy objects, and find ways to manage stress.     National Institute for Occupational Safety and Health",
+          "trust_score": 0.03176586535173599
+        },
+        {
+          "question": "What are the treatments for allergic asthma ?",
+          "text": "These resources address the diagnosis or management of allergic asthma:  - American Academy of Allergy Asthma and Immunology: Asthma Treatment and Management  - Genetic Testing Registry: Asthma, atopic  - Genetic Testing Registry: Asthma, susceptibility to   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+          "trust_score": 0.008161866877073147
+        }
+      ]
+    },
+    {
+      "disease": "diabetic heart disease",
+      "drugs": [],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "swollen ankles",
+          "pmid": "39382008",
+          "title": "Diabetic Charcot neuroarthropathy: A threat to both limb and life.",
+          "year": "2025",
+          "confidence": 0.9035,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7141565440866993,
+          "abstract_snippet": "Diabetic Charcot neuroarthropathy (DCN), first described in 1936, occurs in less than 1% of diabetic patients, but in those diabetic subjects with distal symmetrical polyneuropathy, the overall incidence increases to 30% and the risk is even greater in those with type 1 diabetes. Factors that precip"
+        },
+        {
+          "symptom": "shortness of breath",
+          "pmid": "32749493",
+          "title": "Heart Failure With Reduced Ejection Fraction: A Review.",
+          "year": "2020",
+          "confidence": 0.8993,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7954952246832675,
+          "abstract_snippet": "Worldwide, the burden of heart failure has increased to an estimated 23 million people, and approximately 50% of cases are HF with reduced ejection fraction (HFrEF). Heart failure is a clinical syndrome characterized by dyspnea or exertional limitation due to impairment of ventricular filling or eje"
+        },
+        {
+          "symptom": "swollen feet",
+          "pmid": "39382008",
+          "title": "Diabetic Charcot neuroarthropathy: A threat to both limb and life.",
+          "year": "2025",
+          "confidence": 0.8961,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7316327247832095,
+          "abstract_snippet": "Diabetic Charcot neuroarthropathy (DCN), first described in 1936, occurs in less than 1% of diabetic patients, but in those diabetic subjects with distal symmetrical polyneuropathy, the overall incidence increases to 30% and the risk is even greater in those with type 1 diabetes. Factors that precip"
+        },
+        {
+          "symptom": "fainting",
+          "pmid": "33886735",
+          "title": "Dysautonomia: A Forgotten Condition - Part 1.",
+          "year": "2021",
+          "confidence": 0.8904,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6612809779825756,
+          "abstract_snippet": "Dysautonomia covers a range of clinical conditions with different characteristics and prognoses. They are classified as Reflex Syndromes, Postural Orthostatic Tachycardia Syndrome (POTS), Chronic Fatigue Syndrome, Neurogenic Orthostatic Hypotension (nOH) and Carotid Sinus Hypersensitivity Syndrome."
+        },
+        {
+          "symptom": "dizziness",
+          "pmid": "35029940",
+          "title": "Orthostatic Hypotension: A Practical Approach.",
+          "year": "2022",
+          "confidence": 0.8807,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.4362904262277319,
+          "abstract_snippet": "Orthostatic hypotension is defined as a decrease in blood pressure of 20 mm Hg or more systolic or 10 mm Hg or more diastolic within three minutes of standing from the supine position or on assuming a head-up position of at least 60 degrees during tilt table testing. Symptoms are due to inadequate p"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "diabetic heart disease",
+          "text": "What is diabetes? \n Diabetes is a disease in which your blood glucose, or blood sugar , levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells. \n With type 1 diabetes , your body doesn't make insulin. With type 2 diabetes , your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood sugar levels.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "What is diabetic heart disease? \n Diabetic heart disease is a term for heart disease in people who have diabetes. If you have diabetes, you are much more likely to develop heart disease or have a stroke than people who don't have diabetes. And you may start having these problems at a younger age. \n Over time, the effects of high blood sugar from diabetes can include damage to the blood vessels and nerves in your heart. This damage increases your chance of developing heart diseases, including:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Coronary artery disease (CAD) . It happens slowly as a sticky material called plaque builds up in the arteries that supply your heart muscle with blood. \n Heart failure . With this condition, your heart can't pump enough oxygen-rich blood to meet the needs of your body. \n Cardiomyopathy . This is a group of diseases in which the heart muscle may become thick or stiff.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Who is more likely to develop diabetic heart disease? \n Diabetes puts you at serious risk for heart disease. It also makes you more likely to develop other conditions that raise your risk even more, including:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "High blood pressure \n High blood levels of LDL &quot;bad&quot; cholesterol \n High triglycerides (a type of fat in your blood) with low blood levels of HDL &quot;good&quot; cholesterol",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Your risk for heart disease is also higher if you",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Are male \n Smoke \n Have obesity \n Have too much belly fat around your waist, even though you're at a healthy weight:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "For men, that's a waist more than 40 inches \n For women, that's a waist more than 35 inches",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/diabeticheartdisease.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "diabetic heart disease",
+          "text": "What is diabetes? \n Diabetes is a disease in which your blood glucose, or blood sugar , levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells. \n With type 1 diabetes , your body doesn't make insulin. With type 2 diabetes , your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood sugar levels.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "What is diabetic heart disease? \n Diabetic heart disease is a term for heart disease in people who have diabetes. If you have diabetes, you are much more likely to develop heart disease or have a stroke than people who don't have diabetes. And you may start having these problems at a younger age. \n Over time, the effects of high blood sugar from diabetes can include damage to the blood vessels and nerves in your heart. This damage increases your chance of developing heart diseases, including:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Coronary artery disease (CAD) . It happens slowly as a sticky material called plaque builds up in the arteries that supply your heart muscle with blood. \n Heart failure . With this condition, your heart can't pump enough oxygen-rich blood to meet the needs of your body. \n Cardiomyopathy . This is a group of diseases in which the heart muscle may become thick or stiff.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Who is more likely to develop diabetic heart disease? \n Diabetes puts you at serious risk for heart disease. It also makes you more likely to develop other conditions that raise your risk even more, including:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "High blood pressure \n High blood levels of LDL &quot;bad&quot; cholesterol \n High triglycerides (a type of fat in your blood) with low blood levels of HDL &quot;good&quot; cholesterol",
+          "trust_score": 1.0
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Your risk for heart disease is also higher if you",
+          "trust_score": 1.0
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "Are male \n Smoke \n Have obesity \n Have too much belly fat around your waist, even though you're at a healthy weight:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "diabetic heart disease",
+          "text": "For men, that's a waist more than 40 inches \n For women, that's a waist more than 35 inches",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

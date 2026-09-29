@@ -1,0 +1,456 @@
+{
+  "symptoms": [
+    "sudden numbness",
+    "swollen neck glands",
+    "short sleep periods"
+  ],
+  "resolved_symptoms": [
+    "short sleep periods",
+    "sudden numbness",
+    "swollen neck glands"
+  ],
+  "diseases": [
+    {
+      "disease": "insomnia",
+      "drugs": [],
+      "treatment_modalities": [
+        "cognitive behavioral therapy",
+        "medicines",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "difficulty falling asleep",
+          "pmid": "41475385",
+          "title": "Pediatric Insomnia.",
+          "year": "2026",
+          "confidence": 0.9348,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7322465773008461,
+          "abstract_snippet": "Pediatric insomnia is a common condition that can significantly impact a patient's well-being. It typically involves difficulty falling asleep, staying asleep, or both. The prevalence of insomnia is notably higher among children with autism spectrum disorder (ASD) or attention-deficit hyperactivity"
+        },
+        {
+          "symptom": "early waking",
+          "pmid": "29852897",
+          "title": "Insomnia in the Elderly: A Review.",
+          "year": "2018",
+          "confidence": 0.912,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7779010229642179,
+          "abstract_snippet": "Insomnia remains one of the most common sleep disorders encountered in the geriatric clinic population, frequently characterized by the subjective complaint of difficulty falling or maintaining sleep, or nonrestorative sleep, producing significant daytime symptoms including difficulty concentrating"
+        },
+        {
+          "symptom": "short sleep periods",
+          "pmid": "38016484",
+          "title": "The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023.",
+          "year": "2023",
+          "confidence": 0.9069,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7823551530615716,
+          "abstract_snippet": "Progress in the field of insomnia since 2017 necessitated this update of the European Insomnia Guideline. Recommendations for the diagnostic procedure for insomnia and its comorbidities are: clinical interview (encompassing sleep and medical history); the use of sleep questionnaires and diaries (and"
+        },
+        {
+          "symptom": "frequent night waking",
+          "pmid": "31738588",
+          "title": "Insomnia Symptoms and Suicide-Related Ideation in U.S. Army Service Members.",
+          "year": "2020",
+          "confidence": 0.8831,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.73973667588599,
+          "abstract_snippet": "<b>Background</b>: Insomnia has been identified as a key risk factor for suicide, though most studies have been limited to global measures of these constructs. The aim of the present study was to evaluate the link between insomnia symptoms and five different aspects of suicide-related ideation. <b>P"
+        },
+        {
+          "symptom": "feeling unrested",
+          "pmid": "29979840",
+          "title": "Association between allergic rhinitis and poor sleep parameters in U.S. adults.",
+          "year": "2018",
+          "confidence": 0.8589,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8169299426494204,
+          "abstract_snippet": "Evidence suggests relationships between allergic rhinitis (AR) and poor sleep parameters, but population-based studies in the United States are lacking. This study investigates the relationship between AR and sleep parameters in a representative sample of U.S. adults. Cross-sectional study of 5563 p"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/insomnia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "insomnia",
+          "text": "What are the treatments for insomnia? \n Treatments include lifestyle changes, counseling, and medicines: \n Lifestyle changes, including good sleep habits , often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep. \n A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia \n Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "If your insomnia is the symptom or side effect of another problem, it's important to treat that problem (if possible).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What is insomnia? \n Insomnia is a common sleep disorder . If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the types of insomnia? \n Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as caffeine , tobacco, and alcohol can also be a cause.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "Who is at risk for insomnia? \n Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you: \n Have a lot of stress \n Are depressed or have other emotional distress, such as divorce or death of a spouse \n Have a lower income \n Work at night or have frequent major shifts in your work hours \n Travel long distances with time changes \n Have an inactive lifestyle \n Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "insomnia",
+          "text": "What are the symptoms of insomnia? \n Symptoms of insomnia include: \n Lying awake for a long time before you fall asleep \n Sleeping for only short periods \n Being awake for much of the night \n Feeling as if you haven't slept at all \n Waking up too early",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "tonsillitis",
+      "drugs": [],
+      "treatment_modalities": [
+        "antibiotics"
+      ],
+      "citations": [
+        {
+          "symptom": "fever",
+          "pmid": "36689967",
+          "title": "Tonsillitis and Tonsilloliths: Diagnosis and Management.",
+          "year": "2023",
+          "confidence": 0.9265,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7422194133722712,
+          "abstract_snippet": "Tonsillitis, or inflammation of the tonsils, makes up approximately 0.4% of outpatient visits in the United States. Tonsillitis is caused by a viral infection in 70% to 95% of cases. However, bacterial infections caused by group A beta-hemolytic streptococcus (Streptococcus pyogenes) account for ton"
+        },
+        {
+          "symptom": "difficulty swallowing",
+          "pmid": "40840949",
+          "title": "Prevalence and clinical features of laryngopharyngeal reflux in adults with chronic tonsillitis.",
+          "year": "2025",
+          "confidence": 0.9015,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.695667936337384,
+          "abstract_snippet": "To assess the prevalence and clinical presentation of laryngopharyngeal reflux (LPR) among adults with chronic tonsillitis and examine how effective reflux treatments are for these patients. A prospective observational study was conducted at a tertiary referral hospital from March 2024 to January 20"
+        },
+        {
+          "symptom": "swollen tonsils",
+          "pmid": "35784692",
+          "title": "A Five-Dimensional Network Meta-Analysis of Chinese Herbal Injections for Treating Acute Tonsillitis Combined With Western Medicine.",
+          "year": "2022",
+          "confidence": 0.8964,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.710183090105411,
+          "abstract_snippet": "<b>Background:</b> Acute tonsillitis has high morbidity. Chinese herbal injections (CHIs) were reported to be useful in treating acute tonsillitis and might reduce the probability of antibiotic resistance. Nevertheless, the optimal strategy for combining CHIs with western medicine (WM) to treat acut"
+        },
+        {
+          "symptom": "sore throat",
+          "pmid": "24710788",
+          "title": "[Tonsillitis and sore throat in childhood].",
+          "year": "2014",
+          "confidence": 0.886,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.29598837117026855,
+          "abstract_snippet": "Surgery of the tonsils is still one of the most frequent procedures during childhood. Due to a series of fatal outcome after hemorrhage in children in Austria in 2006, the standards and indications for tonsillectomy slowly change in Germany since that. However, there exist no national guidelines and"
+        },
+        {
+          "symptom": "white coating on tonsils",
+          "pmid": "12830756",
+          "title": "[Diagnosis of streptococcal tonsillitis in the pediatric department with the help of antigen detection test].",
+          "year": "2003",
+          "confidence": 0.8745,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7888298412515813,
+          "abstract_snippet": "The aim was to examine the validity in the paediatric hospital department of an antigen detection test (ADT) for the diagnosis of streptococcal tonsillitis. A prospective multicenter study including three Danish paediatric hospital departments was performed from May 1, 1998 to April 30, 1999. In 353"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "tonsillitis",
+          "text": "What are the treatments for tonsillitis? \n Treatment for tonsillitis depends on the cause. If the cause is a virus, there is no medicine to treat it. If the cause is a bacterial infection, such as strep throat, your child will need to take antibiotics . It is important for your child to finish the antibiotics even if he or she feels better. If treatment stops too soon, some bacteria may survive and re-infect your child.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are tonsils? \n Tonsils are lumps of tissue at the back of the throat. There are two of them, one on each side. Along with the adenoids , tonsils are part of the lymphatic system. The lymphatic system clears away infection and keeps body fluids in balance. Tonsils and adenoids work by trapping the germs coming in through the mouth and nose.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What is tonsillitis? \n Tonsillitis is an inflammation (swelling) of the tonsils. Sometimes along with tonsillitis, the adenoids are also swollen.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What causes tonsillitis? \n The cause of tonsillitis is usually a viral infection. Bacterial infections such as strep throat can also cause tonsillitis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Who is at risk for tonsillitis? \n Tonsillitis is most common in children over age two. Almost every child in the United States gets it at least once. Tonsillitis caused by bacteria is more common in kids ages 5-15. Tonsillitis caused by a virus is more common in younger children.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Adults can get tonsillitis, but it is not very common.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Is tonsillitis contagious? \n Although tonsillitis is not contagious, the viruses and bacteria that cause it are contagious. Frequent handwashing can help prevent spreading or catching the infections.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are the symptoms of tonsillitis? \n The symptoms of tonsillitis include: \n A sore throat , which may be severe \n Red, swollen tonsils \n Trouble swallowing \n A white or yellow coating on the tonsils \n Swollen glands in the neck \n Fever \n Bad breath",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "tonsillitis",
+          "text": "What are the treatments for tonsillitis? \n Treatment for tonsillitis depends on the cause. If the cause is a virus, there is no medicine to treat it. If the cause is a bacterial infection, such as strep throat, your child will need to take antibiotics . It is important for your child to finish the antibiotics even if he or she feels better. If treatment stops too soon, some bacteria may survive and re-infect your child.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are tonsils? \n Tonsils are lumps of tissue at the back of the throat. There are two of them, one on each side. Along with the adenoids , tonsils are part of the lymphatic system. The lymphatic system clears away infection and keeps body fluids in balance. Tonsils and adenoids work by trapping the germs coming in through the mouth and nose.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What is tonsillitis? \n Tonsillitis is an inflammation (swelling) of the tonsils. Sometimes along with tonsillitis, the adenoids are also swollen.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What causes tonsillitis? \n The cause of tonsillitis is usually a viral infection. Bacterial infections such as strep throat can also cause tonsillitis.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Who is at risk for tonsillitis? \n Tonsillitis is most common in children over age two. Almost every child in the United States gets it at least once. Tonsillitis caused by bacteria is more common in kids ages 5-15. Tonsillitis caused by a virus is more common in younger children.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Adults can get tonsillitis, but it is not very common.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Is tonsillitis contagious? \n Although tonsillitis is not contagious, the viruses and bacteria that cause it are contagious. Frequent handwashing can help prevent spreading or catching the infections.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are the symptoms of tonsillitis? \n The symptoms of tonsillitis include: \n A sore throat , which may be severe \n Red, swollen tonsils \n Trouble swallowing \n A white or yellow coating on the tonsils \n Swollen glands in the neck \n Fever \n Bad breath",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "ischemic stroke",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "blood thinners",
+        "thrombolytics",
+        "rehabilitation",
+        "stenting"
+      ],
+      "citations": [
+        {
+          "symptom": "dizziness",
+          "pmid": "35367974",
+          "title": "Vascular vertigo and dizziness: Diagnostic criteria.",
+          "year": "2022",
+          "confidence": 0.9149,
+          "source_credibility": 0.002020106195627142,
+          "structural_confidence": 0.8106642077561411,
+          "abstract_snippet": "This paper presents diagnostic criteria for vascular vertigo and dizziness as formulated by the Committee for the Classification of Vestibular Disorders of the B&#xe1;r&#xe1;ny Society. The classification includes vertigo/dizziness due to stroke or transient ischemic attack as well as isolated labyr"
+        },
+        {
+          "symptom": "loss of balance",
+          "pmid": "39930815",
+          "title": "The role of astrocyte metabolic reprogramming in ischemic stroke (Review).",
+          "year": "2025",
+          "confidence": 0.902,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3323229747312098,
+          "abstract_snippet": "Ischemic stroke, a leading cause of disability and mortality worldwide, is characterized by the sudden loss of blood flow in specific area of the brain. Intravenous thrombolysis with recombinant tissue plasminogen activator is the only approved pharmacological treatment for acute ischemic stroke; ho"
+        },
+        {
+          "symptom": "speech difficulty",
+          "pmid": "39840204",
+          "title": "Clinical Insights on My Acute Ischemic Stroke Caused by a Carotid Web.",
+          "year": "2024",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.20803001194649604,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

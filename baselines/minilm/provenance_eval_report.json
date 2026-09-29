@@ -1,0 +1,13 @@
+{
+  "coverage": {
+    "total_edges": 321,
+    "enriched_edges": 266,
+    "coverage_rate_pct": 82.87
+  },
+  "precision_at_50": {
+    "error": "No annotations recorded."
+  },
+  "hallucination_reduction": {
+    "error": "Run scripts/run_full_evaluation.py twice:\n  1. Before enrichment \u2192 logs/baseline_metrics.json\n  2. After enrichment  \u2192 logs/enhanced_metrics.json"
+  }
+}

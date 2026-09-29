@@ -1,0 +1,273 @@
+{
+  "external_source": "Rotmensch et al. 2017 (github.com/clinicalml/HealthKnowledgeGraph)",
+  "n_external_diseases": 156,
+  "n_project_diseases": 125,
+  "n_overlapping_diseases": 27,
+  "n_edges_checked": 210,
+  "n_corroborated": 60,
+  "corroboration_rate": 0.2857142857142857,
+  "per_disease": [
+    {
+      "disease": "arthritis",
+      "n_project_symptoms": 5,
+      "n_corroborated": 0,
+      "corroboration_rate": 0.0
+    },
+    {
+      "disease": "bipolar disorder",
+      "n_project_symptoms": 7,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.14285714285714285
+    },
+    {
+      "disease": "breast cancer",
+      "n_project_symptoms": 7,
+      "n_corroborated": 0,
+      "corroboration_rate": 0.0
+    },
+    {
+      "disease": "cervical cancer",
+      "n_project_symptoms": 4,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.25
+    },
+    {
+      "disease": "chicken pox",
+      "n_project_symptoms": 11,
+      "n_corroborated": 3,
+      "corroboration_rate": 0.2727272727272727
+    },
+    {
+      "disease": "common cold",
+      "n_project_symptoms": 17,
+      "n_corroborated": 7,
+      "corroboration_rate": 0.4117647058823529
+    },
+    {
+      "disease": "dementia",
+      "n_project_symptoms": 5,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.2
+    },
+    {
+      "disease": "endometriosis",
+      "n_project_symptoms": 2,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.5
+    },
+    {
+      "disease": "fibromyalgia",
+      "n_project_symptoms": 4,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.25
+    },
+    {
+      "disease": "heart attack",
+      "n_project_symptoms": 4,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.25
+    },
+    {
+      "disease": "hepatitis a",
+      "n_project_symptoms": 11,
+      "n_corroborated": 5,
+      "corroboration_rate": 0.45454545454545453
+    },
+    {
+      "disease": "hepatitis b",
+      "n_project_symptoms": 12,
+      "n_corroborated": 3,
+      "corroboration_rate": 0.25
+    },
+    {
+      "disease": "hepatitis c",
+      "n_project_symptoms": 6,
+      "n_corroborated": 2,
+      "corroboration_rate": 0.3333333333333333
+    },
+    {
+      "disease": "hyperthyroidism",
+      "n_project_symptoms": 11,
+      "n_corroborated": 3,
+      "corroboration_rate": 0.2727272727272727
+    },
+    {
+      "disease": "hypoglycemia",
+      "n_project_symptoms": 12,
+      "n_corroborated": 3,
+      "corroboration_rate": 0.25
+    },
+    {
+      "disease": "hypothyroidism",
+      "n_project_symptoms": 13,
+      "n_corroborated": 4,
+      "corroboration_rate": 0.3076923076923077
+    },
+    {
+      "disease": "lyme disease",
+      "n_project_symptoms": 7,
+      "n_corroborated": 4,
+      "corroboration_rate": 0.5714285714285714
+    },
+    {
+      "disease": "migraine",
+      "n_project_symptoms": 9,
+      "n_corroborated": 3,
+      "corroboration_rate": 0.3333333333333333
+    },
+    {
+      "disease": "myasthenia gravis",
+      "n_project_symptoms": 9,
+      "n_corroborated": 3,
+      "corroboration_rate": 0.3333333333333333
+    },
+    {
+      "disease": "pneumonia",
+      "n_project_symptoms": 11,
+      "n_corroborated": 5,
+      "corroboration_rate": 0.45454545454545453
+    },
+    {
+      "disease": "post traumatic stress disorder",
+      "n_project_symptoms": 2,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.5
+    },
+    {
+      "disease": "prostate cancer",
+      "n_project_symptoms": 6,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.16666666666666666
+    },
+    {
+      "disease": "psoriasis",
+      "n_project_symptoms": 6,
+      "n_corroborated": 2,
+      "corroboration_rate": 0.3333333333333333
+    },
+    {
+      "disease": "sepsis",
+      "n_project_symptoms": 11,
+      "n_corroborated": 3,
+      "corroboration_rate": 0.2727272727272727
+    },
+    {
+      "disease": "stroke",
+      "n_project_symptoms": 9,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.1111111111111111
+    },
+    {
+      "disease": "thyroid cancer",
+      "n_project_symptoms": 5,
+      "n_corroborated": 1,
+      "corroboration_rate": 0.2
+    },
+    {
+      "disease": "urinary tract infection",
+      "n_project_symptoms": 4,
+      "n_corroborated": 0,
+      "corroboration_rate": 0.0
+    }
+  ],
+  "uncovered_diseases": [
+    "(vertigo) paroymsal positional vertigo",
+    "acne",
+    "acute flaccid myelitis",
+    "acute lymphocytic leukemia",
+    "acute myeloid leukemia",
+    "aids",
+    "alcoholic hepatitis",
+    "allergy",
+    "anal cancer",
+    "anal disorders",
+    "anxiety",
+    "aplastic anemia",
+    "blood clots",
+    "breast diseases",
+    "bronchial asthma",
+    "cancer",
+    "cervical spondylosis",
+    "chagas disease",
+    "childhood leukemia",
+    "chronic bronchitis",
+    "chronic cholestasis",
+    "chronic lymphocytic leukemia",
+    "chronic myeloid leukemia",
+    "colorectal cancer",
+    "crohns disease",
+    "cryptosporidiosis",
+    "delirium",
+    "dengue",
+    "diabetes",
+    "diabetic heart disease",
+    "dimorphic hemmorhoids(piles)",
+    "dislocated shoulder",
+    "diverticulosis and diverticulitis",
+    "drug reaction",
+    "ebola",
+    "endocarditis",
+    "enlarged prostate (bph)",
+    "flu",
+    "fractures",
+    "fungal infection",
+    "gastroenteritis",
+    "gerd",
+    "head and neck cancer",
+    "head lice",
+    "heart valve diseases",
+    "hemophilia",
+    "hemorrhagic stroke",
+    "hepatitis d",
+    "hepatitis e",
+    "hidradenitis suppurativa",
+    "histoplasmosis",
+    "hiv",
+    "hodgkin lymphoma",
+    "hypertension",
+    "impetigo",
+    "infectious mononucleosis",
+    "insomnia",
+    "ischemic stroke",
+    "jaundice",
+    "kaposi sarcoma",
+    "kawasaki disease",
+    "leukemia",
+    "leukodystrophies",
+    "lewy body dementia",
+    "malaria",
+    "menopause",
+    "menstruation",
+    "mitral valve prolapse",
+    "mpox",
+    "myalgic encephalomyelitis chronic fatigue syndrome",
+    "obsessive compulsive disorder",
+    "oral cancer",
+    "osteoarthristis",
+    "ovarian disorders",
+    "panic disorder",
+    "paralysis (brain hemorrhage)",
+    "pelvic inflammatory disease",
+    "peptic ulcer diseae",
+    "pneumocystis infections",
+    "polio and post polio syndrome",
+    "post covid conditions (long covid)",
+    "primary ovarian insufficiency",
+    "progressive supranuclear palsy",
+    "prostate diseases",
+    "reflux in infants",
+    "respiratory syncytial virus infections",
+    "rotator cuff injuries",
+    "sickle cell disease",
+    "sleep disorders",
+    "teen depression",
+    "testicular cancer",
+    "tonsillitis",
+    "tremor",
+    "tuberculosis",
+    "typhoid",
+    "uterine fibroids",
+    "vaginal cancer",
+    "varicose veins"
+  ]
+}

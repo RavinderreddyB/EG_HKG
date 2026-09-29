@@ -1,0 +1,456 @@
+{
+  "symptoms": [
+    "nasal congestion",
+    "swollen lymph glands",
+    "speech difficulty"
+  ],
+  "resolved_symptoms": [
+    "nasal congestion",
+    "speech difficulty",
+    "swollen lymph glands"
+  ],
+  "diseases": [
+    {
+      "disease": "infectious mononucleosis",
+      "drugs": [],
+      "treatment_modalities": [
+        "pain relievers",
+        "rest",
+        "fluids"
+      ],
+      "citations": [
+        {
+          "symptom": "sore throat",
+          "pmid": "26424648",
+          "title": "Infectious Mononucleosis.",
+          "year": "2015",
+          "confidence": 0.9497,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6053837634338414,
+          "abstract_snippet": "Infectious mononucleosis is a clinical entity characterized by sore throat, cervical lymph node enlargement, fatigue, and fever most often seen in adolescents and young adults and lasting several weeks. It can be caused by a number of pathogens, but this chapter only discusses infectious mononucleos"
+        },
+        {
+          "symptom": "fever",
+          "pmid": "37526456",
+          "title": "Infectious Mononucleosis: An Updated Review.",
+          "year": "2024",
+          "confidence": 0.9362,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3677136487792223,
+          "abstract_snippet": "Infectious mononucleosis is common among adolescents and young adults. Although the majority of cases resolve spontaneously, life-threatening manifestations, and complications have been recognised. The purpose of this article is to familiarize clinicians with the clinical manifestations, evaluation,"
+        },
+        {
+          "symptom": "extreme fatigue",
+          "pmid": "37526456",
+          "title": "Infectious Mononucleosis: An Updated Review.",
+          "year": "2024",
+          "confidence": 0.9297,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7833048105917721,
+          "abstract_snippet": "Infectious mononucleosis is common among adolescents and young adults. Although the majority of cases resolve spontaneously, life-threatening manifestations, and complications have been recognised. The purpose of this article is to familiarize clinicians with the clinical manifestations, evaluation,"
+        },
+        {
+          "symptom": "body aches",
+          "pmid": "27347865",
+          "title": "Exercise and the Athlete With Infectious Mononucleosis.",
+          "year": "2017",
+          "confidence": 0.9274,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8008778902471317,
+          "abstract_snippet": "To determine appropriate management of the active individual with infectious mononucleosis (IM), including issues of diagnosis, the determination of splenomegaly, and other measures of disease status, the relationship of the disease to chronic fatigue syndrome (CFS), and the risks of exercise at var"
+        },
+        {
+          "symptom": "rash",
+          "pmid": "36756024",
+          "title": "Eosinophilia in Amoxicillin-Induced Rash in Infectious Mononucleosis.",
+          "year": "2023",
+          "confidence": 0.9264,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6765398193264018,
+          "abstract_snippet": "A link between amoxicillin-induced rash in infectious mononucleosis and allergy has been previously reported. However, the pathophysiological cause and aspects are unclear. Additionally, the complex immunological interaction between the host and Epstein-Barr virus needs to be studied. This article r"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the treatments for infectious mononucleosis (mono)?",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "If you have severe symptoms, your provider may suggest additional treatment based on which organs in your body are affected by the mono.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Antibiotics don't treat viral infections, so they do not help with mono. Some people do get bacterial infections such as strep throat along with mono. In that case, you probably need antibiotics to treat the bacterial infection. But you should not take penicillin antibiotics like ampicillin or amoxicillin. Those antibiotics can cause a rash in people who have mono.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What is infectious mononucleosis (mono)? \n Infectious mononucleosis (mono) is a disease caused by viruses .The most common cause is the Epstein-Barr virus (EBV). Mono is contagious, which means it can spread from person to person. It is common among teenagers and young adults, especially college students.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What causes infectious mononucleosis (mono)? \n Mono can be caused by many different viruses. But it is most often caused by the Epstein-Barr virus (EBV). EBV is found all over the world. Most people get an EBV infection at some point in their lives, but only some of them will get the symptoms of mono. EBV infections often happen during childhood or when someone is a young adult. EBV infections in children usually do not cause symptoms. And when they do, it's hard to tell the difference between the symptoms of mono and the symptoms of other common childhood illnesses such as the flu . Teens and young adults who get EBV are more likely to have symptoms that are typical of mono.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "EBV and the other viruses that cause mono are usually spread through body fluids, especially saliva (spit). This means that you can get it through kissing. That's why mono is sometimes called \"the kissing disease.\" But you can also get these viruses if you share food, drinks, forks, spoons, or lip balm with someone who has mono. Other less common ways of getting an infection are through blood transfusions , organ transplants , and blood and semen during sexual contact.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the symptoms of infectious mononucleosis (mono)? \n The symptoms of mono usually start four to six weeks after you get the infection. But they may start sooner in young children. The symptoms often develop slowly, and they may not all happen at the same time. They can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Extreme fatigue \n Fever \n Sore throat \n Head and body aches \n Swollen lymph glands in your neck and armpits \n Rash \n Swollen liver, spleen, or both (these are less common symptoms)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the treatments for infectious mononucleosis (mono)?",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "If you have severe symptoms, your provider may suggest additional treatment based on which organs in your body are affected by the mono.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Antibiotics don't treat viral infections, so they do not help with mono. Some people do get bacterial infections such as strep throat along with mono. In that case, you probably need antibiotics to treat the bacterial infection. But you should not take penicillin antibiotics like ampicillin or amoxicillin. Those antibiotics can cause a rash in people who have mono.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What is infectious mononucleosis (mono)? \n Infectious mononucleosis (mono) is a disease caused by viruses .The most common cause is the Epstein-Barr virus (EBV). Mono is contagious, which means it can spread from person to person. It is common among teenagers and young adults, especially college students.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What causes infectious mononucleosis (mono)? \n Mono can be caused by many different viruses. But it is most often caused by the Epstein-Barr virus (EBV). EBV is found all over the world. Most people get an EBV infection at some point in their lives, but only some of them will get the symptoms of mono. EBV infections often happen during childhood or when someone is a young adult. EBV infections in children usually do not cause symptoms. And when they do, it's hard to tell the difference between the symptoms of mono and the symptoms of other common childhood illnesses such as the flu . Teens and young adults who get EBV are more likely to have symptoms that are typical of mono.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "EBV and the other viruses that cause mono are usually spread through body fluids, especially saliva (spit). This means that you can get it through kissing. That's why mono is sometimes called \"the kissing disease.\" But you can also get these viruses if you share food, drinks, forks, spoons, or lip balm with someone who has mono. Other less common ways of getting an infection are through blood transfusions , organ transplants , and blood and semen during sexual contact.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "What are the symptoms of infectious mononucleosis (mono)? \n The symptoms of mono usually start four to six weeks after you get the infection. But they may start sooner in young children. The symptoms often develop slowly, and they may not all happen at the same time. They can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "infectious mononucleosis",
+          "text": "Extreme fatigue \n Fever \n Sore throat \n Head and body aches \n Swollen lymph glands in your neck and armpits \n Rash \n Swollen liver, spleen, or both (these are less common symptoms)",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "mpox",
+      "drugs": [],
+      "treatment_modalities": [
+        "antiviral medicine"
+      ],
+      "citations": [
+        {
+          "symptom": "sore throat",
+          "pmid": "38883515",
+          "title": "Mpox Pharyngitis.",
+          "year": "2024",
+          "confidence": 0.9211,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8578142625959398,
+          "abstract_snippet": "A case of mpox pharyngitis in absence of cutaneous lesions is reported. Usually, clinical presentation is either a cutaneous eruption or a combination of cutaneous and mucosal lesions. In patients with atypical pharyngitis, regardless of the presence of skin lesions, pharyngeal swabs should be colle"
+        },
+        {
+          "symptom": "muscle aches",
+          "pmid": "37056203",
+          "title": "Clinical manifestations of human Mpox infection: A systematic review and meta-analysis.",
+          "year": "2023",
+          "confidence": 0.9101,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.21195907379392717,
+          "abstract_snippet": "Little is known about the ongoing monkeypox (mpox) outbreak, and the clinical features of mpox in patients worldwide have not been rigorously analysed. Thus, we aimed to investigate the clinical features associated with mpox infection and understand the pathophysiology and characteristics of the dis"
+        },
+        {
+          "symptom": "fever",
+          "pmid": "39401235",
+          "title": "Mpox Clinical Presentation, Diagnostic Approaches, and Treatment Strategies: A Review.",
+          "year": "2024",
+          "confidence": 0.9075,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7485998279446812,
+          "abstract_snippet": "A global outbreak of clade IIb Monkeypox virus (MPXV) infections spread rapidly across at least 118 countries resulting in a Public Health Emergency of International Concern (PHEIC) from July 2022 to May 2023. This outbreak affected more than 99&#x202f;000 persons worldwide and caused more than 33&#"
+        },
+        {
+          "symptom": "cough",
+          "pmid": "36991570",
+          "title": "Comparison of clinical manifestations in mpox patients living with HIV versus without HIV: A systematic review and meta-analysis.",
+          "year": "2023",
+          "confidence": 0.8993,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7335087697734438,
+          "abstract_snippet": "Currently, many cases of mpox patients living with the human immunodeficiency virus (HIV) have been reported. Immunocompromised mpox patients, including those living with HIV are noted for an increased risk for severe symptoms; however, existing studies did not focus on the statistical comparison of"
+        },
+        {
+          "symptom": "exhaustion",
+          "pmid": "37056203",
+          "title": "Clinical manifestations of human Mpox infection: A systematic review and meta-analysis.",
+          "year": "2023",
+          "confidence": 0.8927,
+          "source_credibility": 0.00262263613271535,
+          "structural_confidence": 0.7545395431882359,
+          "abstract_snippet": "Little is known about the ongoing monkeypox (mpox) outbreak, and the clinical features of mpox in patients worldwide have not been rigorously analysed. Thus, we aimed to investigate the clinical features associated with mpox infection and understand the pathophysiology and characteristics of the dis"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "mpox",
+          "text": "\u00bfQu\u00e9 es el mpox? \n El mpox (antes conocido como viruela del simio, viruela del mono o viruela s\u00edmica) es una enfermedad causada por el virus de la viruela s\u00edmica. Pertenece a la misma familia de virus que el virus de la viruela .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        },
+        {
+          "question": "mpox",
+          "text": "El virus del mpox se puede transmitir entre animales y personas, pero principalmente se transmite a trav\u00e9s del contacto cercano con alguien que lo tiene. Se encuentra regularmente en partes de \u00c1frica central, oriental y occidental. El virus que lo causa se ha encontrado en peque\u00f1os roedores, monos y otros mam\u00edferos que viven en estas \u00e1reas.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        },
+        {
+          "question": "mpox",
+          "text": "Algunos brotes de mpox han afectado a personas en muchos pa\u00edses del mundo, incluyendo los Estados Unidos.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        },
+        {
+          "question": "mpox",
+          "text": "\u00bfCu\u00e1les son los tipos de virus del mpox? \n Hay dos tipos de virus del mpox:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        },
+        {
+          "question": "mpox",
+          "text": "El \"clado I\" se encuentra con regularidad en \u00c1frica central y oriental. Causa enfermedades m\u00e1s graves y muertes que el otro tipo \n El \"clado II\" se encuentra regularmente en \u00c1frica occidental. Las infecciones del clado II son menos graves. La mayor\u00eda de las personas que contraen este tipo sobreviven. Este tipo es la causa del brote mundial que alcanz\u00f3 su punto m\u00e1ximo en 2022 pero que ha seguido disminuyendo",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        },
+        {
+          "question": "mpox",
+          "text": "\u00bfC\u00f3mo se propaga el mpox? \n El mpox se propaga de diferentes maneras:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        },
+        {
+          "question": "mpox",
+          "text": "A trav\u00e9s de contacto cercano, personal, a menudo piel con piel con alguien que tiene el virus:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        },
+        {
+          "question": "mpox",
+          "text": "A trav\u00e9s del contacto directo con un sarpullido, costras o fluidos corporales \n Al inhalar el virus durante un prolongado contacto cara a cara \n Durante un contacto f\u00edsico \u00edntimo, como besos, caricias, abrazos, masajes o relaci\u00f3n sexual",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/spanish/mpox.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "mpox",
+          "text": "\u00bfQu\u00e9 es el mpox? \n El mpox (antes conocido como viruela del simio, viruela del mono o viruela s\u00edmica) es una enfermedad causada por el virus de la viruela s\u00edmica. Pertenece a la misma familia de virus que el virus de la viruela .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "mpox",
+          "text": "El virus del mpox se puede transmitir entre animales y personas, pero principalmente se transmite a trav\u00e9s del contacto cercano con alguien que lo tiene. Se encuentra regularmente en partes de \u00c1frica central, oriental y occidental. El virus que lo causa se ha encontrado en peque\u00f1os roedores, monos y otros mam\u00edferos que viven en estas \u00e1reas.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "mpox",
+          "text": "Algunos brotes de mpox han afectado a personas en muchos pa\u00edses del mundo, incluyendo los Estados Unidos.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "mpox",
+          "text": "\u00bfCu\u00e1les son los tipos de virus del mpox? \n Hay dos tipos de virus del mpox:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "mpox",
+          "text": "El \"clado I\" se encuentra con regularidad en \u00c1frica central y oriental. Causa enfermedades m\u00e1s graves y muertes que el otro tipo \n El \"clado II\" se encuentra regularmente en \u00c1frica occidental. Las infecciones del clado II son menos graves. La mayor\u00eda de las personas que contraen este tipo sobreviven. Este tipo es la causa del brote mundial que alcanz\u00f3 su punto m\u00e1ximo en 2022 pero que ha seguido disminuyendo",
+          "trust_score": 1.0
+        },
+        {
+          "question": "mpox",
+          "text": "\u00bfC\u00f3mo se propaga el mpox? \n El mpox se propaga de diferentes maneras:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "mpox",
+          "text": "A trav\u00e9s de contacto cercano, personal, a menudo piel con piel con alguien que tiene el virus:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "mpox",
+          "text": "A trav\u00e9s del contacto directo con un sarpullido, costras o fluidos corporales \n Al inhalar el virus durante un prolongado contacto cara a cara \n Durante un contacto f\u00edsico \u00edntimo, como besos, caricias, abrazos, masajes o relaci\u00f3n sexual",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "ischemic stroke",
+      "drugs": [],
+      "treatment_modalities": [
+        "surgery",
+        "blood thinners",
+        "thrombolytics",
+        "rehabilitation",
+        "stenting"
+      ],
+      "citations": [
+        {
+          "symptom": "dizziness",
+          "pmid": "35367974",
+          "title": "Vascular vertigo and dizziness: Diagnostic criteria.",
+          "year": "2022",
+          "confidence": 0.9149,
+          "source_credibility": 0.002020106195627142,
+          "structural_confidence": 0.8106642077561411,
+          "abstract_snippet": "This paper presents diagnostic criteria for vascular vertigo and dizziness as formulated by the Committee for the Classification of Vestibular Disorders of the B&#xe1;r&#xe1;ny Society. The classification includes vertigo/dizziness due to stroke or transient ischemic attack as well as isolated labyr"
+        },
+        {
+          "symptom": "loss of balance",
+          "pmid": "39930815",
+          "title": "The role of astrocyte metabolic reprogramming in ischemic stroke (Review).",
+          "year": "2025",
+          "confidence": 0.902,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3323229747312098,
+          "abstract_snippet": "Ischemic stroke, a leading cause of disability and mortality worldwide, is characterized by the sudden loss of blood flow in specific area of the brain. Intravenous thrombolysis with recombinant tissue plasminogen activator is the only approved pharmacological treatment for acute ischemic stroke; ho"
+        },
+        {
+          "symptom": "speech difficulty",
+          "pmid": "39840204",
+          "title": "Clinical Insights on My Acute Ischemic Stroke Caused by a Carotid Web.",
+          "year": "2024",
+          "confidence": 0.5,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.20803001194649604,
+          "abstract_snippet": ""
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ischemicstroke.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "ischemic stroke",
+          "text": "How is an ischemic stroke treated? \n It is important to treat strokes as quickly as possible. The most common treatments include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "After treatment, rehabilitation can help you regain lost skills and independence. Your provider may also order other medicines to manage your blood pressure , cholesterol , or other health problems such as diabetes that may increase your risk for stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What is an ischemic stroke? \n A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "There are two main types of strokes, ischemic and hemorrhagic . Ischemic stroke is the more common type. An ischemic stroke happens when a blood clot blocks a blood vessel in the brain. Quick treatment can save a life and improve the chances of recovery.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What causes an ischemic stroke? \n Ischemic strokes are usually caused by one or more of the following:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A blood clot. A clot can form in an artery that supplies the brain (thrombosis), or it can travel from another part of the body (embolism). \n Atherosclerosis . A disease in which plaque, a sticky substance made up of cholesterol, fat, and other substances, builds up inside your arteries. \n Irregular heart rhythms. Conditions like atrial fibrillation can cause clots to form in the heart, which may travel to the brain. \n Other heart and blood conditions. Such as heart valve diseases or sickle cell disease .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "A transient ischemic attack (TIA) is caused by a brief blockage of blood flow to the brain. It usually lasts a few minutes. Having a TIA can mean you are at risk for having a more serious stroke.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ischemic stroke",
+          "text": "What are the symptoms of ischemic stroke? \n Symptoms of stroke often happen suddenly. They include:",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

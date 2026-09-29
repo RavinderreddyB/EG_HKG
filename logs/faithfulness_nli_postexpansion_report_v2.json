@@ -1,0 +1,816 @@
+{
+  "per_disease": [
+    {
+      "avg_consistency": 0.0925156692309039,
+      "min_consistency": 0.018049392849206924,
+      "low_consistency_rate": 1.0,
+      "num_claims": 7,
+      "run": "run_20260803_082704.json",
+      "disease": "(vertigo) paroymsal  positional vertigo"
+    },
+    {
+      "avg_consistency": 0.5551317433516184,
+      "min_consistency": 0.09959188103675842,
+      "low_consistency_rate": 0.5,
+      "num_claims": 18,
+      "run": "run_20260803_082704.json",
+      "disease": "dislocated shoulder"
+    },
+    {
+      "avg_consistency": 0.683978796005249,
+      "min_consistency": 0.07096531987190247,
+      "low_consistency_rate": 0.2857142857142857,
+      "num_claims": 14,
+      "run": "run_20260803_082739.json",
+      "disease": "infectious mononucleosis"
+    },
+    {
+      "avg_consistency": 0.4906446673419504,
+      "min_consistency": 0.007906303741037846,
+      "low_consistency_rate": 0.5238095238095238,
+      "num_claims": 21,
+      "run": "run_20260803_082739.json",
+      "disease": "thyroid cancer"
+    },
+    {
+      "avg_consistency": 0.5298929253060903,
+      "min_consistency": 0.00541017297655344,
+      "low_consistency_rate": 0.42857142857142855,
+      "num_claims": 7,
+      "run": "run_20260803_082739.json",
+      "disease": "chronic myeloid leukemia"
+    },
+    {
+      "avg_consistency": 0.40267213014885783,
+      "min_consistency": 0.013644586317241192,
+      "low_consistency_rate": 0.5769230769230769,
+      "num_claims": 26,
+      "run": "run_20260803_082833.json",
+      "disease": "hemophilia"
+    },
+    {
+      "avg_consistency": 0.7240110691231878,
+      "min_consistency": 0.015216684900224209,
+      "low_consistency_rate": 0.21739130434782608,
+      "num_claims": 23,
+      "run": "run_20260803_082833.json",
+      "disease": "reflux in infants"
+    },
+    {
+      "avg_consistency": 0.4551703559065407,
+      "min_consistency": 0.0063042957335710526,
+      "low_consistency_rate": 0.5909090909090909,
+      "num_claims": 22,
+      "run": "run_20260803_082833.json",
+      "disease": "blood clots"
+    },
+    {
+      "avg_consistency": 0.6223220957013277,
+      "min_consistency": 0.08056532591581345,
+      "low_consistency_rate": 0.38461538461538464,
+      "num_claims": 13,
+      "run": "run_20260803_082909.json",
+      "disease": "obsessive-compulsive disorder"
+    },
+    {
+      "avg_consistency": 0.5719486232846975,
+      "min_consistency": 0.03796524927020073,
+      "low_consistency_rate": 0.4444444444444444,
+      "num_claims": 18,
+      "run": "run_20260803_082909.json",
+      "disease": "dislocated shoulder"
+    },
+    {
+      "avg_consistency": 0.7288637940326462,
+      "min_consistency": 0.03330579772591591,
+      "low_consistency_rate": 0.21739130434782608,
+      "num_claims": 23,
+      "run": "run_20260803_082909.json",
+      "disease": "urinary tract infection"
+    },
+    {
+      "avg_consistency": 0.598330320066048,
+      "min_consistency": 0.010792240500450134,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 18,
+      "run": "run_20260803_082958.json",
+      "disease": "lewy body dementia"
+    },
+    {
+      "avg_consistency": 0.5584863781929016,
+      "min_consistency": 0.041019879281520844,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 15,
+      "run": "run_20260803_082958.json",
+      "disease": "chronic bronchitis"
+    },
+    {
+      "avg_consistency": 0.5783960655331611,
+      "min_consistency": 0.041146136820316315,
+      "low_consistency_rate": 0.4,
+      "num_claims": 15,
+      "run": "run_20260803_082958.json",
+      "disease": "ischemic stroke"
+    },
+    {
+      "avg_consistency": 0.26653580544026273,
+      "min_consistency": 0.008213483728468418,
+      "low_consistency_rate": 0.7894736842105263,
+      "num_claims": 19,
+      "run": "run_20260803_083041.json",
+      "disease": "anal cancer"
+    },
+    {
+      "avg_consistency": 0.6398180611008271,
+      "min_consistency": 0.00366120133548975,
+      "low_consistency_rate": 0.3181818181818182,
+      "num_claims": 22,
+      "run": "run_20260803_083041.json",
+      "disease": "kawasaki disease"
+    },
+    {
+      "avg_consistency": 0.52596087123339,
+      "min_consistency": 0.07158031314611435,
+      "low_consistency_rate": 0.46153846153846156,
+      "num_claims": 13,
+      "run": "run_20260803_083041.json",
+      "disease": "chicken pox"
+    },
+    {
+      "avg_consistency": 0.1849235804596295,
+      "min_consistency": 0.003664641873911023,
+      "low_consistency_rate": 0.9333333333333333,
+      "num_claims": 15,
+      "run": "run_20260803_083111.json",
+      "disease": "ovarian disorders"
+    },
+    {
+      "avg_consistency": 0.7984293129827295,
+      "min_consistency": 0.04115033894777298,
+      "low_consistency_rate": 0.14285714285714285,
+      "num_claims": 14,
+      "run": "run_20260803_083111.json",
+      "disease": "gastroenteritis"
+    },
+    {
+      "avg_consistency": 0.5237753296270966,
+      "min_consistency": 0.01607091911137104,
+      "low_consistency_rate": 0.5,
+      "num_claims": 10,
+      "run": "run_20260803_083111.json",
+      "disease": "cryptosporidiosis"
+    },
+    {
+      "avg_consistency": 0.6773435175418854,
+      "min_consistency": 0.27301210165023804,
+      "low_consistency_rate": 0.36363636363636365,
+      "num_claims": 11,
+      "run": "run_20260803_083149.json",
+      "disease": "vaginal cancer"
+    },
+    {
+      "avg_consistency": 0.5907223726001879,
+      "min_consistency": 0.030622204765677452,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 12,
+      "run": "run_20260803_083149.json",
+      "disease": "leukodystrophies"
+    },
+    {
+      "avg_consistency": 0.4693396830465645,
+      "min_consistency": 0.00809806864708662,
+      "low_consistency_rate": 0.55,
+      "num_claims": 20,
+      "run": "run_20260803_083149.json",
+      "disease": "blood clots"
+    },
+    {
+      "avg_consistency": 0.6998260776615806,
+      "min_consistency": 0.01933881640434265,
+      "low_consistency_rate": 0.2222222222222222,
+      "num_claims": 18,
+      "run": "run_20260803_083220.json",
+      "disease": "fungal infection"
+    },
+    {
+      "avg_consistency": 0.7197956092316996,
+      "min_consistency": 0.015217127278447151,
+      "low_consistency_rate": 0.18181818181818182,
+      "num_claims": 11,
+      "run": "run_20260803_083220.json",
+      "disease": "tonsillitis"
+    },
+    {
+      "avg_consistency": 0.512427429559038,
+      "min_consistency": 0.006879687309265137,
+      "low_consistency_rate": 0.4117647058823529,
+      "num_claims": 17,
+      "run": "run_20260803_083220.json",
+      "disease": "progressive supranuclear palsy"
+    },
+    {
+      "avg_consistency": 0.5582565912355979,
+      "min_consistency": 0.028480974957346916,
+      "low_consistency_rate": 0.4666666666666667,
+      "num_claims": 15,
+      "run": "run_20260803_083257.json",
+      "disease": "infectious mononucleosis"
+    },
+    {
+      "avg_consistency": 0.14110090459386507,
+      "min_consistency": 0.03281722962856293,
+      "low_consistency_rate": 1.0,
+      "num_claims": 6,
+      "run": "run_20260803_083257.json",
+      "disease": "mpox"
+    },
+    {
+      "avg_consistency": 0.48730867392280036,
+      "min_consistency": 0.013471393845975399,
+      "low_consistency_rate": 0.5,
+      "num_claims": 18,
+      "run": "run_20260803_083257.json",
+      "disease": "ischemic stroke"
+    },
+    {
+      "avg_consistency": 0.4067259318527899,
+      "min_consistency": 0.0031041454058140516,
+      "low_consistency_rate": 0.6,
+      "num_claims": 35,
+      "run": "run_20260803_083344.json",
+      "disease": "insomnia"
+    },
+    {
+      "avg_consistency": 0.22232124547383958,
+      "min_consistency": 0.0069821965880692005,
+      "low_consistency_rate": 0.8064516129032258,
+      "num_claims": 31,
+      "run": "run_20260803_083344.json",
+      "disease": "anal cancer"
+    },
+    {
+      "avg_consistency": 0.7572734586217187,
+      "min_consistency": 0.032268181443214417,
+      "low_consistency_rate": 0.18181818181818182,
+      "num_claims": 11,
+      "run": "run_20260803_083344.json",
+      "disease": "acute lymphocytic leukemia"
+    },
+    {
+      "avg_consistency": 0.6397926634443658,
+      "min_consistency": 0.027906937524676323,
+      "low_consistency_rate": 0.2857142857142857,
+      "num_claims": 7,
+      "run": "run_20260803_083413.json",
+      "disease": "menopause"
+    },
+    {
+      "avg_consistency": 0.13434820051770657,
+      "min_consistency": 0.011088340543210506,
+      "low_consistency_rate": 1.0,
+      "num_claims": 8,
+      "run": "run_20260803_083413.json",
+      "disease": "cervical spondylosis"
+    },
+    {
+      "avg_consistency": 0.5450641527198828,
+      "min_consistency": 0.025966588407754898,
+      "low_consistency_rate": 0.5384615384615384,
+      "num_claims": 13,
+      "run": "run_20260803_083413.json",
+      "disease": "obsessive-compulsive disorder"
+    },
+    {
+      "avg_consistency": 0.7271090168864108,
+      "min_consistency": 0.006831417325884104,
+      "low_consistency_rate": 0.15384615384615385,
+      "num_claims": 13,
+      "run": "run_20260803_083448.json",
+      "disease": "bipolar disorder"
+    },
+    {
+      "avg_consistency": 0.6772814712354115,
+      "min_consistency": 0.1347692459821701,
+      "low_consistency_rate": 0.35714285714285715,
+      "num_claims": 14,
+      "run": "run_20260803_083448.json",
+      "disease": "flu"
+    },
+    {
+      "avg_consistency": 0.13137322664260864,
+      "min_consistency": 0.0381583645939827,
+      "low_consistency_rate": 1.0,
+      "num_claims": 6,
+      "run": "run_20260803_083448.json",
+      "disease": "post-covid conditions (long covid)"
+    },
+    {
+      "avg_consistency": 0.8254015911370516,
+      "min_consistency": 0.3044886887073517,
+      "low_consistency_rate": 0.125,
+      "num_claims": 16,
+      "run": "run_20260803_083523.json",
+      "disease": "teen depression"
+    },
+    {
+      "avg_consistency": 0.6946747652254999,
+      "min_consistency": 0.11114496737718582,
+      "low_consistency_rate": 0.25,
+      "num_claims": 16,
+      "run": "run_20260803_083523.json",
+      "disease": "osteoarthristis"
+    },
+    {
+      "avg_consistency": 0.6498646265403791,
+      "min_consistency": 0.03688979893922806,
+      "low_consistency_rate": 0.36363636363636365,
+      "num_claims": 22,
+      "run": "run_20260803_083523.json",
+      "disease": "psoriasis"
+    },
+    {
+      "avg_consistency": 0.5121314696967602,
+      "min_consistency": 0.007994519546627998,
+      "low_consistency_rate": 0.48,
+      "num_claims": 25,
+      "run": "run_20260803_083626.json",
+      "disease": "insomnia"
+    },
+    {
+      "avg_consistency": 0.3973345289788475,
+      "min_consistency": 0.0036072346847504377,
+      "low_consistency_rate": 0.6071428571428571,
+      "num_claims": 28,
+      "run": "run_20260803_083626.json",
+      "disease": "testicular cancer"
+    },
+    {
+      "avg_consistency": 0.5508048301562667,
+      "min_consistency": 0.06592810153961182,
+      "low_consistency_rate": 0.5,
+      "num_claims": 16,
+      "run": "run_20260803_083626.json",
+      "disease": "delirium"
+    },
+    {
+      "avg_consistency": 0.6588236065091271,
+      "min_consistency": 0.010698975995182991,
+      "low_consistency_rate": 0.3157894736842105,
+      "num_claims": 19,
+      "run": "run_20260803_083723.json",
+      "disease": "sleep disorders"
+    },
+    {
+      "avg_consistency": 0.7743358882634264,
+      "min_consistency": 0.07035306841135025,
+      "low_consistency_rate": 0.15789473684210525,
+      "num_claims": 19,
+      "run": "run_20260803_083723.json",
+      "disease": "breast cancer"
+    },
+    {
+      "avg_consistency": 0.6766433314021144,
+      "min_consistency": 0.016715822741389275,
+      "low_consistency_rate": 0.2857142857142857,
+      "num_claims": 21,
+      "run": "run_20260803_083723.json",
+      "disease": "hepatitis c"
+    },
+    {
+      "avg_consistency": 0.43273982812057843,
+      "min_consistency": 0.05981391668319702,
+      "low_consistency_rate": 0.6363636363636364,
+      "num_claims": 11,
+      "run": "run_20260803_083755.json",
+      "disease": "alcoholic hepatitis"
+    },
+    {
+      "avg_consistency": 0.5865055024623871,
+      "min_consistency": 0.046865835785865784,
+      "low_consistency_rate": 0.4117647058823529,
+      "num_claims": 17,
+      "run": "run_20260803_083755.json",
+      "disease": "infectious mononucleosis"
+    },
+    {
+      "avg_consistency": 0.550485621063182,
+      "min_consistency": 0.010932144708931446,
+      "low_consistency_rate": 0.38461538461538464,
+      "num_claims": 13,
+      "run": "run_20260803_083755.json",
+      "disease": "leukodystrophies"
+    },
+    {
+      "avg_consistency": 0.3314164560825492,
+      "min_consistency": 0.006994678173214197,
+      "low_consistency_rate": 0.6538461538461539,
+      "num_claims": 26,
+      "run": "run_20260803_083837.json",
+      "disease": "heart valve diseases"
+    },
+    {
+      "avg_consistency": 0.4382916827582651,
+      "min_consistency": 0.011990753933787346,
+      "low_consistency_rate": 0.5555555555555556,
+      "num_claims": 18,
+      "run": "run_20260803_083837.json",
+      "disease": "hemophilia"
+    },
+    {
+      "avg_consistency": 0.7503192278090864,
+      "min_consistency": 0.019726771861314774,
+      "low_consistency_rate": 0.1875,
+      "num_claims": 16,
+      "run": "run_20260803_083837.json",
+      "disease": "gastroenteritis"
+    },
+    {
+      "avg_consistency": 0.7868830694506566,
+      "min_consistency": 0.018776407465338707,
+      "low_consistency_rate": 0.13333333333333333,
+      "num_claims": 15,
+      "run": "run_20260803_083921.json",
+      "disease": "myasthenia gravis"
+    },
+    {
+      "avg_consistency": 0.4839033242922438,
+      "min_consistency": 0.0028468905948102474,
+      "low_consistency_rate": 0.4782608695652174,
+      "num_claims": 23,
+      "run": "run_20260803_083921.json",
+      "disease": "hemophilia"
+    },
+    {
+      "avg_consistency": 0.565541548296236,
+      "min_consistency": 0.01078739669173956,
+      "low_consistency_rate": 0.4230769230769231,
+      "num_claims": 26,
+      "run": "run_20260803_083921.json",
+      "disease": "aplastic anemia"
+    },
+    {
+      "avg_consistency": 0.7768719629807905,
+      "min_consistency": 0.34099701046943665,
+      "low_consistency_rate": 0.18181818181818182,
+      "num_claims": 11,
+      "run": "run_20260803_083959.json",
+      "disease": "rotator cuff injuries"
+    },
+    {
+      "avg_consistency": 0.304737107310858,
+      "min_consistency": 0.00991113856434822,
+      "low_consistency_rate": 0.6666666666666666,
+      "num_claims": 18,
+      "run": "run_20260803_083959.json",
+      "disease": "ovarian disorders"
+    },
+    {
+      "avg_consistency": 0.5028956420719624,
+      "min_consistency": 0.05390707030892372,
+      "low_consistency_rate": 0.45454545454545453,
+      "num_claims": 11,
+      "run": "run_20260803_083959.json",
+      "disease": "fibromyalgia"
+    },
+    {
+      "avg_consistency": 0.5847305927206489,
+      "min_consistency": 0.05350009351968765,
+      "low_consistency_rate": 0.47058823529411764,
+      "num_claims": 17,
+      "run": "run_20260803_084036.json",
+      "disease": "dislocated shoulder"
+    },
+    {
+      "avg_consistency": 0.7102001252082678,
+      "min_consistency": 0.06674143671989441,
+      "low_consistency_rate": 0.3076923076923077,
+      "num_claims": 13,
+      "run": "run_20260803_084036.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.5086079701208152,
+      "min_consistency": 0.011213874444365501,
+      "low_consistency_rate": 0.46153846153846156,
+      "num_claims": 13,
+      "run": "run_20260803_084036.json",
+      "disease": "ischemic stroke"
+    },
+    {
+      "avg_consistency": 0.6093092140342508,
+      "min_consistency": 0.07657340914011002,
+      "low_consistency_rate": 0.35714285714285715,
+      "num_claims": 14,
+      "run": "run_20260803_084126.json",
+      "disease": "common cold"
+    },
+    {
+      "avg_consistency": 0.7361067968886346,
+      "min_consistency": 0.036435987800359726,
+      "low_consistency_rate": 0.25,
+      "num_claims": 16,
+      "run": "run_20260803_084126.json",
+      "disease": "allergy"
+    },
+    {
+      "avg_consistency": 0.3429400119930506,
+      "min_consistency": 0.0038701114244759083,
+      "low_consistency_rate": 0.68,
+      "num_claims": 25,
+      "run": "run_20260803_084126.json",
+      "disease": "diabetic heart disease"
+    },
+    {
+      "avg_consistency": 0.14862451469525695,
+      "min_consistency": 0.01115135196596384,
+      "low_consistency_rate": 0.8333333333333334,
+      "num_claims": 6,
+      "run": "run_20260803_084155.json",
+      "disease": "acute flaccid myelitis"
+    },
+    {
+      "avg_consistency": 0.7311968962351482,
+      "min_consistency": 0.06400811672210693,
+      "low_consistency_rate": 0.2,
+      "num_claims": 15,
+      "run": "run_20260803_084155.json",
+      "disease": "osteoarthristis"
+    },
+    {
+      "avg_consistency": 0.6942803859128617,
+      "min_consistency": 0.008706078864634037,
+      "low_consistency_rate": 0.1875,
+      "num_claims": 16,
+      "run": "run_20260803_084155.json",
+      "disease": "myasthenia gravis"
+    },
+    {
+      "avg_consistency": 0.6739768743076745,
+      "min_consistency": 0.01653892919421196,
+      "low_consistency_rate": 0.29411764705882354,
+      "num_claims": 17,
+      "run": "run_20260803_084225.json",
+      "disease": "chagas disease"
+    },
+    {
+      "avg_consistency": 0.7680803179740906,
+      "min_consistency": 0.07304605841636658,
+      "low_consistency_rate": 0.2,
+      "num_claims": 10,
+      "run": "run_20260803_084225.json",
+      "disease": "hidradenitis suppurativa"
+    },
+    {
+      "avg_consistency": 0.6432248724417554,
+      "min_consistency": 0.040837362408638,
+      "low_consistency_rate": 0.3333333333333333,
+      "num_claims": 18,
+      "run": "run_20260803_084225.json",
+      "disease": "paralysis (brain hemorrhage)"
+    },
+    {
+      "avg_consistency": 0.0693298081556956,
+      "min_consistency": 0.020833594724535942,
+      "low_consistency_rate": 1.0,
+      "num_claims": 6,
+      "run": "run_20260803_084253.json",
+      "disease": "dimorphic hemmorhoids(piles)"
+    },
+    {
+      "avg_consistency": 0.8342334479093552,
+      "min_consistency": 0.48511308431625366,
+      "low_consistency_rate": 0.08333333333333333,
+      "num_claims": 12,
+      "run": "run_20260803_084253.json",
+      "disease": "teen depression"
+    },
+    {
+      "avg_consistency": 0.8157125221831458,
+      "min_consistency": 0.3140048384666443,
+      "low_consistency_rate": 0.21428571428571427,
+      "num_claims": 14,
+      "run": "run_20260803_084253.json",
+      "disease": "cervical cancer"
+    },
+    {
+      "avg_consistency": 0.5964615893151078,
+      "min_consistency": 0.008267147466540337,
+      "low_consistency_rate": 0.35714285714285715,
+      "num_claims": 14,
+      "run": "run_20260803_084332.json",
+      "disease": "prostate diseases"
+    },
+    {
+      "avg_consistency": 0.5013314783573151,
+      "min_consistency": 0.0826655924320221,
+      "low_consistency_rate": 0.5714285714285714,
+      "num_claims": 14,
+      "run": "run_20260803_084332.json",
+      "disease": "enlarged prostate (bph)"
+    },
+    {
+      "avg_consistency": 0.6778106859574715,
+      "min_consistency": 0.02212728001177311,
+      "low_consistency_rate": 0.26666666666666666,
+      "num_claims": 15,
+      "run": "run_20260803_084332.json",
+      "disease": "diabetes"
+    },
+    {
+      "avg_consistency": 0.8328320123255253,
+      "min_consistency": 0.06726114451885223,
+      "low_consistency_rate": 0.08333333333333333,
+      "num_claims": 12,
+      "run": "run_20260803_084412.json",
+      "disease": "hidradenitis suppurativa"
+    },
+    {
+      "avg_consistency": 0.5913558570668102,
+      "min_consistency": 0.04172230884432793,
+      "low_consistency_rate": 0.35,
+      "num_claims": 20,
+      "run": "run_20260803_084412.json",
+      "disease": "chronic bronchitis"
+    },
+    {
+      "avg_consistency": 0.42015545779903385,
+      "min_consistency": 0.00920773483812809,
+      "low_consistency_rate": 0.5517241379310345,
+      "num_claims": 29,
+      "run": "run_20260803_084412.json",
+      "disease": "hemophilia"
+    },
+    {
+      "avg_consistency": 0.359252960675142,
+      "min_consistency": 0.01594800315797329,
+      "low_consistency_rate": 0.7272727272727273,
+      "num_claims": 11,
+      "run": "run_20260803_084457.json",
+      "disease": "anxiety"
+    },
+    {
+      "avg_consistency": 0.7321955539518967,
+      "min_consistency": 0.02137952484190464,
+      "low_consistency_rate": 0.1875,
+      "num_claims": 16,
+      "run": "run_20260803_084457.json",
+      "disease": "bipolar disorder"
+    },
+    {
+      "avg_consistency": 0.3665903209515944,
+      "min_consistency": 0.004732082597911358,
+      "low_consistency_rate": 0.5862068965517241,
+      "num_claims": 29,
+      "run": "run_20260803_084457.json",
+      "disease": "varicose veins"
+    },
+    {
+      "avg_consistency": 0.7189624581266852,
+      "min_consistency": 0.04918418079614639,
+      "low_consistency_rate": 0.23529411764705882,
+      "num_claims": 17,
+      "run": "run_20260803_084545.json",
+      "disease": "migraine"
+    },
+    {
+      "avg_consistency": 0.528418263187632,
+      "min_consistency": 0.023517785593867302,
+      "low_consistency_rate": 0.5,
+      "num_claims": 24,
+      "run": "run_20260803_084545.json",
+      "disease": "pneumonia"
+    },
+    {
+      "avg_consistency": 0.37543749644287994,
+      "min_consistency": 0.004626414272934198,
+      "low_consistency_rate": 0.6571428571428571,
+      "num_claims": 35,
+      "run": "run_20260803_084545.json",
+      "disease": "hyperthyroidism"
+    },
+    {
+      "avg_consistency": 0.465768784408768,
+      "min_consistency": 0.01014824490994215,
+      "low_consistency_rate": 0.5333333333333333,
+      "num_claims": 30,
+      "run": "run_20260803_084625.json",
+      "disease": "insomnia"
+    },
+    {
+      "avg_consistency": 0.6527435328811407,
+      "min_consistency": 0.026881810277700424,
+      "low_consistency_rate": 0.4,
+      "num_claims": 10,
+      "run": "run_20260803_084625.json",
+      "disease": "tonsillitis"
+    },
+    {
+      "avg_consistency": 0.5657790531663017,
+      "min_consistency": 0.006280056666582823,
+      "low_consistency_rate": 0.3888888888888889,
+      "num_claims": 18,
+      "run": "run_20260803_084625.json",
+      "disease": "ischemic stroke"
+    },
+    {
+      "avg_consistency": 0.5420384267345071,
+      "min_consistency": 0.0054036695510149,
+      "low_consistency_rate": 0.35294117647058826,
+      "num_claims": 17,
+      "run": "run_20260803_084702.json",
+      "disease": "chronic cholestasis"
+    },
+    {
+      "avg_consistency": 0.7085546475136653,
+      "min_consistency": 0.025353023782372475,
+      "low_consistency_rate": 0.3125,
+      "num_claims": 16,
+      "run": "run_20260803_084702.json",
+      "disease": "fungal infection"
+    },
+    {
+      "avg_consistency": 0.2019600802741479,
+      "min_consistency": 0.003126918338239193,
+      "low_consistency_rate": 0.8125,
+      "num_claims": 32,
+      "run": "run_20260803_084702.json",
+      "disease": "head lice"
+    },
+    {
+      "avg_consistency": 0.4759221564579223,
+      "min_consistency": 0.01536871213465929,
+      "low_consistency_rate": 0.5,
+      "num_claims": 14,
+      "run": "run_20260803_084805.json",
+      "disease": "myalgic encephalomyelitis chronic fatigue syndrome"
+    },
+    {
+      "avg_consistency": 0.4575889729312621,
+      "min_consistency": 0.005866503808647394,
+      "low_consistency_rate": 0.5,
+      "num_claims": 24,
+      "run": "run_20260803_084805.json",
+      "disease": "insomnia"
+    },
+    {
+      "avg_consistency": 0.46082397317513824,
+      "min_consistency": 0.010073264129459858,
+      "low_consistency_rate": 0.5625,
+      "num_claims": 16,
+      "run": "run_20260803_084805.json",
+      "disease": "childhood leukemia"
+    },
+    {
+      "avg_consistency": 0.29382335185073316,
+      "min_consistency": 0.01649194210767746,
+      "low_consistency_rate": 0.75,
+      "num_claims": 24,
+      "run": "run_20260803_084846.json",
+      "disease": "testicular cancer"
+    },
+    {
+      "avg_consistency": 0.6382834482938051,
+      "min_consistency": 0.02700827829539776,
+      "low_consistency_rate": 0.36363636363636365,
+      "num_claims": 11,
+      "run": "run_20260803_084846.json",
+      "disease": "acute lymphocytic leukemia"
+    },
+    {
+      "avg_consistency": 0.6542259615481548,
+      "min_consistency": 0.014156372286379337,
+      "low_consistency_rate": 0.30434782608695654,
+      "num_claims": 23,
+      "run": "run_20260803_084846.json",
+      "disease": "allergy"
+    },
+    {
+      "avg_consistency": 0.6254767399902145,
+      "min_consistency": 0.06000673398375511,
+      "low_consistency_rate": 0.4166666666666667,
+      "num_claims": 12,
+      "run": "run_20260803_084922.json",
+      "disease": "panic disorder"
+    },
+    {
+      "avg_consistency": 0.6906440619379282,
+      "min_consistency": 0.062896229326725,
+      "low_consistency_rate": 0.25,
+      "num_claims": 20,
+      "run": "run_20260803_084922.json",
+      "disease": "common cold"
+    },
+    {
+      "avg_consistency": 0.5598634492073741,
+      "min_consistency": 0.15126383304595947,
+      "low_consistency_rate": 0.42857142857142855,
+      "num_claims": 14,
+      "run": "run_20260803_084922.json",
+      "disease": "chicken pox"
+    }
+  ],
+  "avg_consistency": 0.5489572134334072,
+  "avg_min_consistency": 0.045902450502121654,
+  "avg_low_consistency_rate": 0.43969984859394257,
+  "num_scored": 101
+}

@@ -1,0 +1,415 @@
+{
+  "symptoms": [
+    "eye movement problems",
+    "nodal skin eruptions",
+    "red tonsils"
+  ],
+  "resolved_symptoms": [
+    "eye movement problems",
+    "nodal skin eruptions",
+    "red tonsils"
+  ],
+  "diseases": [
+    {
+      "disease": "fungal infection",
+      "drugs": [
+        "fluconazole",
+        "itraconazole",
+        "clotrimazole",
+        "terbinafine"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "skin rash",
+          "pmid": "26280141",
+          "title": "Common Skin Rashes in Children.",
+          "year": "2015",
+          "confidence": 0.9156,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6525305962639246,
+          "abstract_snippet": "Because childhood rashes may be difficult to differentiate by appearance alone, it is important to consider the entire clinical presentation to help make the appropriate diagnosis. Considerations include the appearance and location of the rash; the clinical course; and associated symptoms, such as p"
+        },
+        {
+          "symptom": "itching",
+          "pmid": "26280141",
+          "title": "Common Skin Rashes in Children.",
+          "year": "2015",
+          "confidence": 0.9005,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.40464193746365545,
+          "abstract_snippet": "Because childhood rashes may be difficult to differentiate by appearance alone, it is important to consider the entire clinical presentation to help make the appropriate diagnosis. Considerations include the appearance and location of the rash; the clinical course; and associated symptoms, such as p"
+        },
+        {
+          "symptom": "nodal skin eruptions",
+          "pmid": "26728811",
+          "title": "Isolated cutaneous involvement in a child with nodal anaplastic large cell lymphoma.",
+          "year": "2016",
+          "confidence": 0.8965,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6311759512058849,
+          "abstract_snippet": "Non-Hodgkin lymphoma is a common childhood T-cell and B-cell neoplasm that originates primarily from lymphoid tissue. Cutaneous involvement can be in the form of a primary extranodal lymphoma, or secondary to metastasis from a non-cutaneous location. The latter is uncommon, and isolated cutaneous in"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "How might aspergillosis be treated? If the infection is widespread or the person appears seriously ill, treatment is started immediately. Voriconazole is currently first-line treatment for invasive aspergillosis and is usually given intravenously. There are other antifungal drugs that can be used to treat invasive aspergillosis in patients who cannot take voriconazole or who have not responded to voriconazole. These include itraconazole, lipid amphotericin formulations, caspofungin, micafungin, and posaconazole. Whenever possible, immunosuppressive medications should be discontinued or decreased. A fungus ball usually does not require treatment unless bleeding into the lung tissue is associated with the infection, then surgery is required. Antifungal agents do not help people with allergic aspergillosis. Allergic aspergillosis is treated with prednisone taken by mouth.",
+          "question": "What are the treatments for Aspergillosis ?",
+          "score": 0.04267650097608566,
+          "rerank_score": 1.8052568435668945,
+          "trust_score": 0.46542336365888076
+        },
+        {
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "score": 0.02787945047020912,
+          "rerank_score": -0.33745837211608887,
+          "trust_score": 0.10691918512943283
+        },
+        {
+          "text": "If you have ever had athlete's foot or a yeast infection, you can blame a fungus. A fungus is a primitive organism. Mushrooms, mold and mildew are examples. Fungi live in air, in soil, on plants and in water. Some live in the human body. Only about half of all types of fungi are harmful.    Some fungi reproduce through tiny spores in the air. You can inhale the spores or they can land on you. As a result, fungal infections often start in the lungs or on the skin. You are more likely to get a fungal infection if you have a weakened immune system or take antibiotics.    Fungi can be difficult to kill. For skin and nail infections, you can apply medicine directly to the infected area. Oral antifungal medicines are also available for serious infections.    NIH: National Institute of Allergy and Infectious Diseases",
+          "question": "What is (are) Fungal Infections ?",
+          "score": 0.033567991107702255,
+          "rerank_score": 5.2063703536987305,
+          "trust_score": 0.043892971249618495
+        },
+        {
+          "text": "Phaeohyphomycosis refers to fungal infections caused by dematiaceous (darkly, pigmented fungi). It can be associated with a variety of clinical syndromes including invasive sinusitis; nodules or abscesses beneath the skin; keratitis; lung masses; osteomyelitis; mycotic arthritis; endocarditis; brain abscess; and wide-spread infection. Although the condition can affect all people, it is most commonly diagnosed in immunocompetent and immunosuppressed people and can even be life-threatening in these populations. Treatment depends on the signs and symptoms present in each person but may include surgery and/or various medications.",
+          "question": "What is (are) Phaeohyphomycosis ?",
+          "score": 0.029270287603139877,
+          "rerank_score": 4.963683128356934,
+          "trust_score": 0.03479891798258277
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Aspergillosis ?",
+          "text": "How might aspergillosis be treated? If the infection is widespread or the person appears seriously ill, treatment is started immediately. Voriconazole is currently first-line treatment for invasive aspergillosis and is usually given intravenously. There are other antifungal drugs that can be used to treat invasive aspergillosis in patients who cannot take voriconazole or who have not responded to voriconazole. These include itraconazole, lipid amphotericin formulations, caspofungin, micafungin, and posaconazole. Whenever possible, immunosuppressive medications should be discontinued or decreased. A fungus ball usually does not require treatment unless bleeding into the lung tissue is associated with the infection, then surgery is required. Antifungal agents do not help people with allergic aspergillosis. Allergic aspergillosis is treated with prednisone taken by mouth.",
+          "trust_score": 0.46542336365888076
+        },
+        {
+          "question": "What are the treatments for Rheumatic Fever ?",
+          "text": "How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.",
+          "trust_score": 0.10691918512943283
+        },
+        {
+          "question": "What is (are) Fungal Infections ?",
+          "text": "If you have ever had athlete's foot or a yeast infection, you can blame a fungus. A fungus is a primitive organism. Mushrooms, mold and mildew are examples. Fungi live in air, in soil, on plants and in water. Some live in the human body. Only about half of all types of fungi are harmful.    Some fungi reproduce through tiny spores in the air. You can inhale the spores or they can land on you. As a result, fungal infections often start in the lungs or on the skin. You are more likely to get a fungal infection if you have a weakened immune system or take antibiotics.    Fungi can be difficult to kill. For skin and nail infections, you can apply medicine directly to the infected area. Oral antifungal medicines are also available for serious infections.    NIH: National Institute of Allergy and Infectious Diseases",
+          "trust_score": 0.043892971249618495
+        },
+        {
+          "question": "What is (are) Phaeohyphomycosis ?",
+          "text": "Phaeohyphomycosis refers to fungal infections caused by dematiaceous (darkly, pigmented fungi). It can be associated with a variety of clinical syndromes including invasive sinusitis; nodules or abscesses beneath the skin; keratitis; lung masses; osteomyelitis; mycotic arthritis; endocarditis; brain abscess; and wide-spread infection. Although the condition can affect all people, it is most commonly diagnosed in immunocompetent and immunosuppressed people and can even be life-threatening in these populations. Treatment depends on the signs and symptoms present in each person but may include surgery and/or various medications.",
+          "trust_score": 0.03479891798258277
+        }
+      ]
+    },
+    {
+      "disease": "tonsillitis",
+      "drugs": [],
+      "treatment_modalities": [
+        "antibiotics"
+      ],
+      "citations": [
+        {
+          "symptom": "fever",
+          "pmid": "36689967",
+          "title": "Tonsillitis and Tonsilloliths: Diagnosis and Management.",
+          "year": "2023",
+          "confidence": 0.9265,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7422194133722712,
+          "abstract_snippet": "Tonsillitis, or inflammation of the tonsils, makes up approximately 0.4% of outpatient visits in the United States. Tonsillitis is caused by a viral infection in 70% to 95% of cases. However, bacterial infections caused by group A beta-hemolytic streptococcus (Streptococcus pyogenes) account for ton"
+        },
+        {
+          "symptom": "difficulty swallowing",
+          "pmid": "40840949",
+          "title": "Prevalence and clinical features of laryngopharyngeal reflux in adults with chronic tonsillitis.",
+          "year": "2025",
+          "confidence": 0.9015,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.695667936337384,
+          "abstract_snippet": "To assess the prevalence and clinical presentation of laryngopharyngeal reflux (LPR) among adults with chronic tonsillitis and examine how effective reflux treatments are for these patients. A prospective observational study was conducted at a tertiary referral hospital from March 2024 to January 20"
+        },
+        {
+          "symptom": "swollen tonsils",
+          "pmid": "35784692",
+          "title": "A Five-Dimensional Network Meta-Analysis of Chinese Herbal Injections for Treating Acute Tonsillitis Combined With Western Medicine.",
+          "year": "2022",
+          "confidence": 0.8964,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.710183090105411,
+          "abstract_snippet": "<b>Background:</b> Acute tonsillitis has high morbidity. Chinese herbal injections (CHIs) were reported to be useful in treating acute tonsillitis and might reduce the probability of antibiotic resistance. Nevertheless, the optimal strategy for combining CHIs with western medicine (WM) to treat acut"
+        },
+        {
+          "symptom": "sore throat",
+          "pmid": "24710788",
+          "title": "[Tonsillitis and sore throat in childhood].",
+          "year": "2014",
+          "confidence": 0.886,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.29598837117026855,
+          "abstract_snippet": "Surgery of the tonsils is still one of the most frequent procedures during childhood. Due to a series of fatal outcome after hemorrhage in children in Austria in 2006, the standards and indications for tonsillectomy slowly change in Germany since that. However, there exist no national guidelines and"
+        },
+        {
+          "symptom": "white coating on tonsils",
+          "pmid": "12830756",
+          "title": "[Diagnosis of streptococcal tonsillitis in the pediatric department with the help of antigen detection test].",
+          "year": "2003",
+          "confidence": 0.8745,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7888298412515813,
+          "abstract_snippet": "The aim was to examine the validity in the paediatric hospital department of an antigen detection test (ADT) for the diagnosis of streptococcal tonsillitis. A prospective multicenter study including three Danish paediatric hospital departments was performed from May 1, 1998 to April 30, 1999. In 353"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "tonsillitis",
+          "text": "What are the treatments for tonsillitis? \n Treatment for tonsillitis depends on the cause. If the cause is a virus, there is no medicine to treat it. If the cause is a bacterial infection, such as strep throat, your child will need to take antibiotics . It is important for your child to finish the antibiotics even if he or she feels better. If treatment stops too soon, some bacteria may survive and re-infect your child.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are tonsils? \n Tonsils are lumps of tissue at the back of the throat. There are two of them, one on each side. Along with the adenoids , tonsils are part of the lymphatic system. The lymphatic system clears away infection and keeps body fluids in balance. Tonsils and adenoids work by trapping the germs coming in through the mouth and nose.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What is tonsillitis? \n Tonsillitis is an inflammation (swelling) of the tonsils. Sometimes along with tonsillitis, the adenoids are also swollen.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What causes tonsillitis? \n The cause of tonsillitis is usually a viral infection. Bacterial infections such as strep throat can also cause tonsillitis.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Who is at risk for tonsillitis? \n Tonsillitis is most common in children over age two. Almost every child in the United States gets it at least once. Tonsillitis caused by bacteria is more common in kids ages 5-15. Tonsillitis caused by a virus is more common in younger children.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Adults can get tonsillitis, but it is not very common.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Is tonsillitis contagious? \n Although tonsillitis is not contagious, the viruses and bacteria that cause it are contagious. Frequent handwashing can help prevent spreading or catching the infections.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are the symptoms of tonsillitis? \n The symptoms of tonsillitis include: \n A sore throat , which may be severe \n Red, swollen tonsils \n Trouble swallowing \n A white or yellow coating on the tonsils \n Swollen glands in the neck \n Fever \n Bad breath",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/tonsillitis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "tonsillitis",
+          "text": "What are the treatments for tonsillitis? \n Treatment for tonsillitis depends on the cause. If the cause is a virus, there is no medicine to treat it. If the cause is a bacterial infection, such as strep throat, your child will need to take antibiotics . It is important for your child to finish the antibiotics even if he or she feels better. If treatment stops too soon, some bacteria may survive and re-infect your child.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are tonsils? \n Tonsils are lumps of tissue at the back of the throat. There are two of them, one on each side. Along with the adenoids , tonsils are part of the lymphatic system. The lymphatic system clears away infection and keeps body fluids in balance. Tonsils and adenoids work by trapping the germs coming in through the mouth and nose.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What is tonsillitis? \n Tonsillitis is an inflammation (swelling) of the tonsils. Sometimes along with tonsillitis, the adenoids are also swollen.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What causes tonsillitis? \n The cause of tonsillitis is usually a viral infection. Bacterial infections such as strep throat can also cause tonsillitis.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Who is at risk for tonsillitis? \n Tonsillitis is most common in children over age two. Almost every child in the United States gets it at least once. Tonsillitis caused by bacteria is more common in kids ages 5-15. Tonsillitis caused by a virus is more common in younger children.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Adults can get tonsillitis, but it is not very common.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "Is tonsillitis contagious? \n Although tonsillitis is not contagious, the viruses and bacteria that cause it are contagious. Frequent handwashing can help prevent spreading or catching the infections.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "tonsillitis",
+          "text": "What are the symptoms of tonsillitis? \n The symptoms of tonsillitis include: \n A sore throat , which may be severe \n Red, swollen tonsils \n Trouble swallowing \n A white or yellow coating on the tonsils \n Swollen glands in the neck \n Fever \n Bad breath",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "progressive supranuclear palsy",
+      "drugs": [],
+      "treatment_modalities": [
+        "medicines",
+        "assistive devices",
+        "gastrostomy"
+      ],
+      "citations": [
+        {
+          "symptom": "depression",
+          "pmid": "36933007",
+          "title": "Pathomechanisms of depression in progressive supranuclear palsy.",
+          "year": "2023",
+          "confidence": 0.9439,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7002808995803392,
+          "abstract_snippet": "Depression is one of the most frequent neuropsychiatric symptoms in progressive supranuclear palsy (PSP), a four-repeat tauopathy and most common atypical parkinsonian disorder, but its pathophysiology and pathogenesis are poorly understood. Pubmed/Medline was systematically analyzed until January 2"
+        },
+        {
+          "symptom": "apathy",
+          "pmid": "34761056",
+          "title": "Co-Occurrence of Apathy and Impulsivity in Progressive Supranuclear Palsy.",
+          "year": "2021",
+          "confidence": 0.9349,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.70720404378926,
+          "abstract_snippet": "Apathy and impulsivity are common consequences of progressive supranuclear palsy (PSP) and can worsen its prognosis. They can co-exist in the same patients although their concomitant prevalence remains unclear. Their relationship to emotional lability is unknown. To estimate the co-occurrence of apa"
+        },
+        {
+          "symptom": "loss of balance",
+          "pmid": "7496773",
+          "title": "Familial progressive supranuclear palsy. Description of a pedigree and review of the literature.",
+          "year": "1995",
+          "confidence": 0.9304,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7475815535409112,
+          "abstract_snippet": "We describe a family with autosomal dominant progressive supranuclear palsy (PSP) involving five generations which was confirmed in one patient. The proband presented with progressive slowness at age 53 years, followed by ocular palsy, loss of balance, axial dystonia, dysphagia and dysarthria, and d"
+        },
+        {
+          "symptom": "eye movement problems",
+          "pmid": "40415458",
+          "title": "Associations between neuropsychological profile and regional brain FDG uptake in progressive supranuclear palsy.",
+          "year": "2025",
+          "confidence": 0.9285,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.675131443079678,
+          "abstract_snippet": "BackgroundProgressive supranuclear palsy (PSP) is a rare neurodegenerative movement disorder clinically characterized by falls, axial rigidity, vertical supranuclear gaze palsy, bradykinesia, and cognitive decline. There is a relative lack of studies on the functional neuroimaging correlates of cogn"
+        },
+        {
+          "symptom": "mood changes",
+          "pmid": "38908985",
+          "title": "Progressive supranuclear palsy: Neuropathology, clinical presentation, diagnostic challenges, management, and emerging therapies.",
+          "year": "2024",
+          "confidence": 0.9278,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6850101248671965,
+          "abstract_snippet": "Progressive supranuclear palsy (PSP) is a neurodegenerative disease characterized by the accumulation of 4R-tau protein aggregates in various brain regions. PSP leads to neuronal loss, gliosis, and tau-positive inclusions, such as neurofibrillary tangles, tufted astrocytes, and coiled bodies. These"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What are the treatments for progressive supranuclear palsy (PSP)? \n There is currently no effective treatment for PSP. Medicines may reduce some symptoms. Some non-drug treatments, such as walking aids and special glasses, may also help. People with severe swallowing problems may need gastrostomy. This is a surgery to insert a feeding tube into the stomach.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What is progressive supranuclear palsy (PSP)? \n Progressive supranuclear palsy (PSP) is a rare brain disease . It happens because of damage to nerve cells in the brain. PSP affects your movement , including control of your walking and balance . It also affects your thinking and eye movement .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "PSP is progressive, which means that it gets worse over time.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What causes progressive supranuclear palsy (PSP)? \n The cause of PSP is unknown. In rare cases, the cause is a mutation in a certain gene.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "One sign of PSP is abnormal clumps of tau in nerve cells in the brain. Tau is a protein in your nervous system, including in nerve cells. Some other diseases also cause a buildup of tau in the brain, including Alzheimer's disease .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "Who is at risk for progressive supranuclear palsy (PSP)? \n PSP usually affects people over 60, but in some cases it can start earlier. It is more common in men.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What are the symptoms of progressive supranuclear palsy (PSP)? \n Symptoms are very different in each person, but they may include: \n A loss of balance while walking. This is often the first symptom. \n Speech problems \n Trouble swallowing \n A blurring of vision and problems controlling eye movement \n Changes in mood and behavior, including depression and apathy (a loss of interest and enthusiasm) \n Mild dementia",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "How is progressive supranuclear palsy (PSP) diagnosed? \n There is no specific test for PSP. It can be difficult to diagnose, because the symptoms are similar to other diseases such as Parkinson's disease and Alzheimer's disease.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/progressivesupranuclearpalsy.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What are the treatments for progressive supranuclear palsy (PSP)? \n There is currently no effective treatment for PSP. Medicines may reduce some symptoms. Some non-drug treatments, such as walking aids and special glasses, may also help. People with severe swallowing problems may need gastrostomy. This is a surgery to insert a feeding tube into the stomach.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What is progressive supranuclear palsy (PSP)? \n Progressive supranuclear palsy (PSP) is a rare brain disease . It happens because of damage to nerve cells in the brain. PSP affects your movement , including control of your walking and balance . It also affects your thinking and eye movement .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "PSP is progressive, which means that it gets worse over time.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What causes progressive supranuclear palsy (PSP)? \n The cause of PSP is unknown. In rare cases, the cause is a mutation in a certain gene.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "One sign of PSP is abnormal clumps of tau in nerve cells in the brain. Tau is a protein in your nervous system, including in nerve cells. Some other diseases also cause a buildup of tau in the brain, including Alzheimer's disease .",
+          "trust_score": 1.0
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "Who is at risk for progressive supranuclear palsy (PSP)? \n PSP usually affects people over 60, but in some cases it can start earlier. It is more common in men.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "What are the symptoms of progressive supranuclear palsy (PSP)? \n Symptoms are very different in each person, but they may include: \n A loss of balance while walking. This is often the first symptom. \n Speech problems \n Trouble swallowing \n A blurring of vision and problems controlling eye movement \n Changes in mood and behavior, including depression and apathy (a loss of interest and enthusiasm) \n Mild dementia",
+          "trust_score": 1.0
+        },
+        {
+          "question": "progressive supranuclear palsy",
+          "text": "How is progressive supranuclear palsy (PSP) diagnosed? \n There is no specific test for PSP. It can be difficult to diagnose, because the symptoms are similar to other diseases such as Parkinson's disease and Alzheimer's disease.",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

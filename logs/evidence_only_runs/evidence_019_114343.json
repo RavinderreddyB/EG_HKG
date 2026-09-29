@@ -1,0 +1,418 @@
+{
+  "symptoms": [
+    "pain when lying down",
+    "painful menstrual cramps",
+    "trouble sleeping"
+  ],
+  "resolved_symptoms": [
+    "pain when lying down",
+    "painful menstrual cramps",
+    "trouble sleeping"
+  ],
+  "diseases": [
+    {
+      "disease": "rotator cuff injuries",
+      "drugs": [],
+      "treatment_modalities": [
+        "physical therapy",
+        "pain relievers",
+        "rest",
+        "ice",
+        "corticosteroid injection"
+      ],
+      "citations": [],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "rotator cuff injuries",
+          "text": "What are the treatments for rotator cuff injuries? \n The best treatment for you depends on your age, how much your injury bothers you, and whether your injury was sudden or happened from wear and tear.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Treatments for rotator cuff injuries often include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Treatments for rotator cuff tendinitis and bursitis may also include ultrasound therapy. Surgery may be an option if your shoulder doesn't feel better in 6 to 12 months. \n Treatments for a torn rotator cuff may also include heat to the sore area or electrical stimulation of the nerves and muscles (transcutaneous electrical nerve stimulation, TENS). \n You provider may suggest surgery if your tear is large or is from a recent injury, or symptoms last for 6 to 12 months.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "What is a rotator cuff? \n Your rotator cuff is part of your shoulder joint . It's a group of muscles and tendons that holds the top part of your upper arm bone firmly in your shoulder socket. The rotator cuff keeps your shoulder stable when you move your arm in any direction.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "What are rotator cuff injuries? \n Rotator cuff injuries are common. Most of them are wear-and-tear injuries from doing the same arm movements over and over - especially reaching over your head. With time, the tissues in the rotator cuff break down, leading to these injuries:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Tendinitis . The tendons in the rotator cuff connect your muscles to your shoulder bones. In tendinitis, the tendons become irritated and swollen from being pinched during shoulder movements. \n Bursitis . The bursa is a small, fluid-filled sac that pads the space between the rotator cuff and the bones of your shoulder. Bursitis happens when the muscle and bone rub the bursa too much. It swells with extra fluid, which causes pain \n Rotator cuff tears. Tears in a rotator cuff tendon can happen over time or suddenly from an injury, such as falling on an outstretched arm or lifting something heavy. A tear may go part way through a tendon (partial tear) or all the way through (full tear).",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Who is more likely to develop a rotator cuff injury? \n Anyone can develop a rotator cuff injury. But certain people are more likely to have one:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "People over age 40. Most rotator cuff injuries are from the wear and tear of aging. By age 80, most adults have tears. \n Athletes. Playing sports with repeated shoulder movements increases the risk of a rotator cuff injury, for example, tennis, swimming, and baseball - especially pitching. \n People in jobs that require a lot of reaching overhead or heavy lifting. Carpenters, construction workers, and painters are examples of workers who may be more likely to have rotator cuff problems.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/rotatorcuffinjuries.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "rotator cuff injuries",
+          "text": "What are the treatments for rotator cuff injuries? \n The best treatment for you depends on your age, how much your injury bothers you, and whether your injury was sudden or happened from wear and tear.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Treatments for rotator cuff injuries often include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Treatments for rotator cuff tendinitis and bursitis may also include ultrasound therapy. Surgery may be an option if your shoulder doesn't feel better in 6 to 12 months. \n Treatments for a torn rotator cuff may also include heat to the sore area or electrical stimulation of the nerves and muscles (transcutaneous electrical nerve stimulation, TENS). \n You provider may suggest surgery if your tear is large or is from a recent injury, or symptoms last for 6 to 12 months.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "What is a rotator cuff? \n Your rotator cuff is part of your shoulder joint . It's a group of muscles and tendons that holds the top part of your upper arm bone firmly in your shoulder socket. The rotator cuff keeps your shoulder stable when you move your arm in any direction.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "What are rotator cuff injuries? \n Rotator cuff injuries are common. Most of them are wear-and-tear injuries from doing the same arm movements over and over - especially reaching over your head. With time, the tissues in the rotator cuff break down, leading to these injuries:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Tendinitis . The tendons in the rotator cuff connect your muscles to your shoulder bones. In tendinitis, the tendons become irritated and swollen from being pinched during shoulder movements. \n Bursitis . The bursa is a small, fluid-filled sac that pads the space between the rotator cuff and the bones of your shoulder. Bursitis happens when the muscle and bone rub the bursa too much. It swells with extra fluid, which causes pain \n Rotator cuff tears. Tears in a rotator cuff tendon can happen over time or suddenly from an injury, such as falling on an outstretched arm or lifting something heavy. A tear may go part way through a tendon (partial tear) or all the way through (full tear).",
+          "trust_score": 1.0
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "Who is more likely to develop a rotator cuff injury? \n Anyone can develop a rotator cuff injury. But certain people are more likely to have one:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "rotator cuff injuries",
+          "text": "People over age 40. Most rotator cuff injuries are from the wear and tear of aging. By age 80, most adults have tears. \n Athletes. Playing sports with repeated shoulder movements increases the risk of a rotator cuff injury, for example, tennis, swimming, and baseball - especially pitching. \n People in jobs that require a lot of reaching overhead or heavy lifting. Carpenters, construction workers, and painters are examples of workers who may be more likely to have rotator cuff problems.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "ovarian disorders",
+      "drugs": [],
+      "treatment_modalities": [
+        "chemotherapy",
+        "surgery",
+        "medicines",
+        "lifestyle changes"
+      ],
+      "citations": [
+        {
+          "symptom": "painful menstrual cramps",
+          "pmid": "39724866",
+          "title": "Update on Medical Treatment of Endometriosis: New Drugs or New Therapeutic Approaches?",
+          "year": "2025",
+          "confidence": 0.8862,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6986264572583107,
+          "abstract_snippet": "No conceptually new drugs for the safe and successful cure of endometriosis are likely to become available soon. Hormonal modulation of ovarian function and suppression of menstruation remain the pillars of disease control. However, existing drugs may be used following novel modalities to limit the"
+        },
+        {
+          "symptom": "abnormal vaginal bleeding",
+          "pmid": "34339416",
+          "title": "Menopausal hormone therapy and women's health: An umbrella review.",
+          "year": "2021",
+          "confidence": 0.8754,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7081886660915578,
+          "abstract_snippet": "There remains uncertainty about the impact of menopausal hormone therapy (MHT) on women's health. A systematic, comprehensive assessment of the effects on multiple outcomes is lacking. We conducted an umbrella review to comprehensively summarize evidence on the benefits and harms of MHT across diver"
+        },
+        {
+          "symptom": "pelvic pain",
+          "pmid": "34899597",
+          "title": "Pathogenesis Based Diagnosis and Treatment of Endometriosis.",
+          "year": "2021",
+          "confidence": 0.8747,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8786151993176977,
+          "abstract_snippet": "Understanding the pathophysiology of endometriosis is changing our diagnosis and treatment. Endometriosis lesions are clones of specific cells, with variable characteristics as aromatase activity and progesterone resistance. Therefore the GE theory postulates GE incidents to start endometriosis, whi"
+        },
+        {
+          "symptom": "vaginal discharge",
+          "pmid": "37996138",
+          "title": "Early-stage serous fallopian tube carcinoma.",
+          "year": "2023",
+          "confidence": 0.8649,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.774070292079954,
+          "abstract_snippet": "Primary fallopian tube carcinoma (PFTC) is a rare disease. Its location, close association with epithelial ovarian carcinoma, and lack of specific signs and symptoms make diagnosis challenging especially in its early stages. We report a postmenopausal patient who presented with a 2-month history of"
+        },
+        {
+          "symptom": "nausea",
+          "pmid": "31562799",
+          "title": "Niraparib in Patients with Newly Diagnosed Advanced Ovarian Cancer.",
+          "year": "2019",
+          "confidence": 0.8581,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.645523321801323,
+          "abstract_snippet": "Niraparib, an inhibitor of poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP), has been associated with significantly increased progression-free survival among patients with recurrent ovarian cancer after platinum-based chemotherapy, regardless of the presence or absence of <i>BRCA</i> mutat"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "ovarian disorders",
+          "text": "What are the treatments for ovarian disorders? \n Treatment depends on the ovarian disorder, your symptoms, overall health, and plans for pregnancy. Treatment can include medicines, such as pain relievers or hormonal birth control , lifestyle changes to reduce symptoms, or sometimes surgery. Ovarian cancer may require surgery, chemotherapy , or other targeted therapy.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "What are ovaries? \n The ovaries are a pair of female reproductive glands that make eggs and female hormones . Women have one ovary on each side of the uterus (where a fetus grows during pregnancy). Each ovary is about the size and shape of an almond.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Ovaries play a role in menstruation , pregnancy, and menopause . Your ovaries:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Produce and store eggs that are released during ovulation (when an egg leaves the ovary and travels into the fallopian tube). If a sperm fertilizes the egg, you can become pregnant. \n Make the female hormones estrogen and progesterone. \n Stop making those hormones and releasing eggs during menopause.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Some medical problems can affect the ovaries. These can cause various symptoms, and some ovarian disorders may need prompt treatment.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "What are the types of ovarian disorders? \n Some problems that can happen with the ovaries can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Ovarian cancer is when a cancerous tumor forms in the tissues of an ovary. \n Ovarian cysts are fluid-filled sacs in or on an ovary. \n Polycystic ovary syndrome (PCOS) is a set of symptoms related to an imbalance of hormones. \n Primary ovarian insufficiency is when your ovaries stop working before age 40. \n Ovarian torsion is a twisting of the ovary. \n Endometriosis is when tissue like the lining in your uterus grows in other places in your body. It may affect the ovaries, fallopian tubes, and tissue lining the pelvis. \n Pelvic inflammatory disease is an infection and inflammation of the uterus, ovaries, and other female reproductive organs. \n Ovarian tumors.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "What causes ovarian disorders? \n Ovarian disorders can happen for different reasons depending on the condition. Sometimes the cause is unknown.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/ovariandisorders.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "ovarian disorders",
+          "text": "What are the treatments for ovarian disorders? \n Treatment depends on the ovarian disorder, your symptoms, overall health, and plans for pregnancy. Treatment can include medicines, such as pain relievers or hormonal birth control , lifestyle changes to reduce symptoms, or sometimes surgery. Ovarian cancer may require surgery, chemotherapy , or other targeted therapy.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "What are ovaries? \n The ovaries are a pair of female reproductive glands that make eggs and female hormones . Women have one ovary on each side of the uterus (where a fetus grows during pregnancy). Each ovary is about the size and shape of an almond.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Ovaries play a role in menstruation , pregnancy, and menopause . Your ovaries:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Produce and store eggs that are released during ovulation (when an egg leaves the ovary and travels into the fallopian tube). If a sperm fertilizes the egg, you can become pregnant. \n Make the female hormones estrogen and progesterone. \n Stop making those hormones and releasing eggs during menopause.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Some medical problems can affect the ovaries. These can cause various symptoms, and some ovarian disorders may need prompt treatment.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "What are the types of ovarian disorders? \n Some problems that can happen with the ovaries can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "Ovarian cancer is when a cancerous tumor forms in the tissues of an ovary. \n Ovarian cysts are fluid-filled sacs in or on an ovary. \n Polycystic ovary syndrome (PCOS) is a set of symptoms related to an imbalance of hormones. \n Primary ovarian insufficiency is when your ovaries stop working before age 40. \n Ovarian torsion is a twisting of the ovary. \n Endometriosis is when tissue like the lining in your uterus grows in other places in your body. It may affect the ovaries, fallopian tubes, and tissue lining the pelvis. \n Pelvic inflammatory disease is an infection and inflammation of the uterus, ovaries, and other female reproductive organs. \n Ovarian tumors.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "ovarian disorders",
+          "text": "What causes ovarian disorders? \n Ovarian disorders can happen for different reasons depending on the condition. Sometimes the cause is unknown.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "fibromyalgia",
+      "drugs": [],
+      "treatment_modalities": [
+        "medicines",
+        "lifestyle changes",
+        "talk therapy"
+      ],
+      "citations": [
+        {
+          "symptom": "chronic pain",
+          "pmid": "37812528",
+          "title": "Chronic Pain Syndromes: Fibromyalgia.",
+          "year": "2023",
+          "confidence": 0.9426,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6729457271556826,
+          "abstract_snippet": "Fibromyalgia is a chronic pain syndrome that is considered a pain processing disorder; its pathophysiology is not completely understood. The estimated prevalence in the general population varies from 0.5% to 12%, depending on the population studied and diagnostic criteria used. It is more common in"
+        },
+        {
+          "symptom": "fatigue",
+          "pmid": "32721388",
+          "title": "Effectiveness of Exercise on Fatigue and Sleep Quality in Fibromyalgia: A Systematic Review and Meta-analysis of Randomized Trials.",
+          "year": "2021",
+          "confidence": 0.9251,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5751724103365413,
+          "abstract_snippet": "To determine the effects of exercise on fatigue and sleep quality in fibromyalgia (primary aim) and to identify which type of exercise is the most effective in achieving these outcomes (secondary aim). PubMed and Web of Science were searched from inception until October 18,&#xa0;2018. Eligible studi"
+        },
+        {
+          "symptom": "stiffness",
+          "pmid": "33648522",
+          "title": "Juvenile primary Fibromyalgia Syndrome: epidemiology, etiology, pathogenesis, clinical manifestations and diagnosis.",
+          "year": "2021",
+          "confidence": 0.9067,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7027711550892897,
+          "abstract_snippet": "Juvenile primary fibromyalgia syndrome (JPFS) is a chronic, musculoskeletal pain syndrome affecting children and adolescents, most commonly adolescent girls. The syndrome has a multifactorial etiology, with altered central pain processing playing an important role. The hallmark symptom is severe, wi"
+        },
+        {
+          "symptom": "trouble sleeping",
+          "pmid": "41047726",
+          "title": "Efficacy and safety of TNX-102 SL in patients with fibromyalgia: a systematic review and meta-analysis.",
+          "year": "2025",
+          "confidence": 0.8804,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5641952619034464,
+          "abstract_snippet": "TNX-102 SL is a new sublingual tablet formulation of cyclobenzaprine (CBP) for rapid transmucosal absorption. We aimed to evaluate the efficacy and safety of TNX-102 SL in improving pain and sleep quality in patients with fibromyalgia (FM). Searches were conducted in Embase, PubMed, Cochrane Library"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "fibromyalgia",
+          "text": "What are the treatments for fibromyalgia? \n Not all providers are familiar with fibromyalgia and its treatment. You should see a provider or team of providers who specialize in the treatment of fibromyalgia.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "There is no cure for fibromyalgia, so treatment focuses on relieving the symptoms. Providers usually use a combination of treatments, including medicines, lifestyle changes, talk therapy, and complementary therapies:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Fibromyalgia is chronic (long-lasting) condition that causes pain all over the body, fatigue , and other symptoms. There is no cure, but treatments can help with the symptoms.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "What causes fibromyalgia? \n The exact cause of fibromyalgia is unknown. Studies of the brains of people with fibromyalgia found that they seem to process pain differently than people who don't have it. They may feel pain when others do not, and they may also have a more severe reaction to pain.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Fibromyalgia can run in families, so genetics may also play a role. Other factors may also be involved, such as having certain diseases that cause pain.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Who is at risk for fibromyalgia? \n Anyone can get fibromyalgia, but it is more common in:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Women; they are twice as likely to have fibromyalgia \n Middle-aged people; your chance of having it increases as you get older \n People with certain diseases, such as lupus , rheumatoid arthritis , osteoarthritis or ankylosing spondylitis \n People who have a family member with fibromyalgia",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "What are the symptoms of fibromyalgia? \n The main symptoms of fibromyalgia are:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/fibromyalgia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "fibromyalgia",
+          "text": "What are the treatments for fibromyalgia? \n Not all providers are familiar with fibromyalgia and its treatment. You should see a provider or team of providers who specialize in the treatment of fibromyalgia.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "There is no cure for fibromyalgia, so treatment focuses on relieving the symptoms. Providers usually use a combination of treatments, including medicines, lifestyle changes, talk therapy, and complementary therapies:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Fibromyalgia is chronic (long-lasting) condition that causes pain all over the body, fatigue , and other symptoms. There is no cure, but treatments can help with the symptoms.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "What causes fibromyalgia? \n The exact cause of fibromyalgia is unknown. Studies of the brains of people with fibromyalgia found that they seem to process pain differently than people who don't have it. They may feel pain when others do not, and they may also have a more severe reaction to pain.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Fibromyalgia can run in families, so genetics may also play a role. Other factors may also be involved, such as having certain diseases that cause pain.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Who is at risk for fibromyalgia? \n Anyone can get fibromyalgia, but it is more common in:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "Women; they are twice as likely to have fibromyalgia \n Middle-aged people; your chance of having it increases as you get older \n People with certain diseases, such as lupus , rheumatoid arthritis , osteoarthritis or ankylosing spondylitis \n People who have a family member with fibromyalgia",
+          "trust_score": 1.0
+        },
+        {
+          "question": "fibromyalgia",
+          "text": "What are the symptoms of fibromyalgia? \n The main symptoms of fibromyalgia are:",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}

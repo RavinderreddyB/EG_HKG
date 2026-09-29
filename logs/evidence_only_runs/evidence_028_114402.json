@@ -1,0 +1,317 @@
+{
+  "symptoms": [
+    "visual disturbances",
+    "fast heart rate",
+    "red spots over body"
+  ],
+  "resolved_symptoms": [
+    "fast heart rate",
+    "red spots over body",
+    "visual disturbances"
+  ],
+  "diseases": [
+    {
+      "disease": "migraine",
+      "drugs": [
+        "ibuprofen",
+        "propranolol",
+        "sumatriptan"
+      ],
+      "treatment_modalities": [],
+      "citations": [],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Researchers believe that migraine is the result of fundamental neurological abnormalities caused by genetic mutations at work in the brain. New models are aiding scientists in studying the basic science involved in the biological cascade, genetic components and mechanisms of migraine. Understanding the causes of migraine as well as the events that effect them will give researchers the opportunity to develop and test drugs that could be more targeted to preventing or interrupting attacks entirely. Therapies currently being tested for their effectiveness in treating migraine include magnesium, coenzyme Q10, vitamin B12, riboflavin, fever-few, and butterbur. \n                \nIn 2010, a team of researchers found a common mutation in the gene TRESK which contains instructions for a certain potassium ion channel. Potassium channels are important for keeping a nerve cell at rest and mutations in them can lead to overactive cells that respond to much lower levels of pain. Large genetic analyses similar to the one used to identify TRESK will most likely lead to the identification of a number of other genes linked to migraine.",
+          "question": "what research (or clinical trials) is being done for Migraine ?",
+          "score": 0.02866257354617119,
+          "rerank_score": 4.605221271514893,
+          "trust_score": 0.9222435295029443
+        },
+        {
+          "text": "When headaches occur three or more times a month, preventive treatment is usually recommended. Drug therapy, biofeedback training, stress reduction, and elimination of certain foods from the diet are the most common methods of preventing and controlling migraine and other vascular headaches. Regular exercise, such as swimming or vigorous walking, can also reduce the frequency and severity of migraine headaches. Drug therapy for migraine is often combined with biofeedback and relaxation training. One of the most commonly used drugs for the relief of migraine symptoms is sumatriptan. Drugs used to prevent migraine also include methysergide maleate, which counteracts blood vessel constriction; propranolol hydrochloride, which also reduces the frequency and severity of migraine headaches; ergotamine tartrate, a vasoconstrictor that helps counteract the painful dilation stage of the headache; amitriptyline, an antidepressant; valproic acid, an anticonvulsant; and verapamil, a calcium channel blocker.",
+          "question": "What are the treatments for Headache ?",
+          "score": 0.02980130910873413,
+          "rerank_score": 4.47862434387207,
+          "trust_score": 0.9120405198919176
+        },
+        {
+          "text": "There is no absolute cure for migraine since its pathophysiology has yet to be fully understood. There are two ways to approach the treatment of migraine headache with drugs: prevent the attacks, or relieve the symptoms during the attacks. Prevention involves the use of medications and behavioral changes. Drugs originally developed for epilepsy, depression, or high blood pressure to prevent future attacks have been shown to be extremely effective in treating migraine. Botulinum toxin A has been shown to be effective in prevention of chronic migraine. Behaviorally, stress management strategies, such as exercise, relaxation techniques, biofeedback mechanisms, and other therapies designed to limit daily discomfort, may reduce the number and severity of migraine attacks. Making a log of personal triggers of migraine can also provide useful information for trigger-avoiding lifestyle changes, including dietary considerations, eating regularly scheduled meals with adequate hydration, stopping certain medications, and establishing a consistent sleep schedule. Hormone therapy may help some women whose migraines seem to be linked to their menstrual cycle. A weight loss program is recommended for obese individuals with migraine.\n                \nRelief of symptoms, or acute treatments, during attacks consists of sumatriptan, ergotamine drugs, and analgesics such as ibuprofen and aspirin. The sooner these treatments are administered, the more effective they are.",
+          "question": "What are the treatments for Migraine ?",
+          "score": 0.030631083995103836,
+          "rerank_score": 4.075135707855225,
+          "trust_score": 0.8761468325958546
+        },
+        {
+          "text": "If you suffer from migraine headaches, you're not alone. About 12 percent of the U.S. population gets them. Migraines are recurring attacks of moderate to severe pain. The pain is throbbing or pulsing, and is often on one side of the head. During migraines, people are very sensitive to light and sound. They may also become nauseated and vomit.     Migraine is three times more common in women than in men. Some people can tell when they are about to have a migraine because they see flashing lights or zigzag lines or they temporarily lose their vision.     Many things can trigger a migraine. These include        -  Anxiety    -  Stress    -  Lack of food or sleep     -  Exposure to light    -  Hormonal changes (in women)       Doctors used to believe migraines were linked to the opening and narrowing of blood vessels in the head. Now they believe the cause is related to genes that control the activity of some brain cells. Medicines can help prevent migraine attacks or help relieve symptoms of attacks when they happen. For many people, treatments to relieve stress can also help.    NIH: National Institute of Neurological Disorders and Stroke",
+          "question": "What is (are) Migraine ?",
+          "score": 0.0340573787689209,
+          "rerank_score": 5.836207866668701,
+          "trust_score": 0.07542381189546943
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "what research (or clinical trials) is being done for Migraine ?",
+          "text": "Researchers believe that migraine is the result of fundamental neurological abnormalities caused by genetic mutations at work in the brain. New models are aiding scientists in studying the basic science involved in the biological cascade, genetic components and mechanisms of migraine. Understanding the causes of migraine as well as the events that effect them will give researchers the opportunity to develop and test drugs that could be more targeted to preventing or interrupting attacks entirely. Therapies currently being tested for their effectiveness in treating migraine include magnesium, coenzyme Q10, vitamin B12, riboflavin, fever-few, and butterbur. \n                \nIn 2010, a team of researchers found a common mutation in the gene TRESK which contains instructions for a certain potassium ion channel. Potassium channels are important for keeping a nerve cell at rest and mutations in them can lead to overactive cells that respond to much lower levels of pain. Large genetic analyses similar to the one used to identify TRESK will most likely lead to the identification of a number of other genes linked to migraine.",
+          "trust_score": 0.9222435295029443
+        },
+        {
+          "question": "What are the treatments for Headache ?",
+          "text": "When headaches occur three or more times a month, preventive treatment is usually recommended. Drug therapy, biofeedback training, stress reduction, and elimination of certain foods from the diet are the most common methods of preventing and controlling migraine and other vascular headaches. Regular exercise, such as swimming or vigorous walking, can also reduce the frequency and severity of migraine headaches. Drug therapy for migraine is often combined with biofeedback and relaxation training. One of the most commonly used drugs for the relief of migraine symptoms is sumatriptan. Drugs used to prevent migraine also include methysergide maleate, which counteracts blood vessel constriction; propranolol hydrochloride, which also reduces the frequency and severity of migraine headaches; ergotamine tartrate, a vasoconstrictor that helps counteract the painful dilation stage of the headache; amitriptyline, an antidepressant; valproic acid, an anticonvulsant; and verapamil, a calcium channel blocker.",
+          "trust_score": 0.9120405198919176
+        },
+        {
+          "question": "What are the treatments for Migraine ?",
+          "text": "There is no absolute cure for migraine since its pathophysiology has yet to be fully understood. There are two ways to approach the treatment of migraine headache with drugs: prevent the attacks, or relieve the symptoms during the attacks. Prevention involves the use of medications and behavioral changes. Drugs originally developed for epilepsy, depression, or high blood pressure to prevent future attacks have been shown to be extremely effective in treating migraine. Botulinum toxin A has been shown to be effective in prevention of chronic migraine. Behaviorally, stress management strategies, such as exercise, relaxation techniques, biofeedback mechanisms, and other therapies designed to limit daily discomfort, may reduce the number and severity of migraine attacks. Making a log of personal triggers of migraine can also provide useful information for trigger-avoiding lifestyle changes, including dietary considerations, eating regularly scheduled meals with adequate hydration, stopping certain medications, and establishing a consistent sleep schedule. Hormone therapy may help some women whose migraines seem to be linked to their menstrual cycle. A weight loss program is recommended for obese individuals with migraine.\n                \nRelief of symptoms, or acute treatments, during attacks consists of sumatriptan, ergotamine drugs, and analgesics such as ibuprofen and aspirin. The sooner these treatments are administered, the more effective they are.",
+          "trust_score": 0.8761468325958546
+        },
+        {
+          "question": "What is (are) Migraine ?",
+          "text": "If you suffer from migraine headaches, you're not alone. About 12 percent of the U.S. population gets them. Migraines are recurring attacks of moderate to severe pain. The pain is throbbing or pulsing, and is often on one side of the head. During migraines, people are very sensitive to light and sound. They may also become nauseated and vomit.     Migraine is three times more common in women than in men. Some people can tell when they are about to have a migraine because they see flashing lights or zigzag lines or they temporarily lose their vision.     Many things can trigger a migraine. These include        -  Anxiety    -  Stress    -  Lack of food or sleep     -  Exposure to light    -  Hormonal changes (in women)       Doctors used to believe migraines were linked to the opening and narrowing of blood vessels in the head. Now they believe the cause is related to genes that control the activity of some brain cells. Medicines can help prevent migraine attacks or help relieve symptoms of attacks when they happen. For many people, treatments to relieve stress can also help.    NIH: National Institute of Neurological Disorders and Stroke",
+          "trust_score": 0.07542381189546943
+        }
+      ]
+    },
+    {
+      "disease": "pneumonia",
+      "drugs": [
+        "amoxicillin",
+        "azithromycin",
+        "ceftriaxone"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "chest pain",
+          "pmid": "28763554",
+          "title": "Does This Child Have Pneumonia?: The Rational Clinical Examination Systematic Review.",
+          "year": "2017",
+          "confidence": 0.9276,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7870082124254298,
+          "abstract_snippet": "Pneumonia is a leading cause of morbidity and mortality in children. It is important to identify the clinical symptoms and physical examination findings associated with pneumonia to improve timely diagnosis, prevent significant morbidity, and limit antibiotic overuse. To systematically review the ac"
+        },
+        {
+          "symptom": "cough",
+          "pmid": "37889830",
+          "title": "Automated Cough Sound Analysis for Detecting Childhood Pneumonia.",
+          "year": "2024",
+          "confidence": 0.9256,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6456823936143109,
+          "abstract_snippet": "Pneumonia is one of the leading causes of death in children. Prompt diagnosis and treatment can help prevent these deaths, particularly in resource poor regions where deaths due to pneumonia are highest. Clinical symptom-based screening of childhood pneumonia yields excessive false positives, highli"
+        },
+        {
+          "symptom": "chills",
+          "pmid": "6767579",
+          "title": "Mycoplasma pneumonia.",
+          "year": "1980",
+          "confidence": 0.9227,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8091820832870418,
+          "abstract_snippet": "M. pneumoniae is a common cause of pneumonia. The diagnosis is suspected when the patient presents with symptoms suggesting primary atypical pneumonia including cough, fever, chills, headache, and malaise in association with a segmental or subsegmental pulmonary infiltrate(s), the white blood cell c"
+        },
+        {
+          "symptom": "breathlessness",
+          "pmid": "28763554",
+          "title": "Does This Child Have Pneumonia?: The Rational Clinical Examination Systematic Review.",
+          "year": "2017",
+          "confidence": 0.9175,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7789840955633761,
+          "abstract_snippet": "Pneumonia is a leading cause of morbidity and mortality in children. It is important to identify the clinical symptoms and physical examination findings associated with pneumonia to improve timely diagnosis, prevent significant morbidity, and limit antibiotic overuse. To systematically review the ac"
+        },
+        {
+          "symptom": "sweating",
+          "pmid": "33898133",
+          "title": "Idiopathic Chronic Eosinophilic Pneumonia.",
+          "year": "2021",
+          "confidence": 0.8971,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7886317473209288,
+          "abstract_snippet": "Idiopathic chronic eosinophilic pneumonia (CEP) is a rare disease of unknown cause characterized by eosinophilic alveolar and interstitial infiltration. The authors describe the case of a 46-year-old black man, presenting with insidious onset and progressive course of dyspnea on minimum exertion, co"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "Treatment for pneumonia depends on the type of pneumonia you have and how severe it is. Most people who have community-acquired pneumoniathe most common type of pneumoniaare treated at home.\n                \nThe goals of treatment are to cure the infection and prevent complications.\n                \nGeneral Treatment\n                \nIf you have pneumonia, follow your treatment plan, take all medicines as prescribed, and get ongoing medical care. Ask your doctor when you should schedule followup care. Your doctor may want you to have a chest x ray to make sure the pneumonia is gone.\n                \nAlthough you may start feeling better after a few days or weeks, fatigue (tiredness) can persist for up to a month or more. People who are treated in the hospital may need at least 3 weeks before they can go back to their normal routines.\n                \nBacterial Pneumonia\n                \nBacterial pneumonia is treated with medicines called antibiotics. You should take antibiotics as your doctor prescribes. You may start to feel better before you finish the medicine, but you should continue taking it as prescribed. If you stop too soon, the pneumonia may come back.\n                \nMost people begin to improve after 1 to 3 days of antibiotic treatment. This means that they should feel better and have fewer symptoms, such as cough and fever.\n                \nViral Pneumonia\n                \nAntibiotics don't work when the cause of pneumonia is a virus. If you have viral pneumonia, your doctor may prescribe an antiviral medicine to treat it.\n                \nViral pneumonia usually improves in 1 to 3 weeks.\n                \nTreating Severe Symptoms\n                \nYou may need to be treated in a hospital if:\n                \nYour symptoms are severe\n                \nYou're at risk for complications because of other health problems\n                \nIf the level of oxygen in your bloodstream is low, you may receive oxygen therapy. If you have bacterial pneumonia, your doctor may give you antibiotics through an intravenous (IV) line inserted into a vein.",
+          "question": "What are the treatments for Pneumonia ?",
+          "score": 0.04340822249650955,
+          "rerank_score": 4.835726737976074,
+          "trust_score": 0.9346406422795667
+        },
+        {
+          "text": "Pneumonia (nu-MO-ne-ah) is an infection in one or both of the lungs. Many germssuch as bacteria, viruses, and fungican cause pneumonia.\n                \nThe infection inflames your lungs' air sacs, which are called alveoli (al-VEE-uhl-eye). The air sacs may fill up with fluid or pus, causing symptoms such as a cough with phlegm (a slimy substance), fever, chills, and trouble breathing.\n                \nOverview\n                \nPneumonia and its symptoms can vary from mild to severe. Many factors affect how serious pneumonia is, such as the type of germ causing the infection and your age and overall health.\n                \nPneumonia tends to be more serious for:\n                \nInfants and young children.\n                \nOlder adults (people 65 years or older).\n                \nPeople who have other health problems, such as heart failure, diabetes, or COPD (chronic obstructive pulmonary disease).\n                \nPeople who have weak immune systems as a result of diseases or other factors. Examples of these diseases and factors include HIV/AIDS, chemotherapy (a treatment for cancer), and an organ transplant or blood and marrow stem cell transplant.\n                \nOutlook\n                \nPneumonia is common in the United States. Treatment for pneumonia depends on its cause, how severe your symptoms are, and your age and overall health. Many people can be treated at home, often with oral antibiotics.\n                \nChildren usually start to feel better in 1 to 2 days. For adults, it usually takes 2 to 3 days. Anyone who has worsening symptoms should see a doctor.\n                \nPeople who have severe symptoms or underlying health problems may need treatment in a hospital. It may take 3 weeks or more before they can go back to their normal routines.\n                \nFatigue (tiredness) from pneumonia can last for a month or more.",
+          "question": "What is (are) Pneumonia ?",
+          "score": 0.05039060115814209,
+          "rerank_score": 8.58856201171875,
+          "trust_score": 0.5063634867551702
+        },
+        {
+          "text": "If you have COPD, you can take these steps to prevent complications and control the disabling effects of the disease. - Quit smoking.   - Avoid exposure to pollutants and lung irritants.  - Take precautions against the flu.  - Talk to your doctor about the flu and pneumonia vaccines.  - See your doctor on a regular basis.   - Follow your treatments for COPD exactly as your doctor prescribes. Quit smoking. Avoid exposure to pollutants and lung irritants. Take precautions against the flu. Talk to your doctor about the flu and pneumonia vaccines. See your doctor on a regular basis. Follow your treatments for COPD exactly as your doctor prescribes. Quit Smoking If you smoke, the most important thing you can do to prevent more lung damage is to stop smoking. Quitting can help prevent complications and slow the progress of the disease. It is also important to stay away from people who smoke and places where you know there will be smokers. To help you quit, there are many online resources and several new aids available from your doctor or health care provider. The National Cancer Institute (NCI) has information on smoking cessation. Visit SmokeFree.gov , or check out NCI's  Clear Horizons,  a quit smoking guide for people 50+. You can also visit The American Lung Association, or call 1-800-QUIT NOW (1-800-784-8669). Avoid Exposure to Pollutants and Lung Irritants Try to stay away from other things that could irritate your lungs, like dust and strong fumes. Stay indoors when the outside air quality is poor. You should also stay away from places where there might be cigarette smoke. Take Precautions Against the Flu The flu (influenza) can cause serious problems for people who have COPD. Do your best to avoid crowds during flu season. In addition to avoiding people with the flu, remembering to wash and sanitize your hands can be one of the best ways to guard against getting sick. Talk to Your Doctor About the Flu (influenza) and Pneumonia Vaccines Talk with your doctor about getting a yearly flu shot and whether and when you should get the pneumonia vaccine. Flu shots can reduce your risk of getting the flu, and the pneumonia vaccine lowers your risk for pneumococcal pneumonia (NU-mo-KOK-al nu-MO-ne-ah) and its complications. Both of these illnesses are major health risks for people who have COPD. See Your Doctor Regularly See your doctor or health care provider regularly even if you are feeling fine. Make a list of your breathing symptoms and think about any activities that you can no longer do because of shortness of breath. Be sure to bring a list of all the medicines you are taking to each office visit. Follow Your Treatments Follow your treatments for COPD exactly as your doctor prescribes. They can help you breathe easier, stay more active, and avoid or manage severe symptoms.",
+          "question": "How to prevent COPD ?",
+          "score": 0.022716132923960686,
+          "rerank_score": 1.730989694595337,
+          "trust_score": 0.4528785606125184
+        },
+        {
+          "text": "Pneumonia is an infection in one or both of the lungs. Many germs, such as bacteria, viruses, and fungi, can cause pneumonia. You can also get pneumonia by inhaling a liquid or chemical. People most at risk are older than 65 or younger than 2 years of age, or already have health problems.    Symptoms of pneumonia vary from mild to severe. See your doctor promptly if you       - Have a high fever    - Have shaking chills    - Have a cough with phlegm that doesn't improve or gets worse    - Develop shortness of breath with normal daily activities    - Have chest pain when you breathe or cough    - Feel suddenly worse after a cold or the flu       Your doctor will use your medical history, a physical exam, and lab tests to diagnose pneumonia. Treatment depends on what kind you have. If bacteria are the cause, antibiotics should help. If you have viral pneumonia, your doctor may prescribe an antiviral medicine to treat it.    Preventing pneumonia is always better than treating it. Vaccines are available to prevent pneumococcal pneumonia and the flu. Other preventive measures include washing your hands frequently and not smoking.    NIH: National Heart, Lung, and Blood Institute",
+          "question": "What is (are) Pneumonia ?",
+          "score": 0.040756676346063614,
+          "rerank_score": 7.818794250488281,
+          "trust_score": 0.3365908831545287
+        },
+        {
+          "text": "If you smoke, the most important thing you can do to prevent more lung damage is to stop smoking. It is also important to stay away from people who smoke and places where you know there will be smokers. Avoid exposure to pollutants like dust, fumes, and poor air quality, and take precautions to prevent flu and pneumonia. Following your doctor's instructions with medications and rehabilitative treatment can help alleviate COPD symptoms and control the disabling effects of the disease.",
+          "question": "How to prevent COPD ?",
+          "score": 0.023121876642107964,
+          "rerank_score": -1.0913374423980713,
+          "trust_score": 0.056670668293364805
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What are the treatments for Pneumonia ?",
+          "text": "Treatment for pneumonia depends on the type of pneumonia you have and how severe it is. Most people who have community-acquired pneumoniathe most common type of pneumoniaare treated at home.\n                \nThe goals of treatment are to cure the infection and prevent complications.\n                \nGeneral Treatment\n                \nIf you have pneumonia, follow your treatment plan, take all medicines as prescribed, and get ongoing medical care. Ask your doctor when you should schedule followup care. Your doctor may want you to have a chest x ray to make sure the pneumonia is gone.\n                \nAlthough you may start feeling better after a few days or weeks, fatigue (tiredness) can persist for up to a month or more. People who are treated in the hospital may need at least 3 weeks before they can go back to their normal routines.\n                \nBacterial Pneumonia\n                \nBacterial pneumonia is treated with medicines called antibiotics. You should take antibiotics as your doctor prescribes. You may start to feel better before you finish the medicine, but you should continue taking it as prescribed. If you stop too soon, the pneumonia may come back.\n                \nMost people begin to improve after 1 to 3 days of antibiotic treatment. This means that they should feel better and have fewer symptoms, such as cough and fever.\n                \nViral Pneumonia\n                \nAntibiotics don't work when the cause of pneumonia is a virus. If you have viral pneumonia, your doctor may prescribe an antiviral medicine to treat it.\n                \nViral pneumonia usually improves in 1 to 3 weeks.\n                \nTreating Severe Symptoms\n                \nYou may need to be treated in a hospital if:\n                \nYour symptoms are severe\n                \nYou're at risk for complications because of other health problems\n                \nIf the level of oxygen in your bloodstream is low, you may receive oxygen therapy. If you have bacterial pneumonia, your doctor may give you antibiotics through an intravenous (IV) line inserted into a vein.",
+          "trust_score": 0.9346406422795667
+        },
+        {
+          "question": "What is (are) Pneumonia ?",
+          "text": "Pneumonia (nu-MO-ne-ah) is an infection in one or both of the lungs. Many germssuch as bacteria, viruses, and fungican cause pneumonia.\n                \nThe infection inflames your lungs' air sacs, which are called alveoli (al-VEE-uhl-eye). The air sacs may fill up with fluid or pus, causing symptoms such as a cough with phlegm (a slimy substance), fever, chills, and trouble breathing.\n                \nOverview\n                \nPneumonia and its symptoms can vary from mild to severe. Many factors affect how serious pneumonia is, such as the type of germ causing the infection and your age and overall health.\n                \nPneumonia tends to be more serious for:\n                \nInfants and young children.\n                \nOlder adults (people 65 years or older).\n                \nPeople who have other health problems, such as heart failure, diabetes, or COPD (chronic obstructive pulmonary disease).\n                \nPeople who have weak immune systems as a result of diseases or other factors. Examples of these diseases and factors include HIV/AIDS, chemotherapy (a treatment for cancer), and an organ transplant or blood and marrow stem cell transplant.\n                \nOutlook\n                \nPneumonia is common in the United States. Treatment for pneumonia depends on its cause, how severe your symptoms are, and your age and overall health. Many people can be treated at home, often with oral antibiotics.\n                \nChildren usually start to feel better in 1 to 2 days. For adults, it usually takes 2 to 3 days. Anyone who has worsening symptoms should see a doctor.\n                \nPeople who have severe symptoms or underlying health problems may need treatment in a hospital. It may take 3 weeks or more before they can go back to their normal routines.\n                \nFatigue (tiredness) from pneumonia can last for a month or more.",
+          "trust_score": 0.5063634867551702
+        },
+        {
+          "question": "How to prevent COPD ?",
+          "text": "If you have COPD, you can take these steps to prevent complications and control the disabling effects of the disease. - Quit smoking.   - Avoid exposure to pollutants and lung irritants.  - Take precautions against the flu.  - Talk to your doctor about the flu and pneumonia vaccines.  - See your doctor on a regular basis.   - Follow your treatments for COPD exactly as your doctor prescribes. Quit smoking. Avoid exposure to pollutants and lung irritants. Take precautions against the flu. Talk to your doctor about the flu and pneumonia vaccines. See your doctor on a regular basis. Follow your treatments for COPD exactly as your doctor prescribes. Quit Smoking If you smoke, the most important thing you can do to prevent more lung damage is to stop smoking. Quitting can help prevent complications and slow the progress of the disease. It is also important to stay away from people who smoke and places where you know there will be smokers. To help you quit, there are many online resources and several new aids available from your doctor or health care provider. The National Cancer Institute (NCI) has information on smoking cessation. Visit SmokeFree.gov , or check out NCI's  Clear Horizons,  a quit smoking guide for people 50+. You can also visit The American Lung Association, or call 1-800-QUIT NOW (1-800-784-8669). Avoid Exposure to Pollutants and Lung Irritants Try to stay away from other things that could irritate your lungs, like dust and strong fumes. Stay indoors when the outside air quality is poor. You should also stay away from places where there might be cigarette smoke. Take Precautions Against the Flu The flu (influenza) can cause serious problems for people who have COPD. Do your best to avoid crowds during flu season. In addition to avoiding people with the flu, remembering to wash and sanitize your hands can be one of the best ways to guard against getting sick. Talk to Your Doctor About the Flu (influenza) and Pneumonia Vaccines Talk with your doctor about getting a yearly flu shot and whether and when you should get the pneumonia vaccine. Flu shots can reduce your risk of getting the flu, and the pneumonia vaccine lowers your risk for pneumococcal pneumonia (NU-mo-KOK-al nu-MO-ne-ah) and its complications. Both of these illnesses are major health risks for people who have COPD. See Your Doctor Regularly See your doctor or health care provider regularly even if you are feeling fine. Make a list of your breathing symptoms and think about any activities that you can no longer do because of shortness of breath. Be sure to bring a list of all the medicines you are taking to each office visit. Follow Your Treatments Follow your treatments for COPD exactly as your doctor prescribes. They can help you breathe easier, stay more active, and avoid or manage severe symptoms.",
+          "trust_score": 0.4528785606125184
+        },
+        {
+          "question": "What is (are) Pneumonia ?",
+          "text": "Pneumonia is an infection in one or both of the lungs. Many germs, such as bacteria, viruses, and fungi, can cause pneumonia. You can also get pneumonia by inhaling a liquid or chemical. People most at risk are older than 65 or younger than 2 years of age, or already have health problems.    Symptoms of pneumonia vary from mild to severe. See your doctor promptly if you       - Have a high fever    - Have shaking chills    - Have a cough with phlegm that doesn't improve or gets worse    - Develop shortness of breath with normal daily activities    - Have chest pain when you breathe or cough    - Feel suddenly worse after a cold or the flu       Your doctor will use your medical history, a physical exam, and lab tests to diagnose pneumonia. Treatment depends on what kind you have. If bacteria are the cause, antibiotics should help. If you have viral pneumonia, your doctor may prescribe an antiviral medicine to treat it.    Preventing pneumonia is always better than treating it. Vaccines are available to prevent pneumococcal pneumonia and the flu. Other preventive measures include washing your hands frequently and not smoking.    NIH: National Heart, Lung, and Blood Institute",
+          "trust_score": 0.3365908831545287
+        },
+        {
+          "question": "How to prevent COPD ?",
+          "text": "If you smoke, the most important thing you can do to prevent more lung damage is to stop smoking. It is also important to stay away from people who smoke and places where you know there will be smokers. Avoid exposure to pollutants like dust, fumes, and poor air quality, and take precautions to prevent flu and pneumonia. Following your doctor's instructions with medications and rehabilitative treatment can help alleviate COPD symptoms and control the disabling effects of the disease.",
+          "trust_score": 0.056670668293364805
+        }
+      ]
+    },
+    {
+      "disease": "hyperthyroidism",
+      "drugs": [
+        "methimazole",
+        "propylthiouracil",
+        "propranolol"
+      ],
+      "treatment_modalities": [],
+      "citations": [
+        {
+          "symptom": "muscle weakness",
+          "pmid": "36254023",
+          "title": "Graves' hyperthyroidism induced pancytopenia, epilepsia and muscle weakness: A case report.",
+          "year": "2022",
+          "confidence": 0.9179,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8360783463882405,
+          "abstract_snippet": "Pancytopenia and epilepsia are rare complications of Graves' disease (GD). Muscle weakness is a physical sign of GD. It is extremely rare for GD patients to present 3 symptoms at the same time. A 35-year-old female was admitted to hospital for dizziness for 1 day. The results of laboratory examinati"
+        },
+        {
+          "symptom": "fast heart rate",
+          "pmid": "32206604",
+          "title": "Hyperthyroidism.",
+          "year": "2020",
+          "confidence": 0.9168,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7556386065022781,
+          "abstract_snippet": "Hyperthyroidism is a condition where the thyroid gland produces and secretes inappropriately high amounts of thyroid hormone which can lead to thyrotoxicosis. The prevalence of hyperthyroidism in the United States is approximately 1.2%. There are many different causes of hyperthyroidism, and the mos"
+        },
+        {
+          "symptom": "excessive hunger",
+          "pmid": "10396860",
+          "title": "Hunger sensation in Graves' disease before and after pharmacological therapy.",
+          "year": "1999",
+          "confidence": 0.9056,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3079694739639538,
+          "abstract_snippet": "Hunger sensation (HS) provides information about the need of eating in order to counterbalance the energy expenditure (EE). HS was, thus, investigated in patients affected by Graves' disease (PAGD), a clinical condition characterized by excessive EE. Ten newly diagnosed PAGD were investigated before"
+        },
+        {
+          "symptom": "diarrhoea",
+          "pmid": "37847271",
+          "title": "Hyperthyroidism: A Review.",
+          "year": "2023",
+          "confidence": 0.8957,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.79030062901983,
+          "abstract_snippet": "Overt hyperthyroidism, defined as suppressed thyrotropin (previously thyroid-stimulating hormone) and high concentration of triiodothyronine (T3) and/or free thyroxine (FT4), affects approximately 0.2% to 1.4% of people worldwide. Subclinical hyperthyroidism, defined as low concentrations of thyrotr"
+        },
+        {
+          "symptom": "irritability",
+          "pmid": "36861168",
+          "title": "[Research Advances on the Relationship between Overt Hyperthyroidism and Risk of Erectile Dysfunction].",
+          "year": "2023",
+          "confidence": 0.8931,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.40707968614761364,
+          "abstract_snippet": "Studies have demonstrated the detrimental effects of overt hyperthyroidism on sexual functioning.Here,we comprehensively reviewed the studies that focused on the association between overt hyperthyroidism and erectile dysfunction (ED).After the systematic searching for relevant studies,we find that o"
+        }
+      ],
+      "evidence_source": "MedQuAD_RAG",
+      "ranked_evidence": [
+        {
+          "text": "- Hyperthyroidism is a disorder that occurs when the thyroid gland makes more thyroid hormone than the body needs.  - Hyperthyroidism is most often caused by Graves disease, an autoimmune disorder. Other causes include thyroid nodules, thyroiditis, consuming too much iodine, and overmedicating with synthetic thyroid hormone.  - Some symptoms of hyperthyroidism are nervousness or irritability, fatigue or muscle weakness, heat intolerance, trouble sleeping, hand tremors, rapid and irregular heartbeat, frequent bowel movements or diarrhea, weight loss, mood swings, and goiter.  - Hyperthyroidism is much more common in women than men.  - Hyperthyroidism is also more common in people older than age 60 and is often caused by thyroid nodules. Hyperthyroidism in this age group is sometimes misdiagnosed as depression or dementia. For people older than age 60, subclinical hyperthyroidism increases their chance of developing atrial fibrillation.  - Women with hyperthyroidism should discuss their condition with their health care provider before becoming pregnant.  - Hyperthyroidism is treated with medications, radioiodine therapy, or thyroid surgery. No single treatment works for everyone.",
+          "question": "What to do for Hyperthyroidism ?",
+          "score": 0.037560321390628815,
+          "rerank_score": 9.232649803161621,
+          "trust_score": 0.9988215527766761
+        },
+        {
+          "text": "Hyperthyroidism is a disorder that occurs when the thyroid gland makes more thyroid hormone than the body needs. Hyperthyroidism is sometimes called thyrotoxicosis, the technical term for too much thyroid hormone in the blood. Thyroid hormones circulate throughout the body in the bloodstream and act on virtually every tissue and cell in the body. Hyperthyroidism causes many of the bodys functions to speed up. About 1 percent of the U.S. population has hyperthyroidism.1",
+          "question": "What is (are) Hyperthyroidism ?",
+          "score": 0.054043177515268326,
+          "rerank_score": 10.98862361907959,
+          "trust_score": 0.9074385655328436
+        },
+        {
+          "text": "Health care providers treat hyperthyroidism with medications, radioiodine therapy, or thyroid surgery. The aim of treatment is to bring thyroid hormone levels to a normal state, thus preventing long-term complications, and to relieve uncomfortable symptoms. No single treatment works for everyone.\n                \nTreatment depends on the cause of hyperthyroidism and how severe it is. When choosing a treatment, health care providers consider a patients age, possible allergies to or side effects of the medications, other conditions such as pregnancy or heart disease, and the availability of an experienced thyroid surgeon.\n                \nFinding the right specialist for treatment is an important first step. Some professional societies, listed under For More Information, and endocrinology departments in local teaching hospitals can provide the names of local specialists.\n                \nMedications\n                \nBeta blockers. Health care providers may prescribe a medication called a beta blocker to reduce symptoms until other treatments take effect. Beta blockers act quickly to relieve many of the symptoms of hyperthyroidism, such as tremors, rapid heartbeat, and nervousness, but do not stop thyroid hormone production. Most people feel better within hours of taking these medications.\n                \nAntithyroid medications. Antithyroid therapy is the easiest way to treat hyperthyroidism. Antithyroid medications interfere with thyroid hormone production but dont usually have permanent results. Antithyroid medications are not used to treat thyroiditis.\n                \nOnce treatment with antithyroid medications begins, thyroid hormone levels may not move into the normal range for several weeks or months. The average treatment time is about 1 to 2 years, but treatment can continue for many years.\n                \nAntithyroid medications can cause side effects in some people, including\n                \n- allergic reactions such as rashes and itching  - a decrease in the number of white blood cells in the body, which can lower resistance to infection  - liver failure, in rare cases\n                \nStop your antithyroid medication and call your health care provider right away if you develop any of the following while taking antithyroid medications:   - fatigue   - weakness   - vague abdominal pain   - loss of appetite   - skin rash or itching   - easy bruising   - yellowing of the skin or whites of the eyes, called jaundice   - persistent sore throat   - fever\n                \nIn the United States, health care providers prescribe the antithyroid medication methimazole (Tapazole, Northyx) for most types of hyperthyroidism.\n                \nAntithyroid medications and pregnancy. Because pregnant and breastfeeding women cannot receive radioiodine therapy, they are usually treated with an antithyroid medication instead. However, experts agree that women in their first trimester of pregnancy should not take methimazole due to the rare occurrence of damage to the fetus. Another antithyroid medication, propylthiouracil (PTU), is available for women in this stage of pregnancy or for women who are allergic to or intolerant of methimazole and have no other treatment options.\n                \nHealth care providers may prescribe PTU for the first trimester of pregnancy and switch to methimazole for the second and third trimesters. Some women are able to stop taking antithyroid medications in the last 4 to 8 weeks of pregnancy due to the remission of hyperthyroidism that occurs during pregnancy. However these women should continue to be monitored for recurrence of thyroid problems following delivery.\n                \nStudies have shown that mothers taking antithyroid medications may safely breastfeed. However, they should take only moderate doses, less than 1020 milligrams daily, of the antithyroid medication methimazole. Doses should be divided and taken after feedings, and the infants should be monitored for side effects.4\n                \nWomen requiring higher doses of the antithyroid medication to control hyperthyroidism should not breastfeed.\n                \nRadioiodine Therapy\n                \nRadioactive iodine-131 is a common and effective treatment for hyperthyroidism. In radioiodine therapy, patients take radioactive iodine-131 by mouth. Because the thyroid gland collects iodine to make thyroid hormone, it will collect the radioactive iodine from the bloodstream in the same way. The radioactive iodine gradually destroys the cells that make up the thyroid gland but does not affect other body tissues.\n                \nMore than one round of radioiodine therapy may be needed to bring thyroid hormone production into the normal range. In the meantime, treatment with beta blockers can control symptoms.\n                \nAlmost everyone who receives radioactive iodine treatment eventually develops hypothyroidism. But health care providers consider this an acceptable outcome because hypothyroidism is easier to treat and has fewer long-term complications than hyperthyroidism. People who develop hypothyroidism must take synthetic thyroid hormone.\n                \nRadioiodine and pregnancy. Although iodine-131 is not known to cause birth defects or infertility, radioiodine therapy is not used in pregnant women or women who are breastfeeding. Radioactive iodine can be harmful to the fetus thyroid and can be passed from mother to child in breast milk. Experts recommend that women wait a year after treatment before becoming pregnant.\n                \nThyroid Surgery\n                \nThe least-used treatment is surgery to remove part or most of the thyroid gland. Sometimes surgery may be used to treat\n                \n- pregnant women who cannot tolerate antithyroid medications  - people with large goiters  - people who have cancerous thyroid nodules, though hyperthyroidism does not cause cancer\n                \nBefore surgery, the health care provider may prescribe antithyroid medications to temporarily bring a patients thyroid hormone levels into the normal range. This presurgical treatment prevents a condition called thyroid storma sudden, severe worsening of symptomsthat can occur when hyperthyroid patients have general anesthesia.\n                \nWhen part of the thyroid is removedas a treatment for toxic nodules, for examplethyroid hormone levels may return to normal. But some surgical patients may still develop hypothyroidism and need to take synthetic thyroxine, a medication that is identical to the hormone, T4, made by the thyroid. If the entire thyroid is removed, lifelong thyroid hormone medication is necessary. After surgery, health care providers will continue to monitor patients thyroid hormone levels.\n                \nAlthough uncommon, certain problems can occur in thyroid surgery. The parathyroid glands can be damaged because they are located very close to the thyroid. These glands help control calcium and phosphorus levels in the body. Damage to the laryngeal nerve, also located close to the thyroid, can lead to voice changes or breathing problems. But when surgery is performed by an experienced surgeon, less than 1 percent of patients have permanent complications.5 People who need help finding a surgeon can contact one of the organizations listed under For More Information.",
+          "question": "What are the treatments for Hyperthyroidism ?",
+          "score": 0.03712368384003639,
+          "rerank_score": 3.0956029891967773,
+          "trust_score": 0.742147533684617
+        },
+        {
+          "text": "- Graves disease is the most common cause of hyperthyroidism in the United States.  - In Graves disease, the immune system stimulates the thyroid gland to make too much thyroid hormone.  - Common symptoms of hyperthyroidism include nervousness or irritability, fatigue or muscle weakness, heat intolerance, trouble sleeping, hand tremors, rapid and irregular heartbeat, frequent bowel movements or diarrhea, weight loss, and goiter.  - People with Graves disease may also have bulging eyes, a condition called Graves ophthalmopathy (GO).  - Graves disease is most often treated with radioiodine therapy, which gradually destroys the cells that make up the thyroid gland. Anti-thyroid medications and surgery to remove the thyroid are sometimes used.  - The eye problems associated with Graves disease may require separate treatment.  - A pregnant woman who has been treated with surgery or radioactive iodine prior to becoming pregnant should inform her health care provider so her baby can be monitored for thyroid-related problems later in the pregnancy.",
+          "question": "What to do for Graves' Disease ?",
+          "score": 0.026242490857839584,
+          "rerank_score": -0.7346204519271851,
+          "trust_score": 0.07653192364155037
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "What to do for Hyperthyroidism ?",
+          "text": "- Hyperthyroidism is a disorder that occurs when the thyroid gland makes more thyroid hormone than the body needs.  - Hyperthyroidism is most often caused by Graves disease, an autoimmune disorder. Other causes include thyroid nodules, thyroiditis, consuming too much iodine, and overmedicating with synthetic thyroid hormone.  - Some symptoms of hyperthyroidism are nervousness or irritability, fatigue or muscle weakness, heat intolerance, trouble sleeping, hand tremors, rapid and irregular heartbeat, frequent bowel movements or diarrhea, weight loss, mood swings, and goiter.  - Hyperthyroidism is much more common in women than men.  - Hyperthyroidism is also more common in people older than age 60 and is often caused by thyroid nodules. Hyperthyroidism in this age group is sometimes misdiagnosed as depression or dementia. For people older than age 60, subclinical hyperthyroidism increases their chance of developing atrial fibrillation.  - Women with hyperthyroidism should discuss their condition with their health care provider before becoming pregnant.  - Hyperthyroidism is treated with medications, radioiodine therapy, or thyroid surgery. No single treatment works for everyone.",
+          "trust_score": 0.9988215527766761
+        },
+        {
+          "question": "What is (are) Hyperthyroidism ?",
+          "text": "Hyperthyroidism is a disorder that occurs when the thyroid gland makes more thyroid hormone than the body needs. Hyperthyroidism is sometimes called thyrotoxicosis, the technical term for too much thyroid hormone in the blood. Thyroid hormones circulate throughout the body in the bloodstream and act on virtually every tissue and cell in the body. Hyperthyroidism causes many of the bodys functions to speed up. About 1 percent of the U.S. population has hyperthyroidism.1",
+          "trust_score": 0.9074385655328436
+        },
+        {
+          "question": "What are the treatments for Hyperthyroidism ?",
+          "text": "Health care providers treat hyperthyroidism with medications, radioiodine therapy, or thyroid surgery. The aim of treatment is to bring thyroid hormone levels to a normal state, thus preventing long-term complications, and to relieve uncomfortable symptoms. No single treatment works for everyone.\n                \nTreatment depends on the cause of hyperthyroidism and how severe it is. When choosing a treatment, health care providers consider a patients age, possible allergies to or side effects of the medications, other conditions such as pregnancy or heart disease, and the availability of an experienced thyroid surgeon.\n                \nFinding the right specialist for treatment is an important first step. Some professional societies, listed under For More Information, and endocrinology departments in local teaching hospitals can provide the names of local specialists.\n                \nMedications\n                \nBeta blockers. Health care providers may prescribe a medication called a beta blocker to reduce symptoms until other treatments take effect. Beta blockers act quickly to relieve many of the symptoms of hyperthyroidism, such as tremors, rapid heartbeat, and nervousness, but do not stop thyroid hormone production. Most people feel better within hours of taking these medications.\n                \nAntithyroid medications. Antithyroid therapy is the easiest way to treat hyperthyroidism. Antithyroid medications interfere with thyroid hormone production but dont usually have permanent results. Antithyroid medications are not used to treat thyroiditis.\n                \nOnce treatment with antithyroid medications begins, thyroid hormone levels may not move into the normal range for several weeks or months. The average treatment time is about 1 to 2 years, but treatment can continue for many years.\n                \nAntithyroid medications can cause side effects in some people, including\n                \n- allergic reactions such as rashes and itching  - a decrease in the number of white blood cells in the body, which can lower resistance to infection  - liver failure, in rare cases\n                \nStop your antithyroid medication and call your health care provider right away if you develop any of the following while taking antithyroid medications:   - fatigue   - weakness   - vague abdominal pain   - loss of appetite   - skin rash or itching   - easy bruising   - yellowing of the skin or whites of the eyes, called jaundice   - persistent sore throat   - fever\n                \nIn the United States, health care providers prescribe the antithyroid medication methimazole (Tapazole, Northyx) for most types of hyperthyroidism.\n                \nAntithyroid medications and pregnancy. Because pregnant and breastfeeding women cannot receive radioiodine therapy, they are usually treated with an antithyroid medication instead. However, experts agree that women in their first trimester of pregnancy should not take methimazole due to the rare occurrence of damage to the fetus. Another antithyroid medication, propylthiouracil (PTU), is available for women in this stage of pregnancy or for women who are allergic to or intolerant of methimazole and have no other treatment options.\n                \nHealth care providers may prescribe PTU for the first trimester of pregnancy and switch to methimazole for the second and third trimesters. Some women are able to stop taking antithyroid medications in the last 4 to 8 weeks of pregnancy due to the remission of hyperthyroidism that occurs during pregnancy. However these women should continue to be monitored for recurrence of thyroid problems following delivery.\n                \nStudies have shown that mothers taking antithyroid medications may safely breastfeed. However, they should take only moderate doses, less than 1020 milligrams daily, of the antithyroid medication methimazole. Doses should be divided and taken after feedings, and the infants should be monitored for side effects.4\n                \nWomen requiring higher doses of the antithyroid medication to control hyperthyroidism should not breastfeed.\n                \nRadioiodine Therapy\n                \nRadioactive iodine-131 is a common and effective treatment for hyperthyroidism. In radioiodine therapy, patients take radioactive iodine-131 by mouth. Because the thyroid gland collects iodine to make thyroid hormone, it will collect the radioactive iodine from the bloodstream in the same way. The radioactive iodine gradually destroys the cells that make up the thyroid gland but does not affect other body tissues.\n                \nMore than one round of radioiodine therapy may be needed to bring thyroid hormone production into the normal range. In the meantime, treatment with beta blockers can control symptoms.\n                \nAlmost everyone who receives radioactive iodine treatment eventually develops hypothyroidism. But health care providers consider this an acceptable outcome because hypothyroidism is easier to treat and has fewer long-term complications than hyperthyroidism. People who develop hypothyroidism must take synthetic thyroid hormone.\n                \nRadioiodine and pregnancy. Although iodine-131 is not known to cause birth defects or infertility, radioiodine therapy is not used in pregnant women or women who are breastfeeding. Radioactive iodine can be harmful to the fetus thyroid and can be passed from mother to child in breast milk. Experts recommend that women wait a year after treatment before becoming pregnant.\n                \nThyroid Surgery\n                \nThe least-used treatment is surgery to remove part or most of the thyroid gland. Sometimes surgery may be used to treat\n                \n- pregnant women who cannot tolerate antithyroid medications  - people with large goiters  - people who have cancerous thyroid nodules, though hyperthyroidism does not cause cancer\n                \nBefore surgery, the health care provider may prescribe antithyroid medications to temporarily bring a patients thyroid hormone levels into the normal range. This presurgical treatment prevents a condition called thyroid storma sudden, severe worsening of symptomsthat can occur when hyperthyroid patients have general anesthesia.\n                \nWhen part of the thyroid is removedas a treatment for toxic nodules, for examplethyroid hormone levels may return to normal. But some surgical patients may still develop hypothyroidism and need to take synthetic thyroxine, a medication that is identical to the hormone, T4, made by the thyroid. If the entire thyroid is removed, lifelong thyroid hormone medication is necessary. After surgery, health care providers will continue to monitor patients thyroid hormone levels.\n                \nAlthough uncommon, certain problems can occur in thyroid surgery. The parathyroid glands can be damaged because they are located very close to the thyroid. These glands help control calcium and phosphorus levels in the body. Damage to the laryngeal nerve, also located close to the thyroid, can lead to voice changes or breathing problems. But when surgery is performed by an experienced surgeon, less than 1 percent of patients have permanent complications.5 People who need help finding a surgeon can contact one of the organizations listed under For More Information.",
+          "trust_score": 0.742147533684617
+        },
+        {
+          "question": "What to do for Graves' Disease ?",
+          "text": "- Graves disease is the most common cause of hyperthyroidism in the United States.  - In Graves disease, the immune system stimulates the thyroid gland to make too much thyroid hormone.  - Common symptoms of hyperthyroidism include nervousness or irritability, fatigue or muscle weakness, heat intolerance, trouble sleeping, hand tremors, rapid and irregular heartbeat, frequent bowel movements or diarrhea, weight loss, and goiter.  - People with Graves disease may also have bulging eyes, a condition called Graves ophthalmopathy (GO).  - Graves disease is most often treated with radioiodine therapy, which gradually destroys the cells that make up the thyroid gland. Anti-thyroid medications and surgery to remove the thyroid are sometimes used.  - The eye problems associated with Graves disease may require separate treatment.  - A pregnant woman who has been treated with surgery or radioactive iodine prior to becoming pregnant should inform her health care provider so her baby can be monitored for thyroid-related problems later in the pregnancy.",
+          "trust_score": 0.07653192364155037
+        }
+      ]
+    }
+  ]
+}

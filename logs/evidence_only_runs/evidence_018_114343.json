@@ -1,0 +1,476 @@
+{
+  "symptoms": [
+    "frequent nosebleeds",
+    "double vision",
+    "easy bleeding"
+  ],
+  "resolved_symptoms": [
+    "double vision",
+    "easy bleeding",
+    "frequent nosebleeds"
+  ],
+  "diseases": [
+    {
+      "disease": "myasthenia gravis",
+      "drugs": [],
+      "treatment_modalities": [
+        "immunosuppressive medicine",
+        "monoclonal antibodies",
+        "anticholinesterase medicine",
+        "plasmapheresis",
+        "thymectomy"
+      ],
+      "citations": [
+        {
+          "symptom": "limb weakness",
+          "pmid": "38494283",
+          "title": "Myasthenia gravis-Pathophysiology, diagnosis, and treatment.",
+          "year": "2024",
+          "confidence": 0.9313,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7735570378656549,
+          "abstract_snippet": "Myasthenia gravis (MG) is an autoimmune disease characterized by dysfunction of the neuromuscular junction resulting in skeletal muscle weakness. It is equally prevalent in males and females, but debuts at a younger age in females and at an older age in males. Ptosis, diplopia, facial bulbar weaknes"
+        },
+        {
+          "symptom": "difficulty swallowing",
+          "pmid": "30497698",
+          "title": "Clinical features of laryngeal myasthenia gravis: A case series.",
+          "year": "2019",
+          "confidence": 0.9288,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.3221822361535027,
+          "abstract_snippet": "Myasthenia gravis (MG) is an autoimmune disease. Dysarthria, dysphagia, and difficulty swallowing as exclusive initial and primary complaints in MG (laryngeal MG) are rare and seldom reported. Here we review and analyze the largest series of laryngeal MG patients. A total of 30 patients with larynge"
+        },
+        {
+          "symptom": "eye muscle weakness",
+          "pmid": "35976295",
+          "title": "Myasthenia gravis in clinical practice.",
+          "year": "2022",
+          "confidence": 0.9196,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8172451029330671,
+          "abstract_snippet": "Myasthenia gravis is largely a treatable disease, but it can result in significant morbidity and even mortality, which can usually be avoided, or at least mitigated, with timely diagnosis and appropriate treatment of the disease. Objective: this review aims to summarize the main practical aspects of"
+        },
+        {
+          "symptom": "speech problems",
+          "pmid": "8059551",
+          "title": "Myasthenia gravis in a young Papuan woman.",
+          "year": "1993",
+          "confidence": 0.909,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7492098617841366,
+          "abstract_snippet": "We report a case of myasthenia gravis in a young Melanesian woman. It is only the second case described from Papua New Guinea and the first in which antibodies to the acetylcholine receptor have been demonstrated. The patient's complaint of occasional dysarthria was initially dismissed as hysterical"
+        },
+        {
+          "symptom": "double vision",
+          "pmid": "38494283",
+          "title": "Myasthenia gravis-Pathophysiology, diagnosis, and treatment.",
+          "year": "2024",
+          "confidence": 0.9083,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7462389301591208,
+          "abstract_snippet": "Myasthenia gravis (MG) is an autoimmune disease characterized by dysfunction of the neuromuscular junction resulting in skeletal muscle weakness. It is equally prevalent in males and females, but debuts at a younger age in females and at an older age in males. Ptosis, diplopia, facial bulbar weaknes"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "myasthenia gravis",
+          "text": "What are the treatments for myasthenia gravis? \n There is no cure for myasthenia gravis, but treatments that can improve muscle weakness and help with symptoms. They include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What is myasthenia gravis? \n Myasthenia gravis, sometimes called MG, is a chronic (long-lasting) disease that causes weakness in your voluntary muscles. The voluntary muscles are the ones that you can control. They include the muscles you use for:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Eye and eyelid movement \n Facial expressions \n Chewing \n Talking \n Swallowing \n Breathing \n Moving your arms and legs",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Myasthenia gravis is a type of autoimmune disease. In autoimmune diseases , your immune system attacks the healthy cells of your organs and tissues by mistake.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What causes myasthenia gravis? \n Myasthenia gravis is caused by an error in how nerve signals are sent to muscles. These signals get blocked at the nerve-muscle junction. This junction is the place where the nerve endings connect with the muscles they control.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Normally, this is how the signals work:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "The signals travel down a nerve that controls movement in the muscle \n The nerve endings release a substance called acetylcholine \n Acetylcholine binds to the muscle tissue at the nerve-muscle junction \n This causes the muscle to contract (move)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/myastheniagravis.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "myasthenia gravis",
+          "text": "What are the treatments for myasthenia gravis? \n There is no cure for myasthenia gravis, but treatments that can improve muscle weakness and help with symptoms. They include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What is myasthenia gravis? \n Myasthenia gravis, sometimes called MG, is a chronic (long-lasting) disease that causes weakness in your voluntary muscles. The voluntary muscles are the ones that you can control. They include the muscles you use for:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Eye and eyelid movement \n Facial expressions \n Chewing \n Talking \n Swallowing \n Breathing \n Moving your arms and legs",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Myasthenia gravis is a type of autoimmune disease. In autoimmune diseases , your immune system attacks the healthy cells of your organs and tissues by mistake.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "What causes myasthenia gravis? \n Myasthenia gravis is caused by an error in how nerve signals are sent to muscles. These signals get blocked at the nerve-muscle junction. This junction is the place where the nerve endings connect with the muscles they control.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "Normally, this is how the signals work:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "myasthenia gravis",
+          "text": "The signals travel down a nerve that controls movement in the muscle \n The nerve endings release a substance called acetylcholine \n Acetylcholine binds to the muscle tissue at the nerve-muscle junction \n This causes the muscle to contract (move)",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "hemophilia",
+      "drugs": [],
+      "treatment_modalities": [
+        "clotting factor replacement"
+      ],
+      "citations": [
+        {
+          "symptom": "skin bruising",
+          "pmid": "41488453",
+          "title": "Post-Infectious Acquired Hemophilia A: A Case Report and Review of the Literature.",
+          "year": "2025",
+          "confidence": 0.9329,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.647754503862414,
+          "abstract_snippet": "A 52-year-old man with no personal or family history of bleeding presented with extensive hematomas and skin bruising following prolonged antibiotic use. Initial laboratory evaluation revealed coagulopathy, with an elevated activated partial thromboplastin time and mild anemia. Mixing studies and fa"
+        },
+        {
+          "symptom": "gum bleeding",
+          "pmid": "32685260",
+          "title": "Evaluation of gum health status in hemophilia patients in Birjand (a case-control study).",
+          "year": "2020",
+          "confidence": 0.9212,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7464914402538562,
+          "abstract_snippet": "Gum bleeding in the absence of trauma or injury in adults with haemophilia is often reported. So hemophilic patients require special care and attention in various dentistry practices. The purpose of this study was to evaluate the gingival health status in patients with hemophilia in Birjand in 2018-"
+        },
+        {
+          "symptom": "muscle bleeding",
+          "pmid": "31437138",
+          "title": "Diagnosis and treatment of hemophilia.",
+          "year": "2019",
+          "confidence": 0.9207,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.5613180072275644,
+          "abstract_snippet": "Hemophilia A and B are inherited bleeding disorders characterized by deficiency or dysfunction of coagulation protein factors VIII and IX, respectively. Recurrent joint and muscle bleeds are the major clinical manifestations. Replacement therapy with clotting factors, either at the time of bleeding"
+        },
+        {
+          "symptom": "bleeding after circumcision",
+          "pmid": "22866674",
+          "title": "Risk of bleeding and inhibitor development after circumcision of previously untreated or minimally treated severe hemophilia A children.",
+          "year": "2012",
+          "confidence": 0.9205,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7240704293137011,
+          "abstract_snippet": "Surgery and intensive factor VIII (FVIII) replacement may be risk factors for development of inhibitors. To evaluate time and rate of inhibitor development postcircumcision over 12-month period, and to assess bleeding of children with severe hemophilia A after low-dose FVIII replacement and local he"
+        },
+        {
+          "symptom": "bleeding after vaccination",
+          "pmid": "39066347",
+          "title": "Acquired Hemophilia A after SARS-CoV-2 Immunization: A Narrative Review of a Rare Side Effect.",
+          "year": "2024",
+          "confidence": 0.9036,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.763592316485365,
+          "abstract_snippet": "Acquired hemophilia A (AHA) is a rare bleeding disorder (1.4 per million inhabitants per year) caused by neutralizing antibodies against factor VIII. Although uncommon, these autoantibodies can cause a high rate of morbidity and mortality. Several conditions are linked with AHA; based on an EACH2 st"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "hemophilia",
+          "text": "What are the treatments for hemophilia? \n The best way to treat hemophilia is to replace the missing clotting factor so that your blood can clot properly. This is usually done by injecting replacement clotting factor into a vein. The replacement clotting factor may be made from donated human blood. Or it may be made in a lab; this kind is called a recombinant clotting factor. \n Replacement clotting factor can help treat a bleeding episode. In more severe cases of hemophilia, you might get the factor on a regular basis to prevent bleeding. You can learn how to inject the factor so that you can do it yourself at home. \n There are other medicines to treat hemophilia. They may work by releasing factor VIII (8) from where it is stored in the body tissues, replacing the function of factor VIII (8), or preventing clots from breaking down. \n If bleeding has damaged your joints, physical therapy may help them function better. \n Good quality medical care from healthcare professionals who know a lot about the disorder can help prevent some serious problems. Often the best choice for care is to visit a hemophilia treatment center (HTC) . \n Centers for Disease Control and Prevention",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What is hemophilia? \n Hemophilia is a rare bleeding disorder in which the blood does not clot properly. This can lead to problems with bleeding too much after an injury or surgery. You can also have sudden bleeding inside your body, such as in your joints, muscles, and organs.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Your blood contains many proteins called clotting factors that can help form clots to stop bleeding. People with hemophilia have low levels of one of these factors, usually either factor VIII (8) or factor IX (9). How severe the hemophilia is depends on the amount of factor in the blood. The lower the amount of the factor, the more likely it is that bleeding could happen and might lead to serious health problems.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What are the types of hemophilia? \n There are several different types of hemophilia. The most common are:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Hemophilia A (classic hemophilia), which is caused by a lack or decrease of clotting factor VIII (8) \n Hemophilia B (Christmas disease), which is caused by a lack or decrease of clotting factor IX (9)",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "What causes hemophilia? \n Most types of hemophilia are inherited. They are caused by change in one of the genes (also called a mutation) that provides instructions for making the clotting factor proteins. The change may mean that the clotting proteins don't work properly or that they are missing altogether. \n These genes are on the X chromosome. You may have one or two X chromosomes:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "People who are born male have one X chromosome (from the mother) and one Y chromosome (from the father). They can get hemophilia if their one X chromosome has the gene change. \n People who are born female have two X chromosomes, one from the father and one from the mother. They usually only get hemophilia if:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        },
+        {
+          "question": "hemophilia",
+          "text": "Both X chromosomes have the gene change OR \n One X chromosome has the gene change and the other X chromosome is missing or inactive.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/hemophilia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "hemophilia",
+          "text": "What are the treatments for hemophilia? \n The best way to treat hemophilia is to replace the missing clotting factor so that your blood can clot properly. This is usually done by injecting replacement clotting factor into a vein. The replacement clotting factor may be made from donated human blood. Or it may be made in a lab; this kind is called a recombinant clotting factor. \n Replacement clotting factor can help treat a bleeding episode. In more severe cases of hemophilia, you might get the factor on a regular basis to prevent bleeding. You can learn how to inject the factor so that you can do it yourself at home. \n There are other medicines to treat hemophilia. They may work by releasing factor VIII (8) from where it is stored in the body tissues, replacing the function of factor VIII (8), or preventing clots from breaking down. \n If bleeding has damaged your joints, physical therapy may help them function better. \n Good quality medical care from healthcare professionals who know a lot about the disorder can help prevent some serious problems. Often the best choice for care is to visit a hemophilia treatment center (HTC) . \n Centers for Disease Control and Prevention",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What is hemophilia? \n Hemophilia is a rare bleeding disorder in which the blood does not clot properly. This can lead to problems with bleeding too much after an injury or surgery. You can also have sudden bleeding inside your body, such as in your joints, muscles, and organs.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Your blood contains many proteins called clotting factors that can help form clots to stop bleeding. People with hemophilia have low levels of one of these factors, usually either factor VIII (8) or factor IX (9). How severe the hemophilia is depends on the amount of factor in the blood. The lower the amount of the factor, the more likely it is that bleeding could happen and might lead to serious health problems.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What are the types of hemophilia? \n There are several different types of hemophilia. The most common are:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Hemophilia A (classic hemophilia), which is caused by a lack or decrease of clotting factor VIII (8) \n Hemophilia B (Christmas disease), which is caused by a lack or decrease of clotting factor IX (9)",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "What causes hemophilia? \n Most types of hemophilia are inherited. They are caused by change in one of the genes (also called a mutation) that provides instructions for making the clotting factor proteins. The change may mean that the clotting proteins don't work properly or that they are missing altogether. \n These genes are on the X chromosome. You may have one or two X chromosomes:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "People who are born male have one X chromosome (from the mother) and one Y chromosome (from the father). They can get hemophilia if their one X chromosome has the gene change. \n People who are born female have two X chromosomes, one from the father and one from the mother. They usually only get hemophilia if:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "hemophilia",
+          "text": "Both X chromosomes have the gene change OR \n One X chromosome has the gene change and the other X chromosome is missing or inactive.",
+          "trust_score": 1.0
+        }
+      ]
+    },
+    {
+      "disease": "aplastic anemia",
+      "drugs": [],
+      "treatment_modalities": [
+        "stem cell transplant",
+        "blood transfusion",
+        "immunosuppressive medicine"
+      ],
+      "citations": [
+        {
+          "symptom": "fatigue",
+          "pmid": "39664132",
+          "title": "Aplastic Anemia: Demographic and Clinical Characteristics in Costa Rica.",
+          "year": "2024",
+          "confidence": 0.936,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.8312137083864021,
+          "abstract_snippet": "Background Aplastic anemia (AA) is a rare and heterogeneous hematological disorder defined as pancytopenia with hypocellular bone marrow in the absence of abnormal infiltration or medullary fibrosis. Various causes of AA have been identified, such as autoimmune factors, bone marrow injuries, viral i"
+        },
+        {
+          "symptom": "easy bruising",
+          "pmid": "39807462",
+          "title": "More Than a Haematoma: A Case of Aplastic Anemia.",
+          "year": "2024",
+          "confidence": 0.9308,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.58372923280488,
+          "abstract_snippet": "Easy bruising and ecchymosis are common symptoms in clinical practice, yet distinguishing benign from clinically significant cases can be challenging. We report the case of a&#xa0;46-year-old woman who presented in December 2023 with easy bruising and increased menstrual flow, revealing new-onset pa"
+        },
+        {
+          "symptom": "weakness",
+          "pmid": "36826612",
+          "title": "STAT1 overexpression triggers aplastic anemia: a pilot study unravelling novel pathogenetic insights in bone marrow failure.",
+          "year": "2023",
+          "confidence": 0.8917,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.869294521879415,
+          "abstract_snippet": "We identified STAT1 gain of function (GOF) in a 32-year-old female with pallor, weakness, cough, and dyspnea admitted to our Division of Medicine. She had severe oral ulcers (OU), type 1 diabetes (T1DM), and pancytopenia. Bone marrow (BM) biopsy showed the absence of erythroid precursors. Peripheral"
+        },
+        {
+          "symptom": "shortness of breath",
+          "pmid": "24520786",
+          "title": "[Analysis of clinical features of traditional Chinese medicine symptoms and syndromes of 220 patients with chronic aplastic anemia].",
+          "year": "2014",
+          "confidence": 0.8832,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.6800814046721289,
+          "abstract_snippet": "To study Chinese medicine (CM) syndrome types of chronic aplastic anemia (CAA) patients and the distribution laws of typical CM symptoms in different genders. From June 2002 to June 2012, 220 CAA outpatients/inpatients at Department of Hematology, Zhejiang Chinese Medical Hospital were recruited. Pa"
+        },
+        {
+          "symptom": "easy bleeding",
+          "pmid": "33982136",
+          "title": "Comparative study of IgG binding to megakaryocytes in immune and myelodysplastic thrombocytopenic patients.",
+          "year": "2021",
+          "confidence": 0.8769,
+          "source_credibility": 0.0014175762585389349,
+          "structural_confidence": 0.7593489296901393,
+          "abstract_snippet": "Immune thrombocytopenia (ITP) is a disorder in which autoantibodies are responsible for destruction and decreased production of platelets. In the meantime, thrombocytopenia is frequent in patients with myelodysplastic syndromes (MDS) and immune clearance of megakaryocytes could be a reason. The aim"
+        }
+      ],
+      "evidence_source": "MedlinePlus_direct",
+      "ranked_evidence": [
+        {
+          "question": "aplastic anemia",
+          "text": "What are the treatments for aplastic anemia? \n If you have aplastic anemia, your doctor will create a treatment plan for you. The plan will be based on how severe the anemia is and what is causing it. Treatments can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What is aplastic anemia? \n Aplastic anemia is a rare but serious blood disorder. If you have it, your bone marrow doesn't make enough new blood cells. It happens when there is damage to stem cells inside your bone marrow. There are different types of aplastic anemia, including Fanconi anemia.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What causes aplastic anemia? \n The causes of aplastic anemia can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "Autoimmune disorders , which are the most common cause \n Certain inherited gene changes, such as the one that can cause Fanconi anemia \n Toxic substances, such as pesticides , arsenic , and benzene \n Radiation therapy and chemotherapy for cancer \n Certain medicines \n Viral infections such as hepatitis , Epstein-Barr virus, or HIV \n Pregnancy",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "In many people, the cause is unknown. This is called idiopathic aplastic anemia.",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What are the symptoms of aplastic anemia? \n Aplastic anemia can develop suddenly or slowly. It can be mild or severe. The symptoms of aplastic anemia can include:",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "Fatigue \n Weakness \n Dizziness \n Shortness of breath \n Easy bruising or bleeding",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What other problems can aplastic anemia cause? \n Aplastic anemia can cause other problems, including frequent infections and bleeding. It raises your risk of developing a serious blood disorder . \n If not treated, aplastic anemia can also lead to heart problems such as an arrhythmia (a problem with the rate or rhythm of your heartbeat), an enlarged heart, or heart failure .",
+          "trust_score": 1.0,
+          "source_url": "https://medlineplus.gov/aplasticanemia.html"
+        }
+      ],
+      "trusted_evidence": [
+        {
+          "question": "aplastic anemia",
+          "text": "What are the treatments for aplastic anemia? \n If you have aplastic anemia, your doctor will create a treatment plan for you. The plan will be based on how severe the anemia is and what is causing it. Treatments can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What is aplastic anemia? \n Aplastic anemia is a rare but serious blood disorder. If you have it, your bone marrow doesn't make enough new blood cells. It happens when there is damage to stem cells inside your bone marrow. There are different types of aplastic anemia, including Fanconi anemia.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What causes aplastic anemia? \n The causes of aplastic anemia can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "Autoimmune disorders , which are the most common cause \n Certain inherited gene changes, such as the one that can cause Fanconi anemia \n Toxic substances, such as pesticides , arsenic , and benzene \n Radiation therapy and chemotherapy for cancer \n Certain medicines \n Viral infections such as hepatitis , Epstein-Barr virus, or HIV \n Pregnancy",
+          "trust_score": 1.0
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "In many people, the cause is unknown. This is called idiopathic aplastic anemia.",
+          "trust_score": 1.0
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What are the symptoms of aplastic anemia? \n Aplastic anemia can develop suddenly or slowly. It can be mild or severe. The symptoms of aplastic anemia can include:",
+          "trust_score": 1.0
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "Fatigue \n Weakness \n Dizziness \n Shortness of breath \n Easy bruising or bleeding",
+          "trust_score": 1.0
+        },
+        {
+          "question": "aplastic anemia",
+          "text": "What other problems can aplastic anemia cause? \n Aplastic anemia can cause other problems, including frequent infections and bleeding. It raises your risk of developing a serious blood disorder . \n If not treated, aplastic anemia can also lead to heart problems such as an arrhythmia (a problem with the rate or rhythm of your heartbeat), an enlarged heart, or heart failure .",
+          "trust_score": 1.0
+        }
+      ]
+    }
+  ]
+}
